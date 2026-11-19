@@ -23,7 +23,7 @@
 | **All videos** | 464 | **122** (2nd) | **18** (6th) | **47.1%** | **2.5%** | **0 of 43** |
 | **Since April 1, 2026** | 202 | **60** (1st) | **13** (7th) | **47.6%** | **2.6%** | **0 of 41** |
 
-<sub>One label per video, the way the creator counts. On his own 60 videos the pipeline counts exactly as many "defending women" videos as he does (8). Agreement with his per-video labels on 30 videos the prompt never saw: <b>25 of 30</b>.</sub>
+<sub>One label per video, the way the creator counts. On his own 60 videos the pipeline counts the same number of "defending women" videos he does (8), and 7 of the 8 are the same videos. Agreement with his per-video labels on 30 held-out videos: <b>25 of 30</b>.</sub>
 
 <br />
 
@@ -64,7 +64,7 @@ An open-source pipeline for answering a simple question about any TikTok creator
 
 The code talks to any **OpenAI-compatible API**. Point it at [OpenRouter](https://openrouter.ai) with one key and every model in [`models.json`](models.json) works.
 
-This repo ships with a complete, real run: **all 464 public videos from TikTok creator Ilyas Abdulin**, every transcript, the exact prompts, and every answer every model gave.
+This repo ships with a complete, real run: **all 464 public videos TikTok creator Ilyas Abdulin posted before his November 10, 2026 self-audit** (461 listed by yt-dlp, plus 3 the listing missed that were recovered by hand from his profile), every transcript, the exact prompts, and every answer every model gave.
 
 ---
 
@@ -88,17 +88,19 @@ So this repo checks it three ways: on **his own 60 videos**, on **all 464 of his
 
 ### In his own example, he's right
 
-| Category | His own labels | This pipeline |
+| Category | His own count | This pipeline |
 | --- | ---: | ---: |
-| Defending men | 23 | 22 |
+| Defending men | 22 | 22 |
 | **Defending women** | **8** | **8** |
-| News | 10 | 8 |
+| News | 7 | 8 |
 | Politics | 7 | 7 |
 | Debates | 5 | 5 |
 | Mixed | 4 | 5 |
 | Miscellaneous | 3 | 5 |
 
-In his last 60 videos, defending women ties for **second**. The pipeline counts exactly as many as he does.
+<sub>His count merges related videos into one: three Cornell case videos count as one, two French riots videos as one, and two videos on the same gender-perception claim as one. That is why it adds up to 56.</sub>
+
+In his count, defending women is clearly **second**; in mine it ties for second with news. Both count 8 videos defending women, and 7 of the 8 are the same videos.
 
 ### Across his channel, it's near the bottom
 
@@ -118,7 +120,7 @@ In his last 60 videos, defending women ties for **second**. The pipeline counts 
 - **Defending women ranks 6th of 7 across all his videos and 7th since April 1.**
 - **He posts about 7 times as many videos defending men** across his channel (122 to 18), and about 5 times as many since April 1 (60 to 13).
 - **Almost half of all his views** go to videos defending men. Videos defending women get **2.5%**.
-- **None of his 43 million-view videos** defends women.
+- **None of his 43 million-view videos** defends women with one label per video. (Counting a video in every category most models list, one does.)
 
 > **Check it yourself:** `python3 src/count.py --since 2025-01-01` prints the all-videos numbers and `python3 src/count.py` the since-April numbers, both from [`results/labels.csv`](results/labels.csv).
 
@@ -126,9 +128,9 @@ In his last 60 videos, defending women ties for **second**. The pipeline counts 
 
 ## Close calls: watch them and decide
 
-The rank of "defending women" depends on judgment calls, and AI models are not the final word. So every video where the five models disagree about whether it defends women is listed in **[`results/close-calls.csv`](results/close-calls.csv)**: **39 videos**, 15 of them since April 1.
+The rank of "defending women" depends on judgment calls, and AI models are not the final word. So **[`results/close-calls.csv`](results/close-calls.csv)** lists every video where at least 2 of the 5 models list "defending women" as their first or second choice, but fewer than 4 pick it first: **39 videos**, 15 of them since April 1.
 
-Each row has the link, the claim he's answering, all five votes, the final label, the referee's reason, and **the second of the video where he makes his point**. Watch them. If you'd count one differently, open an issue with the video id.
+Each row has the link, the claim he's answering, all five votes, the final label, the referee's reason, and **where to watch** (the median of the models' timestamps for where he makes his point). Videos labeled defending women on a 4-of-5 vote are in [`results/labels.csv`](results/labels.csv) with every vote. Watch them. If you'd count one differently, open an issue with the video id.
 
 > `python3 src/close_calls.py` rebuilds the list.
 
@@ -144,7 +146,9 @@ Each row has the link, the claim he's answering, all five votes, the final label
 
 **Direction decides it, not topic.** A video can be entirely about women and still not defend them. In his "Stereotypes About Women" series, a woman often claims women are *better* with money or collaborate better than men, and he fact-checks *her*. That is mixed, not defending women.
 
-This matches his own description in his self-audit, where he says his "claims about women" videos are the ones where he "challenged claims that reflected negatively on women", and it reproduces his own count on his 60 videos exactly. The full rules are in [`prompts/voter.md`](prompts/voter.md).
+This matches how he described his own examples in his self-audit ("I challenged claims that reflected negatively on women"), and on his 60 videos it gives the same count he does. The full rules are in [`prompts/voter.md`](prompts/voter.md).
+
+**The rank moves with the counting rule; the views barely do.** With one label per video, defending women gets 2.5% of his views and none of his million-view videos. Counting a video in every category that at least 3 of the 5 models list, it gets 5.4% of his views, one million-view video, and ranks 4th across his channel (`multi_label_check` in the summary files).
 
 ---
 
@@ -175,7 +179,7 @@ flowchart LR
 
 ## How well it matches the creator
 
-His own labels for his last 60 videos are the answer key ([`data/his-labels.json`](data/his-labels.json), transcribed from the spreadsheet in his video). Before any model ran, those 60 were split at random into two groups of 30 ([`data/split.json`](data/split.json)). The first 30 were used to tune the prompts; the other 30 were scored afterward.
+His own labels for his last 60 videos are the answer key ([`data/his-labels.json`](data/his-labels.json), transcribed from the spreadsheet in his video). Before this run, those 60 were split at random into two groups of 30 ([`data/split.json`](data/split.json)). The first 30 were used to tune the prompts; the other 30 were scored afterward.
 
 | | Tuning 30 | Held-out 30 |
 | --- | ---: | ---: |
@@ -265,7 +269,7 @@ data/
   posts.csv            every public video: id, date, views, likes, caption
   transcripts/         one Whisper transcript per video, with timestamps
   his-labels.json      the creator's own labels for his last 60 videos
-  split.json           the 30 tuning / 30 held-out split, fixed before any model ran
+  split.json           the 30 tuning / 30 held-out split, fixed before this run
 prompts/
   voter.md             the prompt every voter receives
   adjudicator.md       the referee's prompt

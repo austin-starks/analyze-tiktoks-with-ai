@@ -3,7 +3,7 @@
 
 A video is a close call when at least 2 of the 5 voters list "women" as a first or close-second choice, but fewer than
 4 give it as their first choice. Writes results/close-calls.csv with the link, the claim, every vote, the final label,
-the referee's reason and the second of the video where the point is made.
+the referee's reason, and where to watch: the median of the five voters' timestamps (0 when none gave one).
 
   python3 src/close_calls.py
 """
@@ -22,11 +22,14 @@ def main():
         first = sum(r[f"{v}_first"] == "women" for v in voters)
         if listed < 2 or first >= 4:
             continue
+        answers = [json.loads((RESULTS / "voters" / v / f"{r['id']}.json").read_text())["label"] for v in voters]
         adj = RESULTS / "adjudicator" / f"{r['id']}.json"
-        src = json.loads(adj.read_text()) if adj.exists() else json.loads((RESULTS / "voters" / voters[-1] / f"{r['id']}.json").read_text())
-        lab = src["label"]
+        lab = json.loads(adj.read_text())["label"] if adj.exists() else answers[-1]
+        # Where to watch: the median of the five voters' timestamps, ignoring 0 (a model's "no single moment").
+        seconds = sorted(a["evidence_seconds"] for a in answers if a.get("evidence_seconds"))
+        watch_at = seconds[len(seconds) // 2] if seconds else 0
         out.append({"id": r["id"], "date": r["date"], "views": r["views"], "title": p[r["id"]]["description"][:120].replace("\n", " "),
-                    "url": r["url"], "watch_at_seconds": lab.get("evidence_seconds", 0), "claim": lab.get("claim_answered", ""),
+                    "url": r["url"], "watch_at_seconds": watch_at, "claim": lab.get("claim_answered", ""),
                     "final": r["final"], "voters_listing_women": f"{listed} of 5", "voters_first_choice_women": f"{first} of 5",
                     **{v: r[f"{v}_first"] + (f" / {r[f'{v}_second']}" if r[f"{v}_second"] else "") for v in voters},
                     "referee_reason": r["adjudicator_reason"]})
