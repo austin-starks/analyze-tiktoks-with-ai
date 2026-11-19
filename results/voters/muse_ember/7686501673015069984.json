@@ -1,0 +1,19 @@
+{
+ "id": "7686501673015069984",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "mixed",
+  "claim_answered": "Eight men annihilated families and women committed 13 Clancy copycat murders",
+  "evidence_seconds": 143,
+  "reason": "He fact-checks and rejects two opposing claims blaming men and women respectively for family killings"
+ },
+ "usage": {
+  "prompt_tokens": 3529,
+  "completion_tokens": 3066,
+  "cost_usd": null
+ }
+}

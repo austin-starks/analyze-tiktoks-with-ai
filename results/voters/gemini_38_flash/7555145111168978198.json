@@ -1,0 +1,19 @@
+{
+ "id": "7555145111168978198",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "evidence_seconds": 24,
+  "reason": "General dating advice debunking a dating myth that does not attack men or women.",
+  "alternate_category": "none",
+  "claim_answered": "If a guy really likes you he is scared to touch you",
+  "borderline": false,
+  "category": "misc"
+ },
+ "usage": {
+  "prompt_tokens": 3358,
+  "completion_tokens": 1784,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7599259481888869654",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "Men seeking serious relationships should stop looking and build a good life first",
+  "reason": "General dating advice to men; no claim running men or women down. Mild men-directed framing could suggest men.",
+  "evidence_seconds": 16
+ },
+ "usage": {
+  "prompt_tokens": 6503,
+  "completion_tokens": 204,
+  "cost_usd": null
+ }
+}

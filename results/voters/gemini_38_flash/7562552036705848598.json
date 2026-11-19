@@ -1,0 +1,19 @@
+{
+ "id": "7562552036705848598",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "evidence_seconds": 23,
+  "reason": "Gives dating advice responding to a woman's dating anecdote rather than answering an empirical claim.",
+  "category": "misc",
+  "claim_answered": "none",
+  "borderline": true,
+  "alternate_category": "men"
+ },
+ "usage": {
+  "prompt_tokens": 3285,
+  "completion_tokens": 794,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7652431892687441174",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "A copyright claim can make a fact-check disappear",
+  "reason": "Mainly discusses his own takedown, strike, and account risk rather than the original gender claim",
+  "evidence_seconds": 88
+ },
+ "usage": {
+  "prompt_tokens": 3617,
+  "completion_tokens": 559,
+  "cost_usd": null
+ }
+}

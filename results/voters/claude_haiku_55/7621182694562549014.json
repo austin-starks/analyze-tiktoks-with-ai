@@ -1,0 +1,19 @@
+{
+ "id": "7621182694562549014",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Therapist advice to rebuild trust after a spouse's years of cheating is sound",
+  "reason": "Critiques a therapist's advice to a cheated-on husband; general relationship and self-respect advice, not a claim about men or women as groups.",
+  "evidence_seconds": 58
+ },
+ "usage": {
+  "prompt_tokens": 5576,
+  "completion_tokens": 225,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7688424607333764385",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "women",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Women lack empathy; empathy is masculine, while women only have sympathy",
+  "reason": "Counters a claim that portrays women as incapable of empathy.",
+  "evidence_seconds": 23
+ },
+ "usage": {
+  "prompt_tokens": 3787,
+  "completion_tokens": 177,
+  "cost_usd": null
+ }
+}

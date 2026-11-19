@@ -1,0 +1,19 @@
+{
+ "id": "7660833454120045856",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "borderline": false,
+  "evidence_seconds": 64,
+  "claim_answered": "Straight white men cause the most harm and do not deserve empathy",
+  "category": "men",
+  "alternate_category": "none",
+  "reason": "Pushes back against collective guilt and prejudice directed at men."
+ },
+ "usage": {
+  "prompt_tokens": 3802,
+  "completion_tokens": 1000,
+  "cost_usd": null
+ }
+}

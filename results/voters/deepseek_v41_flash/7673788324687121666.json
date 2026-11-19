@@ -1,0 +1,19 @@
+{
+ "id": "7673788324687121666",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "debate",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Hypergamy isn't real / women are not hypergamous — and his shifted outcome-only definition",
+  "reason": "Reply to a creator who answered and criticized his earlier evidence video on hypergamy",
+  "evidence_seconds": 35
+ },
+ "usage": {
+  "prompt_tokens": 6092,
+  "completion_tokens": 465,
+  "cost_usd": null
+ }
+}

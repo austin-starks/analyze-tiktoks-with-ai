@@ -1,0 +1,19 @@
+{
+ "id": "7637518211952528662",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "debate",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "SimpleBlackTheory’s latest response to his earlier video",
+  "reason": "Replies to a creator who criticized and responded to his work.",
+  "evidence_seconds": 64
+ },
+ "usage": {
+  "prompt_tokens": 3810,
+  "completion_tokens": 132,
+  "cost_usd": null
+ }
+}

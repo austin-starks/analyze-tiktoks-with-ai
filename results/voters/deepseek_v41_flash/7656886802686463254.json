@@ -1,0 +1,19 @@
+{
+ "id": "7656886802686463254",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "100% of men accused of rape deny it, so men are always lying",
+  "reason": "Pushes back on a claim that runs men down as universally dishonest, using court plea data.",
+  "evidence_seconds": 122
+ },
+ "usage": {
+  "prompt_tokens": 4075,
+  "completion_tokens": 267,
+  "cost_usd": null
+ }
+}

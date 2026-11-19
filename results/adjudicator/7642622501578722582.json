@@ -1,0 +1,18 @@
+{
+ "id": "7642622501578722582",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "evidence_seconds": 118,
+  "alternate_category": "men",
+  "category": "misc",
+  "claim_answered": "none",
+  "borderline": true,
+  "reason": "Viewer DM seeking family and independence advice; he answers a practical question rather than rebutting a claim about men (Rule 3, misc)."
+ },
+ "usage": {
+  "prompt_tokens": 3326,
+  "completion_tokens": 1375,
+  "cost_usd": null
+ }
+}

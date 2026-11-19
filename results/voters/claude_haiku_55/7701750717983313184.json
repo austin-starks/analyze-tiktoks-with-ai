@@ -1,0 +1,19 @@
+{
+ "id": "7701750717983313184",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "A viral news.com.au video says Chinese women's SWAT team beat American men, showing women's tactical superiority over men",
+  "reason": "Rebuts a viral claim that women beat men via superior technique over brute strength; he shows men's teams outperformed, though he praises the women.",
+  "evidence_seconds": 124
+ },
+ "usage": {
+  "prompt_tokens": 7813,
+  "completion_tokens": 233,
+  "cost_usd": null
+ }
+}

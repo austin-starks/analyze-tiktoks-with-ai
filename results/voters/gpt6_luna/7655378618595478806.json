@@ -1,0 +1,19 @@
+{
+ "id": "7655378618595478806",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Women are naturally unsuited to speak publicly and should have a smaller, quieter role",
+  "reason": "Recounts and counters a claim that women should be excluded from public life; historical narrative makes misc a plausible alternative.",
+  "evidence_seconds": 88
+ },
+ "usage": {
+  "prompt_tokens": 3836,
+  "completion_tokens": 314,
+  "cost_usd": null
+ }
+}

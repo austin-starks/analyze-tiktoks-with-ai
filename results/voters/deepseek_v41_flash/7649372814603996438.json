@@ -1,0 +1,19 @@
+{
+ "id": "7649372814603996438",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Historical explainer on the gap before feminism's first wave; answers no claim about men or women",
+  "evidence_seconds": 34
+ },
+ "usage": {
+  "prompt_tokens": 4151,
+  "completion_tokens": 310,
+  "cost_usd": null
+ }
+}

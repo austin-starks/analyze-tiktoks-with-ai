@@ -1,0 +1,19 @@
+{
+ "id": "7596671213645253910",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "news",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Ne-Yo's poly relationship with three women is based on radical honesty",
+  "reason": "Celebrity story he reports and reacts to; answer targets Ne-Yo, not men or women in general",
+  "evidence_seconds": 88
+ },
+ "usage": {
+  "prompt_tokens": 3970,
+  "completion_tokens": 743,
+  "cost_usd": null
+ }
+}

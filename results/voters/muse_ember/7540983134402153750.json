@@ -1,0 +1,19 @@
+{
+ "id": "7540983134402153750",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "misc",
+  "claim_answered": "none",
+  "evidence_seconds": 0,
+  "reason": "Self-improvement and dating advice for men; answers no claim about men or women"
+ },
+ "usage": {
+  "prompt_tokens": 3026,
+  "completion_tokens": 1510,
+  "cost_usd": null
+ }
+}

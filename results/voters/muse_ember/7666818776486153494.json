@@ -1,0 +1,19 @@
+{
+ "id": "7666818776486153494",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "mixed",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "Only men hunted, only women gathered, invented by men in 1966",
+  "evidence_seconds": 25,
+  "reason": "Pushes back on claim blaming male researchers for inventing sexist myth, defending men"
+ },
+ "usage": {
+  "prompt_tokens": 3996,
+  "completion_tokens": 4366,
+  "cost_usd": null
+ }
+}

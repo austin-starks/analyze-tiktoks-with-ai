@@ -1,0 +1,19 @@
+{
+ "id": "7577335530967420182",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Men have no excuse for not showing up; men should sack up and emotionally regulate",
+  "reason": "Rebuts a woman's claim that men are failing and need to \"be a man\"; defends men by noting men carry similar burdens. Could be read as response to a woman venting.",
+  "evidence_seconds": 22
+ },
+ "usage": {
+  "prompt_tokens": 5352,
+  "completion_tokens": 231,
+  "cost_usd": null
+ }
+}

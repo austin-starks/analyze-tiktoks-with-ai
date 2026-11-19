@@ -1,0 +1,19 @@
+{
+ "id": "7580019788265704726",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "misc",
+  "borderline": true,
+  "category": "news",
+  "claim_answered": "Akash Singh's wife is innocent",
+  "evidence_seconds": 4,
+  "reason": "Coverage of viral celebrity story and Flagrant podcast reaction, not a general claim about men or women"
+ },
+ "usage": {
+  "prompt_tokens": 3200,
+  "completion_tokens": 8652,
+  "cost_usd": null
+ }
+}

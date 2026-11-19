@@ -1,0 +1,19 @@
+{
+ "id": "7641226873623596310",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Viewer relationship advice about handling a girlfriend’s disagreement; no claim about men or women is substantively answered.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 3402,
+  "completion_tokens": 270,
+  "cost_usd": null
+ }
+}

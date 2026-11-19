@@ -1,0 +1,19 @@
+{
+ "id": "7551838052960701718",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "misc",
+  "claim_answered": "none",
+  "evidence_seconds": 0,
+  "reason": "Dating advice for nervous first dates; answers no claim about men or women"
+ },
+ "usage": {
+  "prompt_tokens": 2924,
+  "completion_tokens": 752,
+  "cost_usd": null
+ }
+}

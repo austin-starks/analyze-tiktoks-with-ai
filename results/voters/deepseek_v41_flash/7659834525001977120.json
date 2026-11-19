@@ -1,0 +1,19 @@
+{
+ "id": "7659834525001977120",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "mixed",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "Hating men perpetuates misogyny via low expectations for men and higher expectations for women",
+  "reason": "Runs her chain in reverse, showing it loops between misogyny and misandry; the claim and his answer cover both sexes.",
+  "evidence_seconds": 19
+ },
+ "usage": {
+  "prompt_tokens": 3892,
+  "completion_tokens": 1010,
+  "cost_usd": null
+ }
+}

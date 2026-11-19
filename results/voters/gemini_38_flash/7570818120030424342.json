@@ -1,0 +1,19 @@
+{
+ "id": "7570818120030424342",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "men",
+  "evidence_seconds": 27,
+  "reason": "Pushes back on extravagant and unfair financial relationship demands placed on men.",
+  "borderline": true,
+  "claim_answered": "A yacht, 20k a month, and luxury assets are the bare minimum for men to provide",
+  "alternate_category": "misc"
+ },
+ "usage": {
+  "prompt_tokens": 4118,
+  "completion_tokens": 944,
+  "cost_usd": null
+ }
+}

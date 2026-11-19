@@ -1,0 +1,19 @@
+{
+ "id": "7585540965696392470",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "none",
+  "reason": "Relationship advice about girls' nights; he makes his own argument rather than rebutting a claim about a sex.",
+  "evidence_seconds": 20
+ },
+ "usage": {
+  "prompt_tokens": 3671,
+  "completion_tokens": 362,
+  "cost_usd": null
+ }
+}

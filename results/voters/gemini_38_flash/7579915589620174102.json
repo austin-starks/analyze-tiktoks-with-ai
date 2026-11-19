@@ -1,0 +1,19 @@
+{
+ "id": "7579915589620174102",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "evidence_seconds": 0,
+  "borderline": true,
+  "claim_answered": "none",
+  "reason": "Relationship and self-improvement advice for men reacting to a therapy clip; answers no general factual claim.",
+  "category": "misc",
+  "alternate_category": "men"
+ },
+ "usage": {
+  "prompt_tokens": 3806,
+  "completion_tokens": 1280,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7609645328962161942",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Women don't choose bad men; men hide who they are until comfortable",
+  "reason": "The claim runs men down as deceivers and excuses women's choices; he answers with accountability, though he says it applies to both sexes.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 3322,
+  "completion_tokens": 442,
+  "cost_usd": null
+ }
+}

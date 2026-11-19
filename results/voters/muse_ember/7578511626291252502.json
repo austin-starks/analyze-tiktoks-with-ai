@@ -1,0 +1,19 @@
+{
+ "id": "7578511626291252502",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "men",
+  "claim_answered": "Men are useless except for trash day",
+  "evidence_seconds": 38,
+  "reason": "Pushes back on female comedians' claim that men and husbands are useless"
+ },
+ "usage": {
+  "prompt_tokens": 3133,
+  "completion_tokens": 3281,
+  "cost_usd": null
+ }
+}

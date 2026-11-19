@@ -1,0 +1,19 @@
+{
+ "id": "7642336810609233174",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "evidence_seconds": 147,
+  "alternate_category": "none",
+  "category": "men",
+  "borderline": false,
+  "reason": "Pushes back on a mischaracterized study statistic that paints men in a negative light.",
+  "claim_answered": "5 in 10 men badgered a woman until she changed her answer"
+ },
+ "usage": {
+  "prompt_tokens": 5008,
+  "completion_tokens": 601,
+  "cost_usd": null
+ }
+}

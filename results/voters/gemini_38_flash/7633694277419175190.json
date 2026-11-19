@@ -1,0 +1,19 @@
+{
+ "id": "7633694277419175190",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "claim_answered": "Being gay is not normal or natural",
+  "category": "misc",
+  "reason": "Answers a subscriber Q&A with a personal story about homosexuality rather than a claim about men or women.",
+  "borderline": true,
+  "alternate_category": "politics",
+  "evidence_seconds": 40
+ },
+ "usage": {
+  "prompt_tokens": 3777,
+  "completion_tokens": 1043,
+  "cost_usd": null
+ }
+}

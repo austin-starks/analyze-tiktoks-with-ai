@@ -1,0 +1,19 @@
+{
+ "id": "7572656853042072854",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "misc",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "Dating apps are easy for men",
+  "evidence_seconds": 26,
+  "reason": "He rebuts easy-dating claim, saying average men are constantly rejected and invisible"
+ },
+ "usage": {
+  "prompt_tokens": 3525,
+  "completion_tokens": 5875,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7648217974209400086",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "evidence_seconds": 20,
+  "borderline": false,
+  "claim_answered": "none",
+  "reason": "General dating advice answering a viewer DM about finding out if a girl likes you.",
+  "category": "misc",
+  "alternate_category": "none"
+ },
+ "usage": {
+  "prompt_tokens": 3600,
+  "completion_tokens": 440,
+  "cost_usd": null
+ }
+}

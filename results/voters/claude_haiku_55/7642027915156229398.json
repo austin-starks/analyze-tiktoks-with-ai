@@ -1,0 +1,19 @@
+{
+ "id": "7642027915156229398",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "debate",
+  "claim_answered": "none",
+  "reason": "Channel-update style thank-you video reading viewer messages; answers no claim about men or women. Only passing mention of hatred toward men.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 6066,
+  "completion_tokens": 196,
+  "cost_usd": null
+ }
+}

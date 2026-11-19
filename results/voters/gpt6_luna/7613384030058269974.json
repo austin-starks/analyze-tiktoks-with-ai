@@ -1,0 +1,19 @@
+{
+ "id": "7613384030058269974",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "women",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Women are more evolved and not biologically wired to obsess over men, while men are biologically driven to obsess over women.",
+  "reason": "Pushes back on a claim that portrays women as biologically detached and morally superior to men.",
+  "evidence_seconds": 31
+ },
+ "usage": {
+  "prompt_tokens": 3627,
+  "completion_tokens": 83,
+  "cost_usd": null
+ }
+}

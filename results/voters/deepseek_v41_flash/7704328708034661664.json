@@ -1,0 +1,19 @@
+{
+ "id": "7704328708034661664",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "debate",
+  "claim_answered": "GoodTrouble's insults and misrepresentation of his feminist video, and who reported it",
+  "reason": "Mainly about his own video's disqualification and appeal, a strike/account update, so misc despite naming another creator.",
+  "evidence_seconds": 27
+ },
+ "usage": {
+  "prompt_tokens": 4336,
+  "completion_tokens": 242,
+  "cost_usd": null
+ }
+}

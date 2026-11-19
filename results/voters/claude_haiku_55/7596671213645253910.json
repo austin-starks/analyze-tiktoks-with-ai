@@ -1,0 +1,19 @@
+{
+ "id": "7596671213645253910",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "Ne-Yo's polyamorous relationship is 'radical honesty'",
+  "reason": "Mainly comments on a celebrity's polyamorous relationship and gives general dating advice; no clear claim about men or women in general.",
+  "evidence_seconds": 21
+ },
+ "usage": {
+  "prompt_tokens": 5651,
+  "completion_tokens": 218,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7599940000641355031",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "mixed",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men cheat physically more, while women cheat emotionally more",
+  "reason": "Directly compares cheating patterns across both sexes and concludes overall rates are similar",
+  "evidence_seconds": 135
+ },
+ "usage": {
+  "prompt_tokens": 3344,
+  "completion_tokens": 205,
+  "cost_usd": null
+ }
+}

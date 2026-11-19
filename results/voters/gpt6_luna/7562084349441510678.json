@@ -1,0 +1,19 @@
+{
+ "id": "7562084349441510678",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "If you won’t do it, another man will, so you should behave and act right",
+  "reason": "Reframes the threat that a man is replaceable as a red flag and tells men they need not tolerate it.",
+  "evidence_seconds": 22
+ },
+ "usage": {
+  "prompt_tokens": 3037,
+  "completion_tokens": 543,
+  "cost_usd": null
+ }
+}

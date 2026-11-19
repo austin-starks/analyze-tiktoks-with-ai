@@ -1,0 +1,19 @@
+{
+ "id": "7559886329429953814",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "Adult-content collaborations don’t count as losing virginity because they’re work",
+  "reason": "He reacts to an individual dating claim and gives advice; his broader criticism of women makes women a plausible alternative.",
+  "evidence_seconds": 25
+ },
+ "usage": {
+  "prompt_tokens": 2943,
+  "completion_tokens": 995,
+  "cost_usd": null
+ }
+}

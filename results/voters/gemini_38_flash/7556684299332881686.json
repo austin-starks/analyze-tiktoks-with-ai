@@ -1,0 +1,19 @@
+{
+ "id": "7556684299332881686",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "alternate_category": "men",
+  "claim_answered": "none",
+  "category": "misc",
+  "reason": "Gives general dating and relationship advice to men rather than answering an empirical claim about a sex",
+  "borderline": true,
+  "evidence_seconds": 14
+ },
+ "usage": {
+  "prompt_tokens": 3253,
+  "completion_tokens": 1178,
+  "cost_usd": null
+ }
+}

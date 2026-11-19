@@ -1,0 +1,19 @@
+{
+ "id": "7579915589620174102",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "A husband is lazy and worthless and does nothing, and he should just stay and fix it in therapy",
+  "reason": "Rebuts a claim running a man down and blaming him, siding with the husband against the wife and therapist",
+  "evidence_seconds": 53
+ },
+ "usage": {
+  "prompt_tokens": 3922,
+  "completion_tokens": 403,
+  "cost_usd": null
+ }
+}

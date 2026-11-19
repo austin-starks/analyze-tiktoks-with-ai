@@ -1,0 +1,19 @@
+{
+ "id": "7587384055411248406",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Women in unfulfilling relationships should frame unmet needs as love and stay",
+  "reason": "Rejects a viral woman's framing as tragic love, but also addresses men’s analogous claim about wanting other partners.",
+  "evidence_seconds": 26
+ },
+ "usage": {
+  "prompt_tokens": 3175,
+  "completion_tokens": 77,
+  "cost_usd": null
+ }
+}

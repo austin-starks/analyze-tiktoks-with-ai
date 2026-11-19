@@ -1,0 +1,19 @@
+{
+ "id": "7565468467059510550",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "Men want a model, maid, mother and therapist all in one; wanting femininity or loyalty is controlling",
+  "reason": "Pushes back on a claim that men are demanding and unfairly labeled, defending men's relationship expectations against women's criticism",
+  "evidence_seconds": 12
+ },
+ "usage": {
+  "prompt_tokens": 4904,
+  "completion_tokens": 224,
+  "cost_usd": null
+ }
+}

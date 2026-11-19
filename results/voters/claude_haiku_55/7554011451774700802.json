@@ -1,0 +1,19 @@
+{
+ "id": "7554011451774700802",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "Women ignore 80% of men; top 20% of men get endless options while others go unnoticed",
+  "reason": "Opens with a woman's rant, then gives men dating-growth advice; the \"80% of women chase 20% of men\" framing answers no claim defending men, so it reads as dating advice.",
+  "evidence_seconds": 39
+ },
+ "usage": {
+  "prompt_tokens": 5094,
+  "completion_tokens": 238,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7670850439490931990",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "debate",
+  "borderline": false,
+  "alternate_category": "women",
+  "claim_answered": "Simple Black Theory's claim about who commits the most violent crime, plus his fans' criticism of him",
+  "reason": "Reacts to creator SBT's claims and fact-checks his rebuttal of the earlier video; the main thrust is answering a creator who criticized him, which beats race and sex categories.",
+  "evidence_seconds": 55
+ },
+ "usage": {
+  "prompt_tokens": 5909,
+  "completion_tokens": 243,
+  "cost_usd": null
+ }
+}

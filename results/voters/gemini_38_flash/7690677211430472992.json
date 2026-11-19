@@ -1,0 +1,19 @@
+{
+ "id": "7690677211430472992",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "politics",
+  "evidence_seconds": 27,
+  "alternate_category": "news",
+  "claim_answered": "Noah's Ark has been 100% confirmed discovered in Turkey",
+  "borderline": true,
+  "reason": "Religious claims and discoveries fall under politics even when reported as breaking news."
+ },
+ "usage": {
+  "prompt_tokens": 4039,
+  "completion_tokens": 626,
+  "cost_usd": null
+ }
+}

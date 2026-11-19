@@ -1,0 +1,19 @@
+{
+ "id": "7585192383201971458",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "misc",
+  "borderline": true,
+  "category": "mixed",
+  "claim_answered": "Loyal people stay loyal regardless of environment",
+  "evidence_seconds": 0,
+  "reason": "Answers a loyalty claim about both sexes without blaming either; environment affects men and women"
+ },
+ "usage": {
+  "prompt_tokens": 3287,
+  "completion_tokens": 6447,
+  "cost_usd": null
+ }
+}

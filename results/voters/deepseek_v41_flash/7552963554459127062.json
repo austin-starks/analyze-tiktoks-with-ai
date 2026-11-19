@@ -1,0 +1,19 @@
+{
+ "id": "7552963554459127062",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "General dating advice about when to kiss on a first date; answers no claim about men or women.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 3134,
+  "completion_tokens": 155,
+  "cost_usd": null
+ }
+}

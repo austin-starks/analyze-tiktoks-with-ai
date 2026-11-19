@@ -1,0 +1,19 @@
+{
+ "id": "7685377332705529110",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "women",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Hiring discrimination is against men, not women",
+  "reason": "Pushes back on a claim that denies or downplays women's hiring disadvantage.",
+  "evidence_seconds": 16
+ },
+ "usage": {
+  "prompt_tokens": 3531,
+  "completion_tokens": 170,
+  "cost_usd": null
+ }
+}

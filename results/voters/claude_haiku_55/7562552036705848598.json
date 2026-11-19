@@ -1,0 +1,19 @@
+{
+ "id": "7562552036705848598",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Women who ask about feminism and male privilege on dates are buzzkills; a man who engages is the problem",
+  "reason": "Dating-advice framing, but it runs down feminist women as buzzkills and blames women for dating trouble; not a rebuttal of a specific claim.",
+  "evidence_seconds": 34
+ },
+ "usage": {
+  "prompt_tokens": 4951,
+  "completion_tokens": 233,
+  "cost_usd": null
+ }
+}

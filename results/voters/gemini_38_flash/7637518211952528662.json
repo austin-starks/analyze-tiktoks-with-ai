@@ -1,0 +1,19 @@
+{
+ "id": "7637518211952528662",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "alternate_category": "none",
+  "category": "debate",
+  "claim_answered": "SimpleBlackTheory's claim that pregnancy is more dangerous than policing",
+  "reason": "Direct reply to another creator who responded to and criticized his earlier video.",
+  "evidence_seconds": 64,
+  "borderline": false
+ },
+ "usage": {
+  "prompt_tokens": 4084,
+  "completion_tokens": 659,
+  "cost_usd": null
+ }
+}

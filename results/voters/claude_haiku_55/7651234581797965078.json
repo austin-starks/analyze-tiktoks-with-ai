@@ -1,0 +1,19 @@
+{
+ "id": "7651234581797965078",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Men survive plane crashes more because they claw and trample others to reach exits",
+  "reason": "Rebuts a claim that runs men down as selfish; concedes the survival gap but rejects the blame.",
+  "evidence_seconds": 94
+ },
+ "usage": {
+  "prompt_tokens": 5926,
+  "completion_tokens": 209,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7582538960472263958",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men make women voiceless, unsafe, and unfree; men-hating content gives men a taste of women's lives.",
+  "reason": "Pushes back on a claim blaming men for women's oppression and portraying men as predators.",
+  "evidence_seconds": 32
+ },
+ "usage": {
+  "prompt_tokens": 3342,
+  "completion_tokens": 304,
+  "cost_usd": null
+ }
+}

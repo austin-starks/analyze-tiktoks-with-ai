@@ -1,0 +1,19 @@
+{
+ "id": "7549233282337049879",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "claim_answered": "none",
+  "category": "misc",
+  "reason": "Relationship advice and reaction to a Reddit story without answering a general claim about either sex",
+  "alternate_category": "none",
+  "evidence_seconds": 155,
+  "borderline": false
+ },
+ "usage": {
+  "prompt_tokens": 3956,
+  "completion_tokens": 382,
+  "cost_usd": null
+ }
+}

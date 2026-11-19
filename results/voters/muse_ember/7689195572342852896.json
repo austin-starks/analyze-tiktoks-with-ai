@@ -1,0 +1,19 @@
+{
+ "id": "7689195572342852896",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "news",
+  "claim_answered": "Converse intentionally published a racist KKK lynching image",
+  "evidence_seconds": 30,
+  "reason": "He traces and explains the viral Converse ad controversy and argues no evidence of deliberate racism"
+ },
+ "usage": {
+  "prompt_tokens": 3617,
+  "completion_tokens": 2343,
+  "cost_usd": null
+ }
+}

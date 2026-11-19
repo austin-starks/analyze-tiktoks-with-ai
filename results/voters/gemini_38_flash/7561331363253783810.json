@@ -1,0 +1,19 @@
+{
+ "id": "7561331363253783810",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "borderline": true,
+  "reason": "Pushes back on a claim favoring attractive women without attacking either sex, noting loyalty depends on character.",
+  "alternate_category": "misc",
+  "evidence_seconds": 32,
+  "category": "mixed",
+  "claim_answered": "The hotter the girl, the more loyal she is"
+ },
+ "usage": {
+  "prompt_tokens": 3199,
+  "completion_tokens": 4272,
+  "cost_usd": null
+ }
+}

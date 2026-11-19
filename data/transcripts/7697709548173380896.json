@@ -1,0 +1,486 @@
+{
+ "text": "Women are not bad drivers, but yes they are. Women have two times less crash deaths per capita, but woman might drive less. Women have two times less crash deaths per mile traveled for young drivers, one and a half times for all, but woman might crash and no die. Women still crash less, but safe driver not same as skilled driver. Crashing and dying does not seem skilled, but me no bad woman driver. Insurance bets on data that women are less bad. Women are better drivers than men. Okay, so this guy starts with women are not bad drivers and ends with women are better drivers than men. And in between, he shows some statistics. Let's check if the data actually supports his claim. First, he shows that women have around two times fewer car crashes death per 100,000 drivers. That is almost correct. The numbers are real, but they actually measure passenger vehicle occupant death per 100,000 people, not licensed drivers. So they include passengers as well. But per capita data is not necessarily the most relevant metric here. If we want to compare driving safety, we should primarily look at data per mile driven. And to be fair to this guy, he does show it in the next two slides. Now, before we go into the numbers, someone may ask, why instead of looking at per capita statistics, do we need to look at miles driven? Let me give you an example. It's a bit exaggerated, but it should make the point clearer. Imagine you want to figure out which of two groups of runners has a higher risk of injuries. To do that, you want to check how many injuries they have. The problem is that the first group runs only 10 kilometers daily, while the other group prepares for marathons and runs 20, 30, and even 42 kilometers daily. Would it be fair to simply look at injuries per person? No, that would be quite misleading, because the second group runs way more and hence has much higher exposure to potential injuries. So to control for that, it is much better to look at injuries per distance run. The same principle works here. Men drive more miles on average, hence to account for that, we should also look at the data per mile driven. Back to the numbers. First, he shows that younger men have around 2.1 times the fatal crash involvement rate of younger women per mile driven, and men overall have it around 1.5 times as high. Again, fair enough. But two remarks here. First, his source is wrong, or to be more precise, the year he's attributing these numbers to is wrong. He reports that he took them from 2024 US Department of Transportation data, but I'm almost sure he took them from the Insurance Institute for Highway Safety, or IIHS, and its report Fatality Fact 2024. And while the report is titled 2024, these particular numbers are actually from 2022. IIHS specifically says that it calculated them using the 2022 Fatality Analysis Reporting System, or FARS, and the National Household Travel Survey, or NHTS. Second, on his slide about younger drivers, he shows 7.4 for men and 3.1 for women, and says that 1 is 2.1 times higher, but 7.4 divided by 3.1 is 2.4, not 2.1. As an Asian to an Asian, come on man, you can do better. But if I'm being fair, I think what happened is that he mistyped the number for women, because according to the original data, it should be approximately 3.5, not 3.1, and then the 2.1 ratio is correct. So I'm just playing with him a little here. So far so good. But then he really goes into murky territory. The question is, fine, it does seem that men are overrepresented in fatal crashes, even per mile driven. But what about non-fatal crashes? And by the way, those are like 99% of all crashes. Here he only shows data for property damage-only crashes, and notice that he only reported per 100,000 licensed drivers. But what about per mile driven? Again, we talked earlier about how reporting per capita can be misleading, and that we need to look at miles driven. But he simply doesn't show it. You may ask, why? Maybe because if he did, those numbers wouldn't support the message he's trying so hard to spread? Maybe. There could also be another explanation, though. Getting those numbers is not that easy. But that is even worse then. Instead of trying to figure out the truth, doing more proper research, and finding the missing data, you decided to be lazy and just report the data that fits your narrative. And now I'm not playing. As an Asian to an Asian, I am disappointed. So let's do what this guy didn't do and find the missing data. Non-fatal crash involvement per mile driven for men and women. To be as consistent as possible with the previous statistics, I will follow a similar approach to IIHS, using the same year, and focusing on passenger vehicles. IIHS already reported that men drove approximately 1.1 trillion miles, while women drove 738 billion miles in 2022. But to be finicky here, I want to check how they got those numbers. For that, I go to NHTS, pick the year 2022, select annual vehicle miles of travel as the analysis variable, and respondent sex as the raw variable. Click submit, and voila, I get a spreadsheet with the numbers. You may notice some very slight differences compared with the IIHS figures, possibly because of differences in filtering or processing the survey data. But for our purposes, this is negligible, and we will use the published IIHS mileage estimates. Now we need the number of non-fatal crashes for men and women. For that, I go to the Fatality and Injury Reporting System tool, or FIRST, which allows you to construct customized queries from the FARS and Crash Report Sampling System, or CRSS. I choose drivers, then all drivers involved in motor vehicle crashes, year 2022, sex, male and female. And to be consistent with IIHS, I select drivers aged 16 and older and restrict the vehicles to passenger cars and light trucks, including SUVs, pickups, and vans. Then in the table, I choose year for rows and sex for columns, and click submit. Here's the table that we get. You can see that the fatal crash numbers are extremely close to what IIHS reported, around 31,000 for men and around 14,000 for women. But now we also have estimated numbers of drivers involved in injury-only crashes and property damage-only crashes. And if we divide those numbers by the estimated miles driven, we get something quite interesting. Women have higher estimated crash involvement rates per mile in both non-fatal categories. For injury crashes, we get approximately 123 involvements per 100 million miles for men and 153 for women. For property and damage-only crashes, it is approximately 304 for men and 357 for women. And most importantly, when we combine all crashes, fatal and non-fatal, women still show a higher estimated number per mile traveled. Approximately 429 crash involvements per 100 million miles for men compared with 512 for women. That's around 19% higher for women. Now, wait a minute. So am I trying to say that women are worse driver than men? No, I'm not trying to say that, because I don't think we can simply say who is the better or worse driver, men or women. The question is very nuanced and depends a lot on the criteria. But I also don't like when people spread their agenda while misrepresenting the data or leaving out important parts of it. Now, the video is already quite long, but let me quickly address the insurance and skill parts. First, insurance. The guy later argues that women are better drivers because insurance companies charge men more. But insurance companies aren't necessarily measuring driving skill. They are generally estimating financial risk. And one factor influencing that risk is how many miles someone drives. Since men drive more on average, that alone can contribute to higher expected accident costs, even without any difference in driving ability per mile. Of course, insurance prices depend on other factors too. And I'm not claiming that mileage necessarily explains the entire difference between men and women. But insurance premiums don't independently prove that women are better drivers. Now, the skill part. He essentially says that crashing and dying doesn't seem very skilled. Well, first of all, being involved in a crash doesn't necessarily mean that you caused it. And dying in a crash doesn't necessarily mean that you were driving badly. But we just looked at the data, and our estimates suggest that overall crash involvement per mile is higher for women, while failed crash involvement per mile is higher for men. So even by his metric, the picture is mixed. From my perspective, to say who is more skilled would depend on how we define skill. Are we talking about the ability to control a vehicle, following traffic rules, avoiding risky situations, or simply getting from point A to point B without an accident? Or are we talking about knowing how to Tokyo Drift and being able to compete in Formula 1 or NASCAR? Because those are not necessarily the same things. And before we actually define what we mean by skill, I don't think there's much point in arguing about who is more skilled at driving.",
+ "duration": 425.239990234375,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.880000114440918,
+   "text": " Women are not bad drivers, but yes they are. Women have two times less crash deaths per capita,"
+  },
+  {
+   "start": 4.880000114440918,
+   "end": 8.880000114440918,
+   "text": " but woman might drive less. Women have two times less crash deaths per mile traveled for young"
+  },
+  {
+   "start": 8.880000114440918,
+   "end": 13.199999809265137,
+   "text": " drivers, one and a half times for all, but woman might crash and no die. Women still crash less,"
+  },
+  {
+   "start": 13.199999809265137,
+   "end": 16.8799991607666,
+   "text": " but safe driver not same as skilled driver. Crashing and dying does not seem skilled,"
+  },
+  {
+   "start": 16.8799991607666,
+   "end": 21.84000015258789,
+   "text": " but me no bad woman driver. Insurance bets on data that women are less bad. Women are"
+  },
+  {
+   "start": 21.84000015258789,
+   "end": 26.479999542236328,
+   "text": " better drivers than men. Okay, so this guy starts with women are not bad drivers and ends with"
+  },
+  {
+   "start": 26.479999542236328,
+   "end": 30.239999771118164,
+   "text": " women are better drivers than men. And in between, he shows some statistics. Let's check"
+  },
+  {
+   "start": 30.239999771118164,
+   "end": 34.79999923706055,
+   "text": " if the data actually supports his claim. First, he shows that women have around two times fewer"
+  },
+  {
+   "start": 34.79999923706055,
+   "end": 39.439998626708984,
+   "text": " car crashes death per 100,000 drivers. That is almost correct. The numbers are real, but they"
+  },
+  {
+   "start": 39.439998626708984,
+   "end": 44.560001373291016,
+   "text": " actually measure passenger vehicle occupant death per 100,000 people, not licensed drivers. So they"
+  },
+  {
+   "start": 44.560001373291016,
+   "end": 49.20000076293945,
+   "text": " include passengers as well. But per capita data is not necessarily the most relevant metric here."
+  },
+  {
+   "start": 49.20000076293945,
+   "end": 53.68000030517578,
+   "text": " If we want to compare driving safety, we should primarily look at data per mile driven. And to"
+  },
+  {
+   "start": 53.68000030517578,
+   "end": 57.599998474121094,
+   "text": " be fair to this guy, he does show it in the next two slides. Now, before we go into the numbers,"
+  },
+  {
+   "start": 57.599998474121094,
+   "end": 61.68000030517578,
+   "text": " someone may ask, why instead of looking at per capita statistics, do we need to look at miles"
+  },
+  {
+   "start": 61.68000030517578,
+   "end": 65.5199966430664,
+   "text": " driven? Let me give you an example. It's a bit exaggerated, but it should make the point clearer."
+  },
+  {
+   "start": 65.5199966430664,
+   "end": 69.91999816894531,
+   "text": " Imagine you want to figure out which of two groups of runners has a higher risk of injuries. To do"
+  },
+  {
+   "start": 69.91999816894531,
+   "end": 73.83999633789062,
+   "text": " that, you want to check how many injuries they have. The problem is that the first group runs"
+  },
+  {
+   "start": 73.83999633789062,
+   "end": 78.16000366210938,
+   "text": " only 10 kilometers daily, while the other group prepares for marathons and runs 20, 30, and even"
+  },
+  {
+   "start": 78.16000366210938,
+   "end": 82.63999938964844,
+   "text": " 42 kilometers daily. Would it be fair to simply look at injuries per person? No, that would be"
+  },
+  {
+   "start": 82.63999938964844,
+   "end": 86.87999725341797,
+   "text": " quite misleading, because the second group runs way more and hence has much higher exposure to"
+  },
+  {
+   "start": 86.87999725341797,
+   "end": 91.27999877929688,
+   "text": " potential injuries. So to control for that, it is much better to look at injuries per distance run."
+  },
+  {
+   "start": 91.27999877929688,
+   "end": 95.76000213623047,
+   "text": " The same principle works here. Men drive more miles on average, hence to account for that,"
+  },
+  {
+   "start": 95.76000213623047,
+   "end": 100.08000183105469,
+   "text": " we should also look at the data per mile driven. Back to the numbers. First, he shows that younger"
+  },
+  {
+   "start": 100.08000183105469,
+   "end": 104.55999755859375,
+   "text": " men have around 2.1 times the fatal crash involvement rate of younger women per mile driven,"
+  },
+  {
+   "start": 104.55999755859375,
+   "end": 109.04000091552734,
+   "text": " and men overall have it around 1.5 times as high. Again, fair enough. But two remarks here. First,"
+  },
+  {
+   "start": 109.04000091552734,
+   "end": 113.19999694824219,
+   "text": " his source is wrong, or to be more precise, the year he's attributing these numbers to is wrong."
+  },
+  {
+   "start": 113.19999694824219,
+   "end": 117.5999984741211,
+   "text": " He reports that he took them from 2024 US Department of Transportation data, but I'm almost"
+  },
+  {
+   "start": 117.5999984741211,
+   "end": 123.12000274658203,
+   "text": " sure he took them from the Insurance Institute for Highway Safety, or IIHS, and its report Fatality"
+  },
+  {
+   "start": 123.12000274658203,
+   "end": 128.47999572753906,
+   "text": " Fact 2024. And while the report is titled 2024, these particular numbers are actually from 2022."
+  },
+  {
+   "start": 128.47999572753906,
+   "end": 134.16000366210938,
+   "text": " IIHS specifically says that it calculated them using the 2022 Fatality Analysis Reporting System,"
+  },
+  {
+   "start": 134.24000549316406,
+   "end": 138.8800048828125,
+   "text": " or FARS, and the National Household Travel Survey, or NHTS. Second, on his slide about"
+  },
+  {
+   "start": 138.8800048828125,
+   "end": 144.9600067138672,
+   "text": " younger drivers, he shows 7.4 for men and 3.1 for women, and says that 1 is 2.1 times higher,"
+  },
+  {
+   "start": 144.9600067138672,
+   "end": 151.60000610351562,
+   "text": " but 7.4 divided by 3.1 is 2.4, not 2.1. As an Asian to an Asian, come on man, you can do better."
+  },
+  {
+   "start": 151.60000610351562,
+   "end": 155.0399932861328,
+   "text": " But if I'm being fair, I think what happened is that he mistyped the number for women,"
+  },
+  {
+   "start": 155.0399932861328,
+   "end": 159.1199951171875,
+   "text": " because according to the original data, it should be approximately 3.5, not 3.1,"
+  },
+  {
+   "start": 159.1199951171875,
+   "end": 163.1999969482422,
+   "text": " and then the 2.1 ratio is correct. So I'm just playing with him a little here. So far so good."
+  },
+  {
+   "start": 163.1999969482422,
+   "end": 167.1999969482422,
+   "text": " But then he really goes into murky territory. The question is, fine, it does seem that men"
+  },
+  {
+   "start": 167.1999969482422,
+   "end": 171.52000427246094,
+   "text": " are overrepresented in fatal crashes, even per mile driven. But what about non-fatal crashes?"
+  },
+  {
+   "start": 171.52000427246094,
+   "end": 176.24000549316406,
+   "text": " And by the way, those are like 99% of all crashes. Here he only shows data for"
+  },
+  {
+   "start": 176.24000549316406,
+   "end": 181.1999969482422,
+   "text": " property damage-only crashes, and notice that he only reported per 100,000 licensed drivers."
+  },
+  {
+   "start": 181.1999969482422,
+   "end": 185.44000244140625,
+   "text": " But what about per mile driven? Again, we talked earlier about how reporting per capita can be"
+  },
+  {
+   "start": 185.44000244140625,
+   "end": 189.44000244140625,
+   "text": " misleading, and that we need to look at miles driven. But he simply doesn't show it. You may"
+  },
+  {
+   "start": 189.44000244140625,
+   "end": 193.75999450683594,
+   "text": " ask, why? Maybe because if he did, those numbers wouldn't support the message he's trying so hard"
+  },
+  {
+   "start": 193.75999450683594,
+   "end": 197.83999633789062,
+   "text": " to spread? Maybe. There could also be another explanation, though. Getting those numbers is"
+  },
+  {
+   "start": 197.83999633789062,
+   "end": 201.36000061035156,
+   "text": " not that easy. But that is even worse then. Instead of trying to figure out the truth,"
+  },
+  {
+   "start": 201.36000061035156,
+   "end": 205.1999969482422,
+   "text": " doing more proper research, and finding the missing data, you decided to be lazy and just"
+  },
+  {
+   "start": 205.1999969482422,
+   "end": 209.36000061035156,
+   "text": " report the data that fits your narrative. And now I'm not playing. As an Asian to an Asian,"
+  },
+  {
+   "start": 209.36000061035156,
+   "end": 213.1999969482422,
+   "text": " I am disappointed. So let's do what this guy didn't do and find the missing data."
+  },
+  {
+   "start": 213.1999969482422,
+   "end": 217.27999877929688,
+   "text": " Non-fatal crash involvement per mile driven for men and women. To be as consistent as possible"
+  },
+  {
+   "start": 217.27999877929688,
+   "end": 221.67999267578125,
+   "text": " with the previous statistics, I will follow a similar approach to IIHS, using the same year,"
+  },
+  {
+   "start": 221.67999267578125,
+   "end": 226.8000030517578,
+   "text": " and focusing on passenger vehicles. IIHS already reported that men drove approximately 1.1 trillion"
+  },
+  {
+   "start": 226.8000030517578,
+   "end": 232.32000732421875,
+   "text": " miles, while women drove 738 billion miles in 2022. But to be finicky here, I want to check"
+  },
+  {
+   "start": 232.32000732421875,
+   "end": 237.75999450683594,
+   "text": " how they got those numbers. For that, I go to NHTS, pick the year 2022, select annual vehicle"
+  },
+  {
+   "start": 237.75999450683594,
+   "end": 242.24000549316406,
+   "text": " miles of travel as the analysis variable, and respondent sex as the raw variable. Click submit,"
+  },
+  {
+   "start": 242.24000549316406,
+   "end": 246.24000549316406,
+   "text": " and voila, I get a spreadsheet with the numbers. You may notice some very slight differences"
+  },
+  {
+   "start": 246.24000549316406,
+   "end": 250.47999572753906,
+   "text": " compared with the IIHS figures, possibly because of differences in filtering or processing the"
+  },
+  {
+   "start": 250.47999572753906,
+   "end": 254.0,
+   "text": " survey data. But for our purposes, this is negligible, and we will use the published"
+  },
+  {
+   "start": 254.0,
+   "end": 258.8800048828125,
+   "text": " IIHS mileage estimates. Now we need the number of non-fatal crashes for men and women. For that,"
+  },
+  {
+   "start": 258.8800048828125,
+   "end": 263.44000244140625,
+   "text": " I go to the Fatality and Injury Reporting System tool, or FIRST, which allows you to construct"
+  },
+  {
+   "start": 263.44000244140625,
+   "end": 269.0400085449219,
+   "text": " customized queries from the FARS and Crash Report Sampling System, or CRSS. I choose drivers, then"
+  },
+  {
+   "start": 269.0400085449219,
+   "end": 273.8399963378906,
+   "text": " all drivers involved in motor vehicle crashes, year 2022, sex, male and female. And to be"
+  },
+  {
+   "start": 273.8399963378906,
+   "end": 279.0400085449219,
+   "text": " consistent with IIHS, I select drivers aged 16 and older and restrict the vehicles to passenger"
+  },
+  {
+   "start": 279.0400085449219,
+   "end": 283.44000244140625,
+   "text": " cars and light trucks, including SUVs, pickups, and vans. Then in the table, I choose year for"
+  },
+  {
+   "start": 283.44000244140625,
+   "end": 287.67999267578125,
+   "text": " rows and sex for columns, and click submit. Here's the table that we get. You can see that the fatal"
+  },
+  {
+   "start": 287.67999267578125,
+   "end": 292.9599914550781,
+   "text": " crash numbers are extremely close to what IIHS reported, around 31,000 for men and around 14,000"
+  },
+  {
+   "start": 292.9599914550781,
+   "end": 297.5199890136719,
+   "text": " for women. But now we also have estimated numbers of drivers involved in injury-only crashes and"
+  },
+  {
+   "start": 297.5199890136719,
+   "end": 301.67999267578125,
+   "text": " property damage-only crashes. And if we divide those numbers by the estimated miles driven,"
+  },
+  {
+   "start": 301.67999267578125,
+   "end": 305.8399963378906,
+   "text": " we get something quite interesting. Women have higher estimated crash involvement rates per mile"
+  },
+  {
+   "start": 305.8399963378906,
+   "end": 310.8800048828125,
+   "text": " in both non-fatal categories. For injury crashes, we get approximately 123 involvements per 100"
+  },
+  {
+   "start": 310.8800048828125,
+   "end": 315.760009765625,
+   "text": " million miles for men and 153 for women. For property and damage-only crashes, it is approximately"
+  },
+  {
+   "start": 315.760009765625,
+   "end": 320.8800048828125,
+   "text": " 304 for men and 357 for women. And most importantly, when we combine all crashes,"
+  },
+  {
+   "start": 320.8800048828125,
+   "end": 325.5199890136719,
+   "text": " fatal and non-fatal, women still show a higher estimated number per mile traveled. Approximately"
+  },
+  {
+   "start": 325.5199890136719,
+   "end": 331.760009765625,
+   "text": " 429 crash involvements per 100 million miles for men compared with 512 for women. That's around 19%"
+  },
+  {
+   "start": 331.760009765625,
+   "end": 336.1600036621094,
+   "text": " higher for women. Now, wait a minute. So am I trying to say that women are worse driver than men?"
+  },
+  {
+   "start": 336.1600036621094,
+   "end": 340.1600036621094,
+   "text": " No, I'm not trying to say that, because I don't think we can simply say who is the better or"
+  },
+  {
+   "start": 340.1600036621094,
+   "end": 345.0400085449219,
+   "text": " worse driver, men or women. The question is very nuanced and depends a lot on the criteria. But I"
+  },
+  {
+   "start": 345.0400085449219,
+   "end": 349.2799987792969,
+   "text": " also don't like when people spread their agenda while misrepresenting the data or leaving out"
+  },
+  {
+   "start": 349.2799987792969,
+   "end": 353.6000061035156,
+   "text": " important parts of it. Now, the video is already quite long, but let me quickly address the insurance"
+  },
+  {
+   "start": 353.6000061035156,
+   "end": 357.5199890136719,
+   "text": " and skill parts. First, insurance. The guy later argues that women are better drivers because"
+  },
+  {
+   "start": 357.5199890136719,
+   "end": 361.5199890136719,
+   "text": " insurance companies charge men more. But insurance companies aren't necessarily measuring driving"
+  },
+  {
+   "start": 361.5199890136719,
+   "end": 365.760009765625,
+   "text": " skill. They are generally estimating financial risk. And one factor influencing that risk is how"
+  },
+  {
+   "start": 365.760009765625,
+   "end": 370.0799865722656,
+   "text": " many miles someone drives. Since men drive more on average, that alone can contribute to higher"
+  },
+  {
+   "start": 370.0799865722656,
+   "end": 374.4800109863281,
+   "text": " expected accident costs, even without any difference in driving ability per mile. Of course, insurance"
+  },
+  {
+   "start": 374.4800109863281,
+   "end": 378.32000732421875,
+   "text": " prices depend on other factors too. And I'm not claiming that mileage necessarily explains the"
+  },
+  {
+   "start": 378.32000732421875,
+   "end": 381.8399963378906,
+   "text": " entire difference between men and women. But insurance premiums don't independently prove"
+  },
+  {
+   "start": 381.8399963378906,
+   "end": 385.6000061035156,
+   "text": " that women are better drivers. Now, the skill part. He essentially says that crashing and dying"
+  },
+  {
+   "start": 385.6000061035156,
+   "end": 389.5199890136719,
+   "text": " doesn't seem very skilled. Well, first of all, being involved in a crash doesn't necessarily"
+  },
+  {
+   "start": 389.5199890136719,
+   "end": 393.0400085449219,
+   "text": " mean that you caused it. And dying in a crash doesn't necessarily mean that you were driving"
+  },
+  {
+   "start": 393.0400085449219,
+   "end": 396.8800048828125,
+   "text": " badly. But we just looked at the data, and our estimates suggest that overall crash involvement"
+  },
+  {
+   "start": 396.8800048828125,
+   "end": 401.0400085449219,
+   "text": " per mile is higher for women, while failed crash involvement per mile is higher for men. So even by"
+  },
+  {
+   "start": 401.0400085449219,
+   "end": 405.0400085449219,
+   "text": " his metric, the picture is mixed. From my perspective, to say who is more skilled would depend"
+  },
+  {
+   "start": 405.0400085449219,
+   "end": 409.1199951171875,
+   "text": " on how we define skill. Are we talking about the ability to control a vehicle, following traffic"
+  },
+  {
+   "start": 409.1199951171875,
+   "end": 413.67999267578125,
+   "text": " rules, avoiding risky situations, or simply getting from point A to point B without an accident? Or are"
+  },
+  {
+   "start": 413.67999267578125,
+   "end": 417.8399963378906,
+   "text": " we talking about knowing how to Tokyo Drift and being able to compete in Formula 1 or NASCAR?"
+  },
+  {
+   "start": 417.8399963378906,
+   "end": 421.6000061035156,
+   "text": " Because those are not necessarily the same things. And before we actually define what we mean by"
+  },
+  {
+   "start": 421.6000061035156,
+   "end": 425.0400085449219,
+   "text": " skill, I don't think there's much point in arguing about who is more skilled at driving."
+  }
+ ]
+}

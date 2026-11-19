@@ -1,0 +1,19 @@
+{
+ "id": "7648197354000026902",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "debate",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "SimpleBlackTheory's claim that he used CDC data to argue men have it worse",
+  "reason": "Reply to a creator who responded to his earlier video, correcting the misattributed argument",
+  "evidence_seconds": 58
+ },
+ "usage": {
+  "prompt_tokens": 4197,
+  "completion_tokens": 184,
+  "cost_usd": null
+ }
+}

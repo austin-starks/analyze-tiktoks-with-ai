@@ -1,0 +1,19 @@
+{
+ "id": "7587384055411248406",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "misc",
+  "borderline": true,
+  "category": "mixed",
+  "claim_answered": "Loving each other while needs are unmet is love",
+  "evidence_seconds": 44,
+  "reason": "He rebuts a couples claim for both sexes, saying unmet needs is attachment not love"
+ },
+ "usage": {
+  "prompt_tokens": 3174,
+  "completion_tokens": 5171,
+  "cost_usd": null
+ }
+}

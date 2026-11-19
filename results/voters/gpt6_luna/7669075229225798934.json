@@ -1,0 +1,19 @@
+{
+ "id": "7669075229225798934",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "debate",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Hypergamy is not real; women do not prefer partners with greater resources, attractiveness, or status",
+  "reason": "Replies to a creator who challenged his earlier video and argues that the creator moved the goalposts",
+  "evidence_seconds": 30
+ },
+ "usage": {
+  "prompt_tokens": 4096,
+  "completion_tokens": 235,
+  "cost_usd": null
+ }
+}

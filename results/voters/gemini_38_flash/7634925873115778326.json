@@ -1,0 +1,19 @@
+{
+ "id": "7634925873115778326",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "reason": "Explains EU policy and legislation on consent laws, addressing public misconceptions about the legal reform.",
+  "borderline": true,
+  "alternate_category": "news",
+  "category": "politics",
+  "claim_answered": "Yes-means-yes requires signing consent documents and cancels the presumption of innocence",
+  "evidence_seconds": 104
+ },
+ "usage": {
+  "prompt_tokens": 3731,
+  "completion_tokens": 1554,
+  "cost_usd": null
+ }
+}

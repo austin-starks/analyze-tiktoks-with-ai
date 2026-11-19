@@ -1,0 +1,19 @@
+{
+ "id": "7561723836950007062",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "misc",
+  "claim_answered": "none",
+  "evidence_seconds": 0,
+  "reason": "Relationship advice about empathy and teamwork; answers no general claim about men or women"
+ },
+ "usage": {
+  "prompt_tokens": 3017,
+  "completion_tokens": 4912,
+  "cost_usd": null
+ }
+}

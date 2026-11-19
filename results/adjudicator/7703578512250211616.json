@@ -1,0 +1,18 @@
+{
+ "id": "7703578512250211616",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "evidence_seconds": 48,
+  "category": "men",
+  "reason": "Rule 2: pushes back on an unverified claim portraying men as biased perceivers of women's speech and presence.",
+  "alternate_category": "mixed",
+  "borderline": true,
+  "claim_answered": "Men perceive women speaking 15-30% of the time as 50%, and 17% female rooms as 50-50."
+ },
+ "usage": {
+  "prompt_tokens": 4912,
+  "completion_tokens": 2268,
+  "cost_usd": 0.024378
+ }
+}

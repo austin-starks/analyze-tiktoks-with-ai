@@ -1,0 +1,19 @@
+{
+ "id": "7641226873623596310",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "evidence_seconds": 84,
+  "alternate_category": "none",
+  "borderline": false,
+  "reason": "Answers a viewer DM asking for relationship advice about his girlfriend",
+  "category": "misc",
+  "claim_answered": "none"
+ },
+ "usage": {
+  "prompt_tokens": 3640,
+  "completion_tokens": 540,
+  "cost_usd": null
+ }
+}

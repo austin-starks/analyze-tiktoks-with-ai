@@ -1,0 +1,18 @@
+{
+ "id": "7662739718399986977",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "claim_answered": "Women are attracted to Haaland for his energy rather than his height, looks, wealth, or status.",
+  "evidence_seconds": 62,
+  "category": "mixed",
+  "reason": "Rule 2: pushes back on a claim about women's attraction to men attacking neither sex; borderline misc for logic-exercise/advice framing.",
+  "alternate_category": "misc",
+  "borderline": true
+ },
+ "usage": {
+  "prompt_tokens": 3701,
+  "completion_tokens": 3248,
+  "cost_usd": null
+ }
+}

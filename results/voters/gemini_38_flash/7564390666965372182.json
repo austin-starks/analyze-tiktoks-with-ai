@@ -1,0 +1,19 @@
+{
+ "id": "7564390666965372182",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "evidence_seconds": 49,
+  "alternate_category": "men",
+  "reason": "Dating advice for men reacting to a viral clip; does not answer a demographic claim about men or women.",
+  "category": "misc",
+  "claim_answered": "none",
+  "borderline": true
+ },
+ "usage": {
+  "prompt_tokens": 3173,
+  "completion_tokens": 944,
+  "cost_usd": null
+ }
+}

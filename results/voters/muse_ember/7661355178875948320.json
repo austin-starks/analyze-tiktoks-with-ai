@@ -1,0 +1,19 @@
+{
+ "id": "7661355178875948320",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "women",
+  "claim_answered": "Women-led companies are a bad investment, losing 91%",
+  "evidence_seconds": 23,
+  "reason": "Pushes back on claim that women-led companies perform worse, blaming gender for poor IPO returns"
+ },
+ "usage": {
+  "prompt_tokens": 3635,
+  "completion_tokens": 2026,
+  "cost_usd": null
+ }
+}

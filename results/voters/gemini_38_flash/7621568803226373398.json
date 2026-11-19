@@ -1,0 +1,19 @@
+{
+ "id": "7621568803226373398",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "claim_answered": "none",
+  "alternate_category": "men",
+  "category": "misc",
+  "evidence_seconds": 0,
+  "borderline": true,
+  "reason": "Social commentary on viral drama, friendship, and virtue signaling; answers no general claim about men or women."
+ },
+ "usage": {
+  "prompt_tokens": 3768,
+  "completion_tokens": 1303,
+  "cost_usd": null
+ }
+}

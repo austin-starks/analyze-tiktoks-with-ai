@@ -1,0 +1,19 @@
+{
+ "id": "7687213798708628768",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "borderline": true,
+  "claim_answered": "Couples where the wife keeps her last name divorce 50% more often",
+  "reason": "Evaluates statistical divorce claims about couples and marital surname practices without directly attacking either sex",
+  "category": "mixed",
+  "evidence_seconds": 18,
+  "alternate_category": "women"
+ },
+ "usage": {
+  "prompt_tokens": 4059,
+  "completion_tokens": 1423,
+  "cost_usd": null
+ }
+}

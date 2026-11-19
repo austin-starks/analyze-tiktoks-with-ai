@@ -1,0 +1,19 @@
+{
+ "id": "7637908664338222358",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "misc",
+  "claim_answered": "none",
+  "evidence_seconds": 0,
+  "reason": "Dating and self-improvement advice for moving on after breakup; answers no claim about men or women"
+ },
+ "usage": {
+  "prompt_tokens": 3937,
+  "completion_tokens": 1216,
+  "cost_usd": null
+ }
+}

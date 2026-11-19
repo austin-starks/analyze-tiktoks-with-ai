@@ -1,0 +1,18 @@
+{
+ "id": "7599012979627068694",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "category": "misc",
+  "reason": "Under misc and Rule 3, he rebuts general dating advice rather than a claim attacking either sex.",
+  "evidence_seconds": 29,
+  "claim_answered": "A relationship lasts best when a man believes he cannot pull a better partner.",
+  "borderline": true,
+  "alternate_category": "mixed"
+ },
+ "usage": {
+  "prompt_tokens": 3291,
+  "completion_tokens": 1676,
+  "cost_usd": null
+ }
+}

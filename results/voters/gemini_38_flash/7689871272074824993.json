@@ -1,0 +1,19 @@
+{
+ "id": "7689871272074824993",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "evidence_seconds": 14,
+  "claim_answered": "Mongol society was a matriarchy where women kept multiple husbands as slaves",
+  "alternate_category": "mixed",
+  "borderline": true,
+  "reason": "Historical fact-check about Mongol society and marriage structure rather than a generalized claim about modern men or women.",
+  "category": "misc"
+ },
+ "usage": {
+  "prompt_tokens": 3771,
+  "completion_tokens": 7900,
+  "cost_usd": null
+ }
+}

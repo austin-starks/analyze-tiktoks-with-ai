@@ -1,0 +1,18 @@
+{
+ "id": "7561723836950007062",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "reason": "Rule 3 (no claim about men or women): video gives general relationship advice on empathy and teamwork, answering no gender claim.",
+  "alternate_category": "men",
+  "borderline": true,
+  "category": "misc",
+  "claim_answered": "none",
+  "evidence_seconds": 36
+ },
+ "usage": {
+  "prompt_tokens": 2954,
+  "completion_tokens": 2731,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7570818120030424342",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": false,
+  "alternate_category": "misc",
+  "claim_answered": "Women's bare-minimum demands (yacht, 20K a month, degree, property gifts) are reasonable expectations in relationships",
+  "reason": "Mocks a claim that runs women down as entitled gold diggers, defending women against that characterization",
+  "evidence_seconds": 7
+ },
+ "usage": {
+  "prompt_tokens": 5922,
+  "completion_tokens": 223,
+  "cost_usd": null
+ }
+}

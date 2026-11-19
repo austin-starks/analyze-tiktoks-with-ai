@@ -1,0 +1,19 @@
+{
+ "id": "7687213798708628768",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "mixed",
+  "claim_answered": "Couples who do not share a last name divorce 50% more often",
+  "evidence_seconds": 14,
+  "reason": "Claim is about couples' naming and divorce, blaming neither sex; he fact-checks the evidence"
+ },
+ "usage": {
+  "prompt_tokens": 3750,
+  "completion_tokens": 1294,
+  "cost_usd": null
+ }
+}

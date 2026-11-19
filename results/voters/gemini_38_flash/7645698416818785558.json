@@ -1,0 +1,19 @@
+{
+ "id": "7645698416818785558",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "claim_answered": "More than nine in ten men have admitted to not accepting no as an answer",
+  "category": "men",
+  "alternate_category": "debate",
+  "evidence_seconds": 25,
+  "borderline": true,
+  "reason": "Pushes back on a viral, exaggerated statistic claiming over 90% of men do not accept no for an answer."
+ },
+ "usage": {
+  "prompt_tokens": 5179,
+  "completion_tokens": 918,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7673501255775325462",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "The mixed-team rule is unfair because it forces an all-female team to include a man",
+  "reason": "Pushes back on a claim that treats the rule as unfair only when it works against men, calling it a double standard",
+  "evidence_seconds": 102
+ },
+ "usage": {
+  "prompt_tokens": 3832,
+  "completion_tokens": 634,
+  "cost_usd": null
+ }
+}

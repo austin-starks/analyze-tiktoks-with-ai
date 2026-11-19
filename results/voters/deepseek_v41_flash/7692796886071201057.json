@@ -1,0 +1,19 @@
+{
+ "id": "7692796886071201057",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "debate",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Jiyu's critique that his double-standard video used flawed logic and research",
+  "reason": "Reply to a creator who reacted to and criticized his earlier video",
+  "evidence_seconds": 21
+ },
+ "usage": {
+  "prompt_tokens": 4693,
+  "completion_tokens": 184,
+  "cost_usd": null
+ }
+}

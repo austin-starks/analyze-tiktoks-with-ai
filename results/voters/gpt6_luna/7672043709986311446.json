@@ -1,0 +1,19 @@
+{
+ "id": "7672043709986311446",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "women",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Women never sexualize men in songs the way men sexualize women",
+  "reason": "Pushes back on a claim that denies women sexualize men and implies men alone do so, defending women from that unfair portrayal.",
+  "evidence_seconds": 34
+ },
+ "usage": {
+  "prompt_tokens": 3869,
+  "completion_tokens": 79,
+  "cost_usd": null
+ }
+}

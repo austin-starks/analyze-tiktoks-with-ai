@@ -1,0 +1,19 @@
+{
+ "id": "7673788324687121666",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "debate",
+  "borderline": false,
+  "alternate_category": "women",
+  "claim_answered": "Public Offender claimed there is little to no evidence women are hypergamous, then moved the goalposts to relationship outcomes",
+  "reason": "Reply to a creator (Public Offender) who called out and responded to his earlier work; beats men/women categories",
+  "evidence_seconds": 5
+ },
+ "usage": {
+  "prompt_tokens": 8552,
+  "completion_tokens": 225,
+  "cost_usd": null
+ }
+}

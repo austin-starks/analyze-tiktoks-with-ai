@@ -1,0 +1,19 @@
+{
+ "id": "7629351520525454615",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "Women make up 80% of organ donors while men make up 80% of recipients, so men are hypocrites",
+  "reason": "Rebuts a claim that runs men down as hypocrites and disputes the donor-gap statistic; the claim attacks men, so it is defending men too.",
+  "evidence_seconds": 8
+ },
+ "usage": {
+  "prompt_tokens": 5075,
+  "completion_tokens": 231,
+  "cost_usd": null
+ }
+}

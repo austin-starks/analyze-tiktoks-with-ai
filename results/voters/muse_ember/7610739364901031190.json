@@ -1,0 +1,19 @@
+{
+ "id": "7610739364901031190",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "women",
+  "borderline": true,
+  "category": "misc",
+  "claim_answered": "none",
+  "evidence_seconds": 0,
+  "reason": "Viewer DM relationship advice about toxic girlfriend; period point is side note, not main defense of women"
+ },
+ "usage": {
+  "prompt_tokens": 4394,
+  "completion_tokens": 4941,
+  "cost_usd": null
+ }
+}

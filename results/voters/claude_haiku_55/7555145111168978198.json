@@ -1,0 +1,19 @@
+{
+ "id": "7555145111168978198",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "If a guy really likes you, he's scared to touch you",
+  "reason": "Dating advice to men about showing interest and physical touch; answers no claim about men or women as a group.",
+  "evidence_seconds": 24
+ },
+ "usage": {
+  "prompt_tokens": 5031,
+  "completion_tokens": 199,
+  "cost_usd": null
+ }
+}

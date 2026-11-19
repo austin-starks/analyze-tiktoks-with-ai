@@ -1,0 +1,19 @@
+{
+ "id": "7563979343958068483",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "evidence_seconds": 47,
+  "reason": "Provides general dating advice for men rather than fact-checking a claim attacking either sex",
+  "category": "misc",
+  "alternate_category": "men",
+  "claim_answered": "Men should bring flowers on a first date",
+  "borderline": true
+ },
+ "usage": {
+  "prompt_tokens": 3205,
+  "completion_tokens": 1052,
+  "cost_usd": null
+ }
+}

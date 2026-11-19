@@ -1,0 +1,19 @@
+{
+ "id": "7572299622991858966",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Women should not give boyfriends gifts or make their lives easier because men have not earned it",
+  "reason": "Pushes back on advice portraying men as undeserving of care and benefit from girlfriends",
+  "evidence_seconds": 35
+ },
+ "usage": {
+  "prompt_tokens": 3159,
+  "completion_tokens": 361,
+  "cost_usd": null
+ }
+}

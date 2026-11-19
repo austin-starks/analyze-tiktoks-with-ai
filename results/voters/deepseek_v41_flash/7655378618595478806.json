@@ -1,0 +1,19 @@
+{
+ "id": "7655378618595478806",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Historical narrative on first-wave feminism's origins; answers no claim about men or women today.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 4200,
+  "completion_tokens": 205,
+  "cost_usd": null
+ }
+}

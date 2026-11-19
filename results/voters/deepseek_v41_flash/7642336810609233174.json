@@ -1,0 +1,19 @@
+{
+ "id": "7642336810609233174",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "5 in 10 men badgered a woman who said no until she changed her answer",
+  "reason": "Pushes back on a claim that runs men down, showing the paraphrase misrepresents the survey item",
+  "evidence_seconds": 149
+ },
+ "usage": {
+  "prompt_tokens": 4949,
+  "completion_tokens": 477,
+  "cost_usd": null
+ }
+}

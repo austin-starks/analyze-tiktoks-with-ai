@@ -1,0 +1,19 @@
+{
+ "id": "7680236035917303062",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "reason": "Replies directly to another creator's 24-minute video responding to and criticizing his earlier video.",
+  "claim_answered": "Public Offender's response claiming issues affecting men are self-inflicted",
+  "borderline": true,
+  "alternate_category": "men",
+  "category": "debate",
+  "evidence_seconds": 38
+ },
+ "usage": {
+  "prompt_tokens": 3981,
+  "completion_tokens": 759,
+  "cost_usd": null
+ }
+}

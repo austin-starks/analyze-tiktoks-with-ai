@@ -1,0 +1,19 @@
+{
+ "id": "7578511626291252502",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men are useless except for taking out the trash or having a husband",
+  "reason": "Pushes back on comedy portraying men as useless and criticizes it as lazy writing.",
+  "evidence_seconds": 35
+ },
+ "usage": {
+  "prompt_tokens": 3120,
+  "completion_tokens": 137,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "id": "7591506454998289686",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "category": "misc",
+  "reason": "Rule 3 (misc): gives general dating advice clarifying a viewer comment on his Q&A rather than answering a claim about the sexes.",
+  "evidence_seconds": 185,
+  "borderline": true,
+  "claim_answered": "none",
+  "alternate_category": "mixed"
+ },
+ "usage": {
+  "prompt_tokens": 3826,
+  "completion_tokens": 3020,
+  "cost_usd": null
+ }
+}

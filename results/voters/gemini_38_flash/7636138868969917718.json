@@ -1,0 +1,19 @@
+{
+ "id": "7636138868969917718",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "borderline": false,
+  "reason": "Direct reply to another creator who criticized his earlier video",
+  "alternate_category": "none",
+  "claim_answered": "SimpleBlackTheory's critique of his pregnancy vs cop mortality video",
+  "category": "debate",
+  "evidence_seconds": 36
+ },
+ "usage": {
+  "prompt_tokens": 3855,
+  "completion_tokens": 492,
+  "cost_usd": null
+ }
+}

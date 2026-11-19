@@ -1,0 +1,19 @@
+{
+ "id": "7644499700015549718",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "borderline": true,
+  "claim_answered": "Blanket statements blaming an entire gender for bad dating experiences are justified",
+  "alternate_category": "men",
+  "category": "mixed",
+  "evidence_seconds": 37,
+  "reason": "Addresses blanket generalizations against both men and women, emphasizing that individual vetting applies equally both ways."
+ },
+ "usage": {
+  "prompt_tokens": 3798,
+  "completion_tokens": 1151,
+  "cost_usd": null
+ }
+}

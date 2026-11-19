@@ -1,0 +1,19 @@
+{
+ "id": "7555145111168978198",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "misc",
+  "borderline": true,
+  "category": "mixed",
+  "claim_answered": "If a guy really likes you, he's scared to touch you",
+  "evidence_seconds": 24,
+  "reason": "Pushes back on a claim favoring men that attacks neither sex, giving dating advice"
+ },
+ "usage": {
+  "prompt_tokens": 3128,
+  "completion_tokens": 6495,
+  "cost_usd": null
+ }
+}

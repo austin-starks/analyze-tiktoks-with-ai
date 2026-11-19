@@ -1,0 +1,18 @@
+{
+ "id": "7569159446618705174",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "alternate_category": "men",
+  "reason": "Rule 3 (misc): general dating advice criticizing shallow ick culture after a date anecdote; answers no claim about men or women.",
+  "borderline": true,
+  "category": "misc",
+  "evidence_seconds": 66,
+  "claim_answered": "none"
+ },
+ "usage": {
+  "prompt_tokens": 2859,
+  "completion_tokens": 3168,
+  "cost_usd": null
+ }
+}

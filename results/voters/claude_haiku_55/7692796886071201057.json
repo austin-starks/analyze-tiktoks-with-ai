@@ -1,0 +1,19 @@
+{
+ "id": "7692796886071201057",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "debate",
+  "borderline": false,
+  "alternate_category": "women",
+  "claim_answered": "Creator GU's critique of Ilyas's earlier video on the double standard for many sexual partners",
+  "reason": "Direct reply to creator GU, who responded to his earlier video; debate beats the sex categories.",
+  "evidence_seconds": 21
+ },
+ "usage": {
+  "prompt_tokens": 6735,
+  "completion_tokens": 213,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7561723836950007062",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "misc",
+  "claim_answered": "none",
+  "borderline": true,
+  "evidence_seconds": 36,
+  "alternate_category": "men",
+  "reason": "General relationship advice on empathy and mutual teamwork; does not answer a factual claim about a gender."
+ },
+ "usage": {
+  "prompt_tokens": 3230,
+  "completion_tokens": 1969,
+  "cost_usd": null
+ }
+}

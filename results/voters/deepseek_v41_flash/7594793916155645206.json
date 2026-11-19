@@ -1,0 +1,19 @@
+{
+ "id": "7594793916155645206",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Self-improvement dating advice for men; answers no claim about either sex.",
+  "evidence_seconds": 12
+ },
+ "usage": {
+  "prompt_tokens": 3690,
+  "completion_tokens": 178,
+  "cost_usd": null
+ }
+}

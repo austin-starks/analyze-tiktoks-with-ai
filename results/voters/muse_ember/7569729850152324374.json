@@ -1,0 +1,19 @@
+{
+ "id": "7569729850152324374",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "men",
+  "claim_answered": "Beautiful, smart, successful women have hardest dating because men can't handle them",
+  "evidence_seconds": 37,
+  "reason": "Pushes back on claim blaming men's insecurity for women's dating difficulty"
+ },
+ "usage": {
+  "prompt_tokens": 3399,
+  "completion_tokens": 3570,
+  "cost_usd": null
+ }
+}

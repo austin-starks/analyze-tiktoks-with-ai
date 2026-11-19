@@ -1,0 +1,19 @@
+{
+ "id": "7568768145624812822",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men laughing together must have done something wrong, like hitting a woman",
+  "reason": "Pushes back on a claim running men down as inherently awful and threatening when happy",
+  "evidence_seconds": 44
+ },
+ "usage": {
+  "prompt_tokens": 3729,
+  "completion_tokens": 220,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7695381189086989601",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "politics",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "The far left is merely annoying while the far right is genuinely dangerous",
+  "reason": "Evaluates political extremism and political violence; the central claim is political, not about men or women.",
+  "evidence_seconds": 285
+ },
+ "usage": {
+  "prompt_tokens": 4592,
+  "completion_tokens": 192,
+  "cost_usd": null
+ }
+}

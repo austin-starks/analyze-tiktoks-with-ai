@@ -1,0 +1,19 @@
+{
+ "id": "7643824474822888726",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "misc",
+  "borderline": true,
+  "category": "women",
+  "claim_answered": "All women are dishonest liars; honest women do not exist",
+  "evidence_seconds": 78,
+  "reason": "Pushes back on claim that all women lie, arguing honest women exist and blame is flawed"
+ },
+ "usage": {
+  "prompt_tokens": 3711,
+  "completion_tokens": 4534,
+  "cost_usd": null
+ }
+}

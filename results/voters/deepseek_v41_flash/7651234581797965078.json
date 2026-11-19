@@ -1,0 +1,19 @@
+{
+ "id": "7651234581797965078",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men survive plane crashes more because they claw and trample others to the exits",
+  "reason": "Answers a claim that runs men down as morally worse; explains survival via seat location and physical factors",
+  "evidence_seconds": 91
+ },
+ "usage": {
+  "prompt_tokens": 4170,
+  "completion_tokens": 221,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7578511626291252502",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Female stand-up comedians insulting men (\"men are useless\") is good comedy that audiences should applaud",
+  "reason": "Criticizes comedy whose jokes run men down as useless; defends men against negative stereotypes, though framed as a comedy critique.",
+  "evidence_seconds": 26
+ },
+ "usage": {
+  "prompt_tokens": 5049,
+  "completion_tokens": 227,
+  "cost_usd": null
+ }
+}

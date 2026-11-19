@@ -1,0 +1,19 @@
+{
+ "id": "7671241921628540182",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Government data shows 20,000 white women raped by black men and zero black women by white men — so a certain type of men is the problem",
+  "reason": "Rebuts a statistic used to paint a group of men as uniquely violent; the attacked party is men, so it is men rather than a neutral stats explainer.",
+  "evidence_seconds": 41
+ },
+ "usage": {
+  "prompt_tokens": 4763,
+  "completion_tokens": 777,
+  "cost_usd": null
+ }
+}

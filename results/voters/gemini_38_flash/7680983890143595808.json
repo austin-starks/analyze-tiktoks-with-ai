@@ -1,0 +1,19 @@
+{
+ "id": "7680983890143595808",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "reason": "Analyzes how influencers monetize political identity across both conservative and liberal demographics",
+  "claim_answered": "none",
+  "evidence_seconds": 137,
+  "category": "politics",
+  "borderline": true,
+  "alternate_category": "misc"
+ },
+ "usage": {
+  "prompt_tokens": 3861,
+  "completion_tokens": 2039,
+  "cost_usd": null
+ }
+}

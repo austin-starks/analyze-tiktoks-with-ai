@@ -1,0 +1,19 @@
+{
+ "id": "7631106668935351574",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "news",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "Viral claim that 62 million men attended an online rape academy",
+  "reason": "Mainly explains the CNN investigation and how the viral claim distorted it; the claim is about men but framed as news coverage.",
+  "evidence_seconds": 66
+ },
+ "usage": {
+  "prompt_tokens": 5732,
+  "completion_tokens": 209,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7662316712133397792",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Women are natural-born leaders because the egg is the largest cell, so male domination is unnatural",
+  "reason": "Answers a claim favoring women that runs men down as unnatural and destined to submit",
+  "evidence_seconds": 36
+ },
+ "usage": {
+  "prompt_tokens": 3829,
+  "completion_tokens": 303,
+  "cost_usd": null
+ }
+}

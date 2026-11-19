@@ -1,0 +1,19 @@
+{
+ "id": "7666818776486153494",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "debate",
+  "claim_answered": "Man the Hunter / cavemen myth: men hunted, women gathered, invented in 1966 and used to paint men badly",
+  "reason": "Rebuts a creator's cartoon claim that men were only hunters and women only gatherers, saying gathering is undervalued and women's contribution is downplayed.",
+  "evidence_seconds": 117
+ },
+ "usage": {
+  "prompt_tokens": 6271,
+  "completion_tokens": 243,
+  "cost_usd": null
+ }
+}

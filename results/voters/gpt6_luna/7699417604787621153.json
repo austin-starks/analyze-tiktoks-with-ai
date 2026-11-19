@@ -1,0 +1,19 @@
+{
+ "id": "7699417604787621153",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men avoid intervening because they care more about predatory men’s opinions than women’s safety",
+  "reason": "Pushes back on a claim that portrays men as cowardly and indifferent to women’s safety.",
+  "evidence_seconds": 420
+ },
+ "usage": {
+  "prompt_tokens": 5794,
+  "completion_tokens": 173,
+  "cost_usd": null
+ }
+}

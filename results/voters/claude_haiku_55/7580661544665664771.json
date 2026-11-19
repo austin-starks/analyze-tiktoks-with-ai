@@ -1,0 +1,19 @@
+{
+ "id": "7580661544665664771",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "A woman's past of sleeping with ten guys in one night doesn't matter because it came before dating",
+  "reason": "Street clip plus dating advice; he attacks a woman's promiscuous past and says she's probably cheating, a claim running women down rather than answering a general claim.",
+  "evidence_seconds": 37
+ },
+ "usage": {
+  "prompt_tokens": 5511,
+  "completion_tokens": 232,
+  "cost_usd": null
+ }
+}

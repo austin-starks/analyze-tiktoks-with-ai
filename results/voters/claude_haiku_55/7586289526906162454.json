@@ -1,0 +1,19 @@
+{
+ "id": "7586289526906162454",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "Your money is our money: women who treat a partner's money as shared while keeping their own separate",
+  "reason": "Rebukes a claim favoring women at men's expense; frames the woman as taking everything and giving nothing, defending the man's side.",
+  "evidence_seconds": 66
+ },
+ "usage": {
+  "prompt_tokens": 5225,
+  "completion_tokens": 219,
+  "cost_usd": null
+ }
+}

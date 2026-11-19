@@ -1,0 +1,19 @@
+{
+ "id": "7654911306973334787",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "reason": "He responds to a creator's stitch criticizing his earlier video about men's issues.",
+  "evidence_seconds": 26,
+  "claim_answered": "Men's lower custody rate is self-inflicted because they don't fight for custody",
+  "borderline": true,
+  "alternate_category": "men",
+  "category": "debate"
+ },
+ "usage": {
+  "prompt_tokens": 4237,
+  "completion_tokens": 1271,
+  "cost_usd": null
+ }
+}

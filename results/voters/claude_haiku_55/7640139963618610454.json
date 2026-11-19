@@ -1,0 +1,19 @@
+{
+ "id": "7640139963618610454",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "debate",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "Professor Neil's claim that about 1 in 7 men have attempted or completed rape",
+  "reason": "Reply to a creator (@professorneil) who made claims, though the video also rebuts a claim running men down; debate beats men.",
+  "evidence_seconds": 54
+ },
+ "usage": {
+  "prompt_tokens": 5912,
+  "completion_tokens": 219,
+  "cost_usd": null
+ }
+}

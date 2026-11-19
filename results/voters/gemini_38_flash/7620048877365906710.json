@@ -1,0 +1,19 @@
+{
+ "id": "7620048877365906710",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "evidence_seconds": 2,
+  "category": "misc",
+  "claim_answered": "none",
+  "borderline": false,
+  "alternate_category": "none",
+  "reason": "Dating and relationship advice reacting to a viewer story about self-respect; answers no general claim."
+ },
+ "usage": {
+  "prompt_tokens": 4345,
+  "completion_tokens": 284,
+  "cost_usd": null
+ }
+}

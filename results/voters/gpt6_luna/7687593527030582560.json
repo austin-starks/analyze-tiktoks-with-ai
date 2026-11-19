@@ -1,0 +1,19 @@
+{
+ "id": "7687593527030582560",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men as a group are predatory and responsible for women’s need to avoid male advances",
+  "reason": "Pushes back on portraying men collectively as predators, distinguishing male crime rates from most men’s behavior.",
+  "evidence_seconds": 153
+ },
+ "usage": {
+  "prompt_tokens": 3571,
+  "completion_tokens": 265,
+  "cost_usd": null
+ }
+}

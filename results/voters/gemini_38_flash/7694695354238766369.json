@@ -1,0 +1,19 @@
+{
+ "id": "7694695354238766369",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "claim_answered": "975 out of 1,000 sexual assault perpetrators walk free due to a sexist system",
+  "evidence_seconds": 101,
+  "alternate_category": "mixed",
+  "borderline": true,
+  "category": "men",
+  "reason": "Pushes back on a viral claim inflating female victimhood and male impunity through misleading criminal justice statistics."
+ },
+ "usage": {
+  "prompt_tokens": 4788,
+  "completion_tokens": 1577,
+  "cost_usd": null
+ }
+}

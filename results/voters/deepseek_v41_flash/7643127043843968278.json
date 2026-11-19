@@ -1,0 +1,19 @@
+{
+ "id": "7643127043843968278",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "debate",
+  "claim_answered": "8 in 10 men lied to convince a woman to sleep with them",
+  "reason": "Rebuts a claim that runs men down, showing the survey item doesn't match the paraphrase; not a reply to criticism of him.",
+  "evidence_seconds": 12
+ },
+ "usage": {
+  "prompt_tokens": 4234,
+  "completion_tokens": 540,
+  "cost_usd": null
+ }
+}

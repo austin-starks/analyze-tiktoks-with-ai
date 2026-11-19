@@ -1,0 +1,19 @@
+{
+ "id": "7616326290953555222",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "claim_answered": "Every idea coming from a woman is absolute lunacy",
+  "borderline": false,
+  "alternate_category": "none",
+  "evidence_seconds": 46,
+  "category": "women",
+  "reason": "Pushes back on a claim running women down as inherently irrational and claiming men should dismiss them."
+ },
+ "usage": {
+  "prompt_tokens": 3561,
+  "completion_tokens": 874,
+  "cost_usd": null
+ }
+}

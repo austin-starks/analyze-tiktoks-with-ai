@@ -1,0 +1,19 @@
+{
+ "id": "7619740283458161942",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Gives relationship advice to a subscriber about getting back together with an ex; it answers no group claim.",
+  "evidence_seconds": 130
+ },
+ "usage": {
+  "prompt_tokens": 3795,
+  "completion_tokens": 62,
+  "cost_usd": null
+ }
+}

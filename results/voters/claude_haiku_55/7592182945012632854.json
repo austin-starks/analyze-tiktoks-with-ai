@@ -1,0 +1,19 @@
+{
+ "id": "7592182945012632854",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "A girlfriend's male friend hitting on her is not the boyfriend's problem; she allows it and \"family friend\" is an excuse",
+  "reason": "Blames the girlfriend for the boyfriend's distress and says she allows male attention; relationship advice framed around a woman's conduct.",
+  "evidence_seconds": 96
+ },
+ "usage": {
+  "prompt_tokens": 7184,
+  "completion_tokens": 237,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7702872695548955937",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "Most men thought Alexia Putellas \"spoke for a year\" due to gender perception bias",
+  "reason": "Rebuts a claim that blames men for impatience with a woman's speech, denying men's supposed bias and downplaying her disadvantage; mainly defends Putellas against the bias framing.",
+  "evidence_seconds": 55
+ },
+ "usage": {
+  "prompt_tokens": 9021,
+  "completion_tokens": 240,
+  "cost_usd": null
+ }
+}

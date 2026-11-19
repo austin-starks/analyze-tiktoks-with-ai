@@ -1,0 +1,19 @@
+{
+ "id": "7577699563696295190",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "A man should financially invest in a woman as proof of love, without reciprocal investment",
+  "reason": "Pushes back on a dating expectation that men fund women one-way, defending men from that burden.",
+  "evidence_seconds": 55
+ },
+ "usage": {
+  "prompt_tokens": 3305,
+  "completion_tokens": 198,
+  "cost_usd": null
+ }
+}

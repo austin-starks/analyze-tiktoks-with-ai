@@ -1,0 +1,19 @@
+{
+ "id": "7634250556604796182",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Immature men are to blame for falling birth rates",
+  "reason": "Pushes back against media framing that blames immature men for declining birth rates",
+  "evidence_seconds": 121
+ },
+ "usage": {
+  "prompt_tokens": 3578,
+  "completion_tokens": 709,
+  "cost_usd": null
+ }
+}

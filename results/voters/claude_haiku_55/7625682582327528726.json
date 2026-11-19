@@ -1,0 +1,19 @@
+{
+ "id": "7625682582327528726",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "The gender pay gap is discrimination (claim by activists/media), shown via an iPhone-vs-Samsung analogy",
+  "reason": "Pay-gap explainer using an analogy; attacks no sex directly, so closest is mixed, but it is a sex-neutral pay statistics explainer",
+  "evidence_seconds": 155
+ },
+ "usage": {
+  "prompt_tokens": 5394,
+  "completion_tokens": 243,
+  "cost_usd": null
+ }
+}

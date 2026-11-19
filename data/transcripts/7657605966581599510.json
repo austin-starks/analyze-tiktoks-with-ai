@@ -1,0 +1,246 @@
+{
+ "text": "What percent of reported R.A.P.E. allegations are actually false, according to the data? Or, in other words, was the lady's alleged claim correct that out of all reported R.A.P.E. allegations by women, less than 1% are false? There's another video in the series about false allegations, so if you didn't watch the previous videos, they are published right before this one. So now let's talk about the actual false allegation number. In the UK Home Office study by Kelly, Lovett, and Reagan, there were 2,643 cases reported to police. Out of those cases, 216 were classified as false allegations. And here, the denominator matters. Out of all 2,643 cases reported to police, those 216 cases amount to 8%. If we exclude cases with missing data and use the Cleaner Reported Cases dataset of 2,284 cases, then those same 216 cases amount to around 9.5%. And if we only look at the 1,817 cases that didn't proceed beyond the police stage, those same 216 cases amount to 12%. So already the claim less than 1% of reported allegations are false is not supported by this study. But before anyone runs away with the 8%, 9.5%, or 12% number, there's a very important caveat. These 216 cases were mostly police designated false allegations. They were not court findings. The reasons given included things like the complainant admitted the complaint was false, retractions, non-cooperation, or police decisions on evidential grounds. And the researchers were careful with that because police classification was not always consistent. If someone clearly and credibly admits that the complaint was false, that is one thing. But if the police classify something as false because of inconsistencies evidence, alcohol, mental health issues, previous allegations, or because the case just looks weak, that is much more complicated. The study also looked at possible motives in cases where the complainant admitted the allegation was false. Some were described as revenge, some were described as cover-up. For example, to get back at an ex for something, or to hide consensual intercourse with another man from a partner or parents. So yes, false allegations can happen for malicious reasons. But even the study says that simple words like revenge or cover-up do not fully capture how complicated some of these cases were. And this is also where I had to correct my own understanding. Because I used to think that if someone is accused of R.A.P.E., goes to court, and is acquitted, then that would be counted as a false allegation. But apparently, no. An acquittal does not mean the allegation was false. It means the prosecution did not prove guilt beyond reasonable doubt. That is not the same thing. A false allegation means the allegation is proven or at least reasonably established to be false. So in this study, acquittals were not counted as false allegations. Victim withdrawal was not automatically counted as false allegations. Insufficient evidence was not automatically counted as false allegations. And honestly, that makes sense. Because if we counted every failed case as false, that would be messy statistics. But at the same time, I think it is also reasonable to say this. Some cases in those other categories could potentially be false. Some acquittals could involve false allegations. Some withdrawal cases could involve false allegations. Some insufficient evidence cases could involve false allegations. But unless we have evidence, we cannot just move them into the false category. So what did the researchers do? They looked more carefully at the police-designated false allegations and applied a stricter standard. Basically, they asked, is there a clear and credible admission? Or are there strong evidential grounds? Using that stricter approach, which brought the amount of cases from 216 down to 67, the false allegation rate came out around 3%. So where does that leave us? The less than 1% claim is not supported by this study at all. If we apply the strict conservative approach, it would give us a false allegation rate of around 3%. If we apply the police classification approach, it would give us a false allegation rate between 8% to 12%, depending on which denominator we use. And if we use a broader, less strict interpretation and assume that some acquittals, victim withdrawals, insufficient evidence, and other cases could also potentially include false allegations, then the false allegation rate could be even higher.",
+ "duration": 199.17999267578125,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.079999923706055,
+   "text": " What percent of reported R.A.P.E. allegations are actually false, according to the data? Or,"
+  },
+  {
+   "start": 4.079999923706055,
+   "end": 7.920000076293945,
+   "text": " in other words, was the lady's alleged claim correct that out of all reported R.A.P.E."
+  },
+  {
+   "start": 7.920000076293945,
+   "end": 12.0,
+   "text": " allegations by women, less than 1% are false? There's another video in the series about false"
+  },
+  {
+   "start": 12.0,
+   "end": 15.84000015258789,
+   "text": " allegations, so if you didn't watch the previous videos, they are published right before this one."
+  },
+  {
+   "start": 15.84000015258789,
+   "end": 19.360000610351562,
+   "text": " So now let's talk about the actual false allegation number. In the UK Home Office"
+  },
+  {
+   "start": 19.360000610351562,
+   "end": 24.639999389648438,
+   "text": " study by Kelly, Lovett, and Reagan, there were 2,643 cases reported to police. Out of those cases,"
+  },
+  {
+   "start": 24.639999389648438,
+   "end": 30.239999771118164,
+   "text": " 216 were classified as false allegations. And here, the denominator matters. Out of all 2,643"
+  },
+  {
+   "start": 30.239999771118164,
+   "end": 36.08000183105469,
+   "text": " cases reported to police, those 216 cases amount to 8%. If we exclude cases with missing data and"
+  },
+  {
+   "start": 36.08000183105469,
+   "end": 41.91999816894531,
+   "text": " use the Cleaner Reported Cases dataset of 2,284 cases, then those same 216 cases amount to around"
+  },
+  {
+   "start": 41.91999816894531,
+   "end": 47.52000045776367,
+   "text": " 9.5%. And if we only look at the 1,817 cases that didn't proceed beyond the police stage,"
+  },
+  {
+   "start": 47.52000045776367,
+   "end": 52.31999969482422,
+   "text": " those same 216 cases amount to 12%. So already the claim less than 1% of reported"
+  },
+  {
+   "start": 52.31999969482422,
+   "end": 56.63999938964844,
+   "text": " allegations are false is not supported by this study. But before anyone runs away with the 8%,"
+  },
+  {
+   "start": 56.63999938964844,
+   "end": 61.84000015258789,
+   "text": " 9.5%, or 12% number, there's a very important caveat. These 216 cases were mostly police"
+  },
+  {
+   "start": 61.84000015258789,
+   "end": 65.91999816894531,
+   "text": " designated false allegations. They were not court findings. The reasons given included things like"
+  },
+  {
+   "start": 65.91999816894531,
+   "end": 70.63999938964844,
+   "text": " the complainant admitted the complaint was false, retractions, non-cooperation, or police decisions"
+  },
+  {
+   "start": 70.63999938964844,
+   "end": 74.63999938964844,
+   "text": " on evidential grounds. And the researchers were careful with that because police classification"
+  },
+  {
+   "start": 74.63999938964844,
+   "end": 78.4000015258789,
+   "text": " was not always consistent. If someone clearly and credibly admits that the complaint was false,"
+  },
+  {
+   "start": 78.4000015258789,
+   "end": 82.08000183105469,
+   "text": " that is one thing. But if the police classify something as false because of inconsistencies"
+  },
+  {
+   "start": 82.4800033569336,
+   "end": 86.72000122070312,
+   "text": " evidence, alcohol, mental health issues, previous allegations, or because the case just looks weak,"
+  },
+  {
+   "start": 86.72000122070312,
+   "end": 90.31999969482422,
+   "text": " that is much more complicated. The study also looked at possible motives in cases where the"
+  },
+  {
+   "start": 90.31999969482422,
+   "end": 94.55999755859375,
+   "text": " complainant admitted the allegation was false. Some were described as revenge, some were described"
+  },
+  {
+   "start": 94.55999755859375,
+   "end": 98.80000305175781,
+   "text": " as cover-up. For example, to get back at an ex for something, or to hide consensual intercourse"
+  },
+  {
+   "start": 98.80000305175781,
+   "end": 102.95999908447266,
+   "text": " with another man from a partner or parents. So yes, false allegations can happen for malicious"
+  },
+  {
+   "start": 102.95999908447266,
+   "end": 106.55999755859375,
+   "text": " reasons. But even the study says that simple words like revenge or cover-up do not fully"
+  },
+  {
+   "start": 106.55999755859375,
+   "end": 110.4800033569336,
+   "text": " capture how complicated some of these cases were. And this is also where I had to correct my own"
+  },
+  {
+   "start": 110.4800033569336,
+   "end": 114.87999725341797,
+   "text": " understanding. Because I used to think that if someone is accused of R.A.P.E., goes to court,"
+  },
+  {
+   "start": 114.87999725341797,
+   "end": 119.68000030517578,
+   "text": " and is acquitted, then that would be counted as a false allegation. But apparently, no. An acquittal"
+  },
+  {
+   "start": 119.68000030517578,
+   "end": 123.76000213623047,
+   "text": " does not mean the allegation was false. It means the prosecution did not prove guilt beyond reasonable"
+  },
+  {
+   "start": 123.76000213623047,
+   "end": 127.36000061035156,
+   "text": " doubt. That is not the same thing. A false allegation means the allegation is proven or"
+  },
+  {
+   "start": 127.36000061035156,
+   "end": 131.0399932861328,
+   "text": " at least reasonably established to be false. So in this study, acquittals were not counted as"
+  },
+  {
+   "start": 131.0399932861328,
+   "end": 134.55999755859375,
+   "text": " false allegations. Victim withdrawal was not automatically counted as false allegations."
+  },
+  {
+   "start": 134.55999755859375,
+   "end": 138.24000549316406,
+   "text": " Insufficient evidence was not automatically counted as false allegations. And honestly,"
+  },
+  {
+   "start": 138.24000549316406,
+   "end": 142.72000122070312,
+   "text": " that makes sense. Because if we counted every failed case as false, that would be messy statistics."
+  },
+  {
+   "start": 142.72000122070312,
+   "end": 147.0399932861328,
+   "text": " But at the same time, I think it is also reasonable to say this. Some cases in those other categories"
+  },
+  {
+   "start": 147.0399932861328,
+   "end": 150.8000030517578,
+   "text": " could potentially be false. Some acquittals could involve false allegations. Some withdrawal"
+  },
+  {
+   "start": 150.8000030517578,
+   "end": 154.32000732421875,
+   "text": " cases could involve false allegations. Some insufficient evidence cases could involve"
+  },
+  {
+   "start": 154.32000732421875,
+   "end": 158.16000366210938,
+   "text": " false allegations. But unless we have evidence, we cannot just move them into the false category."
+  },
+  {
+   "start": 158.16000366210938,
+   "end": 161.60000610351562,
+   "text": " So what did the researchers do? They looked more carefully at the police-designated false"
+  },
+  {
+   "start": 161.60000610351562,
+   "end": 165.1199951171875,
+   "text": " allegations and applied a stricter standard. Basically, they asked, is there a clear and"
+  },
+  {
+   "start": 165.1199951171875,
+   "end": 169.27999877929688,
+   "text": " credible admission? Or are there strong evidential grounds? Using that stricter approach, which brought"
+  },
+  {
+   "start": 169.27999877929688,
+   "end": 174.55999755859375,
+   "text": " the amount of cases from 216 down to 67, the false allegation rate came out around 3%."
+  },
+  {
+   "start": 174.55999755859375,
+   "end": 178.72000122070312,
+   "text": " So where does that leave us? The less than 1% claim is not supported by this study at all. If we"
+  },
+  {
+   "start": 178.72000122070312,
+   "end": 182.72000122070312,
+   "text": " apply the strict conservative approach, it would give us a false allegation rate of around 3%."
+  },
+  {
+   "start": 182.72000122070312,
+   "end": 186.39999389648438,
+   "text": " If we apply the police classification approach, it would give us a false allegation rate between 8%"
+  },
+  {
+   "start": 186.39999389648438,
+   "end": 191.1199951171875,
+   "text": " to 12%, depending on which denominator we use. And if we use a broader, less strict interpretation"
+  },
+  {
+   "start": 191.1199951171875,
+   "end": 194.8000030517578,
+   "text": " and assume that some acquittals, victim withdrawals, insufficient evidence, and other"
+  },
+  {
+   "start": 194.8000030517578,
+   "end": 198.16000366210938,
+   "text": " cases could also potentially include false allegations, then the false allegation rate"
+  },
+  {
+   "start": 198.16000366210938,
+   "end": 199.1999969482422,
+   "text": " could be even higher."
+  }
+ ]
+}

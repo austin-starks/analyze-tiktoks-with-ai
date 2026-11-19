@@ -1,0 +1,19 @@
+{
+ "id": "7666031724060495126",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "news",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Ines Garcia left a five-year boyfriend for Lamine Yamal after he messaged her",
+  "reason": "Fact-checks a viral celebrity rumor about specific people, rather than answering a claim about women generally",
+  "evidence_seconds": 79
+ },
+ "usage": {
+  "prompt_tokens": 4003,
+  "completion_tokens": 321,
+  "cost_usd": null
+ }
+}

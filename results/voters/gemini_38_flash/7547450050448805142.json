@@ -1,0 +1,19 @@
+{
+ "id": "7547450050448805142",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "borderline": false,
+  "claim_answered": "none",
+  "alternate_category": "none",
+  "evidence_seconds": 48,
+  "category": "misc",
+  "reason": "Relationship and breakup advice responding to a viewer scenario; answers no claim about men or women as a class."
+ },
+ "usage": {
+  "prompt_tokens": 3556,
+  "completion_tokens": 524,
+  "cost_usd": null
+ }
+}

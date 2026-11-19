@@ -1,0 +1,19 @@
+{
+ "id": "7627864437105495318",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "women",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Women are needy and clingy",
+  "reason": "Pushes back on a negative stereotype about women, even while noting both sexes can be healthy or unhealthy",
+  "evidence_seconds": 142
+ },
+ "usage": {
+  "prompt_tokens": 3890,
+  "completion_tokens": 354,
+  "cost_usd": null
+ }
+}

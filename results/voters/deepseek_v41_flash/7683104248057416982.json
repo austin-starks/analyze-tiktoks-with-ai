@@ -1,0 +1,19 @@
+{
+ "id": "7683104248057416982",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "100% of jobs lost in July were women's; zero men lost jobs",
+  "reason": "He mainly reports and praises another creator's fact-check and the original poster's graceful correction; no defense of men or women of his own.",
+  "evidence_seconds": 33
+ },
+ "usage": {
+  "prompt_tokens": 4065,
+  "completion_tokens": 669,
+  "cost_usd": null
+ }
+}

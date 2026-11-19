@@ -1,0 +1,19 @@
+{
+ "id": "7705847665971514656",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "debate",
+  "borderline": false,
+  "alternate_category": "women",
+  "claim_answered": "Brian Xu's critique of Ilyas's fact-check of his claim that women are better drivers",
+  "reason": "Direct reply to a creator who fact-checked and called out his earlier video on women as drivers.",
+  "evidence_seconds": 3
+ },
+ "usage": {
+  "prompt_tokens": 9219,
+  "completion_tokens": 212,
+  "cost_usd": null
+ }
+}

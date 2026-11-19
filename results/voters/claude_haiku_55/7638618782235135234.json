@@ -1,0 +1,19 @@
+{
+ "id": "7638618782235135234",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "Having a skin tone or color preference is weird or racist",
+  "reason": "General dating-preference advice answering a viewer question; no claim running down either sex, though he criticizes men who dismiss Black and Latina women.",
+  "evidence_seconds": 118
+ },
+ "usage": {
+  "prompt_tokens": 5539,
+  "completion_tokens": 213,
+  "cost_usd": null
+ }
+}

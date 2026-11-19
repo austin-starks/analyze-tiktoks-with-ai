@@ -1,0 +1,19 @@
+{
+ "id": "7604774069363281174",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "Men should spoil and worship women from the start to be desirable",
+  "reason": "Dating advice to men about self-respect and gifts; answers a dating-tactics claim, not a claim attacking men as a group.",
+  "evidence_seconds": 37
+ },
+ "usage": {
+  "prompt_tokens": 5516,
+  "completion_tokens": 210,
+  "cost_usd": null
+ }
+}

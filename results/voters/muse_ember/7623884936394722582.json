@@ -1,0 +1,19 @@
+{
+ "id": "7623884936394722582",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "women",
+  "borderline": true,
+  "category": "mixed",
+  "claim_answered": "Men are more emotional than women; women are gold diggers",
+  "evidence_seconds": 24,
+  "reason": "Answers two opposing claims, one blaming men for being emotional, one blaming women as gold diggers"
+ },
+ "usage": {
+  "prompt_tokens": 3511,
+  "completion_tokens": 5722,
+  "cost_usd": null
+ }
+}

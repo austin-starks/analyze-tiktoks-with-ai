@@ -1,0 +1,316 @@
+{
+ "text": "Did you know that when a man kills his partner, they get, on average, two to six years in prison? When a woman kills hers, even though 90% of those cases are self-defense or after abuse, she gets 12 to 15 years on average. So did you guys know that men apparently get two to six years for killing their partners, while women get 12 to 15? Well, that would be a shocking example of discrimination against women, right? There is just one little problem. The best government data I could find showed almost the exact opposite. The claim by this lady most probably comes from a 2006 American Civil Liberties Union fact sheet, which cites the National Coalition Against Domestic Violence from 1989. But that citation is just an organization name and a year. No study, no author, no data. Nothing you can actually check. So even though I can't say it with 100% confidence, this source looks made up or at the very least, unverifiable. Especially because the actual government data points in the opposite direction. The most directly relevant government comparison I found was published by the US Bureau of Justice Statistics in 1995. It examined 540 defendants accused of killing their spouses in the country's 75 largest urban counties. Wives accused of killing their husbands were less likely to be convicted. 70% compared with 87% of husbands. If convicted, they were also less likely to be sent to prison. 81% compared with 94%. And excluding life and death sentences, wives received an average prison sentence of six years. Husbands received 16 and a half years. So oddly enough, her numbers are close. She just put them next to the wrong sexes. We also have newer evidence. A 2007 peer-reviewed study examined 1,137 homicide convictions in Philadelphia between 1995 and 2000. It found that men convicted of intimate partner homicide were treated more severely than women at every stage examined. But what about her claim that 90% of women killed their partners in self-defense or following abuse? This also seems to come from the same ACLU fact sheet. Except the fact sheet doesn't actually say that 90% acted in self-defense. It says that as many as 90% of women imprisoned for killing men had previously been battered by those men. And its source is Boston Globe newspaper article from 1992. I actually found that article. It repeats the claim, but on the page containing it, there is no study, no sample, and no explanation of where the number came from. So again, I couldn't verify it. However, official data do suggest that there is some truth behind the broader point. In the Bureau of Justice Statistics study, 44% of female defendants had been physically assaulted or threatened with a weapon by their spouse at or around the time of the homicide. Among male defendants, that figure was only 10%. But those numbers are not directly comparable with the supposed 90% figure. One concerns violence around the homicide, while the other supposedly includes any previous history of abuse. And neither automatically proves that the killing legally qualified as self-defense. So yes, women who killed their husbands were considerably more likely to have been responding to immediate violence. But that doesn't rescue the video's central claim about sentencing. When we zoom out beyond partner homicide, the pattern still runs in the opposite direction. In 2023, the US Sentencing Commission examined more than 300,000 federal cases from 2017 through 2021. After controlling for available personal and offense characteristics, women received sentences that were, on average, 29% shorter than men's. They were also almost 40% more likely to receive probation. And even among people sent to prison, women received sentences around 11% shorter. That doesn't mean every individual case was fair or that abused women are never treated unjustly. But the most rigorous comparisons I found point in the opposite direction from her video. Men were more likely to be convicted, more likely to be imprisoned, and received substantially longer sentences. So her claim does not merely exaggerate the evidence. It reverses it, turning a documented sentencing disadvantage for men into supposed discrimination against women.",
+ "duration": 203.36000061035156,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.9200000762939453,
+   "text": " Did you know that when a man kills his partner, they get, on average, two to six years in prison?"
+  },
+  {
+   "start": 2.9200000762939453,
+   "end": 6.599999904632568,
+   "text": " When a woman kills hers, even though 90% of those cases are self-defense or after abuse,"
+  },
+  {
+   "start": 6.599999904632568,
+   "end": 8.800000190734863,
+   "text": " she gets 12 to 15 years on average."
+  },
+  {
+   "start": 8.800000190734863,
+   "end": 12.800000190734863,
+   "text": " So did you guys know that men apparently get two to six years for killing their partners,"
+  },
+  {
+   "start": 12.800000190734863,
+   "end": 14.5600004196167,
+   "text": " while women get 12 to 15?"
+  },
+  {
+   "start": 14.5600004196167,
+   "end": 18.079999923706055,
+   "text": " Well, that would be a shocking example of discrimination against women, right?"
+  },
+  {
+   "start": 18.079999923706055,
+   "end": 19.84000015258789,
+   "text": " There is just one little problem."
+  },
+  {
+   "start": 19.84000015258789,
+   "end": 23.31999969482422,
+   "text": " The best government data I could find showed almost the exact opposite."
+  },
+  {
+   "start": 23.31999969482422,
+   "end": 28.040000915527344,
+   "text": " The claim by this lady most probably comes from a 2006 American Civil Liberties Union fact sheet,"
+  },
+  {
+   "start": 28.040000915527344,
+   "end": 31.760000228881836,
+   "text": " which cites the National Coalition Against Domestic Violence from 1989."
+  },
+  {
+   "start": 31.760000228881836,
+   "end": 34.720001220703125,
+   "text": " But that citation is just an organization name and a year."
+  },
+  {
+   "start": 34.720001220703125,
+   "end": 36.63999938964844,
+   "text": " No study, no author, no data."
+  },
+  {
+   "start": 36.63999938964844,
+   "end": 37.959999084472656,
+   "text": " Nothing you can actually check."
+  },
+  {
+   "start": 37.959999084472656,
+   "end": 40.47999954223633,
+   "text": " So even though I can't say it with 100% confidence,"
+  },
+  {
+   "start": 40.47999954223633,
+   "end": 43.279998779296875,
+   "text": " this source looks made up or at the very least, unverifiable."
+  },
+  {
+   "start": 43.279998779296875,
+   "end": 46.63999938964844,
+   "text": " Especially because the actual government data points in the opposite direction."
+  },
+  {
+   "start": 46.63999938964844,
+   "end": 52.20000076293945,
+   "text": " The most directly relevant government comparison I found was published by the US Bureau of Justice Statistics in 1995."
+  },
+  {
+   "start": 52.20000076293945,
+   "end": 58.0,
+   "text": " It examined 540 defendants accused of killing their spouses in the country's 75 largest urban counties."
+  },
+  {
+   "start": 58.0,
+   "end": 61.279998779296875,
+   "text": " Wives accused of killing their husbands were less likely to be convicted."
+  },
+  {
+   "start": 61.279998779296875,
+   "end": 64.04000091552734,
+   "text": " 70% compared with 87% of husbands."
+  },
+  {
+   "start": 64.04000091552734,
+   "end": 66.95999908447266,
+   "text": " If convicted, they were also less likely to be sent to prison."
+  },
+  {
+   "start": 66.95999908447266,
+   "end": 69.12000274658203,
+   "text": " 81% compared with 94%."
+  },
+  {
+   "start": 69.12000274658203,
+   "end": 70.91999816894531,
+   "text": " And excluding life and death sentences,"
+  },
+  {
+   "start": 70.91999816894531,
+   "end": 73.68000030517578,
+   "text": " wives received an average prison sentence of six years."
+  },
+  {
+   "start": 73.68000030517578,
+   "end": 76.04000091552734,
+   "text": " Husbands received 16 and a half years."
+  },
+  {
+   "start": 76.04000091552734,
+   "end": 78.36000061035156,
+   "text": " So oddly enough, her numbers are close."
+  },
+  {
+   "start": 78.36000061035156,
+   "end": 80.19999694824219,
+   "text": " She just put them next to the wrong sexes."
+  },
+  {
+   "start": 80.19999694824219,
+   "end": 81.55999755859375,
+   "text": " We also have newer evidence."
+  },
+  {
+   "start": 81.5999984741211,
+   "end": 89.19999694824219,
+   "text": " A 2007 peer-reviewed study examined 1,137 homicide convictions in Philadelphia between 1995 and 2000."
+  },
+  {
+   "start": 89.19999694824219,
+   "end": 91.80000305175781,
+   "text": " It found that men convicted of intimate partner homicide"
+  },
+  {
+   "start": 91.80000305175781,
+   "end": 94.95999908447266,
+   "text": " were treated more severely than women at every stage examined."
+  },
+  {
+   "start": 94.95999908447266,
+   "end": 99.5199966430664,
+   "text": " But what about her claim that 90% of women killed their partners in self-defense or following abuse?"
+  },
+  {
+   "start": 99.5199966430664,
+   "end": 102.16000366210938,
+   "text": " This also seems to come from the same ACLU fact sheet."
+  },
+  {
+   "start": 102.16000366210938,
+   "end": 105.91999816894531,
+   "text": " Except the fact sheet doesn't actually say that 90% acted in self-defense."
+  },
+  {
+   "start": 105.91999816894531,
+   "end": 110.55999755859375,
+   "text": " It says that as many as 90% of women imprisoned for killing men had previously been battered by those men."
+  },
+  {
+   "start": 110.55999755859375,
+   "end": 113.72000122070312,
+   "text": " And its source is Boston Globe newspaper article from 1992."
+  },
+  {
+   "start": 113.72000122070312,
+   "end": 115.12000274658203,
+   "text": " I actually found that article."
+  },
+  {
+   "start": 115.12000274658203,
+   "end": 117.36000061035156,
+   "text": " It repeats the claim, but on the page containing it,"
+  },
+  {
+   "start": 117.36000061035156,
+   "end": 120.87999725341797,
+   "text": " there is no study, no sample, and no explanation of where the number came from."
+  },
+  {
+   "start": 120.87999725341797,
+   "end": 122.5999984741211,
+   "text": " So again, I couldn't verify it."
+  },
+  {
+   "start": 122.5999984741211,
+   "end": 126.72000122070312,
+   "text": " However, official data do suggest that there is some truth behind the broader point."
+  },
+  {
+   "start": 126.72000122070312,
+   "end": 128.24000549316406,
+   "text": " In the Bureau of Justice Statistics study,"
+  },
+  {
+   "start": 128.24000549316406,
+   "end": 132.63999938964844,
+   "text": " 44% of female defendants had been physically assaulted or threatened with a weapon by their spouse"
+  },
+  {
+   "start": 132.63999938964844,
+   "end": 134.36000061035156,
+   "text": " at or around the time of the homicide."
+  },
+  {
+   "start": 134.36000061035156,
+   "end": 136.63999938964844,
+   "text": " Among male defendants, that figure was only 10%."
+  },
+  {
+   "start": 136.63999938964844,
+   "end": 140.1999969482422,
+   "text": " But those numbers are not directly comparable with the supposed 90% figure."
+  },
+  {
+   "start": 140.1999969482422,
+   "end": 142.1999969482422,
+   "text": " One concerns violence around the homicide,"
+  },
+  {
+   "start": 142.1999969482422,
+   "end": 145.0399932861328,
+   "text": " while the other supposedly includes any previous history of abuse."
+  },
+  {
+   "start": 145.0399932861328,
+   "end": 148.63999938964844,
+   "text": " And neither automatically proves that the killing legally qualified as self-defense."
+  },
+  {
+   "start": 148.63999938964844,
+   "end": 153.67999267578125,
+   "text": " So yes, women who killed their husbands were considerably more likely to have been responding to immediate violence."
+  },
+  {
+   "start": 153.67999267578125,
+   "end": 156.39999389648438,
+   "text": " But that doesn't rescue the video's central claim about sentencing."
+  },
+  {
+   "start": 156.39999389648438,
+   "end": 160.60000610351562,
+   "text": " When we zoom out beyond partner homicide, the pattern still runs in the opposite direction."
+  },
+  {
+   "start": 160.60000610351562,
+   "end": 167.36000061035156,
+   "text": " In 2023, the US Sentencing Commission examined more than 300,000 federal cases from 2017 through 2021."
+  },
+  {
+   "start": 167.36000061035156,
+   "end": 170.16000366210938,
+   "text": " After controlling for available personal and offense characteristics,"
+  },
+  {
+   "start": 170.16000366210938,
+   "end": 174.1199951171875,
+   "text": " women received sentences that were, on average, 29% shorter than men's."
+  },
+  {
+   "start": 174.1199951171875,
+   "end": 176.9199981689453,
+   "text": " They were also almost 40% more likely to receive probation."
+  },
+  {
+   "start": 176.9199981689453,
+   "end": 180.9600067138672,
+   "text": " And even among people sent to prison, women received sentences around 11% shorter."
+  },
+  {
+   "start": 180.9600067138672,
+   "end": 185.39999389648438,
+   "text": " That doesn't mean every individual case was fair or that abused women are never treated unjustly."
+  },
+  {
+   "start": 185.39999389648438,
+   "end": 189.75999450683594,
+   "text": " But the most rigorous comparisons I found point in the opposite direction from her video."
+  },
+  {
+   "start": 189.75999450683594,
+   "end": 194.8000030517578,
+   "text": " Men were more likely to be convicted, more likely to be imprisoned, and received substantially longer sentences."
+  },
+  {
+   "start": 194.8000030517578,
+   "end": 197.47999572753906,
+   "text": " So her claim does not merely exaggerate the evidence."
+  },
+  {
+   "start": 197.47999572753906,
+   "end": 203.32000732421875,
+   "text": " It reverses it, turning a documented sentencing disadvantage for men into supposed discrimination against women."
+  }
+ ]
+}

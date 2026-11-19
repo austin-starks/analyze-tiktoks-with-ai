@@ -1,0 +1,19 @@
+{
+ "id": "7591050574699728150",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "misc",
+  "claim_answered": "none",
+  "evidence_seconds": 0,
+  "reason": "Viewer DM relationship advice; answers subscriber's question, no group claim about men or women"
+ },
+ "usage": {
+  "prompt_tokens": 4262,
+  "completion_tokens": 1750,
+  "cost_usd": null
+ }
+}

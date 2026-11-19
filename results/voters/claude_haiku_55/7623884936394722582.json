@@ -1,0 +1,19 @@
+{
+ "id": "7623884936394722582",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "mixed",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "Women are the more emotional sex, and women are gold diggers",
+  "reason": "Answers claims that run women down (emotional, gold diggers) and also notes men are emotional; both sexes addressed, with hypergamy as a symmetric point.",
+  "evidence_seconds": 27
+ },
+ "usage": {
+  "prompt_tokens": 5547,
+  "completion_tokens": 223,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7570818120030424342",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "A yacht, $20k a month, an investment gift and a degree are the \"bare minimum\" a man must provide",
+  "reason": "Pushes back on a demand that favors women at men's expense, mocking it as absurd entitlement",
+  "evidence_seconds": 27
+ },
+ "usage": {
+  "prompt_tokens": 4160,
+  "completion_tokens": 503,
+  "cost_usd": null
+ }
+}

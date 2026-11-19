@@ -1,0 +1,19 @@
+{
+ "id": "7667995338246065430",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Reacts to a politician reading AI editing notes; gives general AI-use advice, answering no claim about men or women.",
+  "evidence_seconds": 34
+ },
+ "usage": {
+  "prompt_tokens": 3991,
+  "completion_tokens": 195,
+  "cost_usd": null
+ }
+}

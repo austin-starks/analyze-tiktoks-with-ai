@@ -1,0 +1,19 @@
+{
+ "id": "7678743302727798038",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "evidence_seconds": 126,
+  "borderline": false,
+  "reason": "Pushes back on a sensationalized viral claim painting men as routinely abandoning sick wives",
+  "category": "men",
+  "alternate_category": "none",
+  "claim_answered": "Men are 624% more likely to leave a sick wife"
+ },
+ "usage": {
+  "prompt_tokens": 4063,
+  "completion_tokens": 298,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7608533378714832150",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "A boyfriend asks whether being bothered by a girlfriend's revealing photos is a boundary or insecurity",
+  "reason": "Mostly a relationship-advice Q&A from a viewer DM; no claim about men or women in general is answered, though it leans toward defending the man's boundary.",
+  "evidence_seconds": 145
+ },
+ "usage": {
+  "prompt_tokens": 6354,
+  "completion_tokens": 239,
+  "cost_usd": null
+ }
+}

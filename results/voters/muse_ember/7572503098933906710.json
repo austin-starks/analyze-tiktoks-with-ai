@@ -1,0 +1,19 @@
+{
+ "id": "7572503098933906710",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "men",
+  "claim_answered": "Men are pests designed to be pests",
+  "evidence_seconds": 18,
+  "reason": "Pushes back on claim that men are pests, defending men against open hate"
+ },
+ "usage": {
+  "prompt_tokens": 3057,
+  "completion_tokens": 1999,
+  "cost_usd": null
+ }
+}

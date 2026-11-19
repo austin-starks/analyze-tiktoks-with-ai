@@ -1,0 +1,19 @@
+{
+ "id": "7684980915482660128",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "mixed",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "Hating men is like hating your bully, not prejudice",
+  "evidence_seconds": 15,
+  "reason": "Pushes back on claim that hating men is justified, calling it sexist prejudice"
+ },
+ "usage": {
+  "prompt_tokens": 3500,
+  "completion_tokens": 3988,
+  "cost_usd": null
+ }
+}

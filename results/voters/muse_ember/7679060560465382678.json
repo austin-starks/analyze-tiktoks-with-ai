@@ -1,0 +1,19 @@
+{
+ "id": "7679060560465382678",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "men",
+  "claim_answered": "Men want younger, less experienced, financially dependent women, not equals",
+  "evidence_seconds": 22,
+  "reason": "Pushes back on claim that men seek young dependent women and reject equals"
+ },
+ "usage": {
+  "prompt_tokens": 3356,
+  "completion_tokens": 3184,
+  "cost_usd": null
+ }
+}

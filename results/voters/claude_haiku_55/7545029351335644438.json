@@ -1,0 +1,19 @@
+{
+ "id": "7545029351335644438",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "Long distance relationships fail, and a girlfriend being carried by another guy shows disrespect or cheating",
+  "reason": "Relationship advice answering a viewer's question; no claim about men or women as a group, though it leans on blaming the girlfriend.",
+  "evidence_seconds": 56
+ },
+ "usage": {
+  "prompt_tokens": 5325,
+  "completion_tokens": 226,
+  "cost_usd": null
+ }
+}

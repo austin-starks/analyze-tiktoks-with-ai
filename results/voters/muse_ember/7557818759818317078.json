@@ -1,0 +1,19 @@
+{
+ "id": "7557818759818317078",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "mixed",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "No amount of money could make her date an ugly man",
+  "evidence_seconds": 29,
+  "reason": "Pushes back on claim that ugly men are unattractive, defending men's value beyond looks"
+ },
+ "usage": {
+  "prompt_tokens": 3076,
+  "completion_tokens": 6949,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7547365430298610966",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Motivational dating advice urging men to move on after rejection; it answers no claim about a sex.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 3206,
+  "completion_tokens": 154,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "id": "7653829861491887382",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "alternate_category": "men",
+  "evidence_seconds": 33,
+  "category": "misc",
+  "borderline": true,
+  "claim_answered": "Domestic violence increases 26% when England plays, 38% if they lose, and 11% the day after.",
+  "reason": "Rule 3: he fact-checks a football domestic-violence statistic rather than a claim about men or women, and agrees with it."
+ },
+ "usage": {
+  "prompt_tokens": 3380,
+  "completion_tokens": 3140,
+  "cost_usd": null
+ }
+}

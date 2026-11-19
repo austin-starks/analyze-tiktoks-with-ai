@@ -1,0 +1,19 @@
+{
+ "id": "7578085437475015958",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "misc",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "Women end up with nonchalant men who change after six months through no fault of their own",
+  "evidence_seconds": 20,
+  "reason": "Pushes back on claim blaming men for becoming negligent, saying women choose and ignore red flags"
+ },
+ "usage": {
+  "prompt_tokens": 3159,
+  "completion_tokens": 3599,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7549233282337049879",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "misc",
+  "claim_answered": "none",
+  "evidence_seconds": 0,
+  "reason": "Reddit relationship advice to leave girlfriend; no general claim about men or women answered"
+ },
+ "usage": {
+  "prompt_tokens": 3652,
+  "completion_tokens": 2897,
+  "cost_usd": null
+ }
+}

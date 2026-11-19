@@ -1,0 +1,19 @@
+{
+ "id": "7618963692230577430",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men are not good at anything and are to blame for her pregnancy-related grievances",
+  "reason": "Pushes back on a misandrist claim that disparages men and blames them for her problems",
+  "evidence_seconds": 38
+ },
+ "usage": {
+  "prompt_tokens": 3340,
+  "completion_tokens": 241,
+  "cost_usd": null
+ }
+}

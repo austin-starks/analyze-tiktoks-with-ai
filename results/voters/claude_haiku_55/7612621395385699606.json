@@ -1,0 +1,19 @@
+{
+ "id": "7612621395385699606",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "Most men are the same: silent men who laugh or stay quiet at a sexual joke are complicit in harassment",
+  "reason": "Pushes back on a claim that runs men down and collectively blames men for harassment; rejects collective guilt.",
+  "evidence_seconds": 56
+ },
+ "usage": {
+  "prompt_tokens": 5770,
+  "completion_tokens": 220,
+  "cost_usd": null
+ }
+}

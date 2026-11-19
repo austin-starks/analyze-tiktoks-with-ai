@@ -1,0 +1,19 @@
+{
+ "id": "7601097591316663574",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "A man says men's biological clock ends at 30 and men who haven't had kids by then have lost",
+  "reason": "Rebuts a claim that runs men down as losers past 30; defends men's worth and timeline, though it leans into self-improvement advice.",
+  "evidence_seconds": 18
+ },
+ "usage": {
+  "prompt_tokens": 5558,
+  "completion_tokens": 224,
+  "cost_usd": null
+ }
+}

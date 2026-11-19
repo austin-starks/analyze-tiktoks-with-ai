@@ -1,0 +1,19 @@
+{
+ "id": "7586289526906162454",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "evidence_seconds": 10,
+  "category": "men",
+  "reason": "Pushes back on a widespread relationship narrative that favors women at men's financial expense.",
+  "borderline": true,
+  "claim_answered": "My money is my money, and your money is our money",
+  "alternate_category": "misc"
+ },
+ "usage": {
+  "prompt_tokens": 3520,
+  "completion_tokens": 1311,
+  "cost_usd": null
+ }
+}

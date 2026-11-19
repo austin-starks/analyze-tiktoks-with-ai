@@ -1,0 +1,19 @@
+{
+ "id": "7661962241939442976",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "evidence_seconds": 15,
+  "borderline": true,
+  "reason": "Pushes back on a narrative downplaying men's workplace fatality disadvantage and misrepresenting workplace homicide statistics.",
+  "alternate_category": "mixed",
+  "category": "men",
+  "claim_answered": "The leading cause of workplace fatalities for women is homicide"
+ },
+ "usage": {
+  "prompt_tokens": 4005,
+  "completion_tokens": 5839,
+  "cost_usd": null
+ }
+}

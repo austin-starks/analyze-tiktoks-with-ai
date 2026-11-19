@@ -1,0 +1,19 @@
+{
+ "id": "7628495397496818966",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "mixed",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "Competition between women is manufactured by the system, not natural; women collaborate better than men",
+  "reason": "Answers a claim favoring women without directly running men down, replying that competition is universal to both sexes.",
+  "evidence_seconds": 35
+ },
+ "usage": {
+  "prompt_tokens": 3843,
+  "completion_tokens": 936,
+  "cost_usd": null
+ }
+}

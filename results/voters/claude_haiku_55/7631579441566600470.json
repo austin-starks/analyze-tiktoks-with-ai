@@ -1,0 +1,19 @@
+{
+ "id": "7631579441566600470",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Not all men are bad; the \"not all men\" defense is a generalization that unfairly condemns the whole group of men",
+  "reason": "Pushes back on the \"all men are bad\" framing of the Whopper analogy, defending men as a group while agreeing some are bad.",
+  "evidence_seconds": 46
+ },
+ "usage": {
+  "prompt_tokens": 4923,
+  "completion_tokens": 229,
+  "cost_usd": null
+ }
+}

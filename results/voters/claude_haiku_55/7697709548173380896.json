@@ -1,0 +1,19 @@
+{
+ "id": "7697709548173380896",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "debate",
+  "borderline": false,
+  "alternate_category": "women",
+  "claim_answered": "Women are better drivers than men, based on per-capita and per-mile crash death statistics and insurance pricing",
+  "reason": "Responds to another creator's video that argued women are better drivers; this is his fact-check reply to that creator's arguments.",
+  "evidence_seconds": 10
+ },
+ "usage": {
+  "prompt_tokens": 7738,
+  "completion_tokens": 222,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "id": "7645259932840807702",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "category": "mixed",
+  "reason": "Rule 2: the claim attacks neither sex, and he compares both sexes' paths to explain the dating double standard.",
+  "evidence_seconds": 76,
+  "claim_answered": "Body count does not matter because people can lie about it, and why it is viewed differently by sex.",
+  "borderline": true,
+  "alternate_category": "men"
+ },
+ "usage": {
+  "prompt_tokens": 4471,
+  "completion_tokens": 4031,
+  "cost_usd": null
+ }
+}

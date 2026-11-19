@@ -1,0 +1,19 @@
+{
+ "id": "7692216346959990049",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "news",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "none",
+  "reason": "Part 3 of an ongoing Cornell case series covering the AG takeover, lawsuit discrepancies, and investigation outcomes; no claim about men or women in general.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 6844,
+  "completion_tokens": 208,
+  "cost_usd": null
+ }
+}

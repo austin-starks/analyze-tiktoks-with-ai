@@ -1,0 +1,19 @@
+{
+ "id": "7679060560465382678",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Men choosing the 18-year-old show they want younger, dependent women who give them an upper hand",
+  "reason": "Rebuts a viral claim that runs men down as wanting submissive, dependent women; explains the Russian game trend.",
+  "evidence_seconds": 26
+ },
+ "usage": {
+  "prompt_tokens": 5320,
+  "completion_tokens": 219,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7549579455543528726",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "Men who failed with women in school or are older think it's over for them",
+  "reason": "Motivational dating and self-improvement advice aimed at men; no claim that runs down or blames men or women.",
+  "evidence_seconds": 6
+ },
+ "usage": {
+  "prompt_tokens": 5115,
+  "completion_tokens": 203,
+  "cost_usd": null
+ }
+}

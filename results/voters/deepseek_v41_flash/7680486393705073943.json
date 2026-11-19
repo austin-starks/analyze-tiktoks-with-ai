@@ -1,0 +1,19 @@
+{
+ "id": "7680486393705073943",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "All wars have been started by men (men start wars, women don't)",
+  "reason": "Pushes back on a claim that runs men down by blaming them for war, citing Catherine the Great and queen-vs-king data.",
+  "evidence_seconds": 17
+ },
+ "usage": {
+  "prompt_tokens": 3742,
+  "completion_tokens": 347,
+  "cost_usd": null
+ }
+}

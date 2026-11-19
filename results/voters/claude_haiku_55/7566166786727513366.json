@@ -1,0 +1,19 @@
+{
+ "id": "7566166786727513366",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "Pretty women get screwed over because men are insecure and can't handle their beauty",
+  "reason": "Pushes back on a claim that runs men down as insecure and blames them for women's relationship losses, saying the problem is women's choices.",
+  "evidence_seconds": 34
+ },
+ "usage": {
+  "prompt_tokens": 4947,
+  "completion_tokens": 217,
+  "cost_usd": null
+ }
+}

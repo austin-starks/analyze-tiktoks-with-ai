@@ -1,0 +1,18 @@
+{
+ "id": "7562866438080335126",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "claim_answered": "none",
+  "borderline": true,
+  "category": "misc",
+  "evidence_seconds": 75,
+  "alternate_category": "men",
+  "reason": "Gives dating advice about partner gratitude reacting to a clip, answering no general claim about men or women (misc rule)."
+ },
+ "usage": {
+  "prompt_tokens": 3187,
+  "completion_tokens": 1428,
+  "cost_usd": null
+ }
+}

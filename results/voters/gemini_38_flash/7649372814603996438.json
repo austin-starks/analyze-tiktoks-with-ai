@@ -1,0 +1,19 @@
+{
+ "id": "7649372814603996438",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "evidence_seconds": 0,
+  "category": "misc",
+  "borderline": true,
+  "claim_answered": "none",
+  "reason": "Historical overview of the first wave of feminism that answers no claim about men or women.",
+  "alternate_category": "politics"
+ },
+ "usage": {
+  "prompt_tokens": 4082,
+  "completion_tokens": 3943,
+  "cost_usd": null
+ }
+}

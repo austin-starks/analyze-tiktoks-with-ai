@@ -1,0 +1,19 @@
+{
+ "id": "7584011292604665110",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "A wife's dismissive, controlling conduct toward her husband's questions is disrespect that should have been seen before marriage",
+  "reason": "No opposing sex-claim is rebutted; video is relationship advice centered on a husband being disrespected, defending the husband's position.",
+  "evidence_seconds": 39
+ },
+ "usage": {
+  "prompt_tokens": 5245,
+  "completion_tokens": 231,
+  "cost_usd": null
+ }
+}

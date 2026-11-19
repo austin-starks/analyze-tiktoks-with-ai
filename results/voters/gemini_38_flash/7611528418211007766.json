@@ -1,0 +1,19 @@
+{
+ "id": "7611528418211007766",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "reason": "General dating and relationship advice for men on setting relationship standards, answering no specific claim.",
+  "evidence_seconds": 79,
+  "claim_answered": "none",
+  "alternate_category": "men"
+ },
+ "usage": {
+  "prompt_tokens": 3865,
+  "completion_tokens": 645,
+  "cost_usd": null
+ }
+}

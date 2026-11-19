@@ -1,0 +1,18 @@
+{
+ "id": "7587384055411248406",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "borderline": true,
+  "evidence_seconds": 43,
+  "reason": "Rule 3: General relationship advice on love, attachment, and leaving unfulfilling relationships, answering no gender claim about men or women.",
+  "category": "misc",
+  "claim_answered": "Staying in a relationship where needs aren't met can still be deep, mutual love.",
+  "alternate_category": "mixed"
+ },
+ "usage": {
+  "prompt_tokens": 3093,
+  "completion_tokens": 2644,
+  "cost_usd": null
+ }
+}

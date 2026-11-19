@@ -1,0 +1,19 @@
+{
+ "id": "7557303830577302806",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "Turning 30 is the end for a man; life peaks by 30-35",
+  "reason": "Motivational self-improvement advice for men about aging; no claim attacking men's or women's character is rebutted.",
+  "evidence_seconds": 20
+ },
+ "usage": {
+  "prompt_tokens": 3561,
+  "completion_tokens": 487,
+  "cost_usd": null
+ }
+}

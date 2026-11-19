@@ -1,0 +1,19 @@
+{
+ "id": "7599940000641355031",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "mixed",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Women cheat emotionally more than men, while men cheat physically more",
+  "reason": "Weighs a comparison claim about both sexes and finds cheating roughly equal overall; blames neither sex",
+  "evidence_seconds": 135
+ },
+ "usage": {
+  "prompt_tokens": 3697,
+  "completion_tokens": 420,
+  "cost_usd": null
+ }
+}

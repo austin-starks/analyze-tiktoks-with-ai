@@ -1,0 +1,19 @@
+{
+ "id": "7638618782235135234",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "alternate_category": "none",
+  "evidence_seconds": 118,
+  "reason": "Viewer Q&A giving dating advice on attraction preferences; answers no claim attacking either sex",
+  "borderline": false,
+  "claim_answered": "Having a skin tone or dating preference is racist",
+  "category": "misc"
+ },
+ "usage": {
+  "prompt_tokens": 3724,
+  "completion_tokens": 808,
+  "cost_usd": null
+ }
+}

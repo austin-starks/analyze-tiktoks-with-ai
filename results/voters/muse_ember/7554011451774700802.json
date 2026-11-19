@@ -1,0 +1,19 @@
+{
+ "id": "7554011451774700802",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "men",
+  "claim_answered": "Men are atrocious and 95% cannot meet women's relational needs",
+  "evidence_seconds": 39,
+  "reason": "He rebuts blanket condemnation of men, arguing most men are ignored while top 20% become arrogant from attention"
+ },
+ "usage": {
+  "prompt_tokens": 3194,
+  "completion_tokens": 4529,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7672349795750579458",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "reason": "Addresses arguments regarding capitalism versus socialism and economic value of labor",
+  "category": "politics",
+  "claim_answered": "CEO pay and vacations prove capitalism is fundamentally unfair and justify socialism",
+  "evidence_seconds": 44,
+  "alternate_category": "none",
+  "borderline": false
+ },
+ "usage": {
+  "prompt_tokens": 3992,
+  "completion_tokens": 350,
+  "cost_usd": null
+ }
+}

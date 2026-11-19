@@ -1,0 +1,19 @@
+{
+ "id": "7636138868969917718",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "debate",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "SimpleBlackTheory's critique of his argument about pregnancy mortality denominators",
+  "reason": "Replies to a creator who responded to his earlier video, addressing the creator's objections.",
+  "evidence_seconds": 44
+ },
+ "usage": {
+  "prompt_tokens": 3613,
+  "completion_tokens": 119,
+  "cost_usd": null
+ }
+}

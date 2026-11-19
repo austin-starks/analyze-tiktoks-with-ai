@@ -1,0 +1,19 @@
+{
+ "id": "7607362733360581910",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Viewer DM about a friend's relationship; general dating advice and self-improvement, answers no claim about men or women.",
+  "evidence_seconds": 206
+ },
+ "usage": {
+  "prompt_tokens": 4306,
+  "completion_tokens": 169,
+  "cost_usd": null
+ }
+}

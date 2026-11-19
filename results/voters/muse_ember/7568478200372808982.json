@@ -1,0 +1,19 @@
+{
+ "id": "7568478200372808982",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "men",
+  "claim_answered": "If he wanted to, he would",
+  "evidence_seconds": 23,
+  "reason": "Rebuts slogan implying men who don't act simply don't want to, defending men's effort and ability"
+ },
+ "usage": {
+  "prompt_tokens": 3124,
+  "completion_tokens": 5254,
+  "cost_usd": null
+ }
+}

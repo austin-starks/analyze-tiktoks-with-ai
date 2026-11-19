@@ -1,0 +1,19 @@
+{
+ "id": "7634545977998724374",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "politics",
+  "borderline": true,
+  "alternate_category": "news",
+  "claim_answered": "Europe just passed a new \"yes means yes\" consent law",
+  "reason": "Explains an EU legislative vote and procedure; policy explainer, no claim about men or women.",
+  "evidence_seconds": 46
+ },
+ "usage": {
+  "prompt_tokens": 3931,
+  "completion_tokens": 362,
+  "cost_usd": null
+ }
+}

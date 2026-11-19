@@ -1,0 +1,19 @@
+{
+ "id": "7656886802686463254",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "debate",
+  "borderline": false,
+  "alternate_category": "women",
+  "claim_answered": "Every man accused of rape denies it, and false accusations by women are under 1%",
+  "reason": "Reply to another creator's argument; the video answers that creator's claims, which is the debate rule.",
+  "evidence_seconds": 38
+ },
+ "usage": {
+  "prompt_tokens": 5750,
+  "completion_tokens": 205,
+  "cost_usd": null
+ }
+}

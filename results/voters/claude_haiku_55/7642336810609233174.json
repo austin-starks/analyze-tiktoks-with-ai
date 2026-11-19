@@ -1,0 +1,19 @@
+{
+ "id": "7642336810609233174",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "debate",
+  "claim_answered": "5 in 10 men badgered a woman until she changed her answer",
+  "reason": "Rebuts a claim that runs men down as sexual pressurers, arguing the study item is broader than presented; responds to a creator named Professor Neil.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 6913,
+  "completion_tokens": 220,
+  "cost_usd": null
+ }
+}

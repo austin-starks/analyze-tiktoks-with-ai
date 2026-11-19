@@ -1,0 +1,19 @@
+{
+ "id": "7642622501578722582",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "His sisters claim men are evil, and he feels disliked for being male",
+  "reason": "He responds to a claim that runs men down and validates the man's concern with boundaries and independence.",
+  "evidence_seconds": 12
+ },
+ "usage": {
+  "prompt_tokens": 3419,
+  "completion_tokens": 73,
+  "cost_usd": null
+ }
+}

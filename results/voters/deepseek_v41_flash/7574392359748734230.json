@@ -1,0 +1,19 @@
+{
+ "id": "7574392359748734230",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Getting rejected 7 times and still chasing is persistence; \"no doesn't mean never\"",
+  "reason": "He answers by arguing the woman only settled after dating others and her options dried up — a negative claim about women's motives.",
+  "evidence_seconds": 76
+ },
+ "usage": {
+  "prompt_tokens": 3770,
+  "completion_tokens": 2954,
+  "cost_usd": null
+ }
+}

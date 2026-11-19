@@ -1,0 +1,19 @@
+{
+ "id": "7560257735502155030",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Every guy should start in jail and earn his way out",
+  "reason": "Answers a claim that treats men as presumptive offenders needing to earn their place; he partly agrees but reframes it as self-improvement.",
+  "evidence_seconds": 12
+ },
+ "usage": {
+  "prompt_tokens": 3340,
+  "completion_tokens": 373,
+  "cost_usd": null
+ }
+}

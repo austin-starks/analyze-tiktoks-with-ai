@@ -1,0 +1,19 @@
+{
+ "id": "7565797638583454998",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "Women will choose whichever man spends money on them; \"he doesn't have to, but I'll choose the one who wants to\"",
+  "reason": "Rebuts a woman's transactional claim, calling it gold-digging and manipulation; it runs women down rather than men.",
+  "evidence_seconds": 26
+ },
+ "usage": {
+  "prompt_tokens": 4914,
+  "completion_tokens": 226,
+  "cost_usd": null
+ }
+}

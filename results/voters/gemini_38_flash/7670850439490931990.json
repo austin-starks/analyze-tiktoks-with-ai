@@ -1,0 +1,19 @@
+{
+ "id": "7670850439490931990",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "politics",
+  "borderline": true,
+  "evidence_seconds": 161,
+  "claim_answered": "White people commit more violent crimes than Black people without accounting for per capita",
+  "reason": "Addresses a political debate over racial crime statistics and per capita rates.",
+  "alternate_category": "misc"
+ },
+ "usage": {
+  "prompt_tokens": 4034,
+  "completion_tokens": 1623,
+  "cost_usd": null
+ }
+}

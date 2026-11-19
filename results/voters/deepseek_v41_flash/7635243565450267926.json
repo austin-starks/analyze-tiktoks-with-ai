@@ -1,0 +1,19 @@
+{
+ "id": "7635243565450267926",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "It's fine to hate men as a gender while dating one man",
+  "reason": "Answers a claim that runs men down and justifies judging men by gender; framed as viewer dating advice",
+  "evidence_seconds": 75
+ },
+ "usage": {
+  "prompt_tokens": 3732,
+  "completion_tokens": 317,
+  "cost_usd": null
+ }
+}

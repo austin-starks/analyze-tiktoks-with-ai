@@ -1,0 +1,19 @@
+{
+ "id": "7670850439490931990",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "politics",
+  "borderline": true,
+  "category": "misc",
+  "claim_answered": "Black people commit most violent crimes per capita",
+  "evidence_seconds": 2,
+  "reason": "Mainly reacts to and reads comments mocking SBT; race crime claim is not about men or women"
+ },
+ "usage": {
+  "prompt_tokens": 3747,
+  "completion_tokens": 5946,
+  "cost_usd": null
+ }
+}

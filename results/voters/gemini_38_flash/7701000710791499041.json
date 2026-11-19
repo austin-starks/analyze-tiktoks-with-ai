@@ -1,0 +1,19 @@
+{
+ "id": "7701000710791499041",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "claim_answered": "France's riots were organized by Islamists or the radical left",
+  "evidence_seconds": 29,
+  "borderline": true,
+  "reason": "Covers an ongoing riot and explains who participated across different stages of the unrest.",
+  "alternate_category": "politics",
+  "category": "news"
+ },
+ "usage": {
+  "prompt_tokens": 7389,
+  "completion_tokens": 746,
+  "cost_usd": null
+ }
+}

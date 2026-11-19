@@ -1,0 +1,19 @@
+{
+ "id": "7582842304193383702",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Boyfriends should prove themselves by agreeing to relocate for her career and take her last name",
+  "reason": "Pushes back on relationship advice that pressures men to sacrifice their careers and identity to satisfy women",
+  "evidence_seconds": 62
+ },
+ "usage": {
+  "prompt_tokens": 3192,
+  "completion_tokens": 343,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7704328708034661664",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Mainly discusses his own TikTok disqualification, appeal, and account restrictions; the creator dispute is secondary.",
+  "evidence_seconds": 27
+ },
+ "usage": {
+  "prompt_tokens": 3969,
+  "completion_tokens": 377,
+  "cost_usd": null
+ }
+}

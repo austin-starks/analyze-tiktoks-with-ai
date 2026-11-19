@@ -1,0 +1,19 @@
+{
+ "id": "7654215200115133718",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "mixed",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "Every issue that predominantly affects men is self-inflicted",
+  "evidence_seconds": 15,
+  "reason": "Pushes back on claim blaming men for men's problems and denying men's disadvantages"
+ },
+ "usage": {
+  "prompt_tokens": 3813,
+  "completion_tokens": 3001,
+  "cost_usd": null
+ }
+}

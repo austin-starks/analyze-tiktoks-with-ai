@@ -1,0 +1,19 @@
+{
+ "id": "7609645328962161942",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "men",
+  "claim_answered": "Women don't choose bad men; men hide who they are until comfortable",
+  "evidence_seconds": 0,
+  "reason": "Pushes back on claim blaming men for women's bad choices, defending men"
+ },
+ "usage": {
+  "prompt_tokens": 2968,
+  "completion_tokens": 3516,
+  "cost_usd": null
+ }
+}

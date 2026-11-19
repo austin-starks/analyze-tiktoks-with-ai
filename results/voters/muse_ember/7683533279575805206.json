@@ -1,0 +1,19 @@
+{
+ "id": "7683533279575805206",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "politics",
+  "claim_answered": "AfD just took over Germany",
+  "evidence_seconds": 165,
+  "reason": "Explains German state election result, seats, firewall and government formation; politics, not men/women claim"
+ },
+ "usage": {
+  "prompt_tokens": 3982,
+  "completion_tokens": 1614,
+  "cost_usd": null
+ }
+}

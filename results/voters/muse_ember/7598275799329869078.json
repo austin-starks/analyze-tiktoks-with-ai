@@ -1,0 +1,19 @@
+{
+ "id": "7598275799329869078",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "men",
+  "borderline": true,
+  "category": "misc",
+  "claim_answered": "Asking a married porn star for a date is inappropriate and pressuring",
+  "evidence_seconds": 77,
+  "reason": "Mainly dating advice warning men not to get attached to women with adult-industry past, not defending a sex against a general claim"
+ },
+ "usage": {
+  "prompt_tokens": 3575,
+  "completion_tokens": 8602,
+  "cost_usd": null
+ }
+}

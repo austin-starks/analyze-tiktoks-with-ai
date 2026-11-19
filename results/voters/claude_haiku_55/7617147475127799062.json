@@ -1,0 +1,19 @@
+{
+ "id": "7617147475127799062",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Men claim women go on dates just for free meals",
+  "reason": "Rebuts a claim that women are gold-diggers using men for free dinners; it runs women down, so it is women-defending... see note",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 5653,
+  "completion_tokens": 206,
+  "cost_usd": null
+ }
+}

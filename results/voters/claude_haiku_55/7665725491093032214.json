@@ -1,0 +1,19 @@
+{
+ "id": "7665725491093032214",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "debate",
+  "borderline": false,
+  "alternate_category": "politics",
+  "claim_answered": "Simple Black Theory's claim that Mamdani's NYC rent freeze proved the rent control example wrong",
+  "reason": "Reply to a creator (Simple Black Theory) who responded to his earlier rent control video; the reply covers his arguments.",
+  "evidence_seconds": 6
+ },
+ "usage": {
+  "prompt_tokens": 6335,
+  "completion_tokens": 228,
+  "cost_usd": null
+ }
+}

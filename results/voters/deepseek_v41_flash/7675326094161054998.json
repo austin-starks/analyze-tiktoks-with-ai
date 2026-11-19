@@ -1,0 +1,19 @@
+{
+ "id": "7675326094161054998",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "mixed",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "Men should get an equal say in abortion, and fathers should owe full child support",
+  "reason": "He answers claims on both sides: women's bodily autonomy decides abortion, while men who refused parenthood early shouldn't owe full support.",
+  "evidence_seconds": 36
+ },
+ "usage": {
+  "prompt_tokens": 3909,
+  "completion_tokens": 1010,
+  "cost_usd": null
+ }
+}

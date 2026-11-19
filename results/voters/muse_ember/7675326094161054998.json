@@ -1,0 +1,19 @@
+{
+ "id": "7675326094161054998",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "men",
+  "borderline": true,
+  "category": "mixed",
+  "claim_answered": "Should a man pay for a child he never wanted if woman continues pregnancy",
+  "evidence_seconds": 48,
+  "reason": "He answers both sides, giving woman final abortion say and father opt-out with minimum support"
+ },
+ "usage": {
+  "prompt_tokens": 3536,
+  "completion_tokens": 5290,
+  "cost_usd": null
+ }
+}

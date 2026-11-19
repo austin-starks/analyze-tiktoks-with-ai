@@ -1,0 +1,19 @@
+{
+ "id": "7670542475307552022",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "Women were built only to make babies, and menopause shows women's purpose is passing on knowledge, while men were built only to procreate",
+  "reason": "Rejects a reductive claim about women's purpose and the claim that men are just built to procreate; his stance defends women against reducing them to reproduction, with a reply that also reverses it to men.",
+  "evidence_seconds": 24
+ },
+ "usage": {
+  "prompt_tokens": 5532,
+  "completion_tokens": 249,
+  "cost_usd": null
+ }
+}

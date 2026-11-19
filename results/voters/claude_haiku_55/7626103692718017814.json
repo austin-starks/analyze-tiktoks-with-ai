@@ -1,0 +1,19 @@
+{
+ "id": "7626103692718017814",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "mixed",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "Women are dramatic and overreact more than men",
+  "reason": "Answers a claim about both sexes' emotional behavior; concludes both can be dramatic, blaming neither sex.",
+  "evidence_seconds": 107
+ },
+ "usage": {
+  "prompt_tokens": 5200,
+  "completion_tokens": 204,
+  "cost_usd": null
+ }
+}

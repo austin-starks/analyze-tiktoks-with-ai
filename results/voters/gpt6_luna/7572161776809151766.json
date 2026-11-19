@@ -1,0 +1,19 @@
+{
+ "id": "7572161776809151766",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Women today expect too much while giving little back",
+  "reason": "He counters the criticism of women by arguing men helped create the dynamic through paying for fake intimacy.",
+  "evidence_seconds": 77
+ },
+ "usage": {
+  "prompt_tokens": 3121,
+  "completion_tokens": 431,
+  "cost_usd": null
+ }
+}

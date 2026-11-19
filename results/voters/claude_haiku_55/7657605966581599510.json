@@ -1,0 +1,19 @@
+{
+ "id": "7657605966581599510",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Under 1% of reported rape allegations by women are false",
+  "reason": "Rebuts a claim that rape allegations are almost never false; the claim favors women's accusations, so this is not a defense of women's reputation. Borderline between women and mixed.",
+  "evidence_seconds": 7
+ },
+ "usage": {
+  "prompt_tokens": 5956,
+  "completion_tokens": 225,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7651601979113819414",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "politics",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "If hard work earns billions, then where is my billion? The system is unfair and should trickle down.",
+  "reason": "Pushes back on a claim about market pay and redistribution, not about men or women.",
+  "evidence_seconds": 76
+ },
+ "usage": {
+  "prompt_tokens": 4033,
+  "completion_tokens": 283,
+  "cost_usd": null
+ }
+}

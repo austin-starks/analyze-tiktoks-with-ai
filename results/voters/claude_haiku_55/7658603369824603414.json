@@ -1,0 +1,19 @@
+{
+ "id": "7658603369824603414",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "debate",
+  "borderline": false,
+  "alternate_category": "politics",
+  "claim_answered": "Simple Black Theory's response argues a real rent freeze disproves the simplified rent control example in Ilyas's earlier video",
+  "reason": "Direct reply to a creator who responded to his rent control videos; the rent control topic is economic, but the video is his reply to SBT.",
+  "evidence_seconds": 30
+ },
+ "usage": {
+  "prompt_tokens": 6694,
+  "completion_tokens": 235,
+  "cost_usd": null
+ }
+}

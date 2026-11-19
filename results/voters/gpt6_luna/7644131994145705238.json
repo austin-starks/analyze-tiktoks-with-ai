@@ -1,0 +1,19 @@
+{
+ "id": "7644131994145705238",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "One in five men have sexual feelings toward children and one in five have offended against a child",
+  "reason": "Corrects an inflated statistic that paints men broadly as predators and vilifies them.",
+  "evidence_seconds": 81
+ },
+ "usage": {
+  "prompt_tokens": 3929,
+  "completion_tokens": 173,
+  "cost_usd": null
+ }
+}

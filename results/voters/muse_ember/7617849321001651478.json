@@ -1,0 +1,19 @@
+{
+ "id": "7617849321001651478",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "misc",
+  "claim_answered": "none",
+  "evidence_seconds": 0,
+  "reason": "Dating advice on eye contact as a sign she likes you; answers no claim about men or women"
+ },
+ "usage": {
+  "prompt_tokens": 3153,
+  "completion_tokens": 851,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7677230313277295894",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "news",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Was Lindsay Clancy psychotic before the killings?",
+  "reason": "Covers an ongoing murder trial and the psychiatric evidence; no claim about men or women in general",
+  "evidence_seconds": 22
+ },
+ "usage": {
+  "prompt_tokens": 4191,
+  "completion_tokens": 161,
+  "cost_usd": null
+ }
+}

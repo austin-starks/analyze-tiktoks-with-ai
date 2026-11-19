@@ -1,0 +1,19 @@
+{
+ "id": "7656122026112929056",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "misc",
+  "claim_answered": "none",
+  "evidence_seconds": 129,
+  "reason": "Mainly a channel update on his copyright strike and appeal, praising the attorney who supported him"
+ },
+ "usage": {
+  "prompt_tokens": 3493,
+  "completion_tokens": 2759,
+  "cost_usd": null
+ }
+}

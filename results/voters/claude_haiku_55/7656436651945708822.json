@@ -1,0 +1,19 @@
+{
+ "id": "7656436651945708822",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "debate",
+  "claim_answered": "Women would falsely accuse men for benefit: 39.6% of women could imagine making false sexual assault allegations",
+  "reason": "Rebuts a claim running women down as false accusers, stripping its limitations; also a reply to a creator, but the core is defending women.",
+  "evidence_seconds": 125
+ },
+ "usage": {
+  "prompt_tokens": 6035,
+  "completion_tokens": 229,
+  "cost_usd": null
+ }
+}

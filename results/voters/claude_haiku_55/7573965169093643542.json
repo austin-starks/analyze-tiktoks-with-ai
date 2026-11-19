@@ -1,0 +1,19 @@
+{
+ "id": "7573965169093643542",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Women who run a roster while dating one man are evil and burn good men",
+  "reason": "Video is a dating-advice rant, but its core is a negative generalization about women who keep multiple options, which he frames as a claim about women in general; it is not a rebuttal of a claim, so misc is possible.",
+  "evidence_seconds": 37
+ },
+ "usage": {
+  "prompt_tokens": 5286,
+  "completion_tokens": 237,
+  "cost_usd": null
+ }
+}

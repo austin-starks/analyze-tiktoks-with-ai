@@ -1,0 +1,19 @@
+{
+ "id": "7676063537751526678",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "politics",
+  "borderline": true,
+  "alternate_category": "news",
+  "claim_answered": "\"Believe women\" standards are now being applied hypocritically to Dean Withers' accusations",
+  "reason": "Examines left-versus-right partisan reactions and hypocrisy over \"believe survivors,\" not a claim about either sex",
+  "evidence_seconds": 128
+ },
+ "usage": {
+  "prompt_tokens": 4032,
+  "completion_tokens": 890,
+  "cost_usd": null
+ }
+}

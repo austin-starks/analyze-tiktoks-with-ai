@@ -1,0 +1,19 @@
+{
+ "id": "7698372816525135136",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "mixed",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "Aborting a baby because it is a boy is acceptable under women's right to choose",
+  "evidence_seconds": 158,
+  "reason": "Pushes back on claim defending abortion of boys, which devalues boys and men"
+ },
+ "usage": {
+  "prompt_tokens": 4345,
+  "completion_tokens": 6678,
+  "cost_usd": null
+ }
+}

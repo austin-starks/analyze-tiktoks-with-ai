@@ -1,0 +1,19 @@
+{
+ "id": "7572299622991858966",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "misc",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "Women should not buy boyfriends gifts or make their lives easier",
+  "evidence_seconds": 31,
+  "reason": "Pushes back on advice that men should not benefit, defending boyfriends' interests"
+ },
+ "usage": {
+  "prompt_tokens": 3162,
+  "completion_tokens": 4615,
+  "cost_usd": null
+ }
+}

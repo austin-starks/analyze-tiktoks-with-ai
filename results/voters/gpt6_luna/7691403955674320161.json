@@ -1,0 +1,19 @@
+{
+ "id": "7691403955674320161",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "news",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "The allegation that seven men gang-raped her, presented online as established fact",
+  "reason": "Breaks down a specific ongoing case and competing accounts; it does not answer a general claim about men or women.",
+  "evidence_seconds": 41
+ },
+ "usage": {
+  "prompt_tokens": 4372,
+  "completion_tokens": 313,
+  "cost_usd": null
+ }
+}

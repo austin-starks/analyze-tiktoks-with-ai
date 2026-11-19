@@ -1,0 +1,19 @@
+{
+ "id": "7661962241939442976",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Homicide is the leading cause of workplace fatalities for women",
+  "reason": "Rebuts a viral claim inflating women's workplace danger, stressing men's 11x higher fatality risk and downplayed male deaths",
+  "evidence_seconds": 31
+ },
+ "usage": {
+  "prompt_tokens": 4049,
+  "completion_tokens": 1695,
+  "cost_usd": null
+ }
+}

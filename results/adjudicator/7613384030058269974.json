@@ -1,0 +1,18 @@
+{
+ "id": "7613384030058269974",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "category": "men",
+  "claim_answered": "Women are more evolved and detached, while men are biologically driven by urges to obsess over women.",
+  "reason": "Rule 2: Claim runs men down as urge-driven and less evolved, favoring women at men's expense, so category is men.",
+  "evidence_seconds": 34,
+  "alternate_category": "mixed",
+  "borderline": true
+ },
+ "usage": {
+  "prompt_tokens": 3625,
+  "completion_tokens": 1808,
+  "cost_usd": null
+ }
+}

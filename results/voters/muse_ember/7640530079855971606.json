@@ -1,0 +1,19 @@
+{
+ "id": "7640530079855971606",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "men",
+  "claim_answered": "More than 1 in 3 men have sexually assaulted a woman",
+  "evidence_seconds": 77,
+  "reason": "Pushes back on claim that runs men down as sexual predators, showing study actually says 1 in 8"
+ },
+ "usage": {
+  "prompt_tokens": 3881,
+  "completion_tokens": 2915,
+  "cost_usd": null
+ }
+}

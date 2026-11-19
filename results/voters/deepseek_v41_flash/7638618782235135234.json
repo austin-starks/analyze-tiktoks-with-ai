@@ -1,0 +1,19 @@
+{
+ "id": "7638618782235135234",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Having a skin tone or color preference in dating is weird or racist",
+  "reason": "Viewer Q&A on dating preferences; answers no claim about the character or interests of either sex",
+  "evidence_seconds": 38
+ },
+ "usage": {
+  "prompt_tokens": 3851,
+  "completion_tokens": 303,
+  "cost_usd": null
+ }
+}

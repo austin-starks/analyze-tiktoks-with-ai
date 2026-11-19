@@ -1,0 +1,19 @@
+{
+ "id": "7531769661894020374",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "misc",
+  "claim_answered": "none",
+  "evidence_seconds": 0,
+  "reason": "Dating advice on first date topics; answers no claim about men or women"
+ },
+ "usage": {
+  "prompt_tokens": 2941,
+  "completion_tokens": 463,
+  "cost_usd": null
+ }
+}

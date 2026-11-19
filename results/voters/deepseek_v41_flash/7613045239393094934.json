@@ -1,0 +1,19 @@
+{
+ "id": "7613045239393094934",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Dating/self-improvement advice for men about settling; no claim by anyone about men or women is being rebutted",
+  "evidence_seconds": 34
+ },
+ "usage": {
+  "prompt_tokens": 4065,
+  "completion_tokens": 196,
+  "cost_usd": null
+ }
+}

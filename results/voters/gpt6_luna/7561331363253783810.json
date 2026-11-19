@@ -1,0 +1,19 @@
+{
+ "id": "7561331363253783810",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "mixed",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "The hotter a woman is, the more loyal she is",
+  "reason": "Rejects a positive stereotype about women, without an attack on men; argues loyalty depends on character for both sexes.",
+  "evidence_seconds": 32
+ },
+ "usage": {
+  "prompt_tokens": 2986,
+  "completion_tokens": 74,
+  "cost_usd": null
+ }
+}

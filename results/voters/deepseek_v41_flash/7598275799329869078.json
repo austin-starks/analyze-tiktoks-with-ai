@@ -1,0 +1,19 @@
+{
+ "id": "7598275799329869078",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Having fun with another man while married is fine, but his date request is inappropriate",
+  "reason": "Pushes back on a double standard that paints the man asking her out as the offender, and warns men about such women",
+  "evidence_seconds": 86
+ },
+ "usage": {
+  "prompt_tokens": 3942,
+  "completion_tokens": 1142,
+  "cost_usd": null
+ }
+}

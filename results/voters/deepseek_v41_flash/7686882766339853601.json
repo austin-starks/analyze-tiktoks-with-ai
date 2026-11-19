@@ -1,0 +1,19 @@
+{
+ "id": "7686882766339853601",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "women",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "97.4% of women would rather go to jail than admit fault",
+  "reason": "Debunks a fabricated study running women down and condemns degrading comments about women",
+  "evidence_seconds": 50
+ },
+ "usage": {
+  "prompt_tokens": 4035,
+  "completion_tokens": 382,
+  "cost_usd": null
+ }
+}

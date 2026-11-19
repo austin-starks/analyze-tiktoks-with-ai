@@ -1,0 +1,19 @@
+{
+ "id": "7556512786587716886",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "men",
+  "claim_answered": "Men today aren't real men because they can't change a tire or do an oil change",
+  "evidence_seconds": 19,
+  "reason": "Pushes back on claim that modern men aren't real men without manual skills"
+ },
+ "usage": {
+  "prompt_tokens": 3100,
+  "completion_tokens": 2301,
+  "cost_usd": null
+ }
+}

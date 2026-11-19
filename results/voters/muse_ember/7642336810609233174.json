@@ -1,0 +1,19 @@
+{
+ "id": "7642336810609233174",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "men",
+  "claim_answered": "5 in 10 men badgered a woman until she changed her answer",
+  "evidence_seconds": 0,
+  "reason": "Pushes back on claim that 5 in 10 men badger women, defending men against sexual coercion stereotype"
+ },
+ "usage": {
+  "prompt_tokens": 4582,
+  "completion_tokens": 3125,
+  "cost_usd": null
+ }
+}

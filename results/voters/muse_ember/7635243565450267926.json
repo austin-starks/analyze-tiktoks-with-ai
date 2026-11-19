@@ -1,0 +1,19 @@
+{
+ "id": "7635243565450267926",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "misc",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "Acting like a man means beating or sexually assaulting women and all men are bad",
+  "evidence_seconds": 62,
+  "reason": "He pushes back on claim men are bad and manhood means violence, urging leaving gender-based hatred."
+ },
+ "usage": {
+  "prompt_tokens": 3374,
+  "completion_tokens": 5832,
+  "cost_usd": null
+ }
+}

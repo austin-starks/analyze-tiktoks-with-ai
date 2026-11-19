@@ -1,0 +1,19 @@
+{
+ "id": "7675749539550121238",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "news",
+  "borderline": true,
+  "alternate_category": "politics",
+  "claim_answered": "none",
+  "reason": "Multi-part coverage of an ongoing viral sexual-assault allegation case involving Dean Withers; no claim about men or women in general.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 5806,
+  "completion_tokens": 197,
+  "cost_usd": null
+ }
+}

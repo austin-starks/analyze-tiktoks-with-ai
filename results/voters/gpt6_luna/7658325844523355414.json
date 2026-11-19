@@ -1,0 +1,19 @@
+{
+ "id": "7658325844523355414",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "politics",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Rent freezes lower rents without broad adverse effects",
+  "reason": "Explains economic research on rent freezes and their effects; this is not a claim about men or women.",
+  "evidence_seconds": 80
+ },
+ "usage": {
+  "prompt_tokens": 3699,
+  "completion_tokens": 286,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7582842304193383702",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "men",
+  "claim_answered": "Boyfriends who won't move for her career or take her name are sexist",
+  "evidence_seconds": 99,
+  "reason": "Pushes back on test framing men as sexist unless they sacrifice career and name for women"
+ },
+ "usage": {
+  "prompt_tokens": 3195,
+  "completion_tokens": 3784,
+  "cost_usd": null
+ }
+}

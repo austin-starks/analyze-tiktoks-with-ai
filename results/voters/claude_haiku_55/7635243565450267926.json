@@ -1,0 +1,19 @@
+{
+ "id": "7635243565450267926",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "A girlfriend says she hates men and disrespects her boyfriend; should he break up with her?",
+  "reason": "Relationship advice answering a viewer question; no claim about men or women is rebutted, so misc.",
+  "evidence_seconds": 116
+ },
+ "usage": {
+  "prompt_tokens": 5330,
+  "completion_tokens": 212,
+  "cost_usd": null
+ }
+}

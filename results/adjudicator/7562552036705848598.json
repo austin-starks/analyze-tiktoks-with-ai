@@ -1,0 +1,18 @@
+{
+ "id": "7562552036705848598",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "evidence_seconds": 70,
+  "claim_answered": "none",
+  "borderline": true,
+  "category": "misc",
+  "alternate_category": "men",
+  "reason": "Rule 3 (misc): Gives general dating advice reacting to a dating anecdote without answering any claim about men or women."
+ },
+ "usage": {
+  "prompt_tokens": 2995,
+  "completion_tokens": 1714,
+  "cost_usd": null
+ }
+}

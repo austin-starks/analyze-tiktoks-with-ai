@@ -1,0 +1,19 @@
+{
+ "id": "7680236035917303062",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "debate",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Public Offender’s response to his video challenging the claim that men’s issues are self-inflicted",
+  "reason": "Replies to a creator’s critique of his earlier video; the response argues genetics is not self-inflicted.",
+  "evidence_seconds": 38
+ },
+ "usage": {
+  "prompt_tokens": 3693,
+  "completion_tokens": 168,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7613384030058269974",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Women aren't biologically wired to obsess over men; men are wired to obsess over women because women are more evolved",
+  "reason": "Rebuts a claim that runs men down as driven by urges and flatters women as more evolved; also argues men are proactive from market incentives.",
+  "evidence_seconds": 38
+ },
+ "usage": {
+  "prompt_tokens": 5767,
+  "completion_tokens": 230,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7686119749624925472",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "women",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Sydney Sweeney's ad sexualizes women in sports and sets women's sports backwards",
+  "reason": "He pushes back on criticism blaming a woman for harming women's sports, noting inconsistent standards.",
+  "evidence_seconds": 34
+ },
+ "usage": {
+  "prompt_tokens": 4142,
+  "completion_tokens": 425,
+  "cost_usd": null
+ }
+}

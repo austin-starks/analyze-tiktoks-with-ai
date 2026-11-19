@@ -1,0 +1,391 @@
+{
+ "text": "Do mothers commit 55% of parental child homicides, 72% of killings of infants, and 97% of killings within the first 24 hours after birth? Ever since the Lindsay Clancy case, gender tensions have been running high, and you see a lot of provocative statistics being thrown around, like the one you see on your screen, which was actually shared under one of my videos. There is just one problem. The study cited at the bottom of this graphic does not appear to exist. That doesn't necessarily mean the numbers themselves are made up though. So I decided to investigate the topic. Who actually commits more parental child homicides, women or men? And as usual, the answer is not nearly as straightforward as some people online make it sound. Let's start with one of the newest studies, published in 2026. Researchers analyzed 25 years of US crime data from 1999 to 2023, covering 3,974 reported felicite incidents. Felicite basically means killing your child, although this particular study also included step-parents. And look what happens when we separate the victims by age. For newborns killed within the first 24 hours, 104 offenders were female and only 33 were male, so about 76% female. But immediately after that first day, it completely flips. Among infants from one day old until their first birthday, 591 offenders were male and 315 were female. That's 65% male. And among children from 1 to 17, it becomes almost equal. 1,016 male and 928 female. 52% versus 48%. So based on this American study, you definitely couldn't say mothers generally kill more children. But we also can take one American dataset and pretend it answers the question for the entire world. And this is where it gets interesting. There is a real 2017 systematic review that examined 126 studies and collected data from 44 countries. For the mother versus father comparison specifically, they had data from 33 countries. And mothers actually came out slightly ahead. The median across those countries was 54.7% mothers among parental child homicides. And among the 12 countries with detailed data for children under 1, the median maternal share was 71.7%. For neonaticide, killing a baby immediately after birth, the median maternal share was 100%. And interestingly, those figures are very close to some of the numbers in that graphic. There's one very important catch though. That 54.7% does not mean 54.7% of all the killings across those countries were committed by mothers. The researchers calculated a percentage for each country and then took the median. So a country with, say, 50 cases gets one country-level estimate just like a country with, for example, 10,000 cases. So the country with 10,000 cases isn't given more weight simply because it has more cases. And the regional differences were enormous. Although some regions had data from only a handful of countries, the median maternal share ranged from 88.6% in Africa to just 7.4% in the Mediterranean region. While among high-income countries, it was 44.4%. So that 54.7% definitely shouldn't be interpreted as some universal worldwide ratio. And individual national studies also differ. For example, a Canadian study covering 1,612 children killed by their parents over 51 years found 57% of accused perpetrators were male and 43% female. But among babies under 1, mothers were the majority. And the male share increased dramatically as the children got older. So who kills their children more, mothers or fathers? There really isn't one percentage that answers that question everywhere. Some data sets find mothers slightly ahead. Others find fathers ahead. And the results vary by country, time period, and methodology. But one pattern keeps showing up again and again. The age of the child matters enormously. Mothers are overwhelmingly responsible for killings immediately after birth. After that, the gap can change dramatically. And fathers often become increasingly represented as children get older.",
+ "duration": 198.47000122070312,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 5.360000133514404,
+   "text": " Do mothers commit 55% of parental child homicides, 72% of killings of infants,"
+  },
+  {
+   "start": 5.360000133514404,
+   "end": 9.039999961853027,
+   "text": " and 97% of killings within the first 24 hours after birth?"
+  },
+  {
+   "start": 9.039999961853027,
+   "end": 11.84000015258789,
+   "text": " Ever since the Lindsay Clancy case, gender tensions have been running high,"
+  },
+  {
+   "start": 11.84000015258789,
+   "end": 14.399999618530273,
+   "text": " and you see a lot of provocative statistics being thrown around,"
+  },
+  {
+   "start": 14.399999618530273,
+   "end": 17.84000015258789,
+   "text": " like the one you see on your screen, which was actually shared under one of my videos."
+  },
+  {
+   "start": 17.84000015258789,
+   "end": 18.959999084472656,
+   "text": " There is just one problem."
+  },
+  {
+   "start": 18.959999084472656,
+   "end": 22.0,
+   "text": " The study cited at the bottom of this graphic does not appear to exist."
+  },
+  {
+   "start": 22.0,
+   "end": 24.559999465942383,
+   "text": " That doesn't necessarily mean the numbers themselves are made up though."
+  },
+  {
+   "start": 24.559999465942383,
+   "end": 26.31999969482422,
+   "text": " So I decided to investigate the topic."
+  },
+  {
+   "start": 26.31999969482422,
+   "end": 29.920000076293945,
+   "text": " Who actually commits more parental child homicides, women or men?"
+  },
+  {
+   "start": 29.920000076293945,
+   "end": 34.2400016784668,
+   "text": " And as usual, the answer is not nearly as straightforward as some people online make it sound."
+  },
+  {
+   "start": 34.2400016784668,
+   "end": 37.119998931884766,
+   "text": " Let's start with one of the newest studies, published in 2026."
+  },
+  {
+   "start": 37.119998931884766,
+   "end": 41.7599983215332,
+   "text": " Researchers analyzed 25 years of US crime data from 1999 to 2023,"
+  },
+  {
+   "start": 41.7599983215332,
+   "end": 45.20000076293945,
+   "text": " covering 3,974 reported felicite incidents."
+  },
+  {
+   "start": 45.20000076293945,
+   "end": 47.119998931884766,
+   "text": " Felicite basically means killing your child,"
+  },
+  {
+   "start": 47.119998931884766,
+   "end": 49.439998626708984,
+   "text": " although this particular study also included step-parents."
+  },
+  {
+   "start": 49.439998626708984,
+   "end": 51.91999816894531,
+   "text": " And look what happens when we separate the victims by age."
+  },
+  {
+   "start": 51.91999816894531,
+   "end": 54.2400016784668,
+   "text": " For newborns killed within the first 24 hours,"
+  },
+  {
+   "start": 54.2400016784668,
+   "end": 59.36000061035156,
+   "text": " 104 offenders were female and only 33 were male, so about 76% female."
+  },
+  {
+   "start": 59.36000061035156,
+   "end": 62.08000183105469,
+   "text": " But immediately after that first day, it completely flips."
+  },
+  {
+   "start": 62.08000183105469,
+   "end": 64.63999938964844,
+   "text": " Among infants from one day old until their first birthday,"
+  },
+  {
+   "start": 64.63999938964844,
+   "end": 68.23999786376953,
+   "text": " 591 offenders were male and 315 were female."
+  },
+  {
+   "start": 68.23999786376953,
+   "end": 69.5199966430664,
+   "text": " That's 65% male."
+  },
+  {
+   "start": 69.5199966430664,
+   "end": 72.80000305175781,
+   "text": " And among children from 1 to 17, it becomes almost equal."
+  },
+  {
+   "start": 72.80000305175781,
+   "end": 75.19999694824219,
+   "text": " 1,016 male and 928 female."
+  },
+  {
+   "start": 75.19999694824219,
+   "end": 77.19999694824219,
+   "text": " 52% versus 48%."
+  },
+  {
+   "start": 77.19999694824219,
+   "end": 78.87999725341797,
+   "text": " So based on this American study,"
+  },
+  {
+   "start": 78.87999725341797,
+   "end": 81.5199966430664,
+   "text": " you definitely couldn't say mothers generally kill more children."
+  },
+  {
+   "start": 81.5199966430664,
+   "end": 83.44000244140625,
+   "text": " But we also can take one American dataset"
+  },
+  {
+   "start": 83.44000244140625,
+   "end": 85.5999984741211,
+   "text": " and pretend it answers the question for the entire world."
+  },
+  {
+   "start": 85.5999984741211,
+   "end": 86.80000305175781,
+   "text": " And this is where it gets interesting."
+  },
+  {
+   "start": 86.80000305175781,
+   "end": 90.95999908447266,
+   "text": " There is a real 2017 systematic review that examined 126 studies"
+  },
+  {
+   "start": 90.95999908447266,
+   "end": 92.80000305175781,
+   "text": " and collected data from 44 countries."
+  },
+  {
+   "start": 92.80000305175781,
+   "end": 95.12000274658203,
+   "text": " For the mother versus father comparison specifically,"
+  },
+  {
+   "start": 95.12000274658203,
+   "end": 96.80000305175781,
+   "text": " they had data from 33 countries."
+  },
+  {
+   "start": 96.80000305175781,
+   "end": 98.80000305175781,
+   "text": " And mothers actually came out slightly ahead."
+  },
+  {
+   "start": 98.80000305175781,
+   "end": 102.0,
+   "text": " The median across those countries was 54.7% mothers"
+  },
+  {
+   "start": 102.0,
+   "end": 103.5999984741211,
+   "text": " among parental child homicides."
+  },
+  {
+   "start": 103.5999984741211,
+   "end": 106.63999938964844,
+   "text": " And among the 12 countries with detailed data for children under 1,"
+  },
+  {
+   "start": 106.63999938964844,
+   "end": 109.36000061035156,
+   "text": " the median maternal share was 71.7%."
+  },
+  {
+   "start": 109.36000061035156,
+   "end": 111.91999816894531,
+   "text": " For neonaticide, killing a baby immediately after birth,"
+  },
+  {
+   "start": 111.91999816894531,
+   "end": 114.08000183105469,
+   "text": " the median maternal share was 100%."
+  },
+  {
+   "start": 114.08000183105469,
+   "end": 116.08000183105469,
+   "text": " And interestingly, those figures are very close"
+  },
+  {
+   "start": 116.08000183105469,
+   "end": 117.68000030517578,
+   "text": " to some of the numbers in that graphic."
+  },
+  {
+   "start": 117.68000030517578,
+   "end": 119.5999984741211,
+   "text": " There's one very important catch though."
+  },
+  {
+   "start": 119.5999984741211,
+   "end": 123.5199966430664,
+   "text": " That 54.7% does not mean 54.7% of all the killings"
+  },
+  {
+   "start": 123.5199966430664,
+   "end": 125.27999877929688,
+   "text": " across those countries were committed by mothers."
+  },
+  {
+   "start": 125.27999877929688,
+   "end": 127.91999816894531,
+   "text": " The researchers calculated a percentage for each country"
+  },
+  {
+   "start": 127.91999816894531,
+   "end": 129.36000061035156,
+   "text": " and then took the median."
+  },
+  {
+   "start": 129.36000061035156,
+   "end": 132.8000030517578,
+   "text": " So a country with, say, 50 cases gets one country-level estimate"
+  },
+  {
+   "start": 132.8000030517578,
+   "end": 135.36000061035156,
+   "text": " just like a country with, for example, 10,000 cases."
+  },
+  {
+   "start": 135.36000061035156,
+   "end": 138.16000366210938,
+   "text": " So the country with 10,000 cases isn't given more weight"
+  },
+  {
+   "start": 138.16000366210938,
+   "end": 139.67999267578125,
+   "text": " simply because it has more cases."
+  },
+  {
+   "start": 139.67999267578125,
+   "end": 141.44000244140625,
+   "text": " And the regional differences were enormous."
+  },
+  {
+   "start": 141.44000244140625,
+   "end": 143.9199981689453,
+   "text": " Although some regions had data from only a handful of countries,"
+  },
+  {
+   "start": 143.9199981689453,
+   "end": 147.36000061035156,
+   "text": " the median maternal share ranged from 88.6% in Africa"
+  },
+  {
+   "start": 147.36000061035156,
+   "end": 149.75999450683594,
+   "text": " to just 7.4% in the Mediterranean region."
+  },
+  {
+   "start": 149.75999450683594,
+   "end": 152.47999572753906,
+   "text": " While among high-income countries, it was 44.4%."
+  },
+  {
+   "start": 152.47999572753906,
+   "end": 155.36000061035156,
+   "text": " So that 54.7% definitely shouldn't be interpreted"
+  },
+  {
+   "start": 155.36000061035156,
+   "end": 157.1199951171875,
+   "text": " as some universal worldwide ratio."
+  },
+  {
+   "start": 157.1199951171875,
+   "end": 159.1199951171875,
+   "text": " And individual national studies also differ."
+  },
+  {
+   "start": 159.1199951171875,
+   "end": 162.32000732421875,
+   "text": " For example, a Canadian study covering 1,612 children"
+  },
+  {
+   "start": 162.32000732421875,
+   "end": 164.16000366210938,
+   "text": " killed by their parents over 51 years"
+  },
+  {
+   "start": 164.16000366210938,
+   "end": 168.24000549316406,
+   "text": " found 57% of accused perpetrators were male and 43% female."
+  },
+  {
+   "start": 168.24000549316406,
+   "end": 170.9600067138672,
+   "text": " But among babies under 1, mothers were the majority."
+  },
+  {
+   "start": 170.9600067138672,
+   "end": 172.55999755859375,
+   "text": " And the male share increased dramatically"
+  },
+  {
+   "start": 172.55999755859375,
+   "end": 173.67999267578125,
+   "text": " as the children got older."
+  },
+  {
+   "start": 173.67999267578125,
+   "end": 176.32000732421875,
+   "text": " So who kills their children more, mothers or fathers?"
+  },
+  {
+   "start": 176.32000732421875,
+   "end": 179.27999877929688,
+   "text": " There really isn't one percentage that answers that question everywhere."
+  },
+  {
+   "start": 179.27999877929688,
+   "end": 181.27999877929688,
+   "text": " Some data sets find mothers slightly ahead."
+  },
+  {
+   "start": 181.27999877929688,
+   "end": 182.47999572753906,
+   "text": " Others find fathers ahead."
+  },
+  {
+   "start": 182.47999572753906,
+   "end": 185.44000244140625,
+   "text": " And the results vary by country, time period, and methodology."
+  },
+  {
+   "start": 185.44000244140625,
+   "end": 187.60000610351562,
+   "text": " But one pattern keeps showing up again and again."
+  },
+  {
+   "start": 187.60000610351562,
+   "end": 189.52000427246094,
+   "text": " The age of the child matters enormously."
+  },
+  {
+   "start": 189.52000427246094,
+   "end": 192.8800048828125,
+   "text": " Mothers are overwhelmingly responsible for killings immediately after birth."
+  },
+  {
+   "start": 192.8800048828125,
+   "end": 194.8800048828125,
+   "text": " After that, the gap can change dramatically."
+  },
+  {
+   "start": 194.8800048828125,
+   "end": 198.32000732421875,
+   "text": " And fathers often become increasingly represented as children get older."
+  }
+ ]
+}

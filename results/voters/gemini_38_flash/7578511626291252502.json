@@ -1,0 +1,19 @@
+{
+ "id": "7578511626291252502",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "reason": "Pushes back on stand-up comedy routines that run men down as useless",
+  "alternate_category": "misc",
+  "evidence_seconds": 38,
+  "claim_answered": "Men and husbands are useless except for taking out trash",
+  "borderline": true,
+  "category": "men"
+ },
+ "usage": {
+  "prompt_tokens": 3318,
+  "completion_tokens": 923,
+  "cost_usd": null
+ }
+}

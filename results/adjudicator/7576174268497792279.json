@@ -1,0 +1,18 @@
+{
+ "id": "7576174268497792279",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "borderline": true,
+  "claim_answered": "none",
+  "category": "misc",
+  "evidence_seconds": 145,
+  "reason": "Rule 3 (misc): reacts to a couple's argument to give relationship and self-improvement advice to men rather than answering a claim.",
+  "alternate_category": "men"
+ },
+ "usage": {
+  "prompt_tokens": 3331,
+  "completion_tokens": 1576,
+  "cost_usd": null
+ }
+}

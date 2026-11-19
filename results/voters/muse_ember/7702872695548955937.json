@@ -1,0 +1,19 @@
+{
+ "id": "7702872695548955937",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "mixed",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "Majority of men thought Alexia spoke for a year due to gender bias",
+  "evidence_seconds": 55,
+  "reason": "Pushes back on claim blaming men as patriarchal and biased for criticizing speech"
+ },
+ "usage": {
+  "prompt_tokens": 5971,
+  "completion_tokens": 7019,
+  "cost_usd": null
+ }
+}

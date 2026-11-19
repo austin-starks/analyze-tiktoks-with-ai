@@ -1,0 +1,19 @@
+{
+ "id": "7544338699564190998",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "none",
+  "reason": "General dating advice on who pays on a first date; answers no claim that runs down or defends either sex.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 4930,
+  "completion_tokens": 182,
+  "cost_usd": null
+ }
+}

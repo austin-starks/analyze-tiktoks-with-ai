@@ -1,0 +1,19 @@
+{
+ "id": "7610739364901031190",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "His girlfriend turns into a \"monster\" every month because of her period",
+  "reason": "Viewer DM answered with relationship/self-respect advice about one specific girlfriend, not a claim about men or women as a group.",
+  "evidence_seconds": 90
+ },
+ "usage": {
+  "prompt_tokens": 4760,
+  "completion_tokens": 411,
+  "cost_usd": null
+ }
+}

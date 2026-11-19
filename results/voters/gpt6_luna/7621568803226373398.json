@@ -1,0 +1,19 @@
+{
+ "id": "7621568803226373398",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "Publicly calling out a friend is justified, and the reacting woman should be praised for doing so",
+  "reason": "He accepts that misogynistic remarks are wrong; his main critique concerns the caller’s motives and the appearance-based insult, not a claim against women.",
+  "evidence_seconds": 62
+ },
+ "usage": {
+  "prompt_tokens": 3530,
+  "completion_tokens": 697,
+  "cost_usd": null
+ }
+}

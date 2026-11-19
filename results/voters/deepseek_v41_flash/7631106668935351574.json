@@ -1,0 +1,19 @@
+{
+ "id": "7631106668935351574",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "news",
+  "claim_answered": "62 million men attended an online rape academy",
+  "reason": "Rebutting a viral claim that runs men down by inflating them into mass abusers, though framed as media-accuracy coverage.",
+  "evidence_seconds": 66
+ },
+ "usage": {
+  "prompt_tokens": 4011,
+  "completion_tokens": 438,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7648217974209400086",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "Looking for subtle signs of interest wastes time; befriending a girl you like works against you",
+  "reason": "Dating advice to a viewer's DM about a crush; answers no claim that runs down or defends either sex.",
+  "evidence_seconds": 26
+ },
+ "usage": {
+  "prompt_tokens": 5317,
+  "completion_tokens": 213,
+  "cost_usd": null
+ }
+}

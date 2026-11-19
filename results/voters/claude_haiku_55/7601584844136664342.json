@@ -1,0 +1,19 @@
+{
+ "id": "7601584844136664342",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "none",
+  "reason": "Mocks a woman's dating checklist as a comedic skit; no claim about either sex is rebutted, so it is closer to dating commentary than defense.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 5010,
+  "completion_tokens": 201,
+  "cost_usd": null
+ }
+}

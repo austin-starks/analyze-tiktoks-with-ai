@@ -1,0 +1,18 @@
+{
+ "id": "7677888232301858070",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "alternate_category": "men",
+  "category": "news",
+  "borderline": true,
+  "reason": "Rule 3 (news): Part 4 of ongoing trial coverage debunking viral accusations against a specific husband, not men in general.",
+  "claim_answered": "Patrick Clancy is to blame for the deaths or killed the children himself.",
+  "evidence_seconds": 17
+ },
+ "usage": {
+  "prompt_tokens": 3623,
+  "completion_tokens": 3432,
+  "cost_usd": null
+ }
+}

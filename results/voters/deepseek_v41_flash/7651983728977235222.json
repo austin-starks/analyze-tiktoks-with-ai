@@ -1,0 +1,19 @@
+{
+ "id": "7651983728977235222",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Men don't really have problems; it's women who have it hard",
+  "reason": "Pushes back on a claim dismissing men's disadvantages because women supposedly have it worse; a man voicing it especially bothers him.",
+  "evidence_seconds": 35
+ },
+ "usage": {
+  "prompt_tokens": 3785,
+  "completion_tokens": 466,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7627205222934301974",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "reason": "General life advice and self-improvement for young men; answers no specific claim about a group.",
+  "alternate_category": "none",
+  "borderline": false,
+  "evidence_seconds": 7,
+  "claim_answered": "none",
+  "category": "misc"
+ },
+ "usage": {
+  "prompt_tokens": 3830,
+  "completion_tokens": 218,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7577335530967420182",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "men",
+  "claim_answered": "Men have no excuse for not showing up like women do",
+  "evidence_seconds": 22,
+  "reason": "Pushes back on claim blaming men for not showing up, noting men also carry heavy loads"
+ },
+ "usage": {
+  "prompt_tokens": 3293,
+  "completion_tokens": 1749,
+  "cost_usd": null
+ }
+}

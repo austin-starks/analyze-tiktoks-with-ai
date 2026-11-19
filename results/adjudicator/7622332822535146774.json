@@ -1,0 +1,18 @@
+{
+ "id": "7622332822535146774",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "alternate_category": "mixed",
+  "borderline": true,
+  "evidence_seconds": 46,
+  "reason": "He shares a clip he likes and gives general dating advice to men without pushing back on a claim, fitting misc.",
+  "claim_answered": "none",
+  "category": "misc"
+ },
+ "usage": {
+  "prompt_tokens": 3363,
+  "completion_tokens": 2089,
+  "cost_usd": null
+ }
+}

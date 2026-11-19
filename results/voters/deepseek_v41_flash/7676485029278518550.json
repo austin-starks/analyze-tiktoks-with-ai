@@ -1,0 +1,19 @@
+{
+ "id": "7676485029278518550",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "Charlie Kirk said boys shouldn't take orders from women",
+  "reason": "Corrects a mother's misreading of one man's clip; a media-literacy critique, not a claim about men or women as a class",
+  "evidence_seconds": 33
+ },
+ "usage": {
+  "prompt_tokens": 4360,
+  "completion_tokens": 475,
+  "cost_usd": null
+ }
+}

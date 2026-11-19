@@ -1,0 +1,18 @@
+{
+ "id": "7609339275879976214",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "borderline": false,
+  "alternate_category": "none",
+  "reason": "Rule 3: General dating and relationship advice listing red-flag phrases from women; he answers no claim about men or women.",
+  "claim_answered": "none",
+  "evidence_seconds": 0,
+  "category": "misc"
+ },
+ "usage": {
+  "prompt_tokens": 3345,
+  "completion_tokens": 705,
+  "cost_usd": null
+ }
+}

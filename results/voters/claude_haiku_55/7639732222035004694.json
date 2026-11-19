@@ -1,0 +1,19 @@
+{
+ "id": "7639732222035004694",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "debate",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "Professor Neil's claims that 1 in 7 men have attempted or completed rape and similar sexual violence statistics about men",
+  "reason": "Reply to creator Professor Neil, who responded to Ilyas; the video is his rebuttal, so debate beats the men topic.",
+  "evidence_seconds": 125
+ },
+ "usage": {
+  "prompt_tokens": 5526,
+  "completion_tokens": 234,
+  "cost_usd": null
+ }
+}

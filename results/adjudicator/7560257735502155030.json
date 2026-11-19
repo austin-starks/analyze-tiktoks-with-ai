@@ -1,0 +1,18 @@
+{
+ "id": "7560257735502155030",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "reason": "Uses the opening clip as a metaphor for motivational self-improvement and dating advice rather than pushing back on a claim (rule 3, misc).",
+  "evidence_seconds": 19,
+  "claim_answered": "none",
+  "category": "misc",
+  "alternate_category": "men",
+  "borderline": true
+ },
+ "usage": {
+  "prompt_tokens": 2877,
+  "completion_tokens": 1479,
+  "cost_usd": null
+ }
+}

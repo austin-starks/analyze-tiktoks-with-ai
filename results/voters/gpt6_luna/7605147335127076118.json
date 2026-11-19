@@ -1,0 +1,19 @@
+{
+ "id": "7605147335127076118",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "women",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "A bad relationship shows that women are bad and men should choose to be single",
+  "reason": "He rejects generalizing from the subscriber’s toxic relationship, saying not all women are bad and he chose the wrong partner.",
+  "evidence_seconds": 492
+ },
+ "usage": {
+  "prompt_tokens": 6091,
+  "completion_tokens": 287,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7635617075163172118",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "Being pregnant is more dangerous than being a police officer",
+  "reason": "Rebuts a stats comparison about pregnancy risk vs police work; not a claim running down or defending either sex. Possibly women-defending.",
+  "evidence_seconds": 32
+ },
+ "usage": {
+  "prompt_tokens": 6531,
+  "completion_tokens": 215,
+  "cost_usd": null
+ }
+}

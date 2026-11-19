@@ -1,0 +1,19 @@
+{
+ "id": "7626103692718017814",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "claim_answered": "Women are dramatic and overreact",
+  "evidence_seconds": 107,
+  "borderline": true,
+  "alternate_category": "mixed",
+  "category": "women",
+  "reason": "Pushes back on a stereotype running women down by showing both sexes can be dramatic and overreact."
+ },
+ "usage": {
+  "prompt_tokens": 3417,
+  "completion_tokens": 4109,
+  "cost_usd": null
+ }
+}

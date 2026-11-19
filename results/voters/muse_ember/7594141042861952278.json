@@ -1,0 +1,19 @@
+{
+ "id": "7594141042861952278",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "misc",
+  "claim_answered": "none",
+  "evidence_seconds": 0,
+  "reason": "Viewer DM relationship advice about long-distance girlfriend; answers no group claim about men or women"
+ },
+ "usage": {
+  "prompt_tokens": 4086,
+  "completion_tokens": 1796,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7623884936394722582",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "mixed",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men are the more emotional sex; women are materialistic gold diggers",
+  "reason": "Answers two opposing claims, one running men down as violent/emotional and one running women down as gold diggers.",
+  "evidence_seconds": 22
+ },
+ "usage": {
+  "prompt_tokens": 3862,
+  "completion_tokens": 804,
+  "cost_usd": null
+ }
+}

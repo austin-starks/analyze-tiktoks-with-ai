@@ -1,0 +1,19 @@
+{
+ "id": "7677230313277295894",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "news",
+  "claim_answered": "Lindsay Clancy was psychotic, or her doctors missed psychosis before the killings",
+  "reason": "Covers an ongoing murder trial's mental-health questions; no claim about men or women is answered, so news is close.",
+  "evidence_seconds": 26
+ },
+ "usage": {
+  "prompt_tokens": 6261,
+  "completion_tokens": 217,
+  "cost_usd": null
+ }
+}

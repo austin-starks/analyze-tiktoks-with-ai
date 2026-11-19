@@ -1,0 +1,19 @@
+{
+ "id": "7696697354098920737",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Interacting with women impairs men's cognitive functioning, making men worse at thinking",
+  "reason": "Pushes back on a claim that runs men down as cognitively impaired around women, while confirming parts of it; the claim is about men only.",
+  "evidence_seconds": 30
+ },
+ "usage": {
+  "prompt_tokens": 6341,
+  "completion_tokens": 220,
+  "cost_usd": null
+ }
+}

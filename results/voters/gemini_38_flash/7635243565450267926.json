@@ -1,0 +1,19 @@
+{
+ "id": "7635243565450267926",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "evidence_seconds": 74,
+  "borderline": true,
+  "category": "misc",
+  "reason": "Answers a viewer relationship Q&A offering dating and breakup advice.",
+  "claim_answered": "none",
+  "alternate_category": "men"
+ },
+ "usage": {
+  "prompt_tokens": 3588,
+  "completion_tokens": 903,
+  "cost_usd": null
+ }
+}

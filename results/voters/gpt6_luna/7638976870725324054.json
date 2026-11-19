@@ -1,0 +1,19 @@
+{
+ "id": "7638976870725324054",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "debate",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Nick claims I described what “all men” means and missed the point",
+  "reason": "Direct reply to a creator reacting to and criticizing his earlier video",
+  "evidence_seconds": 40
+ },
+ "usage": {
+  "prompt_tokens": 3854,
+  "completion_tokens": 125,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7696243947772955936",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "mixed",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "Female privilege doesn't exist",
+  "evidence_seconds": 30,
+  "reason": "Pushes back on claim women have no advantages, denying men's disadvantages"
+ },
+ "usage": {
+  "prompt_tokens": 4238,
+  "completion_tokens": 4333,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7699417604787621153",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "Men are cowards who care more about what predatory men think than women's safety",
+  "reason": "Rebuts a woman's claim that men are cowards and fail women, defending men's reasons for not intervening.",
+  "evidence_seconds": 48
+ },
+ "usage": {
+  "prompt_tokens": 8717,
+  "completion_tokens": 206,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7630453544813972758",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "claim_answered": "Men who ask to define feminism should be dismissed",
+  "evidence_seconds": 14,
+  "category": "men",
+  "alternate_category": "politics",
+  "borderline": true,
+  "reason": "Defends men for asking for a definition of feminism when questioned, explaining why defining the movement matters."
+ },
+ "usage": {
+  "prompt_tokens": 3448,
+  "completion_tokens": 1381,
+  "cost_usd": null
+ }
+}

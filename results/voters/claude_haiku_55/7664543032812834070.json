@@ -1,0 +1,19 @@
+{
+ "id": "7664543032812834070",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "debate",
+  "claim_answered": "Men are alien savages who arrived on Earth and enslaved women through marriage, bondage and infiltration",
+  "reason": "Mocks a viral theory portraying men as primitive alien savages who trapped women; defends men against a claim that runs them down.",
+  "evidence_seconds": 50
+ },
+ "usage": {
+  "prompt_tokens": 5771,
+  "completion_tokens": 225,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7657276894873685270",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Less than 1% of reported rape allegations are false",
+  "reason": "Pushes back on a claim that downplays false allegations and men's potential disadvantage from them.",
+  "evidence_seconds": 175
+ },
+ "usage": {
+  "prompt_tokens": 3567,
+  "completion_tokens": 367,
+  "cost_usd": null
+ }
+}

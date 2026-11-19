@@ -1,0 +1,19 @@
+{
+ "id": "7668238680137452832",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "debate",
+  "claim_answered": "Hating men is dehumanizing; men have rights, feelings, and deserve to be heard",
+  "reason": "Praises a woman who defends men against contempt from her own audience; sides with men's dignity, not a reply to his work.",
+  "evidence_seconds": 13
+ },
+ "usage": {
+  "prompt_tokens": 5388,
+  "completion_tokens": 217,
+  "cost_usd": null
+ }
+}

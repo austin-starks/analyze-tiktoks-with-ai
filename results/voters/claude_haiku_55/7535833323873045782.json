@@ -1,0 +1,19 @@
+{
+ "id": "7535833323873045782",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "none",
+  "reason": "General first-date dating advice; answers no claim that runs down or defends either sex.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 5014,
+  "completion_tokens": 177,
+  "cost_usd": null
+ }
+}

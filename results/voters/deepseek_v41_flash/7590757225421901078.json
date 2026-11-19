@@ -1,0 +1,19 @@
+{
+ "id": "7590757225421901078",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Viewer DM seeking dating and boundary advice; no claim about men or women as a group is being rebutted.",
+  "evidence_seconds": 112
+ },
+ "usage": {
+  "prompt_tokens": 4902,
+  "completion_tokens": 238,
+  "cost_usd": null
+ }
+}

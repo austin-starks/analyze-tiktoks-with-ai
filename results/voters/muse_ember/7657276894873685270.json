@@ -1,0 +1,19 @@
+{
+ "id": "7657276894873685270",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "mixed",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "Less than 1% of reported rape allegations by women are false",
+  "evidence_seconds": 12,
+  "reason": "Pushes back on claim downplaying false-accusation harm to men, arguing rate is above 1%"
+ },
+ "usage": {
+  "prompt_tokens": 3573,
+  "completion_tokens": 4319,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7687213798708628768",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "mixed",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Couples who do not share a last name are 50% more likely to divorce and split 30% earlier",
+  "reason": "A claim about couples that blames neither sex; he checks the data without defending men or women",
+  "evidence_seconds": 14
+ },
+ "usage": {
+  "prompt_tokens": 4102,
+  "completion_tokens": 303,
+  "cost_usd": null
+ }
+}

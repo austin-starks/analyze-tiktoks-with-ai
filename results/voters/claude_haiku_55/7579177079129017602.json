@@ -1,0 +1,19 @@
+{
+ "id": "7579177079129017602",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "Women always want more; a woman panics when a good man shows up",
+  "reason": "Dating-advice reaction to a woman's own story; the joke's \"women always want more\" line is not really rebutted as a claim about women. Could read as women.",
+  "evidence_seconds": 83
+ },
+ "usage": {
+  "prompt_tokens": 5108,
+  "completion_tokens": 217,
+  "cost_usd": null
+ }
+}

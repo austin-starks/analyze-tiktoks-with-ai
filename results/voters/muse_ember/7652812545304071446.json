@@ -1,0 +1,19 @@
+{
+ "id": "7652812545304071446",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "men",
+  "claim_answered": "Companies charge women more just because products are marketed to women",
+  "evidence_seconds": 62,
+  "reason": "Pushes back on pink-tax claim blaming men/companies for women's higher prices, showing no systematic gap"
+ },
+ "usage": {
+  "prompt_tokens": 3863,
+  "completion_tokens": 4240,
+  "cost_usd": null
+ }
+}

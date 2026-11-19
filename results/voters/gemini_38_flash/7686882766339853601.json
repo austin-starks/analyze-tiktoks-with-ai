@@ -1,0 +1,19 @@
+{
+ "id": "7686882766339853601",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "women",
+  "evidence_seconds": 28,
+  "reason": "Pushes back on a fabricated study running women down and defends women against misogyny",
+  "alternate_category": "none",
+  "borderline": false,
+  "claim_answered": "97% of women would rather go to jail than admit fault"
+ },
+ "usage": {
+  "prompt_tokens": 3967,
+  "completion_tokens": 626,
+  "cost_usd": null
+ }
+}

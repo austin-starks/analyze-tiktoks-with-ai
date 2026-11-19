@@ -1,0 +1,19 @@
+{
+ "id": "7599012979627068694",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "A successful relationship requires a man to think he cannot find a better partner",
+  "reason": "Dating advice rebuttal, not a claim attacking either sex as a group",
+  "evidence_seconds": 36
+ },
+ "usage": {
+  "prompt_tokens": 3337,
+  "completion_tokens": 215,
+  "cost_usd": null
+ }
+}

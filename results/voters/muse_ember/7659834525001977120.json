@@ -1,0 +1,19 @@
+{
+ "id": "7659834525001977120",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "men",
+  "borderline": true,
+  "category": "mixed",
+  "claim_answered": "Hating men leads to low expectations for men and misogyny",
+  "evidence_seconds": 19,
+  "reason": "Claim covers expectations for both sexes and he answers both directions symmetrically"
+ },
+ "usage": {
+  "prompt_tokens": 3542,
+  "completion_tokens": 4526,
+  "cost_usd": null
+ }
+}

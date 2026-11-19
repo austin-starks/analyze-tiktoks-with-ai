@@ -1,0 +1,19 @@
+{
+ "id": "7657900170822143254",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "claim_answered": "There is no good argument against rent control",
+  "borderline": false,
+  "alternate_category": "none",
+  "reason": "Addresses an economic policy topic about rent control and supply and demand.",
+  "evidence_seconds": 8,
+  "category": "politics"
+ },
+ "usage": {
+  "prompt_tokens": 4124,
+  "completion_tokens": 489,
+  "cost_usd": null
+ }
+}

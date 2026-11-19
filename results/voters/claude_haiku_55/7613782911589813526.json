@@ -1,0 +1,19 @@
+{
+ "id": "7613782911589813526",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "Boyfriend wanting to check her phone is normal relationship behavior (no group claim)",
+  "reason": "Answers a viewer's relationship question with dating advice; no claim about men or women as a group.",
+  "evidence_seconds": 125
+ },
+ "usage": {
+  "prompt_tokens": 5686,
+  "completion_tokens": 209,
+  "cost_usd": null
+ }
+}

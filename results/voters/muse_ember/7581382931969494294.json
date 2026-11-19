@@ -1,0 +1,19 @@
+{
+ "id": "7581382931969494294",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "misc",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "Men must get on knees and bark to enter her life",
+  "evidence_seconds": 3,
+  "reason": "Pushes back on woman's demand men humiliate themselves, defending men's dignity"
+ },
+ "usage": {
+  "prompt_tokens": 3116,
+  "completion_tokens": 6308,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "id": "7675326094161054998",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "reason": "Pushes back on automatic full child support for men who opt out early, defending men's interests against unfair obligation (Rule 2).",
+  "category": "men",
+  "alternate_category": "mixed",
+  "borderline": true,
+  "claim_answered": "Men who reject fatherhood early should still automatically owe full child support.",
+  "evidence_seconds": 48
+ },
+ "usage": {
+  "prompt_tokens": 3565,
+  "completion_tokens": 4628,
+  "cost_usd": null
+ }
+}

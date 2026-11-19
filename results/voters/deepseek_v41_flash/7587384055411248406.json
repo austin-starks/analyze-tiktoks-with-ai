@@ -1,0 +1,19 @@
+{
+ "id": "7587384055411248406",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "mixed",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Staying in love where your needs aren't met is a tragic, worst feeling",
+  "reason": "Answers a relationship/couple claim, then applies it to both women and men (\"this goes both ways\")",
+  "evidence_seconds": 46
+ },
+ "usage": {
+  "prompt_tokens": 3525,
+  "completion_tokens": 1315,
+  "cost_usd": null
+ }
+}

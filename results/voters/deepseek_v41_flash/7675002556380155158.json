@@ -1,0 +1,19 @@
+{
+ "id": "7675002556380155158",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "politics",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "none",
+  "reason": "Explains his personal position on abortion, a moral/religious political question, with no claim about men or women.",
+  "evidence_seconds": 167
+ },
+ "usage": {
+  "prompt_tokens": 3959,
+  "completion_tokens": 406,
+  "cost_usd": null
+ }
+}

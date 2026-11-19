@@ -1,0 +1,596 @@
+{
+ "text": "What's more dangerous than being a cop? Being the pregnant wife or girlfriend of one. Well now you have me curious, so let's fact check this and run the numbers on what's the most dangerous. Being pregnant, being a cop, or being the pregnant partner of a cop. So for starters, there are currently 750,000 cops in the United States. And their reported deaths are actually usually the same within like 10 to 20, so we'll just take 2023. So they have a .0125% chance of passing away. And in 2023, they ran the numbers to average out about 18.6 pregnant women per 100,000 did not make it out alive. Which is .0186. So already at a base level, it's more dangerous to be pregnant than to be a cop. The original claim was that being the pregnant wife or girlfriend of a cop is more dangerous than being a cop. And the lady in the video decided to fact check it. But interestingly, she first tries to check something slightly different. Whether being pregnant in general is more dangerous than being a police officer. Right off the bat, this comparison is already a little strange. One side is about the risks of doing a specific job, being a police officer. The other side is about health complications connected to pregnancy. Those are not the same category. And before we even compare them, we should ask, what do we actually mean by dangerous? But okay. In the video, she compares the police line of duty death rate around 12.5 per 100,000 officers with the US maternal mortality rate. Which was 18.6 per 100,000 live birth in 2023. And yes, on the surface, 18.6 is higher than 12.5. But here's the problem. When you make such sensational claims, you gotta be very careful with how you use numbers. For example, maternal mortality is calculated per 100,000 live birth. And being pregnant does not equal having a live birth. Pregnancies can also end in abortion, miscarriage, or stillbirth. For example, the 2023 maternal mortality rate is based on 669 maternal deaths divided by 3,596,017 live birth. Which gives around 18.6 deaths per 100,000 live birth. But if we're trying to estimate risk per pregnant woman, the denominator should be broader than live birth. If we add about 1,037,000 clinician-provided abortions and 20,005 fetal death or stillbirth at 20 plus weeks, we get around 4,653,022 known pregnancy outcomes. That brings the rate down to about 14.4 per 100,000. And if we also estimate miscarriages, which are not counted as cleanly as birth, the rate drops further. With miscarriages at roughly 10% of known pregnancies, we get about 12.9 per 100,000. With miscarriages at roughly 20%, it becomes about 11.5 per 100,000. Now suddenly, the number is lower than the police line of duty death rate. To be fair, this is not a perfect calculation either, because there could be some maternal death connected to miscarriage, abortion, or stillbirth that were not captured in 669 maternal deaths. So I'm not saying my rough estimate is the final correct number. My point is to show you how easy it is to manipulate the numbers the way you want. And therefore, how important it is to be precise when you make such sensational claims. And then there's a second problem. What does dangerous even mean here? Who decided that dangerous simply means mortality rate? And why are we comparing pregnancy-related medical mortality with occupational line-of-duty mortality, as if they are the same type of risk? To show how slippery this logic can get, NHTSA reported about 17.2 traffic deaths per 100,000 licensed drivers in 2023. So by this standard, having a driver's license is more dangerous than being a police officer? Are you kidding me? Want something even crazier? If we use raw mortality logic, being 85 years old is one of the most dangerous occupations in America. The annual death rate for Americans aged 85 and older is about 14,286 per 100,000. Over a thousand times higher than the police line-of-duty death rate. But nobody says grandma has a more dangerous occupation than a cop. Why? Because age-related mortality and occupational danger are not the same category. So yes, the maternal mortality number is real, and it is serious. But using it to say being pregnant is more dangerous than being a cop is at the very least misleading. And in the next video, I plan to break down the second part of her fact-checking, whether being the pregnant wife or girlfriend of a police officer is more dangerous than being a cop.",
+ "duration": 237.0800018310547,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.0,
+   "text": " What's more dangerous than being a cop?"
+  },
+  {
+   "start": 2.0,
+   "end": 4.0,
+   "text": " Being the pregnant wife or girlfriend of one."
+  },
+  {
+   "start": 4.0,
+   "end": 6.0,
+   "text": " Well now you have me curious, so let's fact check this"
+  },
+  {
+   "start": 6.0,
+   "end": 8.0,
+   "text": " and run the numbers on what's the most dangerous."
+  },
+  {
+   "start": 8.0,
+   "end": 10.0,
+   "text": " Being pregnant, being a cop, or being the pregnant partner of a cop."
+  },
+  {
+   "start": 10.0,
+   "end": 12.0,
+   "text": " So for starters, there are currently"
+  },
+  {
+   "start": 12.0,
+   "end": 14.0,
+   "text": " 750,000 cops in the United States."
+  },
+  {
+   "start": 14.0,
+   "end": 16.0,
+   "text": " And their reported deaths are actually"
+  },
+  {
+   "start": 16.0,
+   "end": 18.0,
+   "text": " usually the same within like 10 to 20, so we'll just"
+  },
+  {
+   "start": 18.0,
+   "end": 22.0,
+   "text": " take 2023. So they have a .0125% chance of passing away."
+  },
+  {
+   "start": 22.0,
+   "end": 24.0,
+   "text": " And in 2023, they ran the numbers"
+  },
+  {
+   "start": 24.0,
+   "end": 26.0,
+   "text": " to average out about 18.6 pregnant"
+  },
+  {
+   "start": 26.0,
+   "end": 28.0,
+   "text": " women per 100,000 did not make"
+  },
+  {
+   "start": 28.0,
+   "end": 30.0,
+   "text": " it out alive. Which is .0186."
+  },
+  {
+   "start": 30.0,
+   "end": 32.0,
+   "text": " So already at a base level,"
+  },
+  {
+   "start": 32.0,
+   "end": 34.0,
+   "text": " it's more dangerous to be pregnant than to be a cop."
+  },
+  {
+   "start": 34.0,
+   "end": 36.0,
+   "text": " The original claim was that being the"
+  },
+  {
+   "start": 36.0,
+   "end": 38.0,
+   "text": " pregnant wife or girlfriend of a cop is more"
+  },
+  {
+   "start": 38.0,
+   "end": 40.0,
+   "text": " dangerous than being a cop. And the lady in the video"
+  },
+  {
+   "start": 40.0,
+   "end": 42.0,
+   "text": " decided to fact check it. But interestingly,"
+  },
+  {
+   "start": 42.0,
+   "end": 44.0,
+   "text": " she first tries to check something slightly different."
+  },
+  {
+   "start": 44.0,
+   "end": 46.0,
+   "text": " Whether being pregnant in general"
+  },
+  {
+   "start": 46.0,
+   "end": 48.0,
+   "text": " is more dangerous than being a police officer."
+  },
+  {
+   "start": 48.0,
+   "end": 50.0,
+   "text": " Right off the bat, this comparison is already"
+  },
+  {
+   "start": 50.0,
+   "end": 52.0,
+   "text": " a little strange. One side is about the risks of"
+  },
+  {
+   "start": 52.0,
+   "end": 54.0,
+   "text": " doing a specific job, being a police officer."
+  },
+  {
+   "start": 54.0,
+   "end": 56.0,
+   "text": " The other side is about health complications"
+  },
+  {
+   "start": 56.0,
+   "end": 58.0,
+   "text": " connected to pregnancy. Those are"
+  },
+  {
+   "start": 58.0,
+   "end": 60.0,
+   "text": " not the same category. And before we even"
+  },
+  {
+   "start": 60.0,
+   "end": 62.0,
+   "text": " compare them, we should ask, what do we"
+  },
+  {
+   "start": 62.0,
+   "end": 64.0,
+   "text": " actually mean by dangerous? But okay."
+  },
+  {
+   "start": 64.0,
+   "end": 66.0,
+   "text": " In the video, she compares the police"
+  },
+  {
+   "start": 66.0,
+   "end": 68.0,
+   "text": " line of duty death rate around"
+  },
+  {
+   "start": 68.0,
+   "end": 70.0,
+   "text": " 12.5 per 100,000 officers"
+  },
+  {
+   "start": 70.0,
+   "end": 72.0,
+   "text": " with the US maternal mortality rate."
+  },
+  {
+   "start": 72.0,
+   "end": 74.0,
+   "text": " Which was 18.6 per 100,000"
+  },
+  {
+   "start": 74.0,
+   "end": 76.0,
+   "text": " live birth in 2023."
+  },
+  {
+   "start": 76.0,
+   "end": 78.0,
+   "text": " And yes, on the surface, 18.6"
+  },
+  {
+   "start": 78.0,
+   "end": 80.0,
+   "text": " is higher than 12.5. But here's"
+  },
+  {
+   "start": 80.0,
+   "end": 82.0,
+   "text": " the problem. When you make such sensational claims,"
+  },
+  {
+   "start": 82.0,
+   "end": 84.0,
+   "text": " you gotta be very careful with how you"
+  },
+  {
+   "start": 84.0,
+   "end": 86.0,
+   "text": " use numbers. For example,"
+  },
+  {
+   "start": 86.0,
+   "end": 88.0,
+   "text": " maternal mortality is calculated per"
+  },
+  {
+   "start": 88.0,
+   "end": 90.0,
+   "text": " 100,000 live birth. And being"
+  },
+  {
+   "start": 90.0,
+   "end": 92.0,
+   "text": " pregnant does not equal having"
+  },
+  {
+   "start": 92.0,
+   "end": 94.0,
+   "text": " a live birth. Pregnancies can also end"
+  },
+  {
+   "start": 94.0,
+   "end": 96.0,
+   "text": " in abortion, miscarriage, or stillbirth."
+  },
+  {
+   "start": 96.0,
+   "end": 98.0,
+   "text": " For example, the 2023"
+  },
+  {
+   "start": 98.0,
+   "end": 100.0,
+   "text": " maternal mortality rate is based on"
+  },
+  {
+   "start": 100.0,
+   "end": 102.0,
+   "text": " 669 maternal deaths divided"
+  },
+  {
+   "start": 102.0,
+   "end": 104.0,
+   "text": " by 3,596,017"
+  },
+  {
+   "start": 104.0,
+   "end": 106.0,
+   "text": " live birth."
+  },
+  {
+   "start": 106.0,
+   "end": 108.0,
+   "text": " Which gives around 18.6 deaths"
+  },
+  {
+   "start": 108.0,
+   "end": 110.0,
+   "text": " per 100,000 live birth. But if we're trying"
+  },
+  {
+   "start": 110.0,
+   "end": 112.0,
+   "text": " to estimate risk per pregnant woman,"
+  },
+  {
+   "start": 112.0,
+   "end": 114.0,
+   "text": " the denominator should be broader than live birth."
+  },
+  {
+   "start": 114.0,
+   "end": 116.0,
+   "text": " If we add about 1,037,000"
+  },
+  {
+   "start": 116.0,
+   "end": 118.0,
+   "text": " clinician-provided abortions and"
+  },
+  {
+   "start": 118.0,
+   "end": 120.0,
+   "text": " 20,005 fetal death or"
+  },
+  {
+   "start": 120.0,
+   "end": 122.0,
+   "text": " stillbirth at 20 plus weeks, we get"
+  },
+  {
+   "start": 122.0,
+   "end": 124.0,
+   "text": " around 4,653,022"
+  },
+  {
+   "start": 124.0,
+   "end": 126.0,
+   "text": " known pregnancy"
+  },
+  {
+   "start": 126.0,
+   "end": 128.0,
+   "text": " outcomes. That brings the rate down to about"
+  },
+  {
+   "start": 128.0,
+   "end": 130.0,
+   "text": " 14.4 per 100,000. And if"
+  },
+  {
+   "start": 130.0,
+   "end": 132.0,
+   "text": " we also estimate miscarriages, which are not"
+  },
+  {
+   "start": 132.0,
+   "end": 134.0,
+   "text": " counted as cleanly as birth, the rate drops"
+  },
+  {
+   "start": 134.0,
+   "end": 136.0,
+   "text": " further. With miscarriages at roughly 10%"
+  },
+  {
+   "start": 136.0,
+   "end": 138.0,
+   "text": " of known pregnancies, we get about 12.9"
+  },
+  {
+   "start": 138.0,
+   "end": 140.0,
+   "text": " per 100,000. With miscarriages at"
+  },
+  {
+   "start": 140.0,
+   "end": 142.0,
+   "text": " roughly 20%, it becomes about"
+  },
+  {
+   "start": 142.0,
+   "end": 144.0,
+   "text": " 11.5 per 100,000. Now suddenly,"
+  },
+  {
+   "start": 144.0,
+   "end": 146.0,
+   "text": " the number is lower than the police"
+  },
+  {
+   "start": 146.0,
+   "end": 148.0,
+   "text": " line of duty death rate. To be fair, this is"
+  },
+  {
+   "start": 148.0,
+   "end": 150.0,
+   "text": " not a perfect calculation either, because there"
+  },
+  {
+   "start": 150.0,
+   "end": 152.0,
+   "text": " could be some maternal death connected to"
+  },
+  {
+   "start": 152.0,
+   "end": 154.0,
+   "text": " miscarriage, abortion, or stillbirth"
+  },
+  {
+   "start": 154.0,
+   "end": 156.0,
+   "text": " that were not captured in 669"
+  },
+  {
+   "start": 156.0,
+   "end": 158.0,
+   "text": " maternal deaths. So I'm not saying my rough"
+  },
+  {
+   "start": 158.0,
+   "end": 160.0,
+   "text": " estimate is the final correct number."
+  },
+  {
+   "start": 160.0,
+   "end": 162.0,
+   "text": " My point is to show you how easy it is to"
+  },
+  {
+   "start": 162.0,
+   "end": 164.0,
+   "text": " manipulate the numbers the way you want. And"
+  },
+  {
+   "start": 164.0,
+   "end": 166.0,
+   "text": " therefore, how important it is to be precise"
+  },
+  {
+   "start": 166.0,
+   "end": 168.0,
+   "text": " when you make such sensational claims."
+  },
+  {
+   "start": 168.0,
+   "end": 170.0,
+   "text": " And then there's a second problem. What does"
+  },
+  {
+   "start": 170.0,
+   "end": 172.0,
+   "text": " dangerous even mean here? Who decided that"
+  },
+  {
+   "start": 172.0,
+   "end": 174.0,
+   "text": " dangerous simply means mortality rate?"
+  },
+  {
+   "start": 174.0,
+   "end": 176.0,
+   "text": " And why are we comparing pregnancy-related"
+  },
+  {
+   "start": 176.0,
+   "end": 178.0,
+   "text": " medical mortality with occupational"
+  },
+  {
+   "start": 178.0,
+   "end": 180.0,
+   "text": " line-of-duty mortality, as if they are the"
+  },
+  {
+   "start": 180.0,
+   "end": 182.0,
+   "text": " same type of risk? To show how slippery this logic"
+  },
+  {
+   "start": 182.0,
+   "end": 184.0,
+   "text": " can get, NHTSA reported"
+  },
+  {
+   "start": 184.0,
+   "end": 186.0,
+   "text": " about 17.2 traffic deaths"
+  },
+  {
+   "start": 186.0,
+   "end": 188.0,
+   "text": " per 100,000 licensed drivers"
+  },
+  {
+   "start": 188.0,
+   "end": 190.0,
+   "text": " in 2023. So by this standard,"
+  },
+  {
+   "start": 190.0,
+   "end": 192.0,
+   "text": " having a driver's license is more dangerous than"
+  },
+  {
+   "start": 192.0,
+   "end": 194.0,
+   "text": " being a police officer? Are you kidding me?"
+  },
+  {
+   "start": 194.0,
+   "end": 196.0,
+   "text": " Want something even crazier? If we"
+  },
+  {
+   "start": 196.0,
+   "end": 198.0,
+   "text": " use raw mortality logic, being"
+  },
+  {
+   "start": 198.0,
+   "end": 200.0,
+   "text": " 85 years old is one of the most"
+  },
+  {
+   "start": 200.0,
+   "end": 202.0,
+   "text": " dangerous occupations in America. The annual"
+  },
+  {
+   "start": 202.0,
+   "end": 204.0,
+   "text": " death rate for Americans aged 85"
+  },
+  {
+   "start": 204.0,
+   "end": 206.0,
+   "text": " and older is about 14,286"
+  },
+  {
+   "start": 206.0,
+   "end": 208.0,
+   "text": " per 100,000."
+  },
+  {
+   "start": 208.0,
+   "end": 210.0,
+   "text": " Over a thousand times higher than"
+  },
+  {
+   "start": 210.0,
+   "end": 212.0,
+   "text": " the police line-of-duty death rate. But"
+  },
+  {
+   "start": 212.0,
+   "end": 214.0,
+   "text": " nobody says grandma has a more dangerous"
+  },
+  {
+   "start": 214.0,
+   "end": 216.0,
+   "text": " occupation than a cop. Why?"
+  },
+  {
+   "start": 216.0,
+   "end": 218.0,
+   "text": " Because age-related mortality and"
+  },
+  {
+   "start": 218.0,
+   "end": 220.0,
+   "text": " occupational danger are not the same category."
+  },
+  {
+   "start": 220.0,
+   "end": 222.0,
+   "text": " So yes, the maternal mortality"
+  },
+  {
+   "start": 222.0,
+   "end": 224.0,
+   "text": " number is real, and it is serious."
+  },
+  {
+   "start": 224.0,
+   "end": 226.0,
+   "text": " But using it to say being pregnant"
+  },
+  {
+   "start": 226.0,
+   "end": 228.0,
+   "text": " is more dangerous than being a cop is at the"
+  },
+  {
+   "start": 228.0,
+   "end": 230.0,
+   "text": " very least misleading. And in the next video,"
+  },
+  {
+   "start": 230.0,
+   "end": 232.0,
+   "text": " I plan to break down the second part of her"
+  },
+  {
+   "start": 232.0,
+   "end": 234.0,
+   "text": " fact-checking, whether being the pregnant wife"
+  },
+  {
+   "start": 234.0,
+   "end": 236.0,
+   "text": " or girlfriend of a police officer is more"
+  },
+  {
+   "start": 236.0,
+   "end": 238.0,
+   "text": " dangerous than being a cop."
+  }
+ ]
+}

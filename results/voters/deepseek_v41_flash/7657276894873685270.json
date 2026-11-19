@@ -1,0 +1,19 @@
+{
+ "id": "7657276894873685270",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Less than 1% of reported rape allegations by women are false",
+  "reason": "Pushes back on a statistic that downplays false accusations and favors women at men's expense",
+  "evidence_seconds": 12
+ },
+ "usage": {
+  "prompt_tokens": 3920,
+  "completion_tokens": 739,
+  "cost_usd": null
+ }
+}

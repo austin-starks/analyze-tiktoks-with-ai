@@ -1,0 +1,19 @@
+{
+ "id": "7656436651945708822",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "women",
+  "claim_answered": "39.6% of women would make false sexual assault allegations for benefit",
+  "evidence_seconds": 42,
+  "reason": "Pushes back on claim that women would falsely accuse men for benefit, defending women"
+ },
+ "usage": {
+  "prompt_tokens": 3905,
+  "completion_tokens": 4438,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7606120278036385046",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men are abusers and predators, so people should not trust male babysitters",
+  "reason": "Pushes back on a claim that demonizes men as inherently dangerous.",
+  "evidence_seconds": 12
+ },
+ "usage": {
+  "prompt_tokens": 3574,
+  "completion_tokens": 211,
+  "cost_usd": null
+ }
+}

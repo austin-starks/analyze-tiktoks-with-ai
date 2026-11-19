@@ -1,0 +1,19 @@
+{
+ "id": "7560419431931809046",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "mixed",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "Women have more empathy than men; men never think empathetically about women",
+  "evidence_seconds": 20,
+  "reason": "Pushes back on claim that men lack empathy, arguing men show more empathy in dating"
+ },
+ "usage": {
+  "prompt_tokens": 3010,
+  "completion_tokens": 2976,
+  "cost_usd": null
+ }
+}

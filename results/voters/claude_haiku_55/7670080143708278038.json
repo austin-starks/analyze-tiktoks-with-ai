@@ -1,0 +1,19 @@
+{
+ "id": "7670080143708278038",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Married women live shorter, earn less, and are less happy than single women; marrying a man is the worst thing a woman can do",
+  "reason": "Rebuts a claim that runs women down by framing marriage to men as harmful to women; defends married women's outcomes.",
+  "evidence_seconds": 183
+ },
+ "usage": {
+  "prompt_tokens": 5649,
+  "completion_tokens": 227,
+  "cost_usd": null
+ }
+}

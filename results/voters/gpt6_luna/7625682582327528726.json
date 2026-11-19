@@ -1,0 +1,19 @@
+{
+ "id": "7625682582327528726",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "women",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "The gender pay gap is mainly caused by sexism and discrimination",
+  "reason": "Pushes back on a claim that frames women's pay disadvantage as discrimination, downplaying that disadvantage",
+  "evidence_seconds": 149
+ },
+ "usage": {
+  "prompt_tokens": 3340,
+  "completion_tokens": 275,
+  "cost_usd": null
+ }
+}

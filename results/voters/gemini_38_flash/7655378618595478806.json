@@ -1,0 +1,19 @@
+{
+ "id": "7655378618595478806",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "reason": "Educational history of early feminism that answers no modern claim.",
+  "claim_answered": "none",
+  "borderline": true,
+  "category": "misc",
+  "alternate_category": "women",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 4131,
+  "completion_tokens": 1090,
+  "cost_usd": null
+ }
+}

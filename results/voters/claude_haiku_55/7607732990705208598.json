@@ -1,0 +1,19 @@
+{
+ "id": "7607732990705208598",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Women to avoid in serious relationships: lack of empathy, gratitude, cheating history, adult industry past, boundary disrespect, comparing men, talking to other guys",
+  "reason": "Runs women down with a list of negative traits blamed on women as a group, no pushback on the claim",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 5286,
+  "completion_tokens": 235,
+  "cost_usd": null
+ }
+}

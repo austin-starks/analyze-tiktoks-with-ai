@@ -1,0 +1,19 @@
+{
+ "id": "7569159446618705174",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "A man’s harmless peace-sign greeting is a reason to get the ick",
+  "reason": "Pushes back on a woman’s unfair negative judgment of a man’s harmless behavior.",
+  "evidence_seconds": 31
+ },
+ "usage": {
+  "prompt_tokens": 2936,
+  "completion_tokens": 218,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7665725491093032214",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "debate",
+  "claim_answered": "SimpleBlackTheory's critique of Ilyas's earlier video on rent control",
+  "reason": "Direct reply to creator SimpleBlackTheory who responded to Ilyas's earlier video",
+  "evidence_seconds": 2,
+  "alternate_category": "politics",
+  "borderline": true
+ },
+ "usage": {
+  "prompt_tokens": 4303,
+  "completion_tokens": 644,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7648197354000026902",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "debate",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "SimpleBlackTheory says he used CDC death data to argue men have it harder",
+  "reason": "Reply to a creator who responded to and criticized his earlier video",
+  "evidence_seconds": 33
+ },
+ "usage": {
+  "prompt_tokens": 3832,
+  "completion_tokens": 130,
+  "cost_usd": null
+ }
+}

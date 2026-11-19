@@ -1,0 +1,19 @@
+{
+ "id": "7694339717382294816",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "reason": "Addresses an economic and political ideological claim about capitalism and anti-racism.",
+  "alternate_category": "misc",
+  "borderline": true,
+  "category": "politics",
+  "evidence_seconds": 39,
+  "claim_answered": "You can't be anti-racist if you're not anti-capitalist"
+ },
+ "usage": {
+  "prompt_tokens": 4414,
+  "completion_tokens": 703,
+  "cost_usd": 0.005207625
+ }
+}

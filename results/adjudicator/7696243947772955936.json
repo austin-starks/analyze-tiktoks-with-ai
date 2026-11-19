@@ -1,0 +1,18 @@
+{
+ "id": "7696243947772955936",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "category": "men",
+  "alternate_category": "mixed",
+  "borderline": true,
+  "claim_answered": "Male privilege exists, while female privilege does not exist.",
+  "evidence_seconds": 30,
+  "reason": "He rebuts the claim that women have no advantages (Rule 2: denying men's disadvantages), which is men even with a balanced conclusion."
+ },
+ "usage": {
+  "prompt_tokens": 4397,
+  "completion_tokens": 1568,
+  "cost_usd": null
+ }
+}

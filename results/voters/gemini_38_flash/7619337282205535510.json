@@ -1,0 +1,19 @@
+{
+ "id": "7619337282205535510",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "evidence_seconds": 10,
+  "category": "misc",
+  "claim_answered": "none",
+  "borderline": false,
+  "reason": "Answering a viewer DM with dating and relationship advice about self-respect",
+  "alternate_category": "none"
+ },
+ "usage": {
+  "prompt_tokens": 3749,
+  "completion_tokens": 313,
+  "cost_usd": null
+ }
+}

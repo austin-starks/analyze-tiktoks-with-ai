@@ -1,0 +1,19 @@
+{
+ "id": "7555617975454174486",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "misc",
+  "borderline": true,
+  "category": "mixed",
+  "claim_answered": "One-time cheating is more understandable and reformed cheaters exist",
+  "evidence_seconds": 17,
+  "reason": "Pushes back on a gender-neutral claim about cheaters in couples, blaming neither sex"
+ },
+ "usage": {
+  "prompt_tokens": 3128,
+  "completion_tokens": 6175,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7618963692230577430",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "claim_answered": "Men aren't good at anything and are to blame for pregnancy hardships",
+  "category": "men",
+  "alternate_category": "none",
+  "reason": "He defends men against a misandrist creator's attacks and claims that men aren't good at anything.",
+  "borderline": false,
+  "evidence_seconds": 69
+ },
+ "usage": {
+  "prompt_tokens": 3561,
+  "completion_tokens": 431,
+  "cost_usd": null
+ }
+}

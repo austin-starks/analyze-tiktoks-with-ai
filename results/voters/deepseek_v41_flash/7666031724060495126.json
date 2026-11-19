@@ -1,0 +1,19 @@
+{
+ "id": "7666031724060495126",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "news",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "Ines Garcia dumped her boyfriend of five years for Lamine Yamal after one DM",
+  "reason": "He mainly fact-checks a viral celebrity story step by step, though it also clears a woman of a smearing claim",
+  "evidence_seconds": 79
+ },
+ "usage": {
+  "prompt_tokens": 4376,
+  "completion_tokens": 777,
+  "cost_usd": null
+ }
+}

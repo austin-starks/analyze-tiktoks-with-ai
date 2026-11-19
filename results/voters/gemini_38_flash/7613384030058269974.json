@@ -1,0 +1,19 @@
+{
+ "id": "7613384030058269974",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "claim_answered": "Women are more evolved and men are wired to obsess over women",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "evidence_seconds": 41,
+  "category": "men",
+  "reason": "Pushes back on a claim that men are less evolved and morally inferior to women in dating."
+ },
+ "usage": {
+  "prompt_tokens": 3884,
+  "completion_tokens": 463,
+  "cost_usd": null
+ }
+}

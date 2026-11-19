@@ -1,0 +1,19 @@
+{
+ "id": "7674612397511888150",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "politics",
+  "claim_answered": "Necklace analogy and DNA information prove God exists",
+  "evidence_seconds": 0,
+  "reason": "Religious claim about God, DNA and design; no claim about men or women"
+ },
+ "usage": {
+  "prompt_tokens": 3847,
+  "completion_tokens": 2347,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7694695354238766369",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "news",
+  "claim_answered": "Seven men gang-raped a woman and got essays; 975 of 1,000 sexual assault perpetrators never face jail, so women's fears are justified",
+  "reason": "Rebuts Becca Bloom's claim that the system protects male perpetrators and that women's fears are justified; a claim about the justice system, not men as a group, but it is largely a news-style Cornell case critique.",
+  "evidence_seconds": 53
+ },
+ "usage": {
+  "prompt_tokens": 6842,
+  "completion_tokens": 267,
+  "cost_usd": null
+ }
+}

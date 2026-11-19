@@ -1,0 +1,19 @@
+{
+ "id": "7571773477099752726",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men are boring and women make the time enjoyable themselves",
+  "reason": "Pushes back on a claim that runs men down as boring, arguing that enjoyable connection is mutual.",
+  "evidence_seconds": 31
+ },
+ "usage": {
+  "prompt_tokens": 2991,
+  "completion_tokens": 187,
+  "cost_usd": null
+ }
+}

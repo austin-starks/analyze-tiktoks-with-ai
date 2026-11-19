@@ -1,0 +1,19 @@
+{
+ "id": "7681290943105862934",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "news",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Reports on the deadlocked Lindsay Clancy trial and possible mistrial; answers no claim about men or women.",
+  "evidence_seconds": 12
+ },
+ "usage": {
+  "prompt_tokens": 3773,
+  "completion_tokens": 165,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7695381189086989601",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "politics",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "The far left is at worst annoying, while the far right is genuinely dangerous",
+  "reason": "Compares far-left and far-right political extremism via terrorism, riots, and political attitudes; no claim about men or women.",
+  "evidence_seconds": 15
+ },
+ "usage": {
+  "prompt_tokens": 7205,
+  "completion_tokens": 214,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7653829861491887382",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "women",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Domestic violence rises during England football matches, especially when the team loses",
+  "reason": "Fact-checks an assertion that women face increased domestic abuse; validates it and rejects blaming football itself.",
+  "evidence_seconds": 92
+ },
+ "usage": {
+  "prompt_tokens": 3393,
+  "completion_tokens": 73,
+  "cost_usd": null
+ }
+}

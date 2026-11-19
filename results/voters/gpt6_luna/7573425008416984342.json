@@ -1,0 +1,19 @@
+{
+ "id": "7573425008416984342",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men today are weaker and no longer real men compared with men in the past",
+  "reason": "Pushes back on a claim that runs down modern men and denies their contributions.",
+  "evidence_seconds": 21
+ },
+ "usage": {
+  "prompt_tokens": 3120,
+  "completion_tokens": 71,
+  "cost_usd": null
+ }
+}

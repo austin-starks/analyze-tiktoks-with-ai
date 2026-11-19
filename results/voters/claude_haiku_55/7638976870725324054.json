@@ -1,0 +1,19 @@
+{
+ "id": "7638976870725324054",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "debate",
+  "borderline": false,
+  "alternate_category": "men",
+  "claim_answered": "Creator Nick says Ilyas's Whoppers video described exactly what \"all men\" means, that he missed the point",
+  "reason": "Explicit reply to @thatnickpowersguy, a creator who responded to his earlier Whoppers video; beats men/women.",
+  "evidence_seconds": 19
+ },
+ "usage": {
+  "prompt_tokens": 5998,
+  "completion_tokens": 229,
+  "cost_usd": null
+ }
+}

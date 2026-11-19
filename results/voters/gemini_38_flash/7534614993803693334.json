@@ -1,0 +1,19 @@
+{
+ "id": "7534614993803693334",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "evidence_seconds": 0,
+  "reason": "General dating and texting advice for men; answers no group claim about men or women.",
+  "alternate_category": "none",
+  "category": "misc",
+  "borderline": false,
+  "claim_answered": "none"
+ },
+ "usage": {
+  "prompt_tokens": 3253,
+  "completion_tokens": 242,
+  "cost_usd": null
+ }
+}

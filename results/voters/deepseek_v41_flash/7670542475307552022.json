@@ -1,0 +1,19 @@
+{
+ "id": "7670542475307552022",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Men were born just to procreate; that is men's biological purpose, not women's",
+  "reason": "Answers a claim reducing men to reproduction; his \"both sexes\" framing still targets men's reputation",
+  "evidence_seconds": 33
+ },
+ "usage": {
+  "prompt_tokens": 3763,
+  "completion_tokens": 333,
+  "cost_usd": null
+ }
+}

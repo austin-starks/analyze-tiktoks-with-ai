@@ -1,0 +1,19 @@
+{
+ "id": "7687593527030582560",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "mixed",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "Men are predators; female animals avoiding males proves men harass women",
+  "evidence_seconds": 22,
+  "reason": "Pushes back on claim portraying men as predators, noting most men are not violent"
+ },
+ "usage": {
+  "prompt_tokens": 3574,
+  "completion_tokens": 3124,
+  "cost_usd": null
+ }
+}

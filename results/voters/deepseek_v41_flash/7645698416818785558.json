@@ -1,0 +1,19 @@
+{
+ "id": "7645698416818785558",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "More than nine in ten men have admitted to not accepting no as an answer",
+  "reason": "He rebuts a claim running men down, showing the 95.1% figure measures something far weaker.",
+  "evidence_seconds": 57
+ },
+ "usage": {
+  "prompt_tokens": 5140,
+  "completion_tokens": 307,
+  "cost_usd": null
+ }
+}

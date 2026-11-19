@@ -1,0 +1,19 @@
+{
+ "id": "7618963692230577430",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "A self-described misandrist says she still resents men and blames them for pregnancy hardship and lack of maternity leave",
+  "reason": "Pushes back on a claim that blames men for women's burdens and runs men down, defending men as supportive, though he also criticizes the speaker.",
+  "evidence_seconds": 42
+ },
+ "usage": {
+  "prompt_tokens": 5314,
+  "completion_tokens": 233,
+  "cost_usd": null
+ }
+}

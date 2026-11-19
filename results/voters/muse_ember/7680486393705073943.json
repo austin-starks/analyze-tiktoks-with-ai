@@ -1,0 +1,19 @@
+{
+ "id": "7680486393705073943",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "mixed",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "All wars have been started by men",
+  "evidence_seconds": 17,
+  "reason": "Pushes back on claim that runs men down as war-starters"
+ },
+ "usage": {
+  "prompt_tokens": 3395,
+  "completion_tokens": 3042,
+  "cost_usd": null
+ }
+}

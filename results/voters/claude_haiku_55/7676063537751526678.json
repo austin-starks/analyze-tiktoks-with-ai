@@ -1,0 +1,19 @@
+{
+ "id": "7676063537751526678",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "mixed",
+  "borderline": true,
+  "alternate_category": "news",
+  "claim_answered": "Right-wing \"taste of your own medicine\" and left-wing \"believe women/survivors\" reactions to the Dean Withers allegations are hypocritical",
+  "reason": "Addresses both political sides' reactions to an accusation; the claims are about believing accusers, not men or women as groups. Mainly covers an ongoing story, so news is plausible.",
+  "evidence_seconds": 12
+ },
+ "usage": {
+  "prompt_tokens": 5910,
+  "completion_tokens": 258,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7653550060566793494",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "politics",
+  "claim_answered": "none",
+  "reason": "Personal storytelling on racism versus ignorance; answers no claim about men or women, and no creator or politics involved.",
+  "evidence_seconds": 77
+ },
+ "usage": {
+  "prompt_tokens": 5813,
+  "completion_tokens": 190,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7572957606776589590",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "women",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Akaash's wife shared his values and was a suitable match despite her past",
+  "reason": "Argues against men's trust in women who do not share their values, portraying women as potentially deceptive and exploitative.",
+  "evidence_seconds": 71
+ },
+ "usage": {
+  "prompt_tokens": 3292,
+  "completion_tokens": 79,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7679516802401029398",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "politics",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Voter ID laws: no-ID voting enables fraud, versus ID laws suppress legitimate voters",
+  "reason": "Election rules and voter ID policy are politics, not a claim about men or women.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 5759,
+  "completion_tokens": 210,
+  "cost_usd": null
+ }
+}

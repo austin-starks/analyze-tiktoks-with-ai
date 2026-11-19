@@ -1,0 +1,19 @@
+{
+ "id": "7610333228532043030",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Dating red-flag advice for men; answers no claim defending a sex",
+  "evidence_seconds": 5
+ },
+ "usage": {
+  "prompt_tokens": 3628,
+  "completion_tokens": 161,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7628495397496818966",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "mixed",
+  "claim_answered": "Competition between women is manufactured and women outperform men in collaboration",
+  "reason": "Pushes back on a claim favoring women that does not attack men",
+  "alternate_category": "women",
+  "borderline": true,
+  "evidence_seconds": 35
+ },
+ "usage": {
+  "prompt_tokens": 3721,
+  "completion_tokens": 1170,
+  "cost_usd": null
+ }
+}

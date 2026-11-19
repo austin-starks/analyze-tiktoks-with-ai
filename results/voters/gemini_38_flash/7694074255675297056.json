@@ -1,0 +1,19 @@
+{
+ "id": "7694074255675297056",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "claim_answered": "The gap between knowing survivors and perpetrators proves men turn a blind eye",
+  "reason": "Pushes back on a claim accusing men of turning a blind eye and protecting rapists",
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "evidence_seconds": 182
+ },
+ "usage": {
+  "prompt_tokens": 3998,
+  "completion_tokens": 1218,
+  "cost_usd": null
+ }
+}

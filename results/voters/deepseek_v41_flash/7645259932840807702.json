@@ -1,0 +1,19 @@
+{
+ "id": "7645259932840807702",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "mixed",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "Body count doesn't matter; women are unfairly judged while men are praised for it",
+  "reason": "Answers a claim about both sexes' body counts, explaining the different paths behind Joe's and Vicky's identical number",
+  "evidence_seconds": 80
+ },
+ "usage": {
+  "prompt_tokens": 4727,
+  "completion_tokens": 1103,
+  "cost_usd": null
+ }
+}

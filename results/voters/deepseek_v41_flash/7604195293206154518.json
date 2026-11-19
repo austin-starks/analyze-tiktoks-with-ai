@@ -1,0 +1,19 @@
+{
+ "id": "7604195293206154518",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "women",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Women on dating apps or in clubs are undateable red flags",
+  "reason": "Answers a claim that runs women down, arguing apps and nightlife don't make a woman a bad partner",
+  "evidence_seconds": 148
+ },
+ "usage": {
+  "prompt_tokens": 3923,
+  "completion_tokens": 249,
+  "cost_usd": null
+ }
+}

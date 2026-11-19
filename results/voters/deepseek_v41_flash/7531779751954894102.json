@@ -1,0 +1,19 @@
+{
+ "id": "7531779751954894102",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "First-date conversation tips; answers no claim about men or women",
+  "evidence_seconds": 10
+ },
+ "usage": {
+  "prompt_tokens": 3319,
+  "completion_tokens": 148,
+  "cost_usd": null
+ }
+}

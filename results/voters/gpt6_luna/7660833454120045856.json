@@ -1,0 +1,19 @@
+{
+ "id": "7660833454120045856",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Straight white men collectively cause the most harm, so hostility toward them is justified",
+  "reason": "Pushes back on collective blame and hostility directed at men based on sex",
+  "evidence_seconds": 64
+ },
+ "usage": {
+  "prompt_tokens": 3554,
+  "completion_tokens": 292,
+  "cost_usd": null
+ }
+}

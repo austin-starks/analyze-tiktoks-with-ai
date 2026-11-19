@@ -1,0 +1,19 @@
+{
+ "id": "7548829005240143126",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Dating advice on recognizing a non-relationship; answers no claim about men or women as a group.",
+  "evidence_seconds": 20
+ },
+ "usage": {
+  "prompt_tokens": 3428,
+  "completion_tokens": 164,
+  "cost_usd": null
+ }
+}

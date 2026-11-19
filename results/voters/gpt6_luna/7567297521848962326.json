@@ -1,0 +1,19 @@
+{
+ "id": "7567297521848962326",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "A healthy straight relationship requires the man to be more patient, tolerant, and obsessed",
+  "reason": "Pushes back on a claim imposing disproportionate emotional effort on men in relationships.",
+  "evidence_seconds": 30
+ },
+ "usage": {
+  "prompt_tokens": 3010,
+  "completion_tokens": 72,
+  "cost_usd": null
+ }
+}

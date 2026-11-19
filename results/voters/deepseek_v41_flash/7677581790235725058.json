@@ -1,0 +1,19 @@
+{
+ "id": "7677581790235725058",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "news",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Explains the Lindsay Clancy trial and dueling expert testimony; no claim about men or women as a group.",
+  "evidence_seconds": 10
+ },
+ "usage": {
+  "prompt_tokens": 3951,
+  "completion_tokens": 213,
+  "cost_usd": null
+ }
+}

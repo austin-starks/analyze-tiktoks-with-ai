@@ -1,0 +1,19 @@
+{
+ "id": "7683533279575805206",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "politics",
+  "borderline": true,
+  "alternate_category": "news",
+  "claim_answered": "The far-right AfD has just taken over Germany",
+  "reason": "Explains a state election result and coalition math; electoral and party politics, not about men or women",
+  "evidence_seconds": 42
+ },
+ "usage": {
+  "prompt_tokens": 4343,
+  "completion_tokens": 232,
+  "cost_usd": null
+ }
+}

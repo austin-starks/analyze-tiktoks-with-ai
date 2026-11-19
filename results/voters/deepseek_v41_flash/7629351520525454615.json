@@ -1,0 +1,19 @@
+{
+ "id": "7629351520525454615",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "80% of organ donors are women and 80% of recipients are men, so men are hypocrites",
+  "reason": "Fact-checks a viral claim that runs men down as selfish hypocrites; data show most donors and recipients are men",
+  "evidence_seconds": 40
+ },
+ "usage": {
+  "prompt_tokens": 3524,
+  "completion_tokens": 305,
+  "cost_usd": null
+ }
+}

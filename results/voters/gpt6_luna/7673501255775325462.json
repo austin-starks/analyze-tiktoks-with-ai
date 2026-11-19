@@ -1,0 +1,19 @@
+{
+ "id": "7673501255775325462",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "The mixed-team rule is unfair because it requires an all-female team to include a man",
+  "reason": "Pushes back on an argument for a women-favoring exception to a rule that also requires male teams to include women",
+  "evidence_seconds": 90
+ },
+ "usage": {
+  "prompt_tokens": 3482,
+  "completion_tokens": 999,
+  "cost_usd": null
+ }
+}

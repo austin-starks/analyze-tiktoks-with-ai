@@ -1,0 +1,19 @@
+{
+ "id": "7668238680137452832",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "misc",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "Men do not deserve rights, feelings, or sympathy; hating men is acceptable",
+  "evidence_seconds": 82,
+  "reason": "He pushes back on backlash against pro-men stance, arguing men are human and hating men is dehumanizing"
+ },
+ "usage": {
+  "prompt_tokens": 3422,
+  "completion_tokens": 6292,
+  "cost_usd": null
+ }
+}

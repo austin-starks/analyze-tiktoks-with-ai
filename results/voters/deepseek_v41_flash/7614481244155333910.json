@@ -1,0 +1,19 @@
+{
+ "id": "7614481244155333910",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Viewer DM about trust issues answered with relationship advice; no claim about men or women as a group.",
+  "evidence_seconds": 58
+ },
+ "usage": {
+  "prompt_tokens": 3639,
+  "completion_tokens": 286,
+  "cost_usd": null
+ }
+}

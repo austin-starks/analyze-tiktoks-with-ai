@@ -1,0 +1,19 @@
+{
+ "id": "7689871272074824993",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Mongol society was a matriarchy where women kept multiple husbands as slaves",
+  "reason": "Rebuts a claim that runs women down and presents women as enslaving men; he defends women's historical standing against that framing.",
+  "evidence_seconds": 14
+ },
+ "usage": {
+  "prompt_tokens": 5726,
+  "completion_tokens": 215,
+  "cost_usd": null
+ }
+}

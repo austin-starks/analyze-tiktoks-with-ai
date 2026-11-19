@@ -1,0 +1,19 @@
+{
+ "id": "7549233282337049879",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "A dead bedroom with a girlfriend who refuses intimacy is a red flag; leave her",
+  "reason": "Relationship advice based on a Reddit story; no claim about men or women in general is answered.",
+  "evidence_seconds": 98
+ },
+ "usage": {
+  "prompt_tokens": 5797,
+  "completion_tokens": 210,
+  "cost_usd": null
+ }
+}

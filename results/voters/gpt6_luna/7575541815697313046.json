@@ -1,0 +1,19 @@
+{
+ "id": "7575541815697313046",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "mixed",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "A man must love a woman more for a relationship to work",
+  "reason": "Counters a relationship claim about both partners and says it applies both ways, without blaming either sex.",
+  "evidence_seconds": 7
+ },
+ "usage": {
+  "prompt_tokens": 2986,
+  "completion_tokens": 71,
+  "cost_usd": null
+ }
+}

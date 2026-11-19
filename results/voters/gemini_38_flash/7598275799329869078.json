@@ -1,0 +1,19 @@
+{
+ "id": "7598275799329869078",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "evidence_seconds": 97,
+  "claim_answered": "none",
+  "reason": "Dating advice warning men about dating adult-industry workers; answers no general claim about either sex."
+ },
+ "usage": {
+  "prompt_tokens": 3821,
+  "completion_tokens": 1245,
+  "cost_usd": null
+ }
+}

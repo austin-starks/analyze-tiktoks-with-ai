@@ -1,0 +1,19 @@
+{
+ "id": "7674612397511888150",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "politics",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "A necklace, DNA, and biological complexity prove that God exists",
+  "reason": "Evaluates a religious argument; religious claims are politics under the category rules.",
+  "evidence_seconds": 149
+ },
+ "usage": {
+  "prompt_tokens": 3843,
+  "completion_tokens": 135,
+  "cost_usd": null
+ }
+}

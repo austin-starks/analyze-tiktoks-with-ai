@@ -1,0 +1,19 @@
+{
+ "id": "7651983728977235222",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "men",
+  "claim_answered": "Men don't really have problems; men's struggles aren't real",
+  "evidence_seconds": 35,
+  "reason": "Pushes back on claim dismissing men's problems as unreal compared to women's"
+ },
+ "usage": {
+  "prompt_tokens": 3409,
+  "completion_tokens": 2682,
+  "cost_usd": null
+ }
+}

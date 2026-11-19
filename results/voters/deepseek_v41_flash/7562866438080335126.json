@@ -1,0 +1,19 @@
+{
+ "id": "7562866438080335126",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "A man's cheap picnic effort deserves to be mocked, so he should have spent more",
+  "reason": "Pushes back on the girlfriend's ridicule of his effort, defending his effort as enough",
+  "evidence_seconds": 64
+ },
+ "usage": {
+  "prompt_tokens": 3648,
+  "completion_tokens": 632,
+  "cost_usd": null
+ }
+}

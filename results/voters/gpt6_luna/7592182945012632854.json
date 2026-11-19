@@ -1,0 +1,19 @@
+{
+ "id": "7592182945012632854",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Answers a subscriber’s personal relationship question with boundary-setting advice, not a broader claim about men or women.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 4682,
+  "completion_tokens": 140,
+  "cost_usd": null
+ }
+}

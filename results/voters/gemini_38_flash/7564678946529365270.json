@@ -1,0 +1,19 @@
+{
+ "id": "7564678946529365270",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "reason": "Pushes back on double standards in dating that unfairly run down men's attractiveness",
+  "category": "men",
+  "alternate_category": "mixed",
+  "evidence_seconds": 57,
+  "claim_answered": "All women are 10s and barely any men are attractive",
+  "borderline": true
+ },
+ "usage": {
+  "prompt_tokens": 3325,
+  "completion_tokens": 1055,
+  "cost_usd": null
+ }
+}

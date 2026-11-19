@@ -1,0 +1,19 @@
+{
+ "id": "7620048877365906710",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "misc",
+  "claim_answered": "none",
+  "evidence_seconds": 0,
+  "reason": "Viewer story reaction and dating/self-respect advice; answers no general claim about men or women"
+ },
+ "usage": {
+  "prompt_tokens": 3963,
+  "completion_tokens": 2372,
+  "cost_usd": null
+ }
+}

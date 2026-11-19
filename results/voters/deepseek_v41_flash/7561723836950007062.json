@@ -1,0 +1,19 @@
+{
+ "id": "7561723836950007062",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "A wife dismissing her exhausted husband's wish to relax is fine",
+  "reason": "Pushes back on a woman's indifference toward her husband's exhaustion, defending men's side, though he notes it goes both ways",
+  "evidence_seconds": 44
+ },
+ "usage": {
+  "prompt_tokens": 3385,
+  "completion_tokens": 394,
+  "cost_usd": null
+ }
+}

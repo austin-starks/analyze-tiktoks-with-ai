@@ -1,0 +1,19 @@
+{
+ "id": "7701000710791499041",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "news",
+  "borderline": true,
+  "category": "politics",
+  "claim_answered": "Islamists are behind France's riots",
+  "evidence_seconds": 29,
+  "reason": "Examines political claims about Islamist and radical-left involvement in France riots"
+ },
+ "usage": {
+  "prompt_tokens": 6615,
+  "completion_tokens": 2890,
+  "cost_usd": null
+ }
+}

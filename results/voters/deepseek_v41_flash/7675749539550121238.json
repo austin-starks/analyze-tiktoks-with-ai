@@ -1,0 +1,19 @@
+{
+ "id": "7675749539550121238",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "news",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Part 1 of ongoing coverage of the Dean Withers allegations, laying out the timeline and evidence",
+  "evidence_seconds": 8
+ },
+ "usage": {
+  "prompt_tokens": 3952,
+  "completion_tokens": 173,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7542210134957903126",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "misc",
+  "claim_answered": "none",
+  "evidence_seconds": 0,
+  "reason": "Dating and self-improvement motivation; answers no claim about men or women"
+ },
+ "usage": {
+  "prompt_tokens": 3167,
+  "completion_tokens": 550,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7574901846536457494",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "misc",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "Husband should fix wife's bad day with money and quit-job advice",
+  "evidence_seconds": 31,
+  "reason": "Pushes back on claim blaming husband for not funding wife, defending men"
+ },
+ "usage": {
+  "prompt_tokens": 3075,
+  "completion_tokens": 5191,
+  "cost_usd": null
+ }
+}

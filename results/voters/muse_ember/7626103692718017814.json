@@ -1,0 +1,19 @@
+{
+ "id": "7626103692718017814",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "mixed",
+  "borderline": true,
+  "category": "women",
+  "claim_answered": "Women are dramatic and overreact",
+  "evidence_seconds": 4,
+  "reason": "Answers negative stereotype about women, noting bias influences dramatic label"
+ },
+ "usage": {
+  "prompt_tokens": 3223,
+  "completion_tokens": 7620,
+  "cost_usd": null
+ }
+}

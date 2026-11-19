@@ -1,0 +1,19 @@
+{
+ "id": "7705134218665266464",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "alternate_category": "politics",
+  "claim_answered": "Women are five times more likely to exhibit own-group bias and voted for Clinton due to gender",
+  "reason": "Pushes back on a claim alleging strong gender in-group bias among women to explain voting behavior",
+  "category": "women",
+  "evidence_seconds": 43,
+  "borderline": true
+ },
+ "usage": {
+  "prompt_tokens": 4328,
+  "completion_tokens": 864,
+  "cost_usd": null
+ }
+}

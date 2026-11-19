@@ -1,0 +1,19 @@
+{
+ "id": "7640530079855971606",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "debate",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "Professor Neil claims more than 1 in 3 men have sexually assaulted a woman, citing a study",
+  "reason": "Reply to creator @professorneil who called out/responded to his work; the video rebuts Neil's claim, so debate beats men.",
+  "evidence_seconds": 24
+ },
+ "usage": {
+  "prompt_tokens": 6010,
+  "completion_tokens": 226,
+  "cost_usd": null
+ }
+}

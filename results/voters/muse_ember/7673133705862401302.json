@@ -1,0 +1,19 @@
+{
+ "id": "7673133705862401302",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "politics",
+  "claim_answered": "China and Vietnam prove socialism works better than capitalism",
+  "evidence_seconds": 0,
+  "reason": "Economic system argument about socialism vs capitalism, not about men or women"
+ },
+ "usage": {
+  "prompt_tokens": 3692,
+  "completion_tokens": 1660,
+  "cost_usd": null
+ }
+}

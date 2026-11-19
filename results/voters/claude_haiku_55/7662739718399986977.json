@@ -1,0 +1,19 @@
+{
+ "id": "7662739718399986977",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "Women pine over Haaland because of his energy, not his height, wealth, or fame",
+  "reason": "Logic exercise on a female creator's dating-attraction claim; he is not defending either sex and is not replying to her as a debate.",
+  "evidence_seconds": 2
+ },
+ "usage": {
+  "prompt_tokens": 5848,
+  "completion_tokens": 218,
+  "cost_usd": null
+ }
+}

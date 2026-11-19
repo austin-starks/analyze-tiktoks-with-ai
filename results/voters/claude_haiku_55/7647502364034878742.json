@@ -1,0 +1,19 @@
+{
+ "id": "7647502364034878742",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Modern feminists paint men as oppressors and men live in paradise while women suffer",
+  "reason": "Pushes back on the claim that men have it easy and women alone suffer; argues men's death and suicide rates are higher, defending men's disadvantage.",
+  "evidence_seconds": 3
+ },
+ "usage": {
+  "prompt_tokens": 5820,
+  "completion_tokens": 226,
+  "cost_usd": null
+ }
+}

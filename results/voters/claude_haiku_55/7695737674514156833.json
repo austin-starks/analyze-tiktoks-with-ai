@@ -1,0 +1,19 @@
+{
+ "id": "7695737674514156833",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "news",
+  "claim_answered": "Women give birth lying down because King Louis XIV liked watching childbirth",
+  "reason": "Historical fact-check about childbirth positions; answers no claim about men or women as groups, not political or news.",
+  "evidence_seconds": 31
+ },
+ "usage": {
+  "prompt_tokens": 5873,
+  "completion_tokens": 208,
+  "cost_usd": null
+ }
+}

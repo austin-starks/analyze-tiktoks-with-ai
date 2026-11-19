@@ -1,0 +1,19 @@
+{
+ "id": "7684348410228378902",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "news",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "Women accounted for 98% of August job growth, so men are being pushed out and a matriarchy has arrived",
+  "reason": "Fact-checks a viral jobs-report statistic; the sensational claim is about men being pushed out, but it is an economic data story, so politics/news framing is borderline.",
+  "evidence_seconds": 11
+ },
+ "usage": {
+  "prompt_tokens": 6644,
+  "completion_tokens": 238,
+  "cost_usd": null
+ }
+}

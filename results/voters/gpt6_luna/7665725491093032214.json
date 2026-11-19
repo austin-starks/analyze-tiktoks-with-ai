@@ -1,0 +1,19 @@
+{
+ "id": "7665725491093032214",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "debate",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "SimpleBlackTheory's arguments that Mamdani's rent freeze disproves Ilyas's rent-control example",
+  "reason": "Replies to a creator who responded to his earlier educational video, addressing that creator's points.",
+  "evidence_seconds": 2
+ },
+ "usage": {
+  "prompt_tokens": 4001,
+  "completion_tokens": 179,
+  "cost_usd": null
+ }
+}

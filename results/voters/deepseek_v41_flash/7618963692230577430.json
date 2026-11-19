@@ -1,0 +1,19 @@
+{
+ "id": "7618963692230577430",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men are good at nothing and are to blame; a misandrist can't respect men",
+  "reason": "Answers a claim that runs men down and blames men for her pregnancy grievances",
+  "evidence_seconds": 8
+ },
+ "usage": {
+  "prompt_tokens": 3703,
+  "completion_tokens": 262,
+  "cost_usd": null
+ }
+}

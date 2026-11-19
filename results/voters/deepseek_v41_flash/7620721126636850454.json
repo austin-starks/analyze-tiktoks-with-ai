@@ -1,0 +1,19 @@
+{
+ "id": "7620721126636850454",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "none",
+  "reason": "Dating advice warning men about never-employed partners; he makes the claim himself rather than rebutting one, though he says it applies to both sexes.",
+  "evidence_seconds": 3
+ },
+ "usage": {
+  "prompt_tokens": 3617,
+  "completion_tokens": 943,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7667189151388699926",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men are unnatural as fathers and humanity lived in a matriarchy for 25,000 years",
+  "reason": "Pushes back on a claim that denies men’s natural role as fathers and erases paternal relationships",
+  "evidence_seconds": 207
+ },
+ "usage": {
+  "prompt_tokens": 4116,
+  "completion_tokens": 264,
+  "cost_usd": null
+ }
+}

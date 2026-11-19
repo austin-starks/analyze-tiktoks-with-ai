@@ -1,0 +1,19 @@
+{
+ "id": "7625272494852672790",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "The 82 cents on the dollar gender pay gap shows women earn much less for the same work",
+  "reason": "Rebuts the claim that women are underpaid by discrimination, deflating women's disadvantage; not a claim blaming men, so it leans women",
+  "evidence_seconds": 122
+ },
+ "usage": {
+  "prompt_tokens": 5506,
+  "completion_tokens": 226,
+  "cost_usd": null
+ }
+}

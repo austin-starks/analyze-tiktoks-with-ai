@@ -1,0 +1,19 @@
+{
+ "id": "7574901846536457494",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Some women want a husband to fund their emotions and shield them from adulthood, not a partnership",
+  "reason": "Runs down women as dependent gold-diggers and blames women for lack of partnership; no rebuttal of a claim about men",
+  "evidence_seconds": 28
+ },
+ "usage": {
+  "prompt_tokens": 5012,
+  "completion_tokens": 219,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7611872778911829270",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men should be boycotted and excluded from business, conversations, and society",
+  "reason": "Rejects a gender boycott that excludes men and argues against generalizing men as a problem",
+  "evidence_seconds": 66
+ },
+ "usage": {
+  "prompt_tokens": 3106,
+  "completion_tokens": 219,
+  "cost_usd": null
+ }
+}

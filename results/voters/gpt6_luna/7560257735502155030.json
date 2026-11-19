@@ -1,0 +1,19 @@
+{
+ "id": "7560257735502155030",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "none",
+  "reason": "Motivational dating advice; he adopts rather than refutes the jail metaphor about men's dating disadvantage.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 2985,
+  "completion_tokens": 1233,
+  "cost_usd": null
+ }
+}

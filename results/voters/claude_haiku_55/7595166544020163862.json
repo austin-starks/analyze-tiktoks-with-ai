@@ -1,0 +1,19 @@
+{
+ "id": "7595166544020163862",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "A woman who only dated toxic men chose them, stayed, and is addicted to chaos, so men should be wary",
+  "reason": "Ilyas is answering a claim that blames a woman for her toxic dating history and chaos, which runs women down.",
+  "evidence_seconds": 56
+ },
+ "usage": {
+  "prompt_tokens": 5213,
+  "completion_tokens": 221,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7585192383201971458",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "mixed",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "If someone wants to cheat they will, so relationship boundaries are just insecurity",
+  "reason": "Answers a claim about couples and loyalty that blames neither sex; he says it applies to men and women.",
+  "evidence_seconds": 50
+ },
+ "usage": {
+  "prompt_tokens": 3643,
+  "completion_tokens": 916,
+  "cost_usd": null
+ }
+}

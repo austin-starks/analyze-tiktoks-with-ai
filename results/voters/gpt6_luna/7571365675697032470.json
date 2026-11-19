@@ -1,0 +1,19 @@
+{
+ "id": "7571365675697032470",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "women",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Everyone is aiming for the top 10% of the opposite sex",
+  "reason": "Pushes back on a claim that blames men for aiming too high and argues women filter out most men.",
+  "evidence_seconds": 18
+ },
+ "usage": {
+  "prompt_tokens": 3052,
+  "completion_tokens": 75,
+  "cost_usd": null
+ }
+}

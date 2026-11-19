@@ -1,0 +1,19 @@
+{
+ "id": "7564678946529365270",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "All women are 10s while good-looking men are almost nonexistent",
+  "reason": "Answers a claim that favors women by running men down as unattractive, calling the standard entitled",
+  "evidence_seconds": 57
+ },
+ "usage": {
+  "prompt_tokens": 3474,
+  "completion_tokens": 306,
+  "cost_usd": null
+ }
+}

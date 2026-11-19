@@ -1,0 +1,19 @@
+{
+ "id": "7626103692718017814",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "women",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Women are more dramatic and overreact compared with men",
+  "reason": "Counters a negative stereotype about women, while noting the behaviors can apply to both sexes.",
+  "evidence_seconds": 107
+ },
+ "usage": {
+  "prompt_tokens": 3226,
+  "completion_tokens": 260,
+  "cost_usd": null
+ }
+}

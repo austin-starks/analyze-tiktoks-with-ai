@@ -1,0 +1,19 @@
+{
+ "id": "7684348410228378902",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "claim_answered": "98% of job growth went to women and men are being pushed out of the workforce",
+  "borderline": true,
+  "reason": "The claim is centrally about both sexes' employment and he analyzes labor market data for both men and women.",
+  "category": "mixed",
+  "alternate_category": "women",
+  "evidence_seconds": 20
+ },
+ "usage": {
+  "prompt_tokens": 4845,
+  "completion_tokens": 3575,
+  "cost_usd": null
+ }
+}

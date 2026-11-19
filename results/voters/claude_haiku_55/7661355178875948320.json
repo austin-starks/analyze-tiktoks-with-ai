@@ -1,0 +1,19 @@
+{
+ "id": "7661355178875948320",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Women-led companies are a bad investment, shown by a basket of women-founded, women-run IPOs losing 91%",
+  "reason": "Rebuts a claim that runs down women-led companies and blames gender for poor results; argues the basket is hand-picked and unfair.",
+  "evidence_seconds": 16
+ },
+ "usage": {
+  "prompt_tokens": 5721,
+  "completion_tokens": 232,
+  "cost_usd": null
+ }
+}

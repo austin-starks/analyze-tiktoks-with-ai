@@ -1,0 +1,19 @@
+{
+ "id": "7570992407483780374",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Women who hate men end up with the best men",
+  "reason": "Rebuts a claim favoring man-hating women that also reduces men's worth to pleasing them; he defends men's standards",
+  "evidence_seconds": 24
+ },
+ "usage": {
+  "prompt_tokens": 3311,
+  "completion_tokens": 1479,
+  "cost_usd": null
+ }
+}

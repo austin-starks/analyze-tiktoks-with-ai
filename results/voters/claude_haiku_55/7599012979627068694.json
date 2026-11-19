@@ -1,0 +1,19 @@
+{
+ "id": "7599012979627068694",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Dating advice says the best relationship is when a man thinks he can't pull any better",
+  "reason": "Pushes back on advice framing men as settling from weakness and fear; it is dating advice about men, closest to defending men's choice.",
+  "evidence_seconds": 36
+ },
+ "usage": {
+  "prompt_tokens": 5385,
+  "completion_tokens": 217,
+  "cost_usd": null
+ }
+}

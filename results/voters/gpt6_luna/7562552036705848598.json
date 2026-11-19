@@ -1,0 +1,19 @@
+{
+ "id": "7562552036705848598",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Men are the problem and should be lectured about male privilege on a first date",
+  "reason": "Pushes back on a date framing men as the problem, though much of the video is dating advice.",
+  "evidence_seconds": 64
+ },
+ "usage": {
+  "prompt_tokens": 3077,
+  "completion_tokens": 448,
+  "cost_usd": null
+ }
+}

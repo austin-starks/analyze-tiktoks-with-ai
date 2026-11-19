@@ -1,0 +1,19 @@
+{
+ "id": "7613782911589813526",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Viewer DM relationship advice on phone-checking and trust; answers no claim about men or women as groups.",
+  "evidence_seconds": 158
+ },
+ "usage": {
+  "prompt_tokens": 3969,
+  "completion_tokens": 301,
+  "cost_usd": null
+ }
+}

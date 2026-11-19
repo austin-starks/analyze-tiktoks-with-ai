@@ -1,0 +1,19 @@
+{
+ "id": "7678293642183855382",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "debate",
+  "borderline": false,
+  "alternate_category": "politics",
+  "claim_answered": "Dean Withers claimed Ilyas said there is absolutely no evidence Trump is a pedophile, and accused him of misogyny",
+  "reason": "Reply to creator Dean Withers who reacted to and called out his earlier video",
+  "evidence_seconds": 14
+ },
+ "usage": {
+  "prompt_tokens": 5682,
+  "completion_tokens": 221,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7584011292604665110",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Dating/marriage advice to men about red flags and boundaries; no general claim about a sex is answered",
+  "evidence_seconds": 39
+ },
+ "usage": {
+  "prompt_tokens": 3625,
+  "completion_tokens": 355,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7700248656938585377",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "news",
+  "borderline": true,
+  "alternate_category": "politics",
+  "claim_answered": "The unrest was either genuine student protests or extremist violence",
+  "reason": "Explains a specific French protest-and-riot story; its political interpretations make politics a plausible alternative.",
+  "evidence_seconds": 93
+ },
+ "usage": {
+  "prompt_tokens": 4497,
+  "completion_tokens": 490,
+  "cost_usd": null
+ }
+}

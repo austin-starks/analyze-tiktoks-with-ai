@@ -1,0 +1,19 @@
+{
+ "id": "7584423119008599319",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Most men assume women want to sleep with them and are overconfident or delusional",
+  "reason": "Pushes back on a negative stereotype about men; argues most are simply taking a chance and accept rejection.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 2941,
+  "completion_tokens": 79,
+  "cost_usd": null
+ }
+}

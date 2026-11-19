@@ -1,0 +1,19 @@
+{
+ "id": "7601584844136664342",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "borderline": true,
+  "reason": "Reacts to an unrealistic dating checklist with humor rather than answering a factual claim about men or women.",
+  "claim_answered": "none",
+  "alternate_category": "men",
+  "evidence_seconds": 112,
+  "category": "misc"
+ },
+ "usage": {
+  "prompt_tokens": 3295,
+  "completion_tokens": 965,
+  "cost_usd": null
+ }
+}

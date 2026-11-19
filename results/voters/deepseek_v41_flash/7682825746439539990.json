@@ -1,0 +1,19 @@
+{
+ "id": "7682825746439539990",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "mixed",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Mothers kill because they are mentally ill, fathers because they are violent",
+  "reason": "Answers claims about both sexes, showing overlap and denying one-cause gender explanations",
+  "evidence_seconds": 144
+ },
+ "usage": {
+  "prompt_tokens": 3863,
+  "completion_tokens": 240,
+  "cost_usd": null
+ }
+}

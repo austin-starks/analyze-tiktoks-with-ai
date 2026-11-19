@@ -1,0 +1,18 @@
+{
+ "id": "7588149817910512918",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "reason": "General relationship advice with no claim about men or women; Rule 3 puts non-gendered relationship advice in misc.",
+  "borderline": true,
+  "claim_answered": "Relationships are hard work and love requires constant effort",
+  "category": "misc",
+  "alternate_category": "mixed",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 2928,
+  "completion_tokens": 1326,
+  "cost_usd": null
+ }
+}

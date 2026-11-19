@@ -1,0 +1,19 @@
+{
+ "id": "7560257735502155030",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "claim_answered": "none",
+  "alternate_category": "men",
+  "evidence_seconds": 49,
+  "reason": "Uses a podcast clip as a metaphor to deliver motivational and self-improvement advice to men rather than answering a claim."
+ },
+ "usage": {
+  "prompt_tokens": 3172,
+  "completion_tokens": 3559,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7598647281503685910",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Whether to give a friend relationship advice about her ex",
+  "reason": "Viewer DM answered with general relationship/boundaries advice; he pushes back on no claim about a sex.",
+  "evidence_seconds": 69
+ },
+ "usage": {
+  "prompt_tokens": 4070,
+  "completion_tokens": 496,
+  "cost_usd": null
+ }
+}

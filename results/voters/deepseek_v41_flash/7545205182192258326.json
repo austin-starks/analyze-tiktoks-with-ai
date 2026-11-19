@@ -1,0 +1,19 @@
+{
+ "id": "7545205182192258326",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Dating and confidence advice to a viewer's anxiety; answers no claim about men or women as a group",
+  "evidence_seconds": 77
+ },
+ "usage": {
+  "prompt_tokens": 3543,
+  "completion_tokens": 165,
+  "cost_usd": null
+ }
+}

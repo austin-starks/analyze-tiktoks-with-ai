@@ -1,0 +1,18 @@
+{
+ "id": "7625682582327528726",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "alternate_category": "mixed",
+  "category": "men",
+  "claim_answered": "The gender pay gap is mainly caused by sexism and discrimination",
+  "evidence_seconds": 14,
+  "reason": "Rebuts a claim overstating women's pay disadvantage as sexism, working against men (rule 2); analogy never names men, making mixed plausible.",
+  "borderline": true
+ },
+ "usage": {
+  "prompt_tokens": 3290,
+  "completion_tokens": 2055,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7654659460018867478",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "reason": "Pushes back on a biological claim that diminishes men as secondary and disposable",
+  "evidence_seconds": 36,
+  "alternate_category": "mixed",
+  "claim_answered": "Men are biologically the secondary gender and auxiliary to women"
+ },
+ "usage": {
+  "prompt_tokens": 3834,
+  "completion_tokens": 424,
+  "cost_usd": null
+ }
+}

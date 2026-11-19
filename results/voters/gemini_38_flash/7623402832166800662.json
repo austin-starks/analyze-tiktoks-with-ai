@@ -1,0 +1,19 @@
+{
+ "id": "7623402832166800662",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "borderline": true,
+  "alternate_category": "mixed",
+  "evidence_seconds": 66,
+  "claim_answered": "Men are worse drivers, talk more, and are worse leaders",
+  "reason": "Pushes back against a creator's claims running men down regarding driving, talking, and leadership.",
+  "category": "men"
+ },
+ "usage": {
+  "prompt_tokens": 3769,
+  "completion_tokens": 916,
+  "cost_usd": null
+ }
+}

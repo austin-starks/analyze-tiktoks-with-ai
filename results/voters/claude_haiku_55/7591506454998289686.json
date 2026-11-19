@@ -1,0 +1,19 @@
+{
+ "id": "7591506454998289686",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "debate",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "A woman's comment claims he calls exploring women red flags while telling men to explore first",
+  "reason": "Reply to a critical commenter who misread his earlier dating video; mainly answers her objection about his point.",
+  "evidence_seconds": 24
+ },
+ "usage": {
+  "prompt_tokens": 5929,
+  "completion_tokens": 211,
+  "cost_usd": null
+ }
+}

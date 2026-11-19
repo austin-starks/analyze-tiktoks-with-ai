@@ -1,0 +1,19 @@
+{
+ "id": "7633012327062768918",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "debate",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Brenna says his videos are lies and that he conflated rape with sexual assault",
+  "reason": "A direct follow-up to another creator’s response, addressing her critique of his earlier videos",
+  "evidence_seconds": 77
+ },
+ "usage": {
+  "prompt_tokens": 3548,
+  "completion_tokens": 257,
+  "cost_usd": null
+ }
+}

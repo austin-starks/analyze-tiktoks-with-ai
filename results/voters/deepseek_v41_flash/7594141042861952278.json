@@ -1,0 +1,19 @@
+{
+ "id": "7594141042861952278",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Viewer DM about long-distance relationship advice; answers no claim about men or women as a group.",
+  "evidence_seconds": 88
+ },
+ "usage": {
+  "prompt_tokens": 4456,
+  "completion_tokens": 207,
+  "cost_usd": null
+ }
+}

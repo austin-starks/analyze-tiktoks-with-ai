@@ -1,0 +1,18 @@
+{
+ "id": "7604774069363281174",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "claim_answered": "If a man spoils, worships, and buys gifts for women, every woman will want him.",
+  "evidence_seconds": 37,
+  "borderline": true,
+  "category": "misc",
+  "reason": "Rule 3: rebuts naive dating claim with attraction and self-respect tips for men, fitting general dating advice in misc.",
+  "alternate_category": "men"
+ },
+ "usage": {
+  "prompt_tokens": 3471,
+  "completion_tokens": 1745,
+  "cost_usd": null
+ }
+}

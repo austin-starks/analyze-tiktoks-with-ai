@@ -1,0 +1,19 @@
+{
+ "id": "7654215200115133718",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Every problem that predominantly affects men is self-inflicted",
+  "reason": "Pushes back on blaming men for male disadvantages and problems.",
+  "evidence_seconds": 51
+ },
+ "usage": {
+  "prompt_tokens": 3808,
+  "completion_tokens": 257,
+  "cost_usd": null
+ }
+}

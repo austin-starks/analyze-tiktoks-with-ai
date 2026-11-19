@@ -1,0 +1,19 @@
+{
+ "id": "7653550060566793494",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "misc",
+  "claim_answered": "Ignorant questions about someone's background are racism",
+  "evidence_seconds": 77,
+  "reason": "Personal storytime on racism as hostility versus ignorance; no gender claim, policy, or news story"
+ },
+ "usage": {
+  "prompt_tokens": 3695,
+  "completion_tokens": 5180,
+  "cost_usd": null
+ }
+}

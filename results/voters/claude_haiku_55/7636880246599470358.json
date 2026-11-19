@@ -1,0 +1,19 @@
+{
+ "id": "7636880246599470358",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "debate",
+  "claim_answered": "Pregnant partners of police officers are more dangerous to be than police officers themselves, dying at nearly twice the rate",
+  "reason": "Fact-checks a claim about police partners' danger, which is not about men or women. Opens by referencing a debate, but the reply is about a claim, not his own account.",
+  "evidence_seconds": 70
+ },
+ "usage": {
+  "prompt_tokens": 5739,
+  "completion_tokens": 241,
+  "cost_usd": null
+ }
+}

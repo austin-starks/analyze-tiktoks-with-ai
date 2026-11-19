@@ -1,0 +1,19 @@
+{
+ "id": "7704328708034661664",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "alternate_category": "debate",
+  "claim_answered": "none",
+  "reason": "The video focuses on his disqualified video, account strike, and appeal rather than debating arguments.",
+  "evidence_seconds": 1,
+  "category": "misc",
+  "borderline": true
+ },
+ "usage": {
+  "prompt_tokens": 4280,
+  "completion_tokens": 685,
+  "cost_usd": null
+ }
+}

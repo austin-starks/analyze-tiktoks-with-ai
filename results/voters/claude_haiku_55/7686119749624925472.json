@@ -1,0 +1,19 @@
+{
+ "id": "7686119749624925472",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Female athletes criticizing Sydney Sweeney's ad as sexualizing women in sports and setting women's sports backwards",
+  "reason": "Defends Sweeney against female athletes' criticism, calling it hypocritical; the claim runs down women's sports image, not men.",
+  "evidence_seconds": 48
+ },
+ "usage": {
+  "prompt_tokens": 6199,
+  "completion_tokens": 235,
+  "cost_usd": null
+ }
+}

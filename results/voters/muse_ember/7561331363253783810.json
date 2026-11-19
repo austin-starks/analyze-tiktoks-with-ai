@@ -1,0 +1,19 @@
+{
+ "id": "7561331363253783810",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "misc",
+  "borderline": true,
+  "category": "mixed",
+  "claim_answered": "The hotter the girl, the more loyal she is",
+  "evidence_seconds": 32,
+  "reason": "Pushes back on a pro-women loyalty claim that attacks neither sex, applying it to both"
+ },
+ "usage": {
+  "prompt_tokens": 2987,
+  "completion_tokens": 5248,
+  "cost_usd": null
+ }
+}

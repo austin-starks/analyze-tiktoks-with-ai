@@ -1,0 +1,19 @@
+{
+ "id": "7667518241039797526",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "misc",
+  "claim_answered": "none",
+  "reason": "Channel anniversary and milestone update thanking followers; answers no claim",
+  "evidence_seconds": 0,
+  "borderline": false,
+  "alternate_category": "none"
+ },
+ "usage": {
+  "prompt_tokens": 3548,
+  "completion_tokens": 282,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7563178049114574102",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "There's no such thing as being too mean to a man because men aren't innately nice",
+  "reason": "Answers a claim that runs men down as selfish and undeserving of kindness",
+  "evidence_seconds": 44
+ },
+ "usage": {
+  "prompt_tokens": 3328,
+  "completion_tokens": 194,
+  "cost_usd": null
+ }
+}

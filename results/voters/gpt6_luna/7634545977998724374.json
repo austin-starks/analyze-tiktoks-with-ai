@@ -1,0 +1,19 @@
+{
+ "id": "7634545977998724374",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "politics",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "The EU has already passed a new yes-means-yes law",
+  "reason": "Explains EU legislative and policy process, not a claim about men or women.",
+  "evidence_seconds": 46
+ },
+ "usage": {
+  "prompt_tokens": 3573,
+  "completion_tokens": 152,
+  "cost_usd": null
+ }
+}

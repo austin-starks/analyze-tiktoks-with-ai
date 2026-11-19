@@ -1,0 +1,19 @@
+{
+ "id": "7542895961085873430",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Motivational dating advice to men about overcoming fear of rejection; answers no claim about men or women as a group",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 3479,
+  "completion_tokens": 170,
+  "cost_usd": null
+ }
+}

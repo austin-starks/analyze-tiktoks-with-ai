@@ -1,0 +1,19 @@
+{
+ "id": "7570079576345562371",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "reason": "Reacts to a woman's extreme dating standards and gives relationship advice to men without refuting a factual claim.",
+  "evidence_seconds": 73,
+  "claim_answered": "none",
+  "alternate_category": "men"
+ },
+ "usage": {
+  "prompt_tokens": 3450,
+  "completion_tokens": 1604,
+  "cost_usd": null
+ }
+}

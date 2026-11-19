@@ -1,0 +1,19 @@
+{
+ "id": "7583648403716934934",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "A partner who refuses to cover a forgotten-wallet bill while having money shows she does not value him, a payment method, not a teammate",
+  "reason": "Mostly a dating-advice framing, but it blames a woman for a man's feeling of being used, and the sex-specific claim is about women who \"keep score like a debt collector\".",
+  "evidence_seconds": 55
+ },
+ "usage": {
+  "prompt_tokens": 5277,
+  "completion_tokens": 250,
+  "cost_usd": null
+ }
+}

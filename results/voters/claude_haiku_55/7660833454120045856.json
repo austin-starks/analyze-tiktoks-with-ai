@@ -1,0 +1,19 @@
+{
+ "id": "7660833454120045856",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "mixed",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "Straight white men are the group that has caused the most harm, so a therapist asking for empathy toward them is wrong",
+  "reason": "Reacts to a woman's anti-men-and-white claim; he argues against collective blame and judges individuals, not one sex, so it is not clearly men-defending.",
+  "evidence_seconds": 14
+ },
+ "usage": {
+  "prompt_tokens": 5639,
+  "completion_tokens": 239,
+  "cost_usd": null
+ }
+}

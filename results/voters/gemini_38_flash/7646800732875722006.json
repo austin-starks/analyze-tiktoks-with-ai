@@ -1,0 +1,19 @@
+{
+ "id": "7646800732875722006",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "evidence_seconds": 13,
+  "claim_answered": "The leading cause of death for women aged 18 to 44 is men killing them",
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "reason": "Pushes back on a false statistic that blames men for being the leading cause of death for women."
+ },
+ "usage": {
+  "prompt_tokens": 3829,
+  "completion_tokens": 360,
+  "cost_usd": null
+ }
+}

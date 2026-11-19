@@ -1,0 +1,19 @@
+{
+ "id": "7570405322804841750",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men should submit to a woman out of respect for her divine feminine presence",
+  "reason": "Pushes back on a claim that demands men's submission and elevates women over men.",
+  "evidence_seconds": 21
+ },
+ "usage": {
+  "prompt_tokens": 3041,
+  "completion_tokens": 206,
+  "cost_usd": null
+ }
+}

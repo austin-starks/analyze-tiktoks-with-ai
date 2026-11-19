@@ -1,0 +1,19 @@
+{
+ "id": "7610739364901031190",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "debate",
+  "claim_answered": "Girlfriend turns into a monster during her period; is this toxic or normal?",
+  "reason": "Responds to a viewer's DM-style relationship question, answering advice rather than a claim about men or women; no creator debate.",
+  "evidence_seconds": 268
+ },
+ "usage": {
+  "prompt_tokens": 6667,
+  "completion_tokens": 216,
+  "cost_usd": null
+ }
+}

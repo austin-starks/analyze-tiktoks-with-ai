@@ -1,0 +1,19 @@
+{
+ "id": "7645259932840807702",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "mixed",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "Women are unfairly judged for high body count while men are praised",
+  "evidence_seconds": 44,
+  "reason": "Rebuts claim blaming men for women's stigma, arguing judgment follows from men initiating courtship"
+ },
+ "usage": {
+  "prompt_tokens": 4358,
+  "completion_tokens": 8484,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7595972697180458243",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "men",
+  "claim_answered": "Men are lonely because they lack quality now that women are independent",
+  "reason": "Pushes back on the claim that blames men's personal shortcomings for the male loneliness epidemic.",
+  "evidence_seconds": 61,
+  "alternate_category": "mixed",
+  "borderline": true
+ },
+ "usage": {
+  "prompt_tokens": 3865,
+  "completion_tokens": 918,
+  "cost_usd": null
+ }
+}

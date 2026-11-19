@@ -1,0 +1,19 @@
+{
+ "id": "7647201439126703382",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "women",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "How do I learn to trust women again while protecting my heart?",
+  "reason": "He reframes the viewer’s distrust of women as a need to spot warning signs, rather than answering a claim against women.",
+  "evidence_seconds": 72
+ },
+ "usage": {
+  "prompt_tokens": 3285,
+  "completion_tokens": 78,
+  "cost_usd": null
+ }
+}

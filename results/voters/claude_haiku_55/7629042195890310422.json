@@ -1,0 +1,19 @@
+{
+ "id": "7629042195890310422",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "A therapist advises a cheated-on husband to work on his part of saving the marriage",
+  "reason": "Reacts to a relationship-advice clip about a cheated husband; not a claim about men or women in general, so closest to general relationship advice.",
+  "evidence_seconds": 61
+ },
+ "usage": {
+  "prompt_tokens": 5337,
+  "completion_tokens": 221,
+  "cost_usd": null
+ }
+}

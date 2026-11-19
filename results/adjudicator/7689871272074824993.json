@@ -1,0 +1,18 @@
+{
+ "id": "7689871272074824993",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "category": "men",
+  "evidence_seconds": 14,
+  "reason": "Rule 2: he debunks a gender-war claim depicting women keeping men as slaves, which favors women at men's expense.",
+  "alternate_category": "mixed",
+  "claim_answered": "Mongol society was a matriarchy where women kept multiple husbands as slaves, showing how women naturally treated men.",
+  "borderline": true
+ },
+ "usage": {
+  "prompt_tokens": 3502,
+  "completion_tokens": 3107,
+  "cost_usd": null
+ }
+}

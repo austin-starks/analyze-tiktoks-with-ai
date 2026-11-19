@@ -1,0 +1,19 @@
+{
+ "id": "7623054983696616726",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "borderline": false,
+  "claim_answered": "none",
+  "category": "misc",
+  "reason": "Reacts to a relationship advice podcast caller to give dating advice on red flags and accountability.",
+  "evidence_seconds": 58,
+  "alternate_category": "none"
+ },
+ "usage": {
+  "prompt_tokens": 4028,
+  "completion_tokens": 843,
+  "cost_usd": null
+ }
+}

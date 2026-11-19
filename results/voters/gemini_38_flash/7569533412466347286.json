@@ -1,0 +1,19 @@
+{
+ "id": "7569533412466347286",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "claim_answered": "none",
+  "category": "misc",
+  "alternate_category": "none",
+  "reason": "General dating advice, mindset, and self-improvement for men without answering a claim.",
+  "borderline": false,
+  "evidence_seconds": 57
+ },
+ "usage": {
+  "prompt_tokens": 3026,
+  "completion_tokens": 388,
+  "cost_usd": null
+ }
+}

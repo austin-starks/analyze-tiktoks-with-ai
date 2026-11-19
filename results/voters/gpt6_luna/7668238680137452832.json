@@ -1,0 +1,19 @@
+{
+ "id": "7668238680137452832",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Hating men and treating them as inferior is acceptable or feminist",
+  "reason": "He supports a woman pushing back on dehumanizing men and denying their rights, feelings, and voice.",
+  "evidence_seconds": 26
+ },
+ "usage": {
+  "prompt_tokens": 3417,
+  "completion_tokens": 73,
+  "cost_usd": null
+ }
+}

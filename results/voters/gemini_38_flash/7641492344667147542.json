@@ -1,0 +1,19 @@
+{
+ "id": "7641492344667147542",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "misc",
+  "evidence_seconds": 6,
+  "reason": "Channel update discussing TikTok Creator Rewards RPM drop and platform pay; answers no claim.",
+  "claim_answered": "none"
+ },
+ "usage": {
+  "prompt_tokens": 3877,
+  "completion_tokens": 457,
+  "cost_usd": null
+ }
+}

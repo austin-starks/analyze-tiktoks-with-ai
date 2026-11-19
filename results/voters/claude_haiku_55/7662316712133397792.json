@@ -1,0 +1,19 @@
+{
+ "id": "7662316712133397792",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Women are natural-born leaders and male domination is unnatural because the egg is the largest cell",
+  "reason": "Rebuts a claim that favors women and disputes that men are naturally destined to lead; no negative claim about women is defended.",
+  "evidence_seconds": 36
+ },
+ "usage": {
+  "prompt_tokens": 5501,
+  "completion_tokens": 220,
+  "cost_usd": null
+ }
+}

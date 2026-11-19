@@ -1,0 +1,19 @@
+{
+ "id": "7563572833780075798",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Women should marry unattractive men rather than expect to be attracted to their partners",
+  "reason": "Pushes back on advice that favors women at men's expense by endorsing disrespect toward husbands; adds mutual relationship advice.",
+  "evidence_seconds": 49
+ },
+ "usage": {
+  "prompt_tokens": 3280,
+  "completion_tokens": 78,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7532828815551221014",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "A woman who sleeps with you quickly is a low-value, easy girl",
+  "reason": "Pushes back on a claim running women down; framed as dating advice, so misc is plausible",
+  "evidence_seconds": 13
+ },
+ "usage": {
+  "prompt_tokens": 3278,
+  "completion_tokens": 251,
+  "cost_usd": null
+ }
+}

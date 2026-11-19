@@ -1,0 +1,19 @@
+{
+ "id": "7637908664338222358",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "misc",
+  "evidence_seconds": 10,
+  "borderline": false,
+  "reason": "General breakup and dating advice answering viewer questions without fact-checking a claim about a gender",
+  "alternate_category": "none",
+  "claim_answered": "none"
+ },
+ "usage": {
+  "prompt_tokens": 4220,
+  "completion_tokens": 349,
+  "cost_usd": null
+ }
+}

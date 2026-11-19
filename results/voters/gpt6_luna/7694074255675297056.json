@@ -1,0 +1,19 @@
+{
+ "id": "7694074255675297056",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "The gap shows men generally know about and cover up rapists",
+  "reason": "Pushes back on a claim that blames men for protecting perpetrators and turning a blind eye.",
+  "evidence_seconds": 195
+ },
+ "usage": {
+  "prompt_tokens": 3713,
+  "completion_tokens": 231,
+  "cost_usd": null
+ }
+}

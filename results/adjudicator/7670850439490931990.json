@@ -1,0 +1,18 @@
+{
+ "id": "7670850439490931990",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "borderline": true,
+  "reason": "Rule 3: No men/women claim; mainly reads comments mocking SBT's statistical errors rather than covering politics or news.",
+  "alternate_category": "politics",
+  "category": "misc",
+  "claim_answered": "White people commit more violent crimes than Black people, ignoring per capita",
+  "evidence_seconds": 161
+ },
+ "usage": {
+  "prompt_tokens": 3770,
+  "completion_tokens": 2261,
+  "cost_usd": null
+ }
+}

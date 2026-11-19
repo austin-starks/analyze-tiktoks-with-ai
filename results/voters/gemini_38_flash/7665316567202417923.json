@@ -1,0 +1,19 @@
+{
+ "id": "7665316567202417923",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "alternate_category": "none",
+  "evidence_seconds": 2,
+  "borderline": false,
+  "reason": "Analyzes economic and housing policy regarding NYC rent control and municipal politics.",
+  "category": "politics",
+  "claim_answered": "Mamdani's rent freeze will fix New York housing"
+ },
+ "usage": {
+  "prompt_tokens": 4551,
+  "completion_tokens": 237,
+  "cost_usd": null
+ }
+}

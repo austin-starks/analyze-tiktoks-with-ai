@@ -1,0 +1,19 @@
+{
+ "id": "7654659460018867478",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "men",
+  "claim_answered": "Men are the secondary gender and women are the base of the species",
+  "evidence_seconds": 36,
+  "reason": "Pushes back on claim that men are secondary, supplementary experiments while women are fundamental"
+ },
+ "usage": {
+  "prompt_tokens": 3598,
+  "completion_tokens": 2118,
+  "cost_usd": null
+ }
+}

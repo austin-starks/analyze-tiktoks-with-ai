@@ -1,0 +1,19 @@
+{
+ "id": "7648957049652432150",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "debate",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Ilyas said men and women suffer equally and that patriarchy does not exist in America",
+  "reason": "Reply to SimpleBlackTheory, who responded to and criticized his earlier video",
+  "evidence_seconds": 2
+ },
+ "usage": {
+  "prompt_tokens": 4205,
+  "completion_tokens": 162,
+  "cost_usd": null
+ }
+}

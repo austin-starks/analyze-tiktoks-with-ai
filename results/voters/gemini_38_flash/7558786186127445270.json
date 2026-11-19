@@ -1,0 +1,19 @@
+{
+ "id": "7558786186127445270",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "reason": "General dating and relationship advice about the 'nice guy' dynamic rather than answering a claim about a demographic.",
+  "category": "misc",
+  "claim_answered": "none",
+  "borderline": true,
+  "evidence_seconds": 63,
+  "alternate_category": "men"
+ },
+ "usage": {
+  "prompt_tokens": 3142,
+  "completion_tokens": 666,
+  "cost_usd": null
+ }
+}

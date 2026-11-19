@@ -1,0 +1,19 @@
+{
+ "id": "7548533717631831318",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Relationship advice to a man's personal situation; it answers no claim about men or women as a group.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 3569,
+  "completion_tokens": 176,
+  "cost_usd": null
+ }
+}

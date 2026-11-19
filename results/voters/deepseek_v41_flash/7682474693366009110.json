@@ -1,0 +1,19 @@
+{
+ "id": "7682474693366009110",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Mothers commit most parental child homicides, especially of infants and newborns",
+  "reason": "Pushes back on a claim that runs mothers down, showing fathers lead in many datasets and age matters",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 4154,
+  "completion_tokens": 672,
+  "cost_usd": null
+ }
+}

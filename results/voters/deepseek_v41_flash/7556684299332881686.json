@@ -1,0 +1,19 @@
+{
+ "id": "7556684299332881686",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "A coffee date isn't good enough; a man must spend on gifts and restaurants",
+  "reason": "Pushes back on a clip claiming men must fund expensive first dates, defending men from being treated as wallets",
+  "evidence_seconds": 16
+ },
+ "usage": {
+  "prompt_tokens": 3404,
+  "completion_tokens": 574,
+  "cost_usd": null
+ }
+}

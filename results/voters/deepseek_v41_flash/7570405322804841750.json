@@ -1,0 +1,19 @@
+{
+ "id": "7570405322804841750",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Men must submit to a woman's \"dark feminine\" energy out of respect while she does nothing",
+  "reason": "Mocks a claim that inflates women's status and demands men's submission, putting men down",
+  "evidence_seconds": 10
+ },
+ "usage": {
+  "prompt_tokens": 3408,
+  "completion_tokens": 315,
+  "cost_usd": null
+ }
+}

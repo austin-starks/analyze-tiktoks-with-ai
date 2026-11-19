@@ -1,0 +1,19 @@
+{
+ "id": "7689871272074824993",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "mixed",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "Mongolian matriarchy had women keeping multiple husbands as slaves",
+  "evidence_seconds": 19,
+  "reason": "Pushes back on claim portraying men as slaves under women, favoring women at men's expense"
+ },
+ "usage": {
+  "prompt_tokens": 3542,
+  "completion_tokens": 3859,
+  "cost_usd": null
+ }
+}

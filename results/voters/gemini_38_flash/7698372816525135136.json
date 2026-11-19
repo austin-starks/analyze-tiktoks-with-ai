@@ -1,0 +1,19 @@
+{
+ "id": "7698372816525135136",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "reason": "Defends baby boys against sex-selective abortion and rejects a creator's defense of aborting male fetuses.",
+  "alternate_category": "mixed",
+  "claim_answered": "Aborting a baby just because it is a boy is defensible",
+  "category": "men",
+  "evidence_seconds": 160,
+  "borderline": true
+ },
+ "usage": {
+  "prompt_tokens": 4800,
+  "completion_tokens": 886,
+  "cost_usd": null
+ }
+}

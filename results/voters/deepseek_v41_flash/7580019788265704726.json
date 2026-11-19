@@ -1,0 +1,19 @@
+{
+ "id": "7580019788265704726",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "news",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Flagrant's new episode tries to show Akaash's wife is innocent",
+  "reason": "He covers a viral celebrity/podcast story and the audience reaction, not a general claim about men or women.",
+  "evidence_seconds": 4
+ },
+ "usage": {
+  "prompt_tokens": 3556,
+  "completion_tokens": 425,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7688424607333764385",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Empathy is a masculine capacity; women only have sympathy and cannot feel empathy",
+  "reason": "Rebuts a claim that runs women down by saying women lack empathy; cites research showing women score equal or higher.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 6039,
+  "completion_tokens": 215,
+  "cost_usd": null
+ }
+}

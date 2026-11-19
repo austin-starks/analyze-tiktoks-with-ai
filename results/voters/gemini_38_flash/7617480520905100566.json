@@ -1,0 +1,19 @@
+{
+ "id": "7617480520905100566",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "evidence_seconds": 6,
+  "alternate_category": "none",
+  "reason": "Viewer relationship advice DM answering no general claim about men or women.",
+  "claim_answered": "none"
+ },
+ "usage": {
+  "prompt_tokens": 3373,
+  "completion_tokens": 382,
+  "cost_usd": null
+ }
+}

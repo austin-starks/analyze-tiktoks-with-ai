@@ -1,0 +1,19 @@
+{
+ "id": "7570315294657252630",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "none",
+  "reason": "General dating advice on catfishing; answers no claim about men or women as a group. Mentions a woman's video only in passing.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 5098,
+  "completion_tokens": 190,
+  "cost_usd": null
+ }
+}

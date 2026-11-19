@@ -1,0 +1,19 @@
+{
+ "id": "7550568570564988182",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "none",
+  "reason": "Self-improvement and dating-style advice for men on keeping your word; answers no claim about men or women.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 4804,
+  "completion_tokens": 184,
+  "cost_usd": null
+ }
+}

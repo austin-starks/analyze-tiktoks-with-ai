@@ -1,0 +1,19 @@
+{
+ "id": "7583294614581300502",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Modern female stand-up comedy glorifies promiscuity and humiliates men with lazy, shock-value material",
+  "reason": "Critiques a female comedian's routine that runs men down; he frames it as a comedy-craft critique, not a defense of women",
+  "evidence_seconds": 41
+ },
+ "usage": {
+  "prompt_tokens": 5160,
+  "completion_tokens": 226,
+  "cost_usd": null
+ }
+}

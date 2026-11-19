@@ -1,0 +1,19 @@
+{
+ "id": "7644961710108888342",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "mixed",
+  "borderline": true,
+  "category": "misc",
+  "claim_answered": "none",
+  "evidence_seconds": 0,
+  "reason": "Viewer Q&A giving dating advice on long-distance relationships; no claim about men or women"
+ },
+ "usage": {
+  "prompt_tokens": 3202,
+  "completion_tokens": 2616,
+  "cost_usd": null
+ }
+}

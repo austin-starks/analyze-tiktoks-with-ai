@@ -1,0 +1,19 @@
+{
+ "id": "7552130232958962966",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "General first-date conversation advice; it answers no claim about men or women.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 3026,
+  "completion_tokens": 56,
+  "cost_usd": null
+ }
+}

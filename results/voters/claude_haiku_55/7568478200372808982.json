@@ -1,0 +1,19 @@
+{
+ "id": "7568478200372808982",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "Women set the dating standard; if he wanted to, he would; men should not accept bare minimum",
+  "reason": "Pushes back on a viral claim that women's rising standards are unfair; defends men who put in effort and get dismissed.",
+  "evidence_seconds": 57
+ },
+ "usage": {
+  "prompt_tokens": 5017,
+  "completion_tokens": 217,
+  "cost_usd": null
+ }
+}

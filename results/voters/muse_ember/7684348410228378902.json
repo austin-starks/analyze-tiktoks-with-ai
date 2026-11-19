@@ -1,0 +1,19 @@
+{
+ "id": "7684348410228378902",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "mixed",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "Men are being pushed out as women take 98% of jobs",
+  "evidence_seconds": 11,
+  "reason": "Pushes back on claim women take all jobs and men are pushed out"
+ },
+ "usage": {
+  "prompt_tokens": 4330,
+  "completion_tokens": 4632,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7688004075350134049",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "mixed",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "Men get 2-6 years for killing partners while women get 12-15",
+  "evidence_seconds": 0,
+  "reason": "Pushes back on claim inflating women's disadvantage and denying men's sentencing disadvantage"
+ },
+ "usage": {
+  "prompt_tokens": 3780,
+  "completion_tokens": 2575,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "id": "7555071756252318998",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "alternate_category": "men",
+  "claim_answered": "Women are always right about men's fashion and beauty advice",
+  "reason": "General dating and self-improvement advice for men on self-respect; the clip makes no attack on men or women (misc rule).",
+  "evidence_seconds": 20,
+  "borderline": true,
+  "category": "misc"
+ },
+ "usage": {
+  "prompt_tokens": 2926,
+  "completion_tokens": 2441,
+  "cost_usd": null
+ }
+}

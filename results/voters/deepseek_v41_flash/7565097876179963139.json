@@ -1,0 +1,19 @@
+{
+ "id": "7565097876179963139",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Women should never cook, clean, or care for a man they aren't married to; relationships are one-sided",
+  "reason": "Pushes back on dating advice that devalues men and treats them as wallets owed nothing",
+  "evidence_seconds": 117
+ },
+ "usage": {
+  "prompt_tokens": 3648,
+  "completion_tokens": 346,
+  "cost_usd": null
+ }
+}

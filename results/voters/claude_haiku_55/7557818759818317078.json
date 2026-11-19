@@ -1,0 +1,19 @@
+{
+ "id": "7557818759818317078",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Women won't date ugly men; men with money get hot women just for resources",
+  "reason": "Pushes back on a woman's claim that runs down ordinary-looking men and reframes women's attraction as resource-driven; defends men.",
+  "evidence_seconds": 34
+ },
+ "usage": {
+  "prompt_tokens": 5000,
+  "completion_tokens": 216,
+  "cost_usd": null
+ }
+}

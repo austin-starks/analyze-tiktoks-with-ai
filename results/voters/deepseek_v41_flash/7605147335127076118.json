@@ -1,0 +1,19 @@
+{
+ "id": "7605147335127076118",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "Not all women are bad; I get why men choose to be single",
+  "reason": "Subscriber relationship story with dating advice commentary; no central claim about a sex, though he briefly rejects \"all women are bad\"",
+  "evidence_seconds": 493
+ },
+ "usage": {
+  "prompt_tokens": 6514,
+  "completion_tokens": 470,
+  "cost_usd": null
+ }
+}

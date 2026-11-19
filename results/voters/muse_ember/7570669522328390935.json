@@ -1,0 +1,19 @@
+{
+ "id": "7570669522328390935",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "men",
+  "claim_answered": "Men who set clothing boundaries are insecure and secretly checking out other women",
+  "evidence_seconds": 22,
+  "reason": "Pushes back on claim that male boundaries mean insecurity or secret cheating"
+ },
+ "usage": {
+  "prompt_tokens": 3056,
+  "completion_tokens": 2599,
+  "cost_usd": null
+ }
+}

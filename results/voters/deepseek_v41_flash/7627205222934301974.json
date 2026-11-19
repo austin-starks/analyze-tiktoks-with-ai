@@ -1,0 +1,19 @@
+{
+ "id": "7627205222934301974",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Self-improvement advice to young men about independence, money and moving out; answers no claim about either sex.",
+  "evidence_seconds": 7
+ },
+ "usage": {
+  "prompt_tokens": 3932,
+  "completion_tokens": 161,
+  "cost_usd": null
+ }
+}

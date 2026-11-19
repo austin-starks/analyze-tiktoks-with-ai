@@ -1,0 +1,19 @@
+{
+ "id": "7678293642183855382",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "debate",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "That Ilyas said there is absolutely no evidence Trump is a pedophile",
+  "reason": "Reply to a creator who responded to and misrepresented his earlier video",
+  "evidence_seconds": 41
+ },
+ "usage": {
+  "prompt_tokens": 3884,
+  "completion_tokens": 326,
+  "cost_usd": null
+ }
+}

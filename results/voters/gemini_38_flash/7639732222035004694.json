@@ -1,0 +1,19 @@
+{
+ "id": "7639732222035004694",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "evidence_seconds": 30,
+  "borderline": true,
+  "category": "debate",
+  "reason": "Another creator stitched and criticized Ilyas's video, and this is his reply to that creator.",
+  "claim_answered": "Professor Neil's response to Ilyas and claims that 1 in 7 men commit rape",
+  "alternate_category": "men"
+ },
+ "usage": {
+  "prompt_tokens": 3752,
+  "completion_tokens": 537,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7586982416992963862",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Relationship advice on what a \"break\" means and what a man should do; answers no claim about men or women as groups",
+  "evidence_seconds": 126
+ },
+ "usage": {
+  "prompt_tokens": 3975,
+  "completion_tokens": 167,
+  "cost_usd": null
+ }
+}

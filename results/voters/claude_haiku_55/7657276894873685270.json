@@ -1,0 +1,19 @@
+{
+ "id": "7657276894873685270",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "debate",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "Less than 1% of reported rape allegations by women are false",
+  "reason": "Responds to a specific woman's claim, but the reply is framed as a series on a creator's own argument; the claim answered is about women's false allegations.",
+  "evidence_seconds": 12
+ },
+ "usage": {
+  "prompt_tokens": 5647,
+  "completion_tokens": 215,
+  "cost_usd": null
+ }
+}

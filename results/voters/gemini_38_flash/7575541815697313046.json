@@ -1,0 +1,19 @@
+{
+ "id": "7575541815697313046",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "men",
+  "evidence_seconds": 7,
+  "borderline": true,
+  "reason": "Pushes back on a claim that places an unequal burden on men in relationships.",
+  "claim_answered": "In order for a relationship to work out, the guy needs to love the girl more",
+  "alternate_category": "misc"
+ },
+ "usage": {
+  "prompt_tokens": 3165,
+  "completion_tokens": 893,
+  "cost_usd": null
+ }
+}

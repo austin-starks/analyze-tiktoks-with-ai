@@ -1,0 +1,19 @@
+{
+ "id": "7642336810609233174",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Five in ten men badgered a woman who said no until she changed her answer",
+  "reason": "Pushes back on a claim that portrays men broadly as harassing women.",
+  "evidence_seconds": 147
+ },
+ "usage": {
+  "prompt_tokens": 4579,
+  "completion_tokens": 365,
+  "cost_usd": null
+ }
+}

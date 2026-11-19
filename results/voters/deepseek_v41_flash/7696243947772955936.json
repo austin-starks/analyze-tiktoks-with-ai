@@ -1,0 +1,19 @@
+{
+ "id": "7696243947772955936",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "mixed",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "Male privilege exists but female privilege doesn't",
+  "reason": "Claim is about both sexes: he grants men's advantages but rebuts the denial of women's advantages.",
+  "evidence_seconds": 30
+ },
+ "usage": {
+  "prompt_tokens": 4618,
+  "completion_tokens": 892,
+  "cost_usd": null
+ }
+}

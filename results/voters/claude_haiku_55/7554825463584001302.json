@@ -1,0 +1,19 @@
+{
+ "id": "7554825463584001302",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "mixed",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Cheating happens because a partner lacked attention, flowers, or texting, and cheaters blame their partners",
+  "reason": "Relationship advice about cheating; the claim blames neither sex, and he says the same applies to men and women.",
+  "evidence_seconds": 44
+ },
+ "usage": {
+  "prompt_tokens": 4824,
+  "completion_tokens": 220,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7685706466870775072",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "politics",
+  "claim_answered": "There is no scientific evidence the Earth is billions of years old",
+  "reason": "Science fact-check of a claim about Earth's age, not about men or women",
+  "evidence_seconds": 119
+ },
+ "usage": {
+  "prompt_tokens": 3938,
+  "completion_tokens": 368,
+  "cost_usd": null
+ }
+}

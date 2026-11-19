@@ -1,0 +1,19 @@
+{
+ "id": "7652431892687441174",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "A man killing you is the leading cause of death for women 18-44 (his removed CDC fact-check)",
+  "reason": "Video is mainly about his own strike, takedown and account risk, which the rules assign to misc.",
+  "evidence_seconds": 7
+ },
+ "usage": {
+  "prompt_tokens": 3991,
+  "completion_tokens": 347,
+  "cost_usd": null
+ }
+}

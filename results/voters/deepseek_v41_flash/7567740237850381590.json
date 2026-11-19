@@ -1,0 +1,19 @@
+{
+ "id": "7567740237850381590",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Waiting until marriage/virginity in your 20s is virtuous self-control that will pay off",
+  "reason": "Dating and self-improvement advice for men; no claim about men or women as a group is being rebutted",
+  "evidence_seconds": 36
+ },
+ "usage": {
+  "prompt_tokens": 3599,
+  "completion_tokens": 254,
+  "cost_usd": null
+ }
+}

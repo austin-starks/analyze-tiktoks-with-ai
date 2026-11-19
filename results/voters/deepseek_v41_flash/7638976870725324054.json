@@ -1,0 +1,19 @@
+{
+ "id": "7638976870725324054",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "debate",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Nick's claim that Ilyas's Whoppers video described \"all men\" and missed the point",
+  "reason": "Reply to a creator who reacted to and criticized his earlier video",
+  "evidence_seconds": 40
+ },
+ "usage": {
+  "prompt_tokens": 4232,
+  "completion_tokens": 183,
+  "cost_usd": null
+ }
+}

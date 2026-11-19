@@ -1,0 +1,19 @@
+{
+ "id": "7628124206558907670",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "evidence_seconds": 0,
+  "borderline": true,
+  "category": "misc",
+  "alternate_category": "women",
+  "claim_answered": "none",
+  "reason": "Viewer DM and relationship advice answering a specific situation rather than a general claim"
+ },
+ "usage": {
+  "prompt_tokens": 3849,
+  "completion_tokens": 1145,
+  "cost_usd": null
+ }
+}

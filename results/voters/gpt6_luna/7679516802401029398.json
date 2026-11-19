@@ -1,0 +1,19 @@
+{
+ "id": "7679516802401029398",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "politics",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "No voter ID enables illegitimate voting and voter ID suppresses legitimate voters",
+  "reason": "Election-policy fact-check concerning voter fraud and voter suppression, not claims about men or women.",
+  "evidence_seconds": 90
+ },
+ "usage": {
+  "prompt_tokens": 3631,
+  "completion_tokens": 73,
+  "cost_usd": null
+ }
+}

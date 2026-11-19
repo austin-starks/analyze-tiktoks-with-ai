@@ -1,0 +1,19 @@
+{
+ "id": "7648217974209400086",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "misc",
+  "claim_answered": "none",
+  "evidence_seconds": 0,
+  "reason": "Dating advice answering a viewer DM about signs she likes him; no group claim answered"
+ },
+ "usage": {
+  "prompt_tokens": 3386,
+  "completion_tokens": 936,
+  "cost_usd": null
+ }
+}

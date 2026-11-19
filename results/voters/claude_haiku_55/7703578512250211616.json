@@ -1,0 +1,19 @@
+{
+ "id": "7703578512250211616",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "mixed",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "Women speaking 15-30% of the time are perceived by men as speaking 50%; a 17% female room looks evenly divided",
+  "reason": "Fact-checks a gender perception claim about both sexes' perceptions without blaming either sex; the claim is about how men perceive women, so women is a close alternative.",
+  "evidence_seconds": 9
+ },
+ "usage": {
+  "prompt_tokens": 7082,
+  "completion_tokens": 244,
+  "cost_usd": null
+ }
+}

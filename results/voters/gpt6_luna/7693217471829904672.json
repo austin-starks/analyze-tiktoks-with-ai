@@ -1,0 +1,19 @@
+{
+ "id": "7693217471829904672",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "women",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Women don't think, they just feel, and men are the logical sex",
+  "reason": "Pushes back on a claim portraying women as illogical and emotional compared with men",
+  "evidence_seconds": 168
+ },
+ "usage": {
+  "prompt_tokens": 3932,
+  "completion_tokens": 155,
+  "cost_usd": null
+ }
+}

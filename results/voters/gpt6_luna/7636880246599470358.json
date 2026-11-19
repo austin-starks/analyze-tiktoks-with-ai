@@ -1,0 +1,19 @@
+{
+ "id": "7636880246599470358",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "debate",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Being the pregnant partner of a police officer is more dangerous than being a police officer",
+  "reason": "This is presented as the follow-up to a debate with a creator who had criticized his earlier work.",
+  "evidence_seconds": 45
+ },
+ "usage": {
+  "prompt_tokens": 3609,
+  "completion_tokens": 732,
+  "cost_usd": null
+ }
+}

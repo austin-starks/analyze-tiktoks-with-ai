@@ -1,0 +1,18 @@
+{
+ "id": "7668724269005802784",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "borderline": true,
+  "evidence_seconds": 32,
+  "reason": "Pushes back on a claim favoring women without attacking men (direction rule); broader clip attacks men, making men plausible.",
+  "category": "mixed",
+  "alternate_category": "men",
+  "claim_answered": "Women are not hypergamous and there is little to no data supporting it"
+ },
+ "usage": {
+  "prompt_tokens": 3528,
+  "completion_tokens": 3055,
+  "cost_usd": null
+ }
+}

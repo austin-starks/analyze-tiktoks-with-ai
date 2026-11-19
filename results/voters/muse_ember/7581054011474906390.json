@@ -1,0 +1,19 @@
+{
+ "id": "7581054011474906390",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "misc",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "Men should want a successful, rich, hardcore woman like her",
+  "evidence_seconds": 0,
+  "reason": "Pushes back on implication men are weak for rejecting her, defending men's preference for peace and kindness"
+ },
+ "usage": {
+  "prompt_tokens": 3194,
+  "completion_tokens": 7761,
+  "cost_usd": null
+ }
+}

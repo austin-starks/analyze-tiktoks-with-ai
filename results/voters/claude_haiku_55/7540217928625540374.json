@@ -1,0 +1,19 @@
+{
+ "id": "7540217928625540374",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "Men must wait for money, looks, or status before dating; women are secret testers",
+  "reason": "General dating advice to men; answers no claim that runs down or defends either sex as a group.",
+  "evidence_seconds": 2
+ },
+ "usage": {
+  "prompt_tokens": 4995,
+  "completion_tokens": 201,
+  "cost_usd": null
+ }
+}

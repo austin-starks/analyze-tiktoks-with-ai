@@ -1,0 +1,18 @@
+{
+ "id": "7627864437105495318",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "reason": "Under the mixed rule, claims about both sexes' attachment and avoidance are central, and he evaluates both sides with research.",
+  "claim_answered": "Women are needy or securely attached, while men rebrand emotional avoidance as independence.",
+  "category": "mixed",
+  "borderline": true,
+  "evidence_seconds": 142,
+  "alternate_category": "men"
+ },
+ "usage": {
+  "prompt_tokens": 3481,
+  "completion_tokens": 5199,
+  "cost_usd": null
+ }
+}

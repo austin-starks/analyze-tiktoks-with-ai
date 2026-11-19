@@ -1,0 +1,19 @@
+{
+ "id": "7673501255775325462",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "mixed",
+  "reason": "Pushes back on a claim favoring women that does not attack men, addressing a double standard concerning both sexes.",
+  "claim_answered": "The chess mixed-team rule requiring at least one male player is unfair to all-female teams",
+  "evidence_seconds": 104,
+  "borderline": true,
+  "alternate_category": "men"
+ },
+ "usage": {
+  "prompt_tokens": 3721,
+  "completion_tokens": 3649,
+  "cost_usd": null
+ }
+}

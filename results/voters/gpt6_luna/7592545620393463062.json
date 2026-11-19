@@ -1,0 +1,19 @@
+{
+ "id": "7592545620393463062",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Breakup and self-improvement advice; answers no claim about men or women.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 3766,
+  "completion_tokens": 117,
+  "cost_usd": null
+ }
+}

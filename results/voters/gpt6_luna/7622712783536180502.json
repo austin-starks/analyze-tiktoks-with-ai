@@ -1,0 +1,19 @@
+{
+ "id": "7622712783536180502",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Dating is so difficult now that men should give up",
+  "reason": "Motivational dating advice; he argues against giving up but answers no claim about men or women as a group",
+  "evidence_seconds": 20
+ },
+ "usage": {
+  "prompt_tokens": 3252,
+  "completion_tokens": 256,
+  "cost_usd": null
+ }
+}

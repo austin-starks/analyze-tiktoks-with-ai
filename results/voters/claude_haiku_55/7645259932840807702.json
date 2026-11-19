@@ -1,0 +1,19 @@
+{
+ "id": "7645259932840807702",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Women with high body counts should lie about it; a high body count for a woman tells a worse story than for a man",
+  "reason": "Ilyas answers a claim that a high body count reflects badly on women, and his analogy casts Vicky as a woman who chose temptation over effort.",
+  "evidence_seconds": 9
+ },
+ "usage": {
+  "prompt_tokens": 6611,
+  "completion_tokens": 230,
+  "cost_usd": null
+ }
+}

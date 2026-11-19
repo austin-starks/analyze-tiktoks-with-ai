@@ -1,0 +1,19 @@
+{
+ "id": "7630175058022911254",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "claim_answered": "none",
+  "category": "misc",
+  "alternate_category": "none",
+  "borderline": false,
+  "evidence_seconds": 185,
+  "reason": "Viewer DM asking for relationship advice regarding his girlfriend reading adult comics."
+ },
+ "usage": {
+  "prompt_tokens": 4441,
+  "completion_tokens": 545,
+  "cost_usd": null
+ }
+}

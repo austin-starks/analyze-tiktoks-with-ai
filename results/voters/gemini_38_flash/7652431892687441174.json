@@ -1,0 +1,19 @@
+{
+ "id": "7652431892687441174",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "alternate_category": "debate",
+  "reason": "Video is mainly about his account receiving a copyright strike and facing a potential ban.",
+  "evidence_seconds": 4,
+  "category": "misc",
+  "claim_answered": "none",
+  "borderline": true
+ },
+ "usage": {
+  "prompt_tokens": 3909,
+  "completion_tokens": 1365,
+  "cost_usd": null
+ }
+}

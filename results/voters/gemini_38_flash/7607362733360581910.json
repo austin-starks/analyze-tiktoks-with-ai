@@ -1,0 +1,19 @@
+{
+ "id": "7607362733360581910",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "claim_answered": "none",
+  "alternate_category": "none",
+  "evidence_seconds": 8,
+  "reason": "Viewer DM Q&A offering personal dating advice and self-improvement rather than answering a claim about a sex."
+ },
+ "usage": {
+  "prompt_tokens": 4250,
+  "completion_tokens": 465,
+  "cost_usd": null
+ }
+}

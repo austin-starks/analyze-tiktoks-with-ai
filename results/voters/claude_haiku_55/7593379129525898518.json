@@ -1,0 +1,19 @@
+{
+ "id": "7593379129525898518",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "A subscriber asks how to handle a female friend sabotaging his relationship; no claim about men or women in general",
+  "reason": "Relationship advice to one subscriber about his girlfriend and her friend; answers no group claim about men or women",
+  "evidence_seconds": 58
+ },
+ "usage": {
+  "prompt_tokens": 5638,
+  "completion_tokens": 219,
+  "cost_usd": null
+ }
+}

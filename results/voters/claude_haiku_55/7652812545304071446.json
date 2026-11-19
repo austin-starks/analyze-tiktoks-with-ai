@@ -1,0 +1,19 @@
+{
+ "id": "7652812545304071446",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Companies charge women more for the same product just because it is marketed to women (the pink tax)",
+  "reason": "Rebuts a claim that companies exploit women via pricing; he argues it is not bias, with the closing line blaming men for it.",
+  "evidence_seconds": 68
+ },
+ "usage": {
+  "prompt_tokens": 6016,
+  "completion_tokens": 220,
+  "cost_usd": null
+ }
+}

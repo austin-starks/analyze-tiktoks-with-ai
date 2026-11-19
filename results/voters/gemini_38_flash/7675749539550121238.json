@@ -1,0 +1,19 @@
+{
+ "id": "7675749539550121238",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "reason": "Reports on a viral internet drama and sexual assault allegations against an online creator",
+  "alternate_category": "politics",
+  "claim_answered": "none",
+  "category": "news",
+  "borderline": true,
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 3875,
+  "completion_tokens": 801,
+  "cost_usd": null
+ }
+}

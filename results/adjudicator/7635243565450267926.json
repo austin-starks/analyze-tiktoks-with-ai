@@ -1,0 +1,18 @@
+{
+ "id": "7635243565450267926",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "alternate_category": "men",
+  "borderline": true,
+  "claim_answered": "none",
+  "category": "misc",
+  "evidence_seconds": 111,
+  "reason": "Viewer Q&A giving relationship and breakup advice without rebutting a claim about men, matching the misc rule."
+ },
+ "usage": {
+  "prompt_tokens": 3296,
+  "completion_tokens": 2679,
+  "cost_usd": null
+ }
+}

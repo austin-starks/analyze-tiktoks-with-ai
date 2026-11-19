@@ -1,0 +1,19 @@
+{
+ "id": "7669744450641431830",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "mixed",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "Men are twice as likely as women not to wash hands",
+  "evidence_seconds": 8,
+  "reason": "Fact-checks a claim running men down on hygiene, though he largely concedes it"
+ },
+ "usage": {
+  "prompt_tokens": 3379,
+  "completion_tokens": 4432,
+  "cost_usd": null
+ }
+}

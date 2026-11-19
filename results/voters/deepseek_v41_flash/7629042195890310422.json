@@ -1,0 +1,19 @@
+{
+ "id": "7629042195890310422",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "A betrayed husband should work on his part of the marriage his wife destroyed",
+  "reason": "Pushes back on the therapist's advice that blames the betrayed man for his wife's affair",
+  "evidence_seconds": 70
+ },
+ "usage": {
+  "prompt_tokens": 3759,
+  "completion_tokens": 405,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7638359210387868950",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "A phrase about killing a woman was Googled 163 million times in 2025",
+  "reason": "Fact-check of viral search statistics; he debunks numbers rather than arguing about men's or women's nature.",
+  "evidence_seconds": 101
+ },
+ "usage": {
+  "prompt_tokens": 4535,
+  "completion_tokens": 532,
+  "cost_usd": null
+ }
+}

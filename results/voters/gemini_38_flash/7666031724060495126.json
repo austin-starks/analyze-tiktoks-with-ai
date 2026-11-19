@@ -1,0 +1,19 @@
+{
+ "id": "7666031724060495126",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "borderline": true,
+  "category": "news",
+  "alternate_category": "women",
+  "evidence_seconds": 79,
+  "claim_answered": "Ines Garcia dumped her boyfriend of five years for Lamine Yamal",
+  "reason": "Fact-checks a viral celebrity rumor rather than making a general claim about women."
+ },
+ "usage": {
+  "prompt_tokens": 4322,
+  "completion_tokens": 3274,
+  "cost_usd": null
+ }
+}

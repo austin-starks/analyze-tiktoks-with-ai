@@ -1,0 +1,19 @@
+{
+ "id": "7556146293597408534",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "mixed",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Healthy relationships require conflict, emotional triggers, and repair, and are boring",
+  "reason": "Pushes back on a claim about how relationships should work without blaming either sex; this also resembles general dating advice.",
+  "evidence_seconds": 66
+ },
+ "usage": {
+  "prompt_tokens": 3116,
+  "completion_tokens": 284,
+  "cost_usd": null
+ }
+}

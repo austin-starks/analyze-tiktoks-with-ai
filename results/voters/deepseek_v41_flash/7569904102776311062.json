@@ -1,0 +1,19 @@
+{
+ "id": "7569904102776311062",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "\"Compromise\" in modern relationships where they end up doing what she wanted",
+  "reason": "Relationship advice to men about standing ground; he endorses rather than rebuts a claim about the sexes.",
+  "evidence_seconds": 29
+ },
+ "usage": {
+  "prompt_tokens": 3283,
+  "completion_tokens": 545,
+  "cost_usd": null
+ }
+}

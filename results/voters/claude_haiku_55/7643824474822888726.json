@@ -1,0 +1,19 @@
+{
+ "id": "7643824474822888726",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Every woman he dated lies to him, so all women are dishonest liars",
+  "reason": "Pushes back on a claim that runs women down as liars, arguing the man chose those partners; also dating advice.",
+  "evidence_seconds": 47
+ },
+ "usage": {
+  "prompt_tokens": 5726,
+  "completion_tokens": 208,
+  "cost_usd": null
+ }
+}

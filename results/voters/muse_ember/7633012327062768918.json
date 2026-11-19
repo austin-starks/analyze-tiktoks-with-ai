@@ -1,0 +1,19 @@
+{
+ "id": "7633012327062768918",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "debate",
+  "borderline": true,
+  "category": "misc",
+  "claim_answered": "none",
+  "evidence_seconds": 0,
+  "reason": "Mainly a thank-you and channel update about Brenna declining; no substantive claim rebutted"
+ },
+ "usage": {
+  "prompt_tokens": 3553,
+  "completion_tokens": 3333,
+  "cost_usd": null
+ }
+}

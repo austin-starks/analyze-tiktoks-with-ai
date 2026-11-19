@@ -1,0 +1,19 @@
+{
+ "id": "7595972697180458243",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "women",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Women’s financial independence is the main reason for the male loneliness epidemic",
+  "reason": "Rejects the claim that women’s freedom is the main cause of men’s loneliness, pointing instead to technology and dating-market changes.",
+  "evidence_seconds": 61
+ },
+ "usage": {
+  "prompt_tokens": 3607,
+  "completion_tokens": 513,
+  "cost_usd": null
+ }
+}

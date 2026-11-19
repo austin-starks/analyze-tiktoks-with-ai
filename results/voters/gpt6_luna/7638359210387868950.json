@@ -1,0 +1,19 @@
+{
+ "id": "7638359210387868950",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "The phrases about killing a woman and being killed were searched 163 million and 107 million times",
+  "reason": "He fact-checks viral search-volume figures, not a claim about either sex.",
+  "evidence_seconds": 232
+ },
+ "usage": {
+  "prompt_tokens": 4176,
+  "completion_tokens": 571,
+  "cost_usd": null
+ }
+}

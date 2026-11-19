@@ -1,0 +1,19 @@
+{
+ "id": "7644499700015549718",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "men",
+  "borderline": true,
+  "category": "mixed",
+  "claim_answered": "People blame all men or all women for bad dating experiences",
+  "evidence_seconds": 37,
+  "reason": "He answers claims blaming all men and claims blaming all women, saying blanket statements go both ways"
+ },
+ "usage": {
+  "prompt_tokens": 3543,
+  "completion_tokens": 3297,
+  "cost_usd": null
+ }
+}

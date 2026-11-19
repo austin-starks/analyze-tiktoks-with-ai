@@ -1,0 +1,19 @@
+{
+ "id": "7611528418211007766",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Dating advice listing five standards for men's partners; he answers no claim attacking men or women",
+  "evidence_seconds": 79
+ },
+ "usage": {
+  "prompt_tokens": 3962,
+  "completion_tokens": 254,
+  "cost_usd": null
+ }
+}

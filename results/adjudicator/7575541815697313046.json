@@ -1,0 +1,18 @@
+{
+ "id": "7575541815697313046",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "alternate_category": "men",
+  "reason": "Claim concerns couples' relationship dynamics without attacking either sex (Rule 2, mixed), though it arguably burdens men unfairly.",
+  "evidence_seconds": 0,
+  "claim_answered": "For a relationship to work, the guy needs to love the girl more",
+  "borderline": true,
+  "category": "mixed"
+ },
+ "usage": {
+  "prompt_tokens": 2865,
+  "completion_tokens": 2270,
+  "cost_usd": null
+ }
+}

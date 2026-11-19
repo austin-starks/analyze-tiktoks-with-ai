@@ -1,0 +1,19 @@
+{
+ "id": "7686501673015069984",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "mixed",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Eight men annihilated their families during the Clancy trial; 13 copycat murders by mothers followed it",
+  "reason": "Answers two opposing claims, one attacking men and one attacking women, and rejects both as ammunition.",
+  "evidence_seconds": 36
+ },
+ "usage": {
+  "prompt_tokens": 3884,
+  "completion_tokens": 257,
+  "cost_usd": null
+ }
+}

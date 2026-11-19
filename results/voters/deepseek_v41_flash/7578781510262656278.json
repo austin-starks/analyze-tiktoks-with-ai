@@ -1,0 +1,19 @@
+{
+ "id": "7578781510262656278",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Women would rather date women because men are the problem, and men have dating easy",
+  "reason": "Pushes back on a claim implying men are the problem and that men have it easy in dating",
+  "evidence_seconds": 46
+ },
+ "usage": {
+  "prompt_tokens": 3607,
+  "completion_tokens": 436,
+  "cost_usd": null
+ }
+}

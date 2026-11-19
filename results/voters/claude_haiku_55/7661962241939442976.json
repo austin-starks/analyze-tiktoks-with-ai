@@ -1,0 +1,19 @@
+{
+ "id": "7661962241939442976",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "The leading cause of workplace fatalities for women is homicide, and women's work risks are worse than men's",
+  "reason": "Rebuts a claim that runs down women's workplace safety via a misleading statistic; he also notes men's larger homicide risk, but the claim is about women.",
+  "evidence_seconds": 15
+ },
+ "usage": {
+  "prompt_tokens": 5854,
+  "completion_tokens": 234,
+  "cost_usd": null
+ }
+}

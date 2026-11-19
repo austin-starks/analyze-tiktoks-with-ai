@@ -1,0 +1,19 @@
+{
+ "id": "7700248656938585377",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "reason": "Reports and explains an ongoing news event involving riots and protests across France.",
+  "evidence_seconds": 85,
+  "alternate_category": "politics",
+  "claim_answered": "The unrest in France is purely caused by mass migration and Islamists",
+  "borderline": true,
+  "category": "news"
+ },
+ "usage": {
+  "prompt_tokens": 4891,
+  "completion_tokens": 925,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7705134218665266464",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "Women are about five times more likely than men to show own-group bias, and women voted for Clinton because she is a woman",
+  "reason": "Fact-checks Asmongold's claims, but his answer is about a study and voting gap; the claim concerns women's in-group bias, which is hard to read as defending either sex.",
+  "evidence_seconds": 40
+ },
+ "usage": {
+  "prompt_tokens": 6228,
+  "completion_tokens": 241,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7581382931969494294",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "women",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Women test men by demanding they kneel and bark to earn access to their lives",
+  "reason": "Rejects a degrading demand by women that frames men as needing to humiliate themselves for female attention.",
+  "evidence_seconds": 32
+ },
+ "usage": {
+  "prompt_tokens": 3112,
+  "completion_tokens": 76,
+  "cost_usd": null
+ }
+}

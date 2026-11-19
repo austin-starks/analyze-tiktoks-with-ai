@@ -1,0 +1,19 @@
+{
+ "id": "7656436651945708822",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "women",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "39.6% of women could imagine making a false sexual-assault allegation against a man for personal benefit",
+  "reason": "He challenges an exaggerated claim that women would weaponize allegations, resisting an unfair generalization about women.",
+  "evidence_seconds": 125
+ },
+ "usage": {
+  "prompt_tokens": 3891,
+  "completion_tokens": 81,
+  "cost_usd": null
+ }
+}

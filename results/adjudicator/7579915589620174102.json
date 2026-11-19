@@ -1,0 +1,18 @@
+{
+ "id": "7579915589620174102",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "alternate_category": "men",
+  "evidence_seconds": 137,
+  "claim_answered": "none",
+  "category": "misc",
+  "reason": "Rule 3: reacts to a therapy clip with relationship and self-improvement advice for men; answers no general claim about men or women.",
+  "borderline": true
+ },
+ "usage": {
+  "prompt_tokens": 3536,
+  "completion_tokens": 2825,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7690677211430472992",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "politics",
+  "claim_answered": "Noah's Ark has been found and confirmed in Turkey",
+  "evidence_seconds": 11,
+  "reason": "Fact-checks a religious discovery claim, which is classified as politics even in news"
+ },
+ "usage": {
+  "prompt_tokens": 3728,
+  "completion_tokens": 2098,
+  "cost_usd": null
+ }
+}

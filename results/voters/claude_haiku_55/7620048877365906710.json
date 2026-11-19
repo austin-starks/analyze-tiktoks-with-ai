@@ -1,0 +1,19 @@
+{
+ "id": "7620048877365906710",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "Man should accept girlfriend's male friends and her disrespect; he is overreacting",
+  "reason": "Relationship advice to a viewer's story; answers no general claim about men or women, mainly tells the man to fix self-respect.",
+  "evidence_seconds": 27
+ },
+ "usage": {
+  "prompt_tokens": 6191,
+  "completion_tokens": 218,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7552546820275178774",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "alternate_category": "none",
+  "evidence_seconds": 4,
+  "borderline": false,
+  "category": "misc",
+  "claim_answered": "none",
+  "reason": "Offers dating advice for men based on MrBeast's relationship story, without answering a claim about a group."
+ },
+ "usage": {
+  "prompt_tokens": 4063,
+  "completion_tokens": 289,
+  "cost_usd": null
+ }
+}

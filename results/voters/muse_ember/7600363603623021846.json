@@ -1,0 +1,19 @@
+{
+ "id": "7600363603623021846",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "misc",
+  "claim_answered": "none",
+  "evidence_seconds": 0,
+  "reason": "Dating advice to leave an abusive girlfriend and keep self-respect; answers no general claim about men or women"
+ },
+ "usage": {
+  "prompt_tokens": 3208,
+  "completion_tokens": 4659,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7644499700015549718",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "mixed",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Blanket claims that all men or all women are bad because of personal dating experiences",
+  "reason": "Rejects opposing generalizations blaming each sex and says the same logic applies both ways",
+  "evidence_seconds": 37
+ },
+ "usage": {
+  "prompt_tokens": 3537,
+  "completion_tokens": 317,
+  "cost_usd": null
+ }
+}

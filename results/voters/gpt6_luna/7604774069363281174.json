@@ -1,0 +1,19 @@
+{
+ "id": "7604774069363281174",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Women would want a man simply because he spoils, worships, and buys gifts for them",
+  "reason": "Rejects dating advice that imposes costly, self-erasing expectations on men to win women",
+  "evidence_seconds": 49
+ },
+ "usage": {
+  "prompt_tokens": 3491,
+  "completion_tokens": 752,
+  "cost_usd": null
+ }
+}

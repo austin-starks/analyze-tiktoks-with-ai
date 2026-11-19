@@ -1,0 +1,19 @@
+{
+ "id": "7663131126491385121",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Looks determine your dating success and some men are born losers (Black Pill)",
+  "reason": "Self-improvement and dating advice rebutting a fatalistic mindset; no claim attacking men or women as a group",
+  "evidence_seconds": 33
+ },
+ "usage": {
+  "prompt_tokens": 4156,
+  "completion_tokens": 262,
+  "cost_usd": null
+ }
+}

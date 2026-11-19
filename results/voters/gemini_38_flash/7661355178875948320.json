@@ -1,0 +1,19 @@
+{
+ "id": "7661355178875948320",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "reason": "Pushes back on a cherry-picked claim designed to paint female corporate leadership in a bad light",
+  "borderline": false,
+  "alternate_category": "none",
+  "evidence_seconds": 34,
+  "category": "women",
+  "claim_answered": "Women-led companies perform terribly and are bad investments"
+ },
+ "usage": {
+  "prompt_tokens": 3910,
+  "completion_tokens": 651,
+  "cost_usd": null
+ }
+}

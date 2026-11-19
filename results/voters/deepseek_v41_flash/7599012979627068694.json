@@ -1,0 +1,19 @@
+{
+ "id": "7599012979627068694",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "The best relationship lasts when a man thinks he can't pull any better",
+  "reason": "Pushes back on relationship advice about relationship mindset, not a claim running down either sex",
+  "evidence_seconds": 22
+ },
+ "usage": {
+  "prompt_tokens": 3706,
+  "completion_tokens": 696,
+  "cost_usd": null
+ }
+}

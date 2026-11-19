@@ -1,0 +1,19 @@
+{
+ "id": "7695381189086989601",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "politics",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "The far left is at worst annoying while the far right is genuinely dangerous",
+  "reason": "Fact-checks a claim about left vs right extremism using terrorism and political violence data; political, not about sex",
+  "evidence_seconds": 285
+ },
+ "usage": {
+  "prompt_tokens": 4948,
+  "completion_tokens": 202,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7673133705862401302",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "claim_answered": "Socialism works better than capitalism, as shown by China and Vietnam",
+  "borderline": false,
+  "reason": "Evaluates economic and political arguments regarding socialism versus capitalism",
+  "evidence_seconds": 76,
+  "category": "politics",
+  "alternate_category": "none"
+ },
+ "usage": {
+  "prompt_tokens": 3978,
+  "completion_tokens": 614,
+  "cost_usd": null
+ }
+}

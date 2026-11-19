@@ -1,0 +1,19 @@
+{
+ "id": "7664992795513343254",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "politics",
+  "borderline": false,
+  "alternate_category": "news",
+  "claim_answered": "none",
+  "reason": "Explains the NYC rent freeze and rent-stabilization policy and housing supply; housing policy is politics, and no claim about men or women is answered.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 6254,
+  "completion_tokens": 200,
+  "cost_usd": null
+ }
+}

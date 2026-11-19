@@ -1,0 +1,19 @@
+{
+ "id": "7700248656938585377",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "news",
+  "borderline": true,
+  "alternate_category": "politics",
+  "claim_answered": "Are France's protests student protests or extremist/Islamist riots?",
+  "reason": "Explains an ongoing nationwide protest and riot wave, weighing competing political interpretations; no claim about men or women",
+  "evidence_seconds": 24
+ },
+ "usage": {
+  "prompt_tokens": 4855,
+  "completion_tokens": 387,
+  "cost_usd": null
+ }
+}

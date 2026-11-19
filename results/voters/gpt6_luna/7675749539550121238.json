@@ -1,0 +1,19 @@
+{
+ "id": "7675749539550121238",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "news",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Reports and evaluates an ongoing viral sexual-assault allegation story, without answering a claim about men or women generally.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 3581,
+  "completion_tokens": 113,
+  "cost_usd": null
+ }
+}

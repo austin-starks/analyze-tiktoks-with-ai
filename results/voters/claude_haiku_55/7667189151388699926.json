@@ -1,0 +1,19 @@
+{
+ "id": "7667189151388699926",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Humanity lived in a 25,000-year matriarchy where men were not fathers and nobody knew about conception",
+  "reason": "Rebuts a claim that is a fantasy of women ruling; it runs against the matriarchy story rather than defending either sex. Ambiguous whether it is a women-favoring claim or a broader history claim.",
+  "evidence_seconds": 2
+ },
+ "usage": {
+  "prompt_tokens": 6434,
+  "completion_tokens": 254,
+  "cost_usd": null
+ }
+}

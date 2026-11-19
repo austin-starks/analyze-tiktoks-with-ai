@@ -1,0 +1,19 @@
+{
+ "id": "7567297521848962326",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "In a straight relationship, the man should be the more patient, tolerant, and obsessed partner while the woman just exists",
+  "reason": "Rebuts a claim that burdens men with all the patience and effort, framing it as unfair to men; also argues for mutual effort.",
+  "evidence_seconds": 8
+ },
+ "usage": {
+  "prompt_tokens": 4896,
+  "completion_tokens": 230,
+  "cost_usd": null
+ }
+}

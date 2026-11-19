@@ -1,0 +1,19 @@
+{
+ "id": "7695737674514156833",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "men",
+  "borderline": true,
+  "category": "misc",
+  "claim_answered": "Women give birth on their backs because King Louis XIV liked watching",
+  "evidence_seconds": 34,
+  "reason": "History and medical trivia debunking Louis XIV myth; no claim about men or women as groups"
+ },
+ "usage": {
+  "prompt_tokens": 3684,
+  "completion_tokens": 4579,
+  "cost_usd": null
+ }
+}

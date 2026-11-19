@@ -1,0 +1,556 @@
+{
+ "text": "Women see all logic as stupidity. You can have a PhD, a master's degree. If you speak logically to women, she will think you are stupid. They see intelligence and power and desirability and attraction through being illogical, through la-la land, because they operate based on emotions. They don't think, they just feel. Oh, I feel this way. Oh, I feel this way. That's it. Logic provides zero feeling, so they see you as an idiot. Women see all logic as stupidity and they don't think, they just feel. Those are some very bold statements. And this brings back the old stereotype. Men are the logical sex, women are the emotional sex. But is there any truth to that? Well, first of all, what do we mean by emotional? Experiencing emotions, expressing them, acting on them? Because those are different things. Someone talking openly about their feelings is not necessarily experiencing stronger emotions than someone keeping quiet. Now, there are real average differences. Personality research finds that women tend to score higher in neuroticism, the tendency to experience negative emotions like anxiety, worry, and stress. A study involving more than 23,000 people across 26 cultures found this pattern. Women also tend to smile and cry more and show greater facial expressiveness overall. But those differences depend on the situation and the emotion being expressed. Men are emotional too. In some contexts, men express more anger and they are more physically aggressive on average. But expressing anger more does not necessarily mean feeling it more. A major meta-analysis found greater male physical aggression but no overall difference between men and women in how much anger they experienced. So depending on which emotions and forms of expression we measure, women can appear more emotional in some respects and men in others. Simply declaring one sex the emotional sex is generally misleading. Now, what about logic? Again, what are we measuring? Identifying patterns, solving problems, reconsidering an intuitive answer, evaluating information without favoring what we want to believe? A 2020 meta-analysis combined 98 studies involving almost 97,000 adults. It examined inductive reasoning, identifying patterns and rules to draw conclusions. Men performed slightly better overall but the average difference was small and results varied across tests, sometimes favoring women. Another meta-analysis published in 2024 examined cognitive reflection, questions where an answer immediately seems right but getting the correct answer requires reconsidering it. Men scored higher on average. However, the difference was much smaller in verbal questions than numerical ones. The numerical gap was closer to moderate. So dismissing every difference as tiny would not be accurate either. But there are also findings favoring women. A 2021 experiment involving around 1,000 participants examined motivated reasoning, evaluating information in a way that supports what you want to believe. When judging information about their own performance, men were more likely to trust messages suggesting they had done better than they initially thought. Women did not show that same systematic preference for flattering information. Their beliefs about their performance were also better calibrated on average. Apparently, being told you are brilliant can interfere with your commitment to objective reasoning. But on political questions, both sexes showed motivated reasoning with no significant difference between them. In other words, both men and women were more likely to trust information that supported their existing political beliefs. Neither sex was significantly less biased than the other. So once again, the context mattered. What can we conclude? The research does not support dividing humanity neatly into logical men and emotional women. There are average differences in certain emotional tendencies, forms of expression, and reasoning tasks. Many are small, some are more substantial. Some findings favor men, some favor women, and others showed very similar performance. These are overlapping groups, not two separate categories of people who either think or feel. And emotionality is not the opposite of reasoning. You can feel anxious and evaluate an argument correctly. You can feel perfectly confident and still talk complete nonsense.",
+ "duration": 196.63999938964844,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 1.7200000286102295,
+   "text": " Women see all logic as stupidity."
+  },
+  {
+   "start": 1.7200000286102295,
+   "end": 3.4000000953674316,
+   "text": " You can have a PhD, a master's degree."
+  },
+  {
+   "start": 3.4000000953674316,
+   "end": 4.679999828338623,
+   "text": " If you speak logically to women,"
+  },
+  {
+   "start": 4.679999828338623,
+   "end": 5.840000152587891,
+   "text": " she will think you are stupid."
+  },
+  {
+   "start": 5.840000152587891,
+   "end": 8.279999732971191,
+   "text": " They see intelligence and power and desirability"
+  },
+  {
+   "start": 8.279999732971191,
+   "end": 10.920000076293945,
+   "text": " and attraction through being illogical, through la-la land,"
+  },
+  {
+   "start": 10.920000076293945,
+   "end": 12.479999542236328,
+   "text": " because they operate based on emotions."
+  },
+  {
+   "start": 12.479999542236328,
+   "end": 13.880000114440918,
+   "text": " They don't think, they just feel."
+  },
+  {
+   "start": 13.880000114440918,
+   "end": 15.119999885559082,
+   "text": " Oh, I feel this way."
+  },
+  {
+   "start": 15.119999885559082,
+   "end": 16.239999771118164,
+   "text": " Oh, I feel this way."
+  },
+  {
+   "start": 16.239999771118164,
+   "end": 17.079999923706055,
+   "text": " That's it."
+  },
+  {
+   "start": 17.079999923706055,
+   "end": 19.34000015258789,
+   "text": " Logic provides zero feeling, so they see you as an idiot."
+  },
+  {
+   "start": 19.34000015258789,
+   "end": 21.1200008392334,
+   "text": " Women see all logic as stupidity"
+  },
+  {
+   "start": 21.1200008392334,
+   "end": 22.940000534057617,
+   "text": " and they don't think, they just feel."
+  },
+  {
+   "start": 22.940000534057617,
+   "end": 24.31999969482422,
+   "text": " Those are some very bold statements."
+  },
+  {
+   "start": 24.31999969482422,
+   "end": 26.0,
+   "text": " And this brings back the old stereotype."
+  },
+  {
+   "start": 26.0,
+   "end": 28.719999313354492,
+   "text": " Men are the logical sex, women are the emotional sex."
+  },
+  {
+   "start": 28.719999313354492,
+   "end": 30.139999389648438,
+   "text": " But is there any truth to that?"
+  },
+  {
+   "start": 30.139999389648438,
+   "end": 32.439998626708984,
+   "text": " Well, first of all, what do we mean by emotional?"
+  },
+  {
+   "start": 32.439998626708984,
+   "end": 35.08000183105469,
+   "text": " Experiencing emotions, expressing them, acting on them?"
+  },
+  {
+   "start": 35.08000183105469,
+   "end": 36.20000076293945,
+   "text": " Because those are different things."
+  },
+  {
+   "start": 36.20000076293945,
+   "end": 38.18000030517578,
+   "text": " Someone talking openly about their feelings"
+  },
+  {
+   "start": 38.18000030517578,
+   "end": 40.52000045776367,
+   "text": " is not necessarily experiencing stronger emotions"
+  },
+  {
+   "start": 40.52000045776367,
+   "end": 41.599998474121094,
+   "text": " than someone keeping quiet."
+  },
+  {
+   "start": 41.599998474121094,
+   "end": 43.2400016784668,
+   "text": " Now, there are real average differences."
+  },
+  {
+   "start": 43.2400016784668,
+   "end": 44.91999816894531,
+   "text": " Personality research finds that women"
+  },
+  {
+   "start": 44.91999816894531,
+   "end": 46.63999938964844,
+   "text": " tend to score higher in neuroticism,"
+  },
+  {
+   "start": 46.63999938964844,
+   "end": 48.400001525878906,
+   "text": " the tendency to experience negative emotions"
+  },
+  {
+   "start": 48.400001525878906,
+   "end": 49.900001525878906,
+   "text": " like anxiety, worry, and stress."
+  },
+  {
+   "start": 49.900001525878906,
+   "end": 51.97999954223633,
+   "text": " A study involving more than 23,000 people"
+  },
+  {
+   "start": 51.97999954223633,
+   "end": 54.040000915527344,
+   "text": " across 26 cultures found this pattern."
+  },
+  {
+   "start": 54.040000915527344,
+   "end": 56.31999969482422,
+   "text": " Women also tend to smile and cry more"
+  },
+  {
+   "start": 56.31999969482422,
+   "end": 58.400001525878906,
+   "text": " and show greater facial expressiveness overall."
+  },
+  {
+   "start": 58.400001525878906,
+   "end": 60.15999984741211,
+   "text": " But those differences depend on the situation"
+  },
+  {
+   "start": 60.15999984741211,
+   "end": 61.439998626708984,
+   "text": " and the emotion being expressed."
+  },
+  {
+   "start": 61.439998626708984,
+   "end": 62.720001220703125,
+   "text": " Men are emotional too."
+  },
+  {
+   "start": 62.720001220703125,
+   "end": 64.76000213623047,
+   "text": " In some contexts, men express more anger"
+  },
+  {
+   "start": 64.76000213623047,
+   "end": 66.80000305175781,
+   "text": " and they are more physically aggressive on average."
+  },
+  {
+   "start": 66.80000305175781,
+   "end": 67.95999908447266,
+   "text": " But expressing anger more"
+  },
+  {
+   "start": 67.95999908447266,
+   "end": 69.76000213623047,
+   "text": " does not necessarily mean feeling it more."
+  },
+  {
+   "start": 69.76000213623047,
+   "end": 72.77999877929688,
+   "text": " A major meta-analysis found greater male physical aggression"
+  },
+  {
+   "start": 72.77999877929688,
+   "end": 75.0999984741211,
+   "text": " but no overall difference between men and women"
+  },
+  {
+   "start": 75.0999984741211,
+   "end": 77.12000274658203,
+   "text": " in how much anger they experienced."
+  },
+  {
+   "start": 77.12000274658203,
+   "end": 78.4800033569336,
+   "text": " So depending on which emotions"
+  },
+  {
+   "start": 78.4800033569336,
+   "end": 79.91999816894531,
+   "text": " and forms of expression we measure,"
+  },
+  {
+   "start": 79.91999816894531,
+   "end": 82.0199966430664,
+   "text": " women can appear more emotional in some respects"
+  },
+  {
+   "start": 82.0199966430664,
+   "end": 82.86000061035156,
+   "text": " and men in others."
+  },
+  {
+   "start": 82.86000061035156,
+   "end": 85.12000274658203,
+   "text": " Simply declaring one sex the emotional sex"
+  },
+  {
+   "start": 85.12000274658203,
+   "end": 86.23999786376953,
+   "text": " is generally misleading."
+  },
+  {
+   "start": 86.23999786376953,
+   "end": 87.36000061035156,
+   "text": " Now, what about logic?"
+  },
+  {
+   "start": 87.36000061035156,
+   "end": 88.63999938964844,
+   "text": " Again, what are we measuring?"
+  },
+  {
+   "start": 88.63999938964844,
+   "end": 90.55999755859375,
+   "text": " Identifying patterns, solving problems,"
+  },
+  {
+   "start": 90.55999755859375,
+   "end": 92.08000183105469,
+   "text": " reconsidering an intuitive answer,"
+  },
+  {
+   "start": 92.08000183105469,
+   "end": 94.0,
+   "text": " evaluating information without favoring"
+  },
+  {
+   "start": 94.0,
+   "end": 94.95999908447266,
+   "text": " what we want to believe?"
+  },
+  {
+   "start": 94.95999908447266,
+   "end": 97.44000244140625,
+   "text": " A 2020 meta-analysis combined 98 studies"
+  },
+  {
+   "start": 97.44000244140625,
+   "end": 99.55999755859375,
+   "text": " involving almost 97,000 adults."
+  },
+  {
+   "start": 99.55999755859375,
+   "end": 101.0,
+   "text": " It examined inductive reasoning,"
+  },
+  {
+   "start": 101.0,
+   "end": 103.19999694824219,
+   "text": " identifying patterns and rules to draw conclusions."
+  },
+  {
+   "start": 103.19999694824219,
+   "end": 104.95999908447266,
+   "text": " Men performed slightly better overall"
+  },
+  {
+   "start": 104.95999908447266,
+   "end": 106.4800033569336,
+   "text": " but the average difference was small"
+  },
+  {
+   "start": 106.4800033569336,
+   "end": 109.0,
+   "text": " and results varied across tests, sometimes favoring women."
+  },
+  {
+   "start": 109.0,
+   "end": 111.08000183105469,
+   "text": " Another meta-analysis published in 2024"
+  },
+  {
+   "start": 111.08000183105469,
+   "end": 112.4000015258789,
+   "text": " examined cognitive reflection,"
+  },
+  {
+   "start": 112.4000015258789,
+   "end": 114.4800033569336,
+   "text": " questions where an answer immediately seems right"
+  },
+  {
+   "start": 114.4800033569336,
+   "end": 116.83999633789062,
+   "text": " but getting the correct answer requires reconsidering it."
+  },
+  {
+   "start": 116.83999633789062,
+   "end": 118.16000366210938,
+   "text": " Men scored higher on average."
+  },
+  {
+   "start": 118.16000366210938,
+   "end": 119.91999816894531,
+   "text": " However, the difference was much smaller"
+  },
+  {
+   "start": 119.91999816894531,
+   "end": 121.55999755859375,
+   "text": " in verbal questions than numerical ones."
+  },
+  {
+   "start": 121.55999755859375,
+   "end": 123.5199966430664,
+   "text": " The numerical gap was closer to moderate."
+  },
+  {
+   "start": 123.5199966430664,
+   "end": 125.55999755859375,
+   "text": " So dismissing every difference as tiny"
+  },
+  {
+   "start": 125.55999755859375,
+   "end": 126.72000122070312,
+   "text": " would not be accurate either."
+  },
+  {
+   "start": 126.72000122070312,
+   "end": 128.32000732421875,
+   "text": " But there are also findings favoring women."
+  },
+  {
+   "start": 128.32000732421875,
+   "end": 131.05999755859375,
+   "text": " A 2021 experiment involving around 1,000 participants"
+  },
+  {
+   "start": 131.05999755859375,
+   "end": 132.60000610351562,
+   "text": " examined motivated reasoning,"
+  },
+  {
+   "start": 132.60000610351562,
+   "end": 133.9199981689453,
+   "text": " evaluating information in a way"
+  },
+  {
+   "start": 133.9199981689453,
+   "end": 136.1199951171875,
+   "text": " that supports what you want to believe."
+  },
+  {
+   "start": 136.1199951171875,
+   "end": 138.36000061035156,
+   "text": " When judging information about their own performance,"
+  },
+  {
+   "start": 138.36000061035156,
+   "end": 140.36000061035156,
+   "text": " men were more likely to trust messages"
+  },
+  {
+   "start": 140.36000061035156,
+   "end": 142.83999633789062,
+   "text": " suggesting they had done better than they initially thought."
+  },
+  {
+   "start": 142.83999633789062,
+   "end": 145.1199951171875,
+   "text": " Women did not show that same systematic preference"
+  },
+  {
+   "start": 145.1199951171875,
+   "end": 146.16000366210938,
+   "text": " for flattering information."
+  },
+  {
+   "start": 146.1999969482422,
+   "end": 147.67999267578125,
+   "text": " Their beliefs about their performance"
+  },
+  {
+   "start": 147.67999267578125,
+   "end": 149.72000122070312,
+   "text": " were also better calibrated on average."
+  },
+  {
+   "start": 149.72000122070312,
+   "end": 151.75999450683594,
+   "text": " Apparently, being told you are brilliant"
+  },
+  {
+   "start": 151.75999450683594,
+   "end": 154.24000549316406,
+   "text": " can interfere with your commitment to objective reasoning."
+  },
+  {
+   "start": 154.24000549316406,
+   "end": 155.36000061035156,
+   "text": " But on political questions,"
+  },
+  {
+   "start": 155.36000061035156,
+   "end": 157.0800018310547,
+   "text": " both sexes showed motivated reasoning"
+  },
+  {
+   "start": 157.0800018310547,
+   "end": 158.60000610351562,
+   "text": " with no significant difference between them."
+  },
+  {
+   "start": 158.60000610351562,
+   "end": 160.16000366210938,
+   "text": " In other words, both men and women"
+  },
+  {
+   "start": 160.16000366210938,
+   "end": 161.8000030517578,
+   "text": " were more likely to trust information"
+  },
+  {
+   "start": 161.8000030517578,
+   "end": 163.9600067138672,
+   "text": " that supported their existing political beliefs."
+  },
+  {
+   "start": 163.9600067138672,
+   "end": 166.36000061035156,
+   "text": " Neither sex was significantly less biased than the other."
+  },
+  {
+   "start": 166.36000061035156,
+   "end": 168.0399932861328,
+   "text": " So once again, the context mattered."
+  },
+  {
+   "start": 168.0399932861328,
+   "end": 168.9600067138672,
+   "text": " What can we conclude?"
+  },
+  {
+   "start": 168.9600067138672,
+   "end": 171.67999267578125,
+   "text": " The research does not support dividing humanity neatly"
+  },
+  {
+   "start": 171.67999267578125,
+   "end": 173.9600067138672,
+   "text": " into logical men and emotional women."
+  },
+  {
+   "start": 173.9600067138672,
+   "end": 174.9199981689453,
+   "text": " There are average differences"
+  },
+  {
+   "start": 174.9199981689453,
+   "end": 176.32000732421875,
+   "text": " in certain emotional tendencies,"
+  },
+  {
+   "start": 176.32000732421875,
+   "end": 178.1199951171875,
+   "text": " forms of expression, and reasoning tasks."
+  },
+  {
+   "start": 178.1199951171875,
+   "end": 179.9199981689453,
+   "text": " Many are small, some are more substantial."
+  },
+  {
+   "start": 179.9199981689453,
+   "end": 182.0,
+   "text": " Some findings favor men, some favor women,"
+  },
+  {
+   "start": 182.0,
+   "end": 183.8800048828125,
+   "text": " and others showed very similar performance."
+  },
+  {
+   "start": 183.8800048828125,
+   "end": 185.47999572753906,
+   "text": " These are overlapping groups,"
+  },
+  {
+   "start": 185.47999572753906,
+   "end": 187.32000732421875,
+   "text": " not two separate categories of people"
+  },
+  {
+   "start": 187.32000732421875,
+   "end": 188.8000030517578,
+   "text": " who either think or feel."
+  },
+  {
+   "start": 188.8000030517578,
+   "end": 191.0399932861328,
+   "text": " And emotionality is not the opposite of reasoning."
+  },
+  {
+   "start": 191.0399932861328,
+   "end": 193.55999755859375,
+   "text": " You can feel anxious and evaluate an argument correctly."
+  },
+  {
+   "start": 193.55999755859375,
+   "end": 195.0399932861328,
+   "text": " You can feel perfectly confident"
+  },
+  {
+   "start": 195.0399932861328,
+   "end": 196.72000122070312,
+   "text": " and still talk complete nonsense."
+  }
+ ]
+}

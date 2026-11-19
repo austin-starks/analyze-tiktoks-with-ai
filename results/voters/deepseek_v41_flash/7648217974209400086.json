@@ -1,0 +1,19 @@
+{
+ "id": "7648217974209400086",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Viewer DM asking for signs a girl likes him; he gives dating advice and answers no claim about a sex.",
+  "evidence_seconds": 39
+ },
+ "usage": {
+  "prompt_tokens": 3744,
+  "completion_tokens": 156,
+  "cost_usd": null
+ }
+}

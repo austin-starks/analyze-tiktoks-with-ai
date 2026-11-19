@@ -1,0 +1,19 @@
+{
+ "id": "7683104248057416982",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "A viral claim that 100% of net jobs lost in July were women and zero men lost jobs",
+  "reason": "He praises Quick Thoughts' fact-check and the original creator's apology, not answering a claim himself; not a reply to a critic of him.",
+  "evidence_seconds": 141
+ },
+ "usage": {
+  "prompt_tokens": 5840,
+  "completion_tokens": 225,
+  "cost_usd": null
+ }
+}

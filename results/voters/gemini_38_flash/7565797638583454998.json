@@ -1,0 +1,19 @@
+{
+ "id": "7565797638583454998",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "alternate_category": "men",
+  "evidence_seconds": 85,
+  "category": "misc",
+  "claim_answered": "He does not have to buy luxury gifts, but I will choose the one who does",
+  "reason": "Dating advice warning men against transactional relationships; does not answer an attack on men as a class.",
+  "borderline": true
+ },
+ "usage": {
+  "prompt_tokens": 3245,
+  "completion_tokens": 1735,
+  "cost_usd": null
+ }
+}

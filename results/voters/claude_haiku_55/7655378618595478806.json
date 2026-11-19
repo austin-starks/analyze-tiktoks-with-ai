@@ -1,0 +1,19 @@
+{
+ "id": "7655378618595478806",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "news",
+  "claim_answered": "none",
+  "reason": "Feminist history lesson (first-wave movement) answering no present claim about men or women; not a rebuttal.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 6031,
+  "completion_tokens": 187,
+  "cost_usd": null
+ }
+}

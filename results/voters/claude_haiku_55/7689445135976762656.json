@@ -1,0 +1,19 @@
+{
+ "id": "7689445135976762656",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "debate",
+  "claim_answered": "100% of women cheat within the first 90 days of a relationship, per an unfindable 500-person study",
+  "reason": "Fact-checks a claim that runs women down as cheaters; he rejects the unsourced statistic. Another man made it, not a creator replying to him.",
+  "evidence_seconds": 10
+ },
+ "usage": {
+  "prompt_tokens": 5581,
+  "completion_tokens": 230,
+  "cost_usd": null
+ }
+}

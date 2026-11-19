@@ -1,0 +1,19 @@
+{
+ "id": "7570405322804841750",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "evidence_seconds": 38,
+  "reason": "Pushes back against a claim favoring women at men's expense by rejecting the demand that men submit.",
+  "claim_answered": "Men must submit to women and do everything they want",
+  "alternate_category": "misc",
+  "category": "men",
+  "borderline": true
+ },
+ "usage": {
+  "prompt_tokens": 3252,
+  "completion_tokens": 2013,
+  "cost_usd": null
+ }
+}

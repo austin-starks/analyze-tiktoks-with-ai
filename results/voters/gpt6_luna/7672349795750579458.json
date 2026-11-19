@@ -1,0 +1,19 @@
+{
+ "id": "7672349795750579458",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "politics",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "CEO pay and vacations show capitalism is unfair and support socialism",
+  "reason": "Refutes an argument about capitalism and socialism, not a claim about men or women.",
+  "evidence_seconds": 42
+ },
+ "usage": {
+  "prompt_tokens": 3715,
+  "completion_tokens": 69,
+  "cost_usd": null
+ }
+}

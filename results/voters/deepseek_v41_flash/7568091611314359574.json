@@ -1,0 +1,19 @@
+{
+ "id": "7568091611314359574",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men who ask \"what do you bring to the table\" are bad, because only women sacrifice in relationships",
+  "reason": "Answers a claim framing men as takers and women as the only ones who sacrifice",
+  "evidence_seconds": 30
+ },
+ "usage": {
+  "prompt_tokens": 3694,
+  "completion_tokens": 356,
+  "cost_usd": null
+ }
+}

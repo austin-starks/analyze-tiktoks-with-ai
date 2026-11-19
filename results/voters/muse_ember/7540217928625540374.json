@@ -1,0 +1,19 @@
+{
+ "id": "7540217928625540374",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "misc",
+  "claim_answered": "none",
+  "evidence_seconds": 0,
+  "reason": "Dating advice for men to stop overthinking and take action; no claim attacking a sex"
+ },
+ "usage": {
+  "prompt_tokens": 3096,
+  "completion_tokens": 4558,
+  "cost_usd": null
+ }
+}

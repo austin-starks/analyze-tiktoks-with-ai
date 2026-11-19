@@ -1,0 +1,19 @@
+{
+ "id": "7565468467059510550",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men want a model, maid, mother, and therapist all in one",
+  "reason": "Pushes back on a claim portraying men as demanding and reframes their expectations as ordinary relationship standards",
+  "evidence_seconds": 12
+ },
+ "usage": {
+  "prompt_tokens": 3004,
+  "completion_tokens": 198,
+  "cost_usd": null
+ }
+}

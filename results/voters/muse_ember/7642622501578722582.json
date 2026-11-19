@@ -1,0 +1,19 @@
+{
+ "id": "7642622501578722582",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "men",
+  "borderline": true,
+  "category": "misc",
+  "claim_answered": "none",
+  "evidence_seconds": 0,
+  "reason": "Viewer DM advice to become independent and set boundaries; no rebuttal of a claim about men"
+ },
+ "usage": {
+  "prompt_tokens": 3418,
+  "completion_tokens": 3308,
+  "cost_usd": null
+ }
+}

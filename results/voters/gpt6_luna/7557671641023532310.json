@@ -1,0 +1,19 @@
+{
+ "id": "7557671641023532310",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Women are justified in wanting only the top 15% of men because average men are losers",
+  "reason": "Pushes back on a claim that demeans average men and argues women's collective selectivity harms them.",
+  "evidence_seconds": 57
+ },
+ "usage": {
+  "prompt_tokens": 3264,
+  "completion_tokens": 225,
+  "cost_usd": null
+ }
+}

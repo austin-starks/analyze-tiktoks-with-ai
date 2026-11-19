@@ -1,0 +1,19 @@
+{
+ "id": "7625272494852672790",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "mixed",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "Women earn 82 cents for every dollar a man earns",
+  "evidence_seconds": 5,
+  "reason": "Pushes back on claim inflating women's pay disadvantage by blaming men, showing adjusted gap is 2-6%"
+ },
+ "usage": {
+  "prompt_tokens": 3457,
+  "completion_tokens": 4294,
+  "cost_usd": null
+ }
+}

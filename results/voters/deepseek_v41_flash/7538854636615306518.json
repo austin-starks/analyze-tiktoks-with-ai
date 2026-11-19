@@ -1,0 +1,19 @@
+{
+ "id": "7538854636615306518",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "General dating advice to men about pursuing easy, mutual connections; answers no claim about a group",
+  "evidence_seconds": 11
+ },
+ "usage": {
+  "prompt_tokens": 3303,
+  "completion_tokens": 157,
+  "cost_usd": null
+ }
+}

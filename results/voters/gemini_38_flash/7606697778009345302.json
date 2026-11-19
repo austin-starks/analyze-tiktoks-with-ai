@@ -1,0 +1,19 @@
+{
+ "id": "7606697778009345302",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "men",
+  "evidence_seconds": 36,
+  "reason": "Pushes back against exaggerated dating red flags that unfairly dismiss normal men.",
+  "alternate_category": "misc",
+  "claim_answered": "Women should avoid men who play video games, watch porn, or smoke",
+  "borderline": true
+ },
+ "usage": {
+  "prompt_tokens": 4088,
+  "completion_tokens": 2668,
+  "cost_usd": null
+ }
+}

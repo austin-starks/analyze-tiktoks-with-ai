@@ -1,0 +1,19 @@
+{
+ "id": "7630453544813972758",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "politics",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "People call themselves feminists without being able to define feminism",
+  "reason": "Series intro on feminism's waves and ideology; answers no claim attacking men or women as a sex",
+  "evidence_seconds": 28
+ },
+ "usage": {
+  "prompt_tokens": 3575,
+  "completion_tokens": 672,
+  "cost_usd": null
+ }
+}

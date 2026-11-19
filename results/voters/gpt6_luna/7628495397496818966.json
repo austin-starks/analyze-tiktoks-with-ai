@@ -1,0 +1,19 @@
+{
+ "id": "7628495397496818966",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Women are naturally noncompetitive, and outperform men in collaboration and creativity",
+  "reason": "Pushes back on claims that favor women over men in collaboration and deny women's natural competitiveness",
+  "evidence_seconds": 81
+ },
+ "usage": {
+  "prompt_tokens": 3500,
+  "completion_tokens": 643,
+  "cost_usd": null
+ }
+}

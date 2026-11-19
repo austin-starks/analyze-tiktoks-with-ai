@@ -1,0 +1,19 @@
+{
+ "id": "7578085437475015958",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "Men who seem fun at first and then suddenly change are the problem, not the woman's judgment; she is powerless over who she dates",
+  "reason": "General dating advice about red flags; answers a personal dating anecdote, not a claim about men or women as a group.",
+  "evidence_seconds": 25
+ },
+ "usage": {
+  "prompt_tokens": 5072,
+  "completion_tokens": 225,
+  "cost_usd": null
+ }
+}

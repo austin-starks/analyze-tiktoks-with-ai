@@ -1,0 +1,19 @@
+{
+ "id": "7627593961749925142",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "evidence_seconds": 11,
+  "borderline": false,
+  "claim_answered": "none",
+  "reason": "Self-improvement, lifestyle, and dating advice for young men answering no claim.",
+  "alternate_category": "none",
+  "category": "misc"
+ },
+ "usage": {
+  "prompt_tokens": 4087,
+  "completion_tokens": 216,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7680983890143595808",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "politics",
+  "claim_answered": "none",
+  "reason": "Commentary on an influencer marketing trend mixing OnlyFans with political content; no claim about men or women is answered",
+  "evidence_seconds": 157
+ },
+ "usage": {
+  "prompt_tokens": 3945,
+  "completion_tokens": 301,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7676485029278518550",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "debate",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "A mother's video shows her sons a Charlie Kirk clip and steers them toward reading his remarks as saying boys shouldn't take orders from women",
+  "reason": "Reply to another creator's video that critiques his own content; he argues the context and the mother's framing are misleading.",
+  "evidence_seconds": 116
+ },
+ "usage": {
+  "prompt_tokens": 6209,
+  "completion_tokens": 233,
+  "cost_usd": null
+ }
+}

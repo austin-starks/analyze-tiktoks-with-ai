@@ -1,0 +1,19 @@
+{
+ "id": "7565097876179963139",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "men",
+  "reason": "Pushes back on viral dating advice that devalues men and promotes one-sided relationship expectations.",
+  "borderline": false,
+  "evidence_seconds": 123,
+  "alternate_category": "misc",
+  "claim_answered": "Women should never cook, clean, or care for a man unless married"
+ },
+ "usage": {
+  "prompt_tokens": 3543,
+  "completion_tokens": 233,
+  "cost_usd": null
+ }
+}

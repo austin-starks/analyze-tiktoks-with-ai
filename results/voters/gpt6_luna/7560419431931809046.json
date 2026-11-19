@@ -1,0 +1,19 @@
+{
+ "id": "7560419431931809046",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Women have more empathy than men; men would not empathize with women they find unattractive",
+  "reason": "Pushes back on a claim that portrays men as less empathetic, arguing men show empathy in dating.",
+  "evidence_seconds": 15
+ },
+ "usage": {
+  "prompt_tokens": 3011,
+  "completion_tokens": 313,
+  "cost_usd": null
+ }
+}

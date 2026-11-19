@@ -1,0 +1,19 @@
+{
+ "id": "7571773477099752726",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "evidence_seconds": 27,
+  "reason": "Pushes back on a claim running men down as boring and worthless",
+  "borderline": false,
+  "category": "men",
+  "claim_answered": "Men are boring and women only enjoy their own company",
+  "alternate_category": "none"
+ },
+ "usage": {
+  "prompt_tokens": 3207,
+  "completion_tokens": 343,
+  "cost_usd": null
+ }
+}

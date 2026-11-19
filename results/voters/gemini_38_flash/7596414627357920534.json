@@ -1,0 +1,19 @@
+{
+ "id": "7596414627357920534",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Relationship advice answering a subscriber DM about self-respect and breaking up",
+  "evidence_seconds": 71,
+  "category": "misc",
+  "borderline": false
+ },
+ "usage": {
+  "prompt_tokens": 3714,
+  "completion_tokens": 391,
+  "cost_usd": null
+ }
+}

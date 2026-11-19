@@ -1,0 +1,19 @@
+{
+ "id": "7621182694562549014",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "mixed",
+  "borderline": true,
+  "category": "misc",
+  "claim_answered": "Therapists should advise rebuilding trust after six years of cheating",
+  "evidence_seconds": 119,
+  "reason": "Critiques therapist advice for a specific man and gives relationship and self-respect advice; no general claim about men or women"
+ },
+ "usage": {
+  "prompt_tokens": 3554,
+  "completion_tokens": 6215,
+  "cost_usd": null
+ }
+}

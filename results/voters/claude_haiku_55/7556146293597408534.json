@@ -1,0 +1,19 @@
+{
+ "id": "7556146293597408534",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Healthy relationships involve constant conflict, triggers, and repair",
+  "reason": "Relationship advice about healthy versus drama; the claim about couples blames neither sex, so mixed is possible, but it is mainly general dating advice.",
+  "evidence_seconds": 37
+ },
+ "usage": {
+  "prompt_tokens": 5060,
+  "completion_tokens": 223,
+  "cost_usd": null
+ }
+}

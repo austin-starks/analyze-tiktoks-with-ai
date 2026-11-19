@@ -1,0 +1,19 @@
+{
+ "id": "7589609548306992406",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "alternate_category": "none",
+  "evidence_seconds": 8,
+  "category": "misc",
+  "borderline": false,
+  "reason": "Viewer DM and relationship Q&A giving personal dating advice rather than answering a claim.",
+  "claim_answered": "none"
+ },
+ "usage": {
+  "prompt_tokens": 4807,
+  "completion_tokens": 281,
+  "cost_usd": null
+ }
+}

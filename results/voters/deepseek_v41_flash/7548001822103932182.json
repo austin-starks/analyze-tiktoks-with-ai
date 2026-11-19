@@ -1,0 +1,19 @@
+{
+ "id": "7548001822103932182",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Whether to accept a girlfriend's offer of a \"hall pass\"",
+  "reason": "Viewer DM relationship advice; answers no claim about men or women as a group",
+  "evidence_seconds": 51
+ },
+ "usage": {
+  "prompt_tokens": 3556,
+  "completion_tokens": 175,
+  "cost_usd": null
+ }
+}

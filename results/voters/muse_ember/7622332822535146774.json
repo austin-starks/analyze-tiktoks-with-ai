@@ -1,0 +1,19 @@
+{
+ "id": "7622332822535146774",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "misc",
+  "borderline": true,
+  "category": "mixed",
+  "claim_answered": "Men and women can be just friends without catching feelings",
+  "evidence_seconds": 60,
+  "reason": "Pushes back on a claim about both sexes that blames neither, discussing both directions"
+ },
+ "usage": {
+  "prompt_tokens": 3450,
+  "completion_tokens": 9333,
+  "cost_usd": null
+ }
+}

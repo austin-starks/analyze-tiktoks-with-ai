@@ -1,0 +1,19 @@
+{
+ "id": "7550036382484385046",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "none",
+  "reason": "Relationship advice about disrespect via a personal story; no claim blaming or running down either sex, and the lesson is explicitly universal.",
+  "evidence_seconds": 90
+ },
+ "usage": {
+  "prompt_tokens": 5471,
+  "completion_tokens": 197,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7561331363253783810",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "mixed",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Hotter women are more loyal because they're used to attention",
+  "reason": "Pushes back on a claim favoring attractive women; it attacks neither sex, so not women or men.",
+  "evidence_seconds": 32
+ },
+ "usage": {
+  "prompt_tokens": 3351,
+  "completion_tokens": 541,
+  "cost_usd": null
+ }
+}

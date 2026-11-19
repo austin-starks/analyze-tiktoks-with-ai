@@ -1,0 +1,19 @@
+{
+ "id": "7694695354238766369",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "The statistic proves 975 guilty male perpetrators were allowed to walk free, showing systemic sexism against women",
+  "reason": "Challenges an account that presents men as proven perpetrators who escaped punishment without evidence establishing guilt",
+  "evidence_seconds": 166
+ },
+ "usage": {
+  "prompt_tokens": 4345,
+  "completion_tokens": 695,
+  "cost_usd": null
+ }
+}

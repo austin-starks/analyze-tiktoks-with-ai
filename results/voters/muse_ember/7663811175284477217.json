@@ -1,0 +1,19 @@
+{
+ "id": "7663811175284477217",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "misc",
+  "claim_answered": "Being a public school student is more dangerous than being a police officer",
+  "evidence_seconds": 8,
+  "reason": "Fact-checks a random creator's claim about occupational risk; no claim about men or women, politics, or news"
+ },
+ "usage": {
+  "prompt_tokens": 3419,
+  "completion_tokens": 5144,
+  "cost_usd": null
+ }
+}

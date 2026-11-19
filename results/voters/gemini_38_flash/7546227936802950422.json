@@ -1,0 +1,19 @@
+{
+ "id": "7546227936802950422",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "reason": "General relationship and breakup advice answering a viewer question with no broader gender claim.",
+  "borderline": false,
+  "claim_answered": "none",
+  "alternate_category": "none",
+  "category": "misc",
+  "evidence_seconds": 46
+ },
+ "usage": {
+  "prompt_tokens": 3504,
+  "completion_tokens": 399,
+  "cost_usd": null
+ }
+}

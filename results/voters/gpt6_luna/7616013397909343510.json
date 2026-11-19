@@ -1,0 +1,19 @@
+{
+ "id": "7616013397909343510",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Whether a girlfriend talking to another man behind her partner’s back is acceptable",
+  "reason": "Subscriber relationship advice; he endorses leaving an individual partner, not answering a claim about either sex as a group.",
+  "evidence_seconds": 48
+ },
+ "usage": {
+  "prompt_tokens": 3092,
+  "completion_tokens": 322,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7695737674514156833",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Women give birth lying on their backs because Louis XIV liked watching childbirth",
+  "reason": "Historical myth fact-check; answers no claim about what men or women are like",
+  "evidence_seconds": 40
+ },
+ "usage": {
+  "prompt_tokens": 4030,
+  "completion_tokens": 244,
+  "cost_usd": null
+ }
+}

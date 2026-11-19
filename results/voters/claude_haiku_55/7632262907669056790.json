@@ -1,0 +1,19 @@
+{
+ "id": "7632262907669056790",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "none",
+  "reason": "Relationship advice for a viewer's situationship story; answers no claim about men or women as a group.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 5710,
+  "completion_tokens": 184,
+  "cost_usd": null
+ }
+}

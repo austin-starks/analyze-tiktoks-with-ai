@@ -1,0 +1,19 @@
+{
+ "id": "7633012327062768918",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "debate",
+  "borderline": false,
+  "alternate_category": "misc",
+  "claim_answered": "Brenna's critique of Ilyas's earlier video on the SA/rape study conflation",
+  "reason": "Follow-up reply to creator Brenna, who called his videos a lie and whose critique he addresses; mainly about the dispute.",
+  "evidence_seconds": 20
+ },
+ "usage": {
+  "prompt_tokens": 5564,
+  "completion_tokens": 223,
+  "cost_usd": null
+ }
+}

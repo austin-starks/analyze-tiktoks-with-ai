@@ -1,0 +1,19 @@
+{
+ "id": "7581054011474906390",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "claim_answered": "Men don't want strong, successful women because they can't handle them",
+  "evidence_seconds": 45,
+  "borderline": true,
+  "reason": "Defends men's dating preferences against the claim that men avoid strong women because they cannot handle them.",
+  "alternate_category": "misc",
+  "category": "men"
+ },
+ "usage": {
+  "prompt_tokens": 3415,
+  "completion_tokens": 1848,
+  "cost_usd": null
+ }
+}

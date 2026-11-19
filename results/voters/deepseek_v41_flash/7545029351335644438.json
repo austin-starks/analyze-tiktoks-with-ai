@@ -1,0 +1,19 @@
+{
+ "id": "7545029351335644438",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "Being uncomfortable about your girlfriend being carried by another man means you're insecure",
+  "reason": "Viewer DM and relationship advice about one girlfriend's behavior, not a claim about men or women as a group",
+  "evidence_seconds": 70
+ },
+ "usage": {
+  "prompt_tokens": 3684,
+  "completion_tokens": 556,
+  "cost_usd": null
+ }
+}

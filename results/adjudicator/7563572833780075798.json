@@ -1,0 +1,18 @@
+{
+ "id": "7563572833780075798",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "evidence_seconds": 57,
+  "reason": "Under Rule 2, he pushes back on advice favoring women at men's expense—settling for and mocking men—defending men's self-respect.",
+  "claim_answered": "Women should marry an unattractive man they are not attracted to and openly mock him.",
+  "borderline": true,
+  "category": "men",
+  "alternate_category": "misc"
+ },
+ "usage": {
+  "prompt_tokens": 3230,
+  "completion_tokens": 2104,
+  "cost_usd": null
+ }
+}

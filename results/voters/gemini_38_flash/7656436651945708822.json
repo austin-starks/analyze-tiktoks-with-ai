@@ -1,0 +1,19 @@
+{
+ "id": "7656436651945708822",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "borderline": false,
+  "reason": "Pushes back on an exaggerated claim that paints women as willing to make false assault allegations.",
+  "claim_answered": "39.6% of women would make a false sexual assault allegation for personal benefit",
+  "evidence_seconds": 135,
+  "alternate_category": "none",
+  "category": "women"
+ },
+ "usage": {
+  "prompt_tokens": 4179,
+  "completion_tokens": 328,
+  "cost_usd": null
+ }
+}

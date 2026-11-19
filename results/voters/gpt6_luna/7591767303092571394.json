@@ -1,0 +1,19 @@
+{
+ "id": "7591767303092571394",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Viewer-specific relationship advice about a girlfriend’s sleepovers; answers no claim about men or women as a group.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 4007,
+  "completion_tokens": 126,
+  "cost_usd": null
+ }
+}

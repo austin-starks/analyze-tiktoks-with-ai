@@ -1,0 +1,19 @@
+{
+ "id": "7635617075163172118",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "borderline": true,
+  "category": "mixed",
+  "evidence_seconds": 46,
+  "claim_answered": "Being pregnant is more dangerous than being a police officer",
+  "reason": "Pushes back on a claim comparing pregnancy and police danger without directly running men down.",
+  "alternate_category": "men"
+ },
+ "usage": {
+  "prompt_tokens": 4752,
+  "completion_tokens": 4159,
+  "cost_usd": null
+ }
+}

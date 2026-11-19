@@ -1,0 +1,19 @@
+{
+ "id": "7641226873623596310",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "His girlfriend says Ilyas only justifies men and got destroyed in arguments",
+  "reason": "Viewer DM relationship advice; he answers a claim about his own content, not a claim about men or women as a group",
+  "evidence_seconds": 33
+ },
+ "usage": {
+  "prompt_tokens": 3758,
+  "completion_tokens": 504,
+  "cost_usd": null
+ }
+}

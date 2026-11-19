@@ -1,0 +1,19 @@
+{
+ "id": "7604774069363281174",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "misc",
+  "claim_answered": "Men become desirable by spoiling, worshipping, and buying gifts for women",
+  "alternate_category": "men",
+  "reason": "Offers dating and self-respect advice rather than rebutting an attack on men's character or rights",
+  "evidence_seconds": 49,
+  "borderline": true
+ },
+ "usage": {
+  "prompt_tokens": 3742,
+  "completion_tokens": 1723,
+  "cost_usd": null
+ }
+}

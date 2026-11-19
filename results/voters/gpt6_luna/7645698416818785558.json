@@ -1,0 +1,19 @@
+{
+ "id": "7645698416818785558",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "More than 90% of men have admitted to not accepting no as an answer",
+  "reason": "Pushes back on a claim that broadly portrays men as sexually coercive, while acknowledging serious behavior in the sample.",
+  "evidence_seconds": 25
+ },
+ "usage": {
+  "prompt_tokens": 4771,
+  "completion_tokens": 267,
+  "cost_usd": null
+ }
+}

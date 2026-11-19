@@ -1,0 +1,19 @@
+{
+ "id": "7548533717631831318",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Can I pursue my life goals while married to a cheating, struggling wife?",
+  "reason": "Viewer relationship question answered with advice to divorce and rebuild self-respect; no group claim pushed back on.",
+  "evidence_seconds": 130
+ },
+ "usage": {
+  "prompt_tokens": 3945,
+  "completion_tokens": 286,
+  "cost_usd": null
+ }
+}

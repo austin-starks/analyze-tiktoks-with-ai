@@ -1,0 +1,19 @@
+{
+ "id": "7684645936982789398",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "Married women die earlier because of chronic stress from men",
+  "reason": "Rebuts a claim blaming men for women's shorter lives; the claim is about women's mortality and marriage, and he also notes men benefit more from marriage.",
+  "evidence_seconds": 16
+ },
+ "usage": {
+  "prompt_tokens": 5839,
+  "completion_tokens": 217,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7664992795513343254",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "politics",
+  "claim_answered": "Mamdani's rent freeze freezes all NYC rents",
+  "evidence_seconds": 16,
+  "reason": "Explains rent-freeze housing policy and economics, not a claim about men or women"
+ },
+ "usage": {
+  "prompt_tokens": 3963,
+  "completion_tokens": 1997,
+  "cost_usd": null
+ }
+}

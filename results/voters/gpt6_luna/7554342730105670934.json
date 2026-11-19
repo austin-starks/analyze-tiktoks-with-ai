@@ -1,0 +1,19 @@
+{
+ "id": "7554342730105670934",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men who cook, clean, work, and communicate are extraordinary rather than normally responsible adults",
+  "reason": "Rejects a comparison that implies ordinary adult qualities are unusually rare among men and pushes back on a claim diminishing them.",
+  "evidence_seconds": 46
+ },
+ "usage": {
+  "prompt_tokens": 3034,
+  "completion_tokens": 349,
+  "cost_usd": null
+ }
+}

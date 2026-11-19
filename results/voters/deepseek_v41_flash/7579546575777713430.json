@@ -1,0 +1,19 @@
+{
+ "id": "7579546575777713430",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Men sexualize and objectify me, so now I require three dates first",
+  "reason": "Pushes back on a claim blaming men, explaining why serious men reasonably hesitate and won't \"earn\" what others got freely",
+  "evidence_seconds": 72
+ },
+ "usage": {
+  "prompt_tokens": 3538,
+  "completion_tokens": 401,
+  "cost_usd": null
+ }
+}

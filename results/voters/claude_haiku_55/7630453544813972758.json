@@ -1,0 +1,19 @@
+{
+ "id": "7630453544813972758",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "none",
+  "reason": "Series intro explaining feminism's waves; no claim about either sex is rebutted, only a call to understand the concept.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 5160,
+  "completion_tokens": 189,
+  "cost_usd": null
+ }
+}

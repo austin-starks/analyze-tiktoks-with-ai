@@ -1,0 +1,19 @@
+{
+ "id": "7560419431931809046",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Women have more empathy than men; men don't think about women they find unattractive",
+  "reason": "Rebuts a claim that runs men down on empathy and says women should not judge men's dating effort; defends men.",
+  "evidence_seconds": 20
+ },
+ "usage": {
+  "prompt_tokens": 4858,
+  "completion_tokens": 209,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7667189151388699926",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Fatherhood is unnatural, there were no fathers in a 25,000-year matriarchy",
+  "reason": "Answers a claim that runs men down: fathers as unnatural patriarchal invention, patriarchy as male-made harm",
+  "evidence_seconds": 158
+ },
+ "usage": {
+  "prompt_tokens": 4467,
+  "completion_tokens": 674,
+  "cost_usd": null
+ }
+}

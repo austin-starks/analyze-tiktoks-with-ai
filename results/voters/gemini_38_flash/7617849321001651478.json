@@ -1,0 +1,19 @@
+{
+ "id": "7617849321001651478",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "borderline": false,
+  "claim_answered": "none",
+  "reason": "General dating advice explaining eye contact cues and encouraging men to ask women out directly without overthinking.",
+  "evidence_seconds": 24,
+  "alternate_category": "none",
+  "category": "misc"
+ },
+ "usage": {
+  "prompt_tokens": 3375,
+  "completion_tokens": 452,
+  "cost_usd": null
+ }
+}

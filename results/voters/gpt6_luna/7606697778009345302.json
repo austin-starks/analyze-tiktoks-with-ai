@@ -1,0 +1,19 @@
+{
+ "id": "7606697778009345302",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Women should avoid men for traits like watching porn, gaming, smoking, or being overweight.",
+  "reason": "Pushes back on a list that unfairly disqualifies men, arguing several traits depend on context.",
+  "evidence_seconds": 36
+ },
+ "usage": {
+  "prompt_tokens": 3790,
+  "completion_tokens": 309,
+  "cost_usd": null
+ }
+}

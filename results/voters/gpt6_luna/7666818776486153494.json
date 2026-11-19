@@ -1,0 +1,19 @@
+{
+ "id": "7666818776486153494",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Male anthropologists invented the myth that only men hunted and women gathered in 1966",
+  "reason": "Pushes back on a claim accusing men of inventing a false gender narrative and painting men in a bad light",
+  "evidence_seconds": 61
+ },
+ "usage": {
+  "prompt_tokens": 3986,
+  "completion_tokens": 389,
+  "cost_usd": null
+ }
+}

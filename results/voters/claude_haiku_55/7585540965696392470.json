@@ -1,0 +1,19 @@
+{
+ "id": "7585540965696392470",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Girls' nights out at clubs and bars show a girlfriend's lack of respect and bad mindset",
+  "reason": "Not a rebuttal; he runs down women's values and blames a girlfriend's choices for relationship problems, so it is women-negative.",
+  "evidence_seconds": 20
+ },
+ "usage": {
+  "prompt_tokens": 5343,
+  "completion_tokens": 227,
+  "cost_usd": null
+ }
+}

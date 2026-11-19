@@ -1,0 +1,19 @@
+{
+ "id": "7656886802686463254",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "100% of men accused of rape deny it and are lying",
+  "reason": "Pushes back on the claim that all accused men deny guilt, showing some plead guilty.",
+  "evidence_seconds": 98
+ },
+ "usage": {
+  "prompt_tokens": 3713,
+  "completion_tokens": 271,
+  "cost_usd": null
+ }
+}

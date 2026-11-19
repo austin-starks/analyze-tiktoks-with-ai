@@ -1,0 +1,19 @@
+{
+ "id": "7566916193236389142",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "misc",
+  "claim_answered": "none",
+  "evidence_seconds": 0,
+  "reason": "Dating and self-improvement advice about confidence; answers no claim attacking men or women"
+ },
+ "usage": {
+  "prompt_tokens": 3155,
+  "completion_tokens": 4419,
+  "cost_usd": null
+ }
+}

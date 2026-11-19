@@ -1,0 +1,19 @@
+{
+ "id": "7624924113798270230",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "mixed",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "Women are better with money than men",
+  "reason": "Pushes back on a claim favoring women over men that doesn't run men down; overall verdict is nuanced, neither sex clearly better.",
+  "evidence_seconds": 41
+ },
+ "usage": {
+  "prompt_tokens": 5676,
+  "completion_tokens": 204,
+  "cost_usd": null
+ }
+}

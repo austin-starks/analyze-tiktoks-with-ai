@@ -1,0 +1,18 @@
+{
+ "id": "7676485029278518550",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "reason": "Rule 3: answers no claim about men or women generally, nor politics or news; it critiques a mother's media literacy.",
+  "evidence_seconds": 39,
+  "claim_answered": "Charlie Kirk argued that young men should not take orders from women",
+  "alternate_category": "men"
+ },
+ "usage": {
+  "prompt_tokens": 4127,
+  "completion_tokens": 3408,
+  "cost_usd": null
+ }
+}

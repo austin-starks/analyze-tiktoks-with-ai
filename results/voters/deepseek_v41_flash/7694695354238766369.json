@@ -1,0 +1,19 @@
+{
+ "id": "7694695354238766369",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Seven Cornell men got essays and 975 of 1,000 perpetrators walk free, proving sexism.",
+  "reason": "Fact-checks claims that men walk free and sexism explains outcomes, pushing back on a claim blaming men for women's disadvantage.",
+  "evidence_seconds": 7
+ },
+ "usage": {
+  "prompt_tokens": 4717,
+  "completion_tokens": 1381,
+  "cost_usd": null
+ }
+}

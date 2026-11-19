@@ -1,0 +1,19 @@
+{
+ "id": "7640139963618610454",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "debate",
+  "claim_answered": "About 1 in 7 men in general have attempted or completed rape",
+  "reason": "Pushes back on a claim that runs men down as a class, showing the study covered only one college sample",
+  "evidence_seconds": 49
+ },
+ "usage": {
+  "prompt_tokens": 4153,
+  "completion_tokens": 814,
+  "cost_usd": null
+ }
+}

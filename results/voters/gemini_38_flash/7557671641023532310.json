@@ -1,0 +1,19 @@
+{
+ "id": "7557671641023532310",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "borderline": true,
+  "category": "men",
+  "reason": "Pushes back on a creator dismissing 85% of men and defends average men's plight in modern dating.",
+  "evidence_seconds": 57,
+  "alternate_category": "mixed",
+  "claim_answered": "Women are justified in only wanting the top 15% of men because other men are losers"
+ },
+ "usage": {
+  "prompt_tokens": 3510,
+  "completion_tokens": 928,
+  "cost_usd": null
+ }
+}

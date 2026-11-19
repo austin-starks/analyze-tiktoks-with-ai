@@ -1,0 +1,19 @@
+{
+ "id": "7689871272074824993",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Mongolian matriarchy was polygamous and women kept multiple husbands as slaves",
+  "reason": "Debunks a claim that inflates women's power by depicting men as enslaved, running men down",
+  "evidence_seconds": 14
+ },
+ "usage": {
+  "prompt_tokens": 3884,
+  "completion_tokens": 420,
+  "cost_usd": null
+ }
+}

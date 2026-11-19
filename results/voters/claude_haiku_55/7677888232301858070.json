@@ -1,0 +1,19 @@
+{
+ "id": "7677888232301858070",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "news",
+  "claim_answered": "Online women blaming Patrick Clancy, claiming he killed the children or framed Lindsay",
+  "reason": "Rebuts women-driven online claims blaming a man for the case; ongoing trial coverage, but his main job is answering the claim about women's blame.",
+  "evidence_seconds": 17
+ },
+ "usage": {
+  "prompt_tokens": 5923,
+  "completion_tokens": 228,
+  "cost_usd": null
+ }
+}

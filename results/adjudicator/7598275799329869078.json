@@ -1,0 +1,18 @@
+{
+ "id": "7598275799329869078",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "category": "misc",
+  "claim_answered": "none",
+  "reason": "Rule 3: No general claim about men or women; he reacts to an anecdote to give dating advice.",
+  "alternate_category": "men",
+  "evidence_seconds": 95,
+  "borderline": true
+ },
+ "usage": {
+  "prompt_tokens": 3549,
+  "completion_tokens": 1700,
+  "cost_usd": null
+ }
+}

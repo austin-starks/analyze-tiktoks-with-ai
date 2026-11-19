@@ -1,0 +1,19 @@
+{
+ "id": "7701000710791499041",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "news",
+  "borderline": true,
+  "alternate_category": "politics",
+  "claim_answered": "The French riots were an Islamist uprising / organized by Islamists",
+  "reason": "Multi-part coverage of an ongoing riot case, examining arrest data and involvement claims; no claim about men or women.",
+  "evidence_seconds": 651
+ },
+ "usage": {
+  "prompt_tokens": 6985,
+  "completion_tokens": 398,
+  "cost_usd": null
+ }
+}

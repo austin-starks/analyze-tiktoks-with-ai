@@ -1,0 +1,19 @@
+{
+ "id": "7664992795513343254",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "politics",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Mamdani's rent freeze freezes all New York City rents",
+  "reason": "Explains housing policy and economics; no claim about men or women",
+  "evidence_seconds": 16
+ },
+ "usage": {
+  "prompt_tokens": 4321,
+  "completion_tokens": 216,
+  "cost_usd": null
+ }
+}

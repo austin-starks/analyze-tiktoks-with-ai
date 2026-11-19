@@ -1,0 +1,19 @@
+{
+ "id": "7703578512250211616",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Men perceive women speaking 15–30% of the time as speaking 50%",
+  "reason": "Pushes back on a claim that men are biased perceivers, running men down at women's expense",
+  "evidence_seconds": 6
+ },
+ "usage": {
+  "prompt_tokens": 4958,
+  "completion_tokens": 785,
+  "cost_usd": null
+ }
+}

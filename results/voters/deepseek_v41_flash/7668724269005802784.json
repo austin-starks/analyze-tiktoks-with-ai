@@ -1,0 +1,19 @@
+{
+ "id": "7668724269005802784",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "mixed",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "Women are not hypergamous; there is little to no data supporting it",
+  "reason": "His data answers a comparative claim about both sexes' mate preferences; the creator's \"men invented it to manipulate women\" framing also attacks men.",
+  "evidence_seconds": 135
+ },
+ "usage": {
+  "prompt_tokens": 3877,
+  "completion_tokens": 1741,
+  "cost_usd": null
+ }
+}

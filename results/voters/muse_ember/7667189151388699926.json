@@ -1,0 +1,19 @@
+{
+ "id": "7667189151388699926",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "mixed",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "It is unnatural for men to be fathers; humanity lived in matriarchy for 25,000 years",
+  "evidence_seconds": 0,
+  "reason": "Pushes back on claim that fathers are unnatural and patriarchy is horrible, defending men"
+ },
+ "usage": {
+  "prompt_tokens": 4121,
+  "completion_tokens": 4785,
+  "cost_usd": null
+ }
+}

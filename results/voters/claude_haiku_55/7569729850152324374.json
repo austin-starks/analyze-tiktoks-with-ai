@@ -1,0 +1,19 @@
+{
+ "id": "7569729850152324374",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Beautiful, smart, successful women have the hardest time dating because men can't handle them",
+  "reason": "Rebuts a matchmaker's claim that blames men for women's dating struggles, but also runs women down as one-dimensional and shallow, so the target is ambiguous.",
+  "evidence_seconds": 21
+ },
+ "usage": {
+  "prompt_tokens": 5423,
+  "completion_tokens": 234,
+  "cost_usd": null
+ }
+}

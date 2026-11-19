@@ -1,0 +1,19 @@
+{
+ "id": "7669744450641431830",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men are twice as likely as women not to wash their hands, and many skip soap",
+  "reason": "The claim portrays men as less hygienic; he evaluates it and concludes it is broadly supported.",
+  "evidence_seconds": 28
+ },
+ "usage": {
+  "prompt_tokens": 3372,
+  "completion_tokens": 76,
+  "cost_usd": null
+ }
+}

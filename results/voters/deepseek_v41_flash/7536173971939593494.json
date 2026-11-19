@@ -1,0 +1,19 @@
+{
+ "id": "7536173971939593494",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Self-improvement and dating confidence advice; answers no claim about men or women as a group.",
+  "evidence_seconds": 16
+ },
+ "usage": {
+  "prompt_tokens": 3380,
+  "completion_tokens": 154,
+  "cost_usd": null
+ }
+}

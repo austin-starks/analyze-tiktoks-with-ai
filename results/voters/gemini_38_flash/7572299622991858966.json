@@ -1,0 +1,19 @@
+{
+ "id": "7572299622991858966",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "claim_answered": "Women should never buy gifts for their boyfriends or make their lives easier",
+  "evidence_seconds": 8,
+  "reason": "Pushes back against relationship advice that favors women at men's expense and treats boyfriends unfairly",
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "misc"
+ },
+ "usage": {
+  "prompt_tokens": 3401,
+  "completion_tokens": 1167,
+  "cost_usd": null
+ }
+}

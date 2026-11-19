@@ -1,0 +1,18 @@
+{
+ "id": "7566599072379899158",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "claim_answered": "none",
+  "borderline": true,
+  "category": "misc",
+  "alternate_category": "men",
+  "reason": "Rule 3: gives relationship advice and motivation to men on boundaries rather than answering a general claim attacking men.",
+  "evidence_seconds": 36
+ },
+ "usage": {
+  "prompt_tokens": 2999,
+  "completion_tokens": 1861,
+  "cost_usd": null
+ }
+}

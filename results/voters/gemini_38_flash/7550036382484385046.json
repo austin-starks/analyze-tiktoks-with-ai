@@ -1,0 +1,19 @@
+{
+ "id": "7550036382484385046",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "misc",
+  "evidence_seconds": 93,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "borderline": false,
+  "reason": "General relationship and dating advice responding to a viewer's relationship story, answering no claim about a gender."
+ },
+ "usage": {
+  "prompt_tokens": 3695,
+  "completion_tokens": 335,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "id": "7581382931969494294",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "category": "misc",
+  "reason": "Answers no general claim about men or women; gives dating and self-respect advice on red-flag tests (Rule 3, misc).",
+  "evidence_seconds": 32,
+  "claim_answered": "none",
+  "borderline": true,
+  "alternate_category": "men"
+ },
+ "usage": {
+  "prompt_tokens": 3001,
+  "completion_tokens": 4147,
+  "cost_usd": null
+ }
+}

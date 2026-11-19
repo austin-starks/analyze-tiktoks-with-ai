@@ -1,0 +1,19 @@
+{
+ "id": "7554011451774700802",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men are atrocious and generally fail to meet women's relational needs",
+  "reason": "Counters a negative generalization about men by explaining dating behavior through women's preferences and male options.",
+  "evidence_seconds": 39
+ },
+ "usage": {
+  "prompt_tokens": 3190,
+  "completion_tokens": 266,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7663811175284477217",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Being a public-school student is more dangerous than being a police officer",
+  "reason": "Fact-checks a comparison of occupational risks; it makes no claim about either sex and is not an ongoing news story.",
+  "evidence_seconds": 36
+ },
+ "usage": {
+  "prompt_tokens": 3416,
+  "completion_tokens": 266,
+  "cost_usd": null
+ }
+}

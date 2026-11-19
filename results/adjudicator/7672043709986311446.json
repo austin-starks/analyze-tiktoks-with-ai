@@ -1,0 +1,18 @@
+{
+ "id": "7672043709986311446",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "category": "men",
+  "alternate_category": "none",
+  "claim_answered": "Men sexualize women's bodies in songs while women never sexualize men.",
+  "reason": "Rule 2: pushes back on a claim blaming men for objectification while favoring women as never doing it.",
+  "borderline": false,
+  "evidence_seconds": 173
+ },
+ "usage": {
+  "prompt_tokens": 3934,
+  "completion_tokens": 2092,
+  "cost_usd": null
+ }
+}

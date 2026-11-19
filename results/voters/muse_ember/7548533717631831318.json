@@ -1,0 +1,19 @@
+{
+ "id": "7548533717631831318",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "misc",
+  "claim_answered": "none",
+  "evidence_seconds": 0,
+  "reason": "Relationship advice to a viewer about his marriage; no claim about men or women in general"
+ },
+ "usage": {
+  "prompt_tokens": 3573,
+  "completion_tokens": 2459,
+  "cost_usd": null
+ }
+}

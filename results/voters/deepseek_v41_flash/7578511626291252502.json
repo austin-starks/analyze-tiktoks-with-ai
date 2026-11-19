@@ -1,0 +1,19 @@
+{
+ "id": "7578511626291252502",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Men are useless, good only for trash day and nothing else",
+  "reason": "He pushes back on stand-up clips claiming men and husbands are useless, defending men against the running-down claim.",
+  "evidence_seconds": 38
+ },
+ "usage": {
+  "prompt_tokens": 3490,
+  "completion_tokens": 302,
+  "cost_usd": null
+ }
+}

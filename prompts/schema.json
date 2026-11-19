@@ -1,0 +1,51 @@
+{
+ "type": "object",
+ "additionalProperties": false,
+ "required": [
+  "category",
+  "borderline",
+  "alternate_category",
+  "claim_answered",
+  "reason",
+  "evidence_seconds"
+ ],
+ "properties": {
+  "category": {
+   "type": "string",
+   "enum": [
+    "men",
+    "women",
+    "mixed",
+    "debate",
+    "news",
+    "politics",
+    "misc"
+   ]
+  },
+  "borderline": {
+   "type": "boolean"
+  },
+  "alternate_category": {
+   "type": "string",
+   "enum": [
+    "men",
+    "women",
+    "mixed",
+    "debate",
+    "news",
+    "politics",
+    "misc",
+    "none"
+   ]
+  },
+  "claim_answered": {
+   "type": "string"
+  },
+  "reason": {
+   "type": "string"
+  },
+  "evidence_seconds": {
+   "type": "integer"
+  }
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7695381189086989601",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "politics",
+  "claim_answered": "Far left is just annoying while far right is genuinely dangerous",
+  "evidence_seconds": 15,
+  "reason": "Fact-checks claim comparing far-left vs far-right dangerousness using terrorism and violence data"
+ },
+ "usage": {
+  "prompt_tokens": 4602,
+  "completion_tokens": 1635,
+  "cost_usd": null
+ }
+}

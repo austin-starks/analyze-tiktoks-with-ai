@@ -1,0 +1,19 @@
+{
+ "id": "7643392025601133846",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Your content attracts a misogynistic audience and sends the wrong message",
+  "reason": "Viewer Q&A about his own channel and comment section, not a claim about men or women generally",
+  "evidence_seconds": 10
+ },
+ "usage": {
+  "prompt_tokens": 3867,
+  "completion_tokens": 355,
+  "cost_usd": null
+ }
+}

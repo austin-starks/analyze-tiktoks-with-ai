@@ -1,0 +1,19 @@
+{
+ "id": "7662739718399986977",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "mixed",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Women pine for Haaland because of his energy, not his height, looks or status",
+  "reason": "Logical exercise on an attraction claim that blames neither sex; he agrees partly but says all traits matter together",
+  "evidence_seconds": 62
+ },
+ "usage": {
+  "prompt_tokens": 4083,
+  "completion_tokens": 670,
+  "cost_usd": null
+ }
+}

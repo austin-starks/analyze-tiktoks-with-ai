@@ -1,0 +1,19 @@
+{
+ "id": "7579915589620174102",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "A husband is worthless, lazy, and does nothing for his family.",
+  "reason": "Pushes back on a wife’s degrading claims about her husband and criticizes the therapist for minimizing them.",
+  "evidence_seconds": 53
+ },
+ "usage": {
+  "prompt_tokens": 3552,
+  "completion_tokens": 74,
+  "cost_usd": null
+ }
+}

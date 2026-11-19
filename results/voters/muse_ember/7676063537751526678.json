@@ -1,0 +1,19 @@
+{
+ "id": "7676063537751526678",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "news",
+  "borderline": true,
+  "category": "politics",
+  "claim_answered": "Dean Withers is guilty and his left/right critics are consistent on Believe Women",
+  "evidence_seconds": 0,
+  "reason": "Analyzes left-versus-right political reactions and hypocrisy claims around Dean Withers allegations"
+ },
+ "usage": {
+  "prompt_tokens": 3663,
+  "completion_tokens": 4694,
+  "cost_usd": null
+ }
+}

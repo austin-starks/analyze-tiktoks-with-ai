@@ -1,0 +1,19 @@
+{
+ "id": "7700248656938585377",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "politics",
+  "borderline": true,
+  "alternate_category": "news",
+  "claim_answered": "Trump and others claim French riots are Islamist or immigrant violence; no sex-based claim addressed",
+  "reason": "Covers French protests and political interpretations of unrest, religion and immigration framing; no claim about men or women.",
+  "evidence_seconds": 29
+ },
+ "usage": {
+  "prompt_tokens": 7004,
+  "completion_tokens": 218,
+  "cost_usd": null
+ }
+}

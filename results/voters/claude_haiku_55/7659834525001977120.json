@@ -1,0 +1,19 @@
+{
+ "id": "7659834525001977120",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "Hating men leads to low expectations for men, which perpetuates misogyny against women",
+  "reason": "Reaction to a woman's chain of reasoning; he mocks the logic via a reductio and a joke, mainly about logic rather than defending either sex.",
+  "evidence_seconds": 44
+ },
+ "usage": {
+  "prompt_tokens": 5549,
+  "completion_tokens": 226,
+  "cost_usd": null
+ }
+}

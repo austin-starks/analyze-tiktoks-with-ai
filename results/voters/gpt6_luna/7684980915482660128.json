@@ -1,0 +1,19 @@
+{
+ "id": "7684980915482660128",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Hatred of men by women is more justified than hatred of women by men",
+  "reason": "Pushes back on a claim that excuses prejudice against men, while applying the principle to both sexes",
+  "evidence_seconds": 82
+ },
+ "usage": {
+  "prompt_tokens": 3484,
+  "completion_tokens": 491,
+  "cost_usd": null
+ }
+}

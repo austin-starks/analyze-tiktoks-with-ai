@@ -1,0 +1,19 @@
+{
+ "id": "7665316567202417923",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "politics",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Mamdani's rent freeze will fix New York's housing shortage",
+  "reason": "Economic housing policy analysis of a rent freeze; no claim about men or women",
+  "evidence_seconds": 34
+ },
+ "usage": {
+  "prompt_tokens": 4558,
+  "completion_tokens": 244,
+  "cost_usd": null
+ }
+}

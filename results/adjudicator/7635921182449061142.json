@@ -1,0 +1,18 @@
+{
+ "id": "7635921182449061142",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "reason": "Rule 3: The claim compares pregnancy to policing, not men versus women, making this statistical follow-up misc.",
+  "claim_answered": "Being pregnant is more dangerous than being a police officer.",
+  "alternate_category": "men",
+  "category": "misc",
+  "borderline": true,
+  "evidence_seconds": 4
+ },
+ "usage": {
+  "prompt_tokens": 3799,
+  "completion_tokens": 9250,
+  "cost_usd": null
+ }
+}

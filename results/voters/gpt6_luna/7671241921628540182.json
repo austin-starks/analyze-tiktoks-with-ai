@@ -1,0 +1,19 @@
+{
+ "id": "7671241921628540182",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "The data proves men, or a certain type of men, are the problem.",
+  "reason": "Challenges a claim blaming men for women's victimization, arguing the cited statistics are too unstable to support it.",
+  "evidence_seconds": 50
+ },
+ "usage": {
+  "prompt_tokens": 4403,
+  "completion_tokens": 674,
+  "cost_usd": null
+ }
+}

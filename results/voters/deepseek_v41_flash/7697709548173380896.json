@@ -1,0 +1,19 @@
+{
+ "id": "7697709548173380896",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "mixed",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "Women are better drivers than men",
+  "reason": "Fact-checks a comparative claim favoring women; the per-mile data is mixed, so he answers a claim about both sexes.",
+  "evidence_seconds": 21
+ },
+ "usage": {
+  "prompt_tokens": 5392,
+  "completion_tokens": 880,
+  "cost_usd": null
+ }
+}

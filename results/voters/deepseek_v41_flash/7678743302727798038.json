@@ -1,0 +1,19 @@
+{
+ "id": "7678743302727798038",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men are 624% more likely to leave a sick wife",
+  "reason": "Pushes back on a viral claim that runs men down, showing larger studies find little difference",
+  "evidence_seconds": 126
+ },
+ "usage": {
+  "prompt_tokens": 4100,
+  "completion_tokens": 306,
+  "cost_usd": null
+ }
+}

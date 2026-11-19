@@ -1,0 +1,19 @@
+{
+ "id": "7621568803226373398",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "This on-camera call-out of a friend is what real men and protectors do",
+  "reason": "Commentary questioning the recorder's motives and appearance-based attacks; no claim about men or women as a group is the target.",
+  "evidence_seconds": 62
+ },
+ "usage": {
+  "prompt_tokens": 3891,
+  "completion_tokens": 973,
+  "cost_usd": null
+ }
+}

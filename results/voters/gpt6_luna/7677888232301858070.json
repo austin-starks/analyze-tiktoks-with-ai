@@ -1,0 +1,19 @@
+{
+ "id": "7677888232301858070",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Patrick killed the children or caused Lindsay to kill them",
+  "reason": "Pushes back on unsupported accusations blaming a husband for his wife's actions.",
+  "evidence_seconds": 121
+ },
+ "usage": {
+  "prompt_tokens": 3658,
+  "completion_tokens": 240,
+  "cost_usd": null
+ }
+}

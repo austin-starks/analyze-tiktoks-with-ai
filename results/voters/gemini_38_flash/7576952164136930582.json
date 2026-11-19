@@ -1,0 +1,19 @@
+{
+ "id": "7576952164136930582",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "borderline": false,
+  "alternate_category": "none",
+  "category": "misc",
+  "reason": "General dating advice and confidence mindset tips before a first date; answers no claim.",
+  "evidence_seconds": 0,
+  "claim_answered": "none"
+ },
+ "usage": {
+  "prompt_tokens": 3210,
+  "completion_tokens": 252,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7607152368580300054",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Responds to a viewer’s dating question with self-improvement advice; answers no claim about men or women.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 3113,
+  "completion_tokens": 98,
+  "cost_usd": null
+ }
+}

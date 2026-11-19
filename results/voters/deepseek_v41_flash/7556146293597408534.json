@@ -1,0 +1,19 @@
+{
+ "id": "7556146293597408534",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Healthy relationships mean constant conflict, triggers and repair",
+  "reason": "General relationship advice answering a claim about couples that blames neither sex",
+  "evidence_seconds": 33
+ },
+ "usage": {
+  "prompt_tokens": 3482,
+  "completion_tokens": 339,
+  "cost_usd": null
+ }
+}

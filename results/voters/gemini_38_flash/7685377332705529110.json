@@ -1,0 +1,19 @@
+{
+ "id": "7685377332705529110",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "alternate_category": "mixed",
+  "evidence_seconds": 16,
+  "claim_answered": "Hiring discrimination in society is against men and not women",
+  "category": "women",
+  "borderline": true,
+  "reason": "Pushes back on a claim denying women's disadvantages in hiring by clarifying nuanced research findings."
+ },
+ "usage": {
+  "prompt_tokens": 3812,
+  "completion_tokens": 1298,
+  "cost_usd": null
+ }
+}

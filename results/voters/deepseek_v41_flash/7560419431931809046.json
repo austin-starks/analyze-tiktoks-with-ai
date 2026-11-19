@@ -1,0 +1,19 @@
+{
+ "id": "7560419431931809046",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Women have more empathy than men, especially in dating",
+  "reason": "Answers a claim that runs men down as lacking empathy, arguing men show more of it in dating",
+  "evidence_seconds": 36
+ },
+ "usage": {
+  "prompt_tokens": 3369,
+  "completion_tokens": 245,
+  "cost_usd": null
+ }
+}

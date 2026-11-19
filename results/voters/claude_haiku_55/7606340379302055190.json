@@ -1,0 +1,19 @@
+{
+ "id": "7606340379302055190",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Men should cut off women who vape, go out, can't cook, praise celebrities, and similar traits",
+  "reason": "Rebuts a viral list that runs women down with lifestyle red flags; agrees with some points, calls others exaggerated.",
+  "evidence_seconds": 18
+ },
+ "usage": {
+  "prompt_tokens": 6199,
+  "completion_tokens": 222,
+  "cost_usd": null
+ }
+}

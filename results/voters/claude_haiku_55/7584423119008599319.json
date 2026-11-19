@@ -1,0 +1,19 @@
+{
+ "id": "7584423119008599319",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Most men assume all women want to sleep with them; and paid-talk dating is normal",
+  "reason": "Pushes back on a claim that men are sexually presumptuous and delusional, defending men's dating experience.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 4789,
+  "completion_tokens": 212,
+  "cost_usd": null
+ }
+}

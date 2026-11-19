@@ -1,0 +1,19 @@
+{
+ "id": "7621182694562549014",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "A betrayed man should stay and rebuild trust after his wife's six-year affair",
+  "reason": "Relationship/therapy-advice critique of one counselor's take on one man's marriage; no general claim about either sex.",
+  "evidence_seconds": 58
+ },
+ "usage": {
+  "prompt_tokens": 3904,
+  "completion_tokens": 580,
+  "cost_usd": null
+ }
+}

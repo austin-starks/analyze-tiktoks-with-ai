@@ -1,0 +1,19 @@
+{
+ "id": "7595166544020163862",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "A woman who only dated toxic men just finally found a nice guy",
+  "reason": "Dating advice warning men about a partner's history; the claim he pushes back on attacks neither sex, and he makes a negative claim about her rather than defending women.",
+  "evidence_seconds": 34
+ },
+ "usage": {
+  "prompt_tokens": 3623,
+  "completion_tokens": 568,
+  "cost_usd": null
+ }
+}

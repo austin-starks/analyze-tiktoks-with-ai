@@ -1,0 +1,19 @@
+{
+ "id": "7685377332705529110",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Hiring discrimination in society is against men, not women",
+  "reason": "Answers a claim that denies women's disadvantage and overstates men's; he confirms bias against men in female-typed jobs only",
+  "evidence_seconds": 16
+ },
+ "usage": {
+  "prompt_tokens": 3879,
+  "completion_tokens": 416,
+  "cost_usd": null
+ }
+}

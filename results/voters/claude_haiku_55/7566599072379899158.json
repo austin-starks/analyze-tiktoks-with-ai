@@ -1,0 +1,19 @@
+{
+ "id": "7566599072379899158",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "Husband should set boundaries and leave a partner who hides things and blocks him for privacy",
+  "reason": "Relationship advice about boundaries aimed at men; no claim about a sex-group answered; the clip is a viral anecdote, not a rebuttal of a claim about men or women.",
+  "evidence_seconds": 36
+ },
+ "usage": {
+  "prompt_tokens": 4979,
+  "completion_tokens": 236,
+  "cost_usd": null
+ }
+}

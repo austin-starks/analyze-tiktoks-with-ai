@@ -1,0 +1,19 @@
+{
+ "id": "7599012979627068694",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "alternate_category": "none",
+  "reason": "General relationship and dating advice about choosing a partner from abundance rather than scarcity",
+  "category": "misc",
+  "evidence_seconds": 22,
+  "borderline": false,
+  "claim_answered": "A lasting relationship requires a man to think he can't pull any better"
+ },
+ "usage": {
+  "prompt_tokens": 3582,
+  "completion_tokens": 482,
+  "cost_usd": null
+ }
+}

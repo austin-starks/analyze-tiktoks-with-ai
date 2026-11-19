@@ -1,0 +1,19 @@
+{
+ "id": "7646800732875722006",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men killing women is the leading cause of death for women aged 18–44",
+  "reason": "Refutes a claim that blames men for women's deaths, using CDC data.",
+  "evidence_seconds": 13
+ },
+ "usage": {
+  "prompt_tokens": 3555,
+  "completion_tokens": 238,
+  "cost_usd": null
+ }
+}

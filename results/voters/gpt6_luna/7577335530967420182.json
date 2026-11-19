@@ -1,0 +1,19 @@
+{
+ "id": "7577335530967420182",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men have no excuse for failing to show up emotionally because women manage more responsibilities.",
+  "reason": "Pushes back on a claim blaming men and telling them their struggles are no excuse.",
+  "evidence_seconds": 22
+ },
+ "usage": {
+  "prompt_tokens": 3294,
+  "completion_tokens": 72,
+  "cost_usd": null
+ }
+}

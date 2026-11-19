@@ -1,0 +1,19 @@
+{
+ "id": "7621568803226373398",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "debate",
+  "claim_answered": "Man in glasses says some women need to be slapped and women shouldn't be presidents",
+  "reason": "Video reacts to a viral clip of a man's misogynist remarks; he says they are horrible but criticizes the filming friend and the reactor's appearance-based attack. Mostly reacting to a claim, not a creator critic.",
+  "evidence_seconds": 53
+ },
+ "usage": {
+  "prompt_tokens": 5528,
+  "completion_tokens": 250,
+  "cost_usd": null
+ }
+}

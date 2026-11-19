@@ -1,0 +1,19 @@
+{
+ "id": "7677230313277295894",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "borderline": false,
+  "claim_answered": "none",
+  "alternate_category": "none",
+  "reason": "Detailed coverage and analysis of an ongoing criminal murder trial.",
+  "category": "news",
+  "evidence_seconds": 22
+ },
+ "usage": {
+  "prompt_tokens": 4114,
+  "completion_tokens": 335,
+  "cost_usd": null
+ }
+}

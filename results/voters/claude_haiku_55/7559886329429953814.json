@@ -1,0 +1,19 @@
+{
+ "id": "7559886329429953814",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Women in adult content have twisted logic and should be avoided as partners",
+  "reason": "Video attacks women who did adult content as untrustworthy and calls women's logic delusional; this runs women down, so it is not a defense of women, but it is not a clear answer to a claim either.",
+  "evidence_seconds": 29
+ },
+ "usage": {
+  "prompt_tokens": 4776,
+  "completion_tokens": 232,
+  "cost_usd": null
+ }
+}

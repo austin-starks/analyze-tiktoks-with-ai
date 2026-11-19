@@ -1,0 +1,19 @@
+{
+ "id": "7539177489822666006",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "borderline": false,
+  "evidence_seconds": 6,
+  "alternate_category": "none",
+  "reason": "General dating advice on handling questions on first dates; answers no claim.",
+  "category": "misc",
+  "claim_answered": "none"
+ },
+ "usage": {
+  "prompt_tokens": 3267,
+  "completion_tokens": 322,
+  "cost_usd": null
+ }
+}

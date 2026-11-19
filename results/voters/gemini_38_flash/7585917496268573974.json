@@ -1,0 +1,19 @@
+{
+ "id": "7585917496268573974",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "evidence_seconds": 9,
+  "claim_answered": "none",
+  "borderline": false,
+  "category": "misc",
+  "alternate_category": "none",
+  "reason": "Self-improvement and mindset advice for men that answers no claim."
+ },
+ "usage": {
+  "prompt_tokens": 3548,
+  "completion_tokens": 263,
+  "cost_usd": null
+ }
+}

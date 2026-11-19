@@ -1,0 +1,19 @@
+{
+ "id": "7579177079129017602",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "evidence_seconds": 109,
+  "borderline": true,
+  "alternate_category": "men",
+  "category": "misc",
+  "claim_answered": "none",
+  "reason": "General dating advice telling both men and women to give good matches a chance rather than overthinking."
+ },
+ "usage": {
+  "prompt_tokens": 3404,
+  "completion_tokens": 1330,
+  "cost_usd": null
+ }
+}

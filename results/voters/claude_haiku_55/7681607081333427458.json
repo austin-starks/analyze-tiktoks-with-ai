@@ -1,0 +1,19 @@
+{
+ "id": "7681607081333427458",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "news",
+  "claim_answered": "Men commit most violent crime, so men demanding accountability for Lindsay Clancy should demand more accountability for male offenders",
+  "reason": "Rebuts a claim that uses male offenders to discredit men's demands for accountability; says 99% of men are not violent, defending men against collective blame.",
+  "evidence_seconds": 3
+ },
+ "usage": {
+  "prompt_tokens": 5818,
+  "completion_tokens": 238,
+  "cost_usd": null
+ }
+}

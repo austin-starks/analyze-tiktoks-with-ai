@@ -1,0 +1,19 @@
+{
+ "id": "7630453544813972758",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "politics",
+  "borderline": true,
+  "category": "misc",
+  "claim_answered": "none",
+  "evidence_seconds": 0,
+  "reason": "Introductory history of feminism waves; answers no claim attacking men or women"
+ },
+ "usage": {
+  "prompt_tokens": 3226,
+  "completion_tokens": 8003,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7658603369824603414",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "debate",
+  "claim_answered": "SimpleBlackTheory's response that rent freeze disproves his simplified rent control example",
+  "evidence_seconds": 30,
+  "reason": "Reply to creator who responded to his earlier rent control video"
+ },
+ "usage": {
+  "prompt_tokens": 4333,
+  "completion_tokens": 3288,
+  "cost_usd": null
+ }
+}

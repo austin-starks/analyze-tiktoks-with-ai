@@ -1,0 +1,19 @@
+{
+ "id": "7658603369824603414",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "debate",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Simple Black Theory's response: his simplified rent control example misrepresented the NYC rent freeze",
+  "reason": "He replies to another creator's response video criticizing his earlier rent control/rent freeze videos.",
+  "evidence_seconds": 30
+ },
+ "usage": {
+  "prompt_tokens": 4695,
+  "completion_tokens": 268,
+  "cost_usd": null
+ }
+}

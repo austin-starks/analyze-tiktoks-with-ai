@@ -1,0 +1,19 @@
+{
+ "id": "7682825746439539990",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "claim_answered": "Women commit filicide due to mental illness while men do it due to violence",
+  "borderline": false,
+  "evidence_seconds": 147,
+  "alternate_category": "none",
+  "category": "mixed",
+  "reason": "Analyzes research on child homicide motives and rates across both mothers and fathers."
+ },
+ "usage": {
+  "prompt_tokens": 3765,
+  "completion_tokens": 824,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7693217471829904672",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "mixed",
+  "borderline": true,
+  "category": "women",
+  "claim_answered": "Women don't think, they just feel",
+  "evidence_seconds": 12,
+  "reason": "Pushes back on claim that women are illogical and purely emotional, favoring men"
+ },
+ "usage": {
+  "prompt_tokens": 3938,
+  "completion_tokens": 2837,
+  "cost_usd": null
+ }
+}

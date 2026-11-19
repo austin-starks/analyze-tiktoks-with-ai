@@ -1,0 +1,19 @@
+{
+ "id": "7572957606776589590",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "misc",
+  "borderline": true,
+  "category": "news",
+  "claim_answered": "none",
+  "evidence_seconds": 0,
+  "reason": "Mainly covers viral celebrity story about Akaash Singh's wife, with dating advice"
+ },
+ "usage": {
+  "prompt_tokens": 3297,
+  "completion_tokens": 6711,
+  "cost_usd": null
+ }
+}

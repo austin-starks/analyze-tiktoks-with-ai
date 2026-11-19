@@ -1,0 +1,19 @@
+{
+ "id": "7662316712133397792",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "mixed",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "Women are natural leaders because egg is largest cell; men should submit",
+  "evidence_seconds": 30,
+  "reason": "Pushes back on claim that men should submit and women should dominate"
+ },
+ "usage": {
+  "prompt_tokens": 3473,
+  "completion_tokens": 3014,
+  "cost_usd": null
+ }
+}

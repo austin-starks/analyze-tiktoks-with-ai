@@ -1,0 +1,19 @@
+{
+ "id": "7637518211952528662",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "debate",
+  "borderline": false,
+  "alternate_category": "women",
+  "claim_answered": "SimpleBlackTheory's claim that pregnancy is more dangerous than being a cop, based on absolute death counts",
+  "reason": "Reply to a creator who responded to Ilyas's earlier video and called him out; this is his rebuttal of that creator's arguments.",
+  "evidence_seconds": 76
+ },
+ "usage": {
+  "prompt_tokens": 5980,
+  "completion_tokens": 233,
+  "cost_usd": null
+ }
+}

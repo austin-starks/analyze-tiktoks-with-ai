@@ -1,0 +1,19 @@
+{
+ "id": "7591506454998289686",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "mixed",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "He tells men to explore but calls women who explore red flags",
+  "reason": "Commenter's claim is about his advice to both men and women; he answers for both sexes, not a creator reply",
+  "evidence_seconds": 83
+ },
+ "usage": {
+  "prompt_tokens": 4187,
+  "completion_tokens": 565,
+  "cost_usd": null
+ }
+}

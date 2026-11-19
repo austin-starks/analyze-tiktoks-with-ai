@@ -1,0 +1,19 @@
+{
+ "id": "7572957606776589590",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Akash's wife is a woman whose past shows she never shared his values, so men must learn to vet women harder",
+  "reason": "Gossip about a celebrity couple, but the speaker's main job is men-focused advice that men are blindsided by women; closest to a claim about men's naivety, not a claim attacking women.",
+  "evidence_seconds": 71
+ },
+ "usage": {
+  "prompt_tokens": 5292,
+  "completion_tokens": 244,
+  "cost_usd": null
+ }
+}

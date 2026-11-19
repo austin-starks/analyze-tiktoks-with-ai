@@ -1,0 +1,19 @@
+{
+ "id": "7628495397496818966",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "mixed",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "Women are naturally competitive with each other; competition between women is manufactured by the system, and women collaborate better",
+  "reason": "Answers a claim about women that is not negative toward either sex; he rejects the \"manufactured\" framing and notes women's agreeableness, blaming neither sex.",
+  "evidence_seconds": 33
+ },
+ "usage": {
+  "prompt_tokens": 5567,
+  "completion_tokens": 236,
+  "cost_usd": null
+ }
+}

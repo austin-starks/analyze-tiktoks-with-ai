@@ -1,0 +1,19 @@
+{
+ "id": "7543624422746344726",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "General dating advice on asking a girl out; answers no claim about men or women.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 5231,
+  "completion_tokens": 175,
+  "cost_usd": null
+ }
+}

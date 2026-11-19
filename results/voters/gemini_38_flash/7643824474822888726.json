@@ -1,0 +1,19 @@
+{
+ "id": "7643824474822888726",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "borderline": true,
+  "evidence_seconds": 80,
+  "claim_answered": "All women are dishonest liars",
+  "reason": "Pushes back on a viewer claim that runs women down as dishonest and untruthful.",
+  "alternate_category": "misc",
+  "category": "women"
+ },
+ "usage": {
+  "prompt_tokens": 3961,
+  "completion_tokens": 972,
+  "cost_usd": null
+ }
+}

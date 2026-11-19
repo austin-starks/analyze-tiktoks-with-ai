@@ -1,0 +1,19 @@
+{
+ "id": "7614877985610534166",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men are the original \"pick me's\" because only males compete in nature for mates",
+  "reason": "Pushes back on a claim running men down as the desperate sex while putting women above competition; his \"both sides compete\" answer stays in the men category.",
+  "evidence_seconds": 25
+ },
+ "usage": {
+  "prompt_tokens": 3946,
+  "completion_tokens": 348,
+  "cost_usd": null
+ }
+}

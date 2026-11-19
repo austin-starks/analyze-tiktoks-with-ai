@@ -1,0 +1,19 @@
+{
+ "id": "7643392025601133846",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "Does his content promote misogynistic ideas through its audience and comments?",
+  "reason": "Viewer Q&A about his channel's audience and comment policy; he answers no claim that runs a sex down, so it is not men or women.",
+  "evidence_seconds": 3
+ },
+ "usage": {
+  "prompt_tokens": 5569,
+  "completion_tokens": 216,
+  "cost_usd": null
+ }
+}

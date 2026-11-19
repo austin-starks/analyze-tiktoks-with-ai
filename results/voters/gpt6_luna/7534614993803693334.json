@@ -1,0 +1,19 @@
+{
+ "id": "7534614993803693334",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Gives dating advice about how to interpret slow replies and when to move on; answers no group claim.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 3038,
+  "completion_tokens": 62,
+  "cost_usd": null
+ }
+}

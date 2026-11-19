@@ -1,0 +1,19 @@
+{
+ "id": "7595972697180458243",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Men are lonely today because women are no longer financially dependent on them",
+  "reason": "Pushes back on a claim blaming women's financial freedom for men's loneliness, though he partly agrees",
+  "evidence_seconds": 34
+ },
+ "usage": {
+  "prompt_tokens": 3969,
+  "completion_tokens": 546,
+  "cost_usd": null
+ }
+}

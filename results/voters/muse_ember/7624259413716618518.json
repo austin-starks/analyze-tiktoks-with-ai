@@ -1,0 +1,19 @@
+{
+ "id": "7624259413716618518",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "misc",
+  "claim_answered": "none",
+  "evidence_seconds": 0,
+  "reason": "Viewer DM relationship advice about boundaries and not chasing after breakup; answers no group claim"
+ },
+ "usage": {
+  "prompt_tokens": 3594,
+  "completion_tokens": 1674,
+  "cost_usd": null
+ }
+}

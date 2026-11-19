@@ -1,0 +1,19 @@
+{
+ "id": "7576561053329362198",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "Straight men with many female friends are a green flag; men learn emotional intelligence only from women or gay men",
+  "reason": "Pushes back on a claim that men lack emotional intelligence and must learn it from women; defends men's emotional strength and reputation.",
+  "evidence_seconds": 106
+ },
+ "usage": {
+  "prompt_tokens": 5291,
+  "completion_tokens": 224,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7660833454120045856",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "men",
+  "claim_answered": "Straight white men have caused the most harm and deserve mockery",
+  "evidence_seconds": 14,
+  "reason": "Pushes back on claim that straight white men collectively cause most harm"
+ },
+ "usage": {
+  "prompt_tokens": 3566,
+  "completion_tokens": 1924,
+  "cost_usd": null
+ }
+}

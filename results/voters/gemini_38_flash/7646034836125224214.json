@@ -1,0 +1,19 @@
+{
+ "id": "7646034836125224214",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "men",
+  "reason": "Pushes back on a claim that blames men for sexualizing dancing",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men over-sexualize dancing while women keep it modest",
+  "evidence_seconds": 28
+ },
+ "usage": {
+  "prompt_tokens": 3245,
+  "completion_tokens": 232,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7601097591316663574",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "men",
+  "claim_answered": "Men's biological clock runs out at 30 and men over 30 have lost",
+  "evidence_seconds": 49,
+  "reason": "Defends men against a claim that insults men over 30 and claims their biological clock runs out.",
+  "alternate_category": "none",
+  "borderline": false
+ },
+ "usage": {
+  "prompt_tokens": 3788,
+  "completion_tokens": 274,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7662316712133397792",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Women are natural leaders and men are naturally meant to submit",
+  "reason": "Pushes back on a claim that elevates women by casting men as naturally submissive",
+  "evidence_seconds": 101
+ },
+ "usage": {
+  "prompt_tokens": 3473,
+  "completion_tokens": 235,
+  "cost_usd": null
+ }
+}

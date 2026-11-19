@@ -1,0 +1,19 @@
+{
+ "id": "7613045239393094934",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Men settle for disrespectful women out of fear and laziness",
+  "reason": "Video is self-help advice to men about settling; it criticizes men's fear and laziness rather than running women down, so it is mainly men-directed advice.",
+  "evidence_seconds": 34
+ },
+ "usage": {
+  "prompt_tokens": 5796,
+  "completion_tokens": 217,
+  "cost_usd": null
+ }
+}

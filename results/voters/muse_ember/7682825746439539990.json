@@ -1,0 +1,19 @@
+{
+ "id": "7682825746439539990",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "mixed",
+  "claim_answered": "Mothers do it more or fathers do it more",
+  "evidence_seconds": 143,
+  "reason": "Explores drivers for both mothers and fathers, rejecting simple blame of either sex"
+ },
+ "usage": {
+  "prompt_tokens": 3523,
+  "completion_tokens": 3385,
+  "cost_usd": null
+ }
+}

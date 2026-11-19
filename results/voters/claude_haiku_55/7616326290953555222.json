@@ -1,0 +1,19 @@
+{
+ "id": "7616326290953555222",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "A man says every idea from a woman is lunacy and respecting your woman means ignoring her",
+  "reason": "Rebuts a claim that runs women down as irrational and lunacy; defends women against the generalization.",
+  "evidence_seconds": 3
+ },
+ "usage": {
+  "prompt_tokens": 5357,
+  "completion_tokens": 212,
+  "cost_usd": null
+ }
+}

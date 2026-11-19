@@ -1,0 +1,19 @@
+{
+ "id": "7587788831923899671",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Is it stupid to feel uncomfortable that another guy will be there?",
+  "reason": "Viewer DM dating advice; answers no claim about men or women as groups.",
+  "evidence_seconds": 54
+ },
+ "usage": {
+  "prompt_tokens": 3939,
+  "completion_tokens": 171,
+  "cost_usd": null
+ }
+}

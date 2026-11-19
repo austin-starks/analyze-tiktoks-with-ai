@@ -1,0 +1,19 @@
+{
+ "id": "7689195572342852896",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "news",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Converse deliberately put KKK and lynching imagery in its Karina ad",
+  "reason": "He explains a viral ad controversy and whether the racist imagery was intentional; no claim about men or women.",
+  "evidence_seconds": 110
+ },
+ "usage": {
+  "prompt_tokens": 3968,
+  "completion_tokens": 347,
+  "cost_usd": null
+ }
+}

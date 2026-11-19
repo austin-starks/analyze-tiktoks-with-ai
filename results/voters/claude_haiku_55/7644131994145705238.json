@@ -1,0 +1,19 @@
+{
+ "id": "7644131994145705238",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "news",
+  "claim_answered": "One in five Australian men have had sexual feelings toward children and offended against a child (viral claim based on UNSW study)",
+  "reason": "Corrects a viral claim that paints men as predators; defends men against inflated blame, though it also covers a study story.",
+  "evidence_seconds": 85
+ },
+ "usage": {
+  "prompt_tokens": 6072,
+  "completion_tokens": 223,
+  "cost_usd": null
+ }
+}

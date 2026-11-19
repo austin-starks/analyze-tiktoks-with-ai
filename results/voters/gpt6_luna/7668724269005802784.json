@@ -1,0 +1,19 @@
+{
+ "id": "7668724269005802784",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "mixed",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "Women are not hypergamous, and there is little to no evidence supporting the idea",
+  "reason": "He rebuts a claim favorable to women, but it does not directly attack men; such claims are mixed.",
+  "evidence_seconds": 32
+ },
+ "usage": {
+  "prompt_tokens": 3523,
+  "completion_tokens": 624,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7701750717983313184",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "mixed",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "Chinese women beat American men, women outplaying men generally",
+  "evidence_seconds": 54,
+  "reason": "Pushes back on viral claim women beat men, showing men's teams ranked higher overall"
+ },
+ "usage": {
+  "prompt_tokens": 5060,
+  "completion_tokens": 4445,
+  "cost_usd": null
+ }
+}

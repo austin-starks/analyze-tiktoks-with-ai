@@ -1,0 +1,19 @@
+{
+ "id": "7670542475307552022",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men were born solely to procreate",
+  "reason": "Pushes back on a claim that reduces men to their reproductive role, despite applying the same criticism to women.",
+  "evidence_seconds": 152
+ },
+ "usage": {
+  "prompt_tokens": 3413,
+  "completion_tokens": 376,
+  "cost_usd": null
+ }
+}

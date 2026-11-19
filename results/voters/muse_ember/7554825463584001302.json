@@ -1,0 +1,19 @@
+{
+ "id": "7554825463584001302",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "men",
+  "claim_answered": "Women cheat because men don't give attention or flowers",
+  "evidence_seconds": 15,
+  "reason": "Pushes back on claim blaming men for women's cheating"
+ },
+ "usage": {
+  "prompt_tokens": 2961,
+  "completion_tokens": 2008,
+  "cost_usd": null
+ }
+}

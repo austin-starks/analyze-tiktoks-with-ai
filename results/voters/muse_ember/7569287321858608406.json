@@ -1,0 +1,19 @@
+{
+ "id": "7569287321858608406",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "men",
+  "claim_answered": "Husband cooking, cleaning and paying bills is bare minimum",
+  "evidence_seconds": 57,
+  "reason": "Pushes back on claim that husband's extensive work is bare minimum, defending men"
+ },
+ "usage": {
+  "prompt_tokens": 3145,
+  "completion_tokens": 3960,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7570669522328390935",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "A man who sets boundaries about his girlfriend's clothing is insecure and projecting",
+  "reason": "Pushes back on a claim that runs men down by labeling male boundaries as insecurity",
+  "evidence_seconds": 22
+ },
+ "usage": {
+  "prompt_tokens": 3432,
+  "completion_tokens": 262,
+  "cost_usd": null
+ }
+}

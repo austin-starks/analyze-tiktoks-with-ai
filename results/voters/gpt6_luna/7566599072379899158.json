@@ -1,0 +1,19 @@
+{
+ "id": "7566599072379899158",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "A husband has no business knowing his wife's TikTok activity",
+  "reason": "Pushes back on a claim that frames a husband’s interest as intrusion and supports the wife’s secrecy at his expense",
+  "evidence_seconds": 36
+ },
+ "usage": {
+  "prompt_tokens": 3078,
+  "completion_tokens": 369,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7596671213645253910",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "misc",
+  "borderline": true,
+  "category": "news",
+  "claim_answered": "Ne-Yo's polyamory with three women is radical honesty",
+  "evidence_seconds": 88,
+  "reason": "Covers Ne-Yo celebrity interview and critiques his radical honesty claim, not a general claim about men or women"
+ },
+ "usage": {
+  "prompt_tokens": 3603,
+  "completion_tokens": 6542,
+  "cost_usd": null
+ }
+}

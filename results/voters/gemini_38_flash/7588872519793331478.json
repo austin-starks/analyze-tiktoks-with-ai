@@ -1,0 +1,19 @@
+{
+ "id": "7588872519793331478",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "evidence_seconds": 13,
+  "reason": "Answers a viewer DM asking for relationship advice about retroactive jealousy without fact-checking a claim.",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "category": "misc"
+ },
+ "usage": {
+  "prompt_tokens": 3527,
+  "completion_tokens": 408,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7618580994907475222",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "mixed",
+  "claim_answered": "The double standard judging promiscuous women while praising promiscuous men is irrational",
+  "reason": "Explains the societal perception of promiscuity by analyzing dating effort and difficulty for both men and women centrally.",
+  "borderline": true,
+  "alternate_category": "misc",
+  "evidence_seconds": 155
+ },
+ "usage": {
+  "prompt_tokens": 3861,
+  "completion_tokens": 2913,
+  "cost_usd": null
+ }
+}

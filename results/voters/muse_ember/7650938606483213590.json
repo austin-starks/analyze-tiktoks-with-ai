@@ -1,0 +1,19 @@
+{
+ "id": "7650938606483213590",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "misc",
+  "borderline": true,
+  "category": "mixed",
+  "claim_answered": "Men and women can absolutely be just friends",
+  "evidence_seconds": 48,
+  "reason": "Answers a claim about both sexes without blaming either, covering male and female friendships"
+ },
+ "usage": {
+  "prompt_tokens": 3666,
+  "completion_tokens": 7759,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7694339717382294816",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "politics",
+  "claim_answered": "You can't be anti-racist unless you're anti-capitalist",
+  "evidence_seconds": 35,
+  "reason": "Answers claim linking anti-racism to anti-capitalism; economic/political claim, not about men or women"
+ },
+ "usage": {
+  "prompt_tokens": 4040,
+  "completion_tokens": 2032,
+  "cost_usd": null
+ }
+}

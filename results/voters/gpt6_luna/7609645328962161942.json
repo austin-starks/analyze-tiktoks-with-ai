@@ -1,0 +1,19 @@
+{
+ "id": "7609645328962161942",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men hide their true selves until women are comfortable, so women don't choose bad men.",
+  "reason": "Pushes back on a claim excusing women's choices by blaming men for hiding their character.",
+  "evidence_seconds": 7
+ },
+ "usage": {
+  "prompt_tokens": 2970,
+  "completion_tokens": 74,
+  "cost_usd": null
+ }
+}

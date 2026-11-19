@@ -1,0 +1,19 @@
+{
+ "id": "7679853920054775062",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Always a man touches Juliet's statue, so men alone are blamed for disrespecting women",
+  "reason": "Rebuts a viral claim that runs men down by singling them out; shows women do the same, defending men.",
+  "evidence_seconds": 29
+ },
+ "usage": {
+  "prompt_tokens": 5554,
+  "completion_tokens": 212,
+  "cost_usd": null
+ }
+}

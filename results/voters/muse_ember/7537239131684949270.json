@@ -1,0 +1,19 @@
+{
+ "id": "7537239131684949270",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "misc",
+  "claim_answered": "none",
+  "evidence_seconds": 0,
+  "reason": "General dating advice to stop chasing women who pull away; answers no claim about men or women"
+ },
+ "usage": {
+  "prompt_tokens": 2974,
+  "completion_tokens": 2028,
+  "cost_usd": null
+ }
+}

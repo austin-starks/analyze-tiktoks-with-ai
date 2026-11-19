@@ -1,0 +1,19 @@
+{
+ "id": "7656122026112929056",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Mainly an update on his own copyright strike, appeal, and account; the attorney is not criticizing him.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 3489,
+  "completion_tokens": 243,
+  "cost_usd": null
+ }
+}

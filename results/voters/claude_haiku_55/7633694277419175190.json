@@ -1,0 +1,19 @@
+{
+ "id": "7633694277419175190",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Being gay is normal and natural, or not normal and needing change",
+  "reason": "Answers a subscriber question on sexual orientation, a topic about neither sex's reputation; personal story, not a men/women claim.",
+  "evidence_seconds": 40
+ },
+ "usage": {
+  "prompt_tokens": 5541,
+  "completion_tokens": 214,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7594459689312701718",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Everyone deserves a one-time cheat; will a woman who cheated cheat again?",
+  "reason": "Dating advice about cheating; he affirms the negative claim about women rather than defending either sex",
+  "evidence_seconds": 13
+ },
+ "usage": {
+  "prompt_tokens": 3583,
+  "completion_tokens": 656,
+  "cost_usd": null
+ }
+}

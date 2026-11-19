@@ -1,0 +1,19 @@
+{
+ "id": "7633694277419175190",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "women",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Gay people should change and should not be proud that being gay is normal",
+  "reason": "Pushes back on a claim that stigmatizes gay people and denies their identity is normal.",
+  "evidence_seconds": 40
+ },
+ "usage": {
+  "prompt_tokens": 3525,
+  "completion_tokens": 73,
+  "cost_usd": null
+ }
+}

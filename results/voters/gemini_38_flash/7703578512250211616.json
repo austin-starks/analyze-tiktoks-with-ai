@@ -1,0 +1,19 @@
+{
+ "id": "7703578512250211616",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "reason": "He fact-checks an unsubstantiated claim that portrays men as having an extreme bias against women speaking.",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "evidence_seconds": 9,
+  "claim_answered": "Men perceive women as dominating conversations when women speak only 15 to 30 percent of the time",
+  "category": "men"
+ },
+ "usage": {
+  "prompt_tokens": 5138,
+  "completion_tokens": 928,
+  "cost_usd": null
+ }
+}

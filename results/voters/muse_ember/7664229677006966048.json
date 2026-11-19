@@ -1,0 +1,19 @@
+{
+ "id": "7664229677006966048",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "men",
+  "claim_answered": "Misandry is not a real thing because there are no systemic barriers against men",
+  "evidence_seconds": 45,
+  "reason": "Pushes back on claim denying systemic barriers against men, citing conscription"
+ },
+ "usage": {
+  "prompt_tokens": 3743,
+  "completion_tokens": 2006,
+  "cost_usd": null
+ }
+}

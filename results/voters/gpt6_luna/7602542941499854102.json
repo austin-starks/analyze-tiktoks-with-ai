@@ -1,0 +1,19 @@
+{
+ "id": "7602542941499854102",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Dating advice about interpreting ghosting and moving on; he answers no claim about a group.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 3229,
+  "completion_tokens": 107,
+  "cost_usd": null
+ }
+}

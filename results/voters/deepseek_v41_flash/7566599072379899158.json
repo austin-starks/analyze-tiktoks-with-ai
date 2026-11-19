@@ -1,0 +1,19 @@
+{
+ "id": "7566599072379899158",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "A man who objects to his wife hiding her activity is insecure and controlling",
+  "reason": "Answers a claim painting men with boundaries as insecure, telling men not to be doormats",
+  "evidence_seconds": 88
+ },
+ "usage": {
+  "prompt_tokens": 3443,
+  "completion_tokens": 357,
+  "cost_usd": null
+ }
+}

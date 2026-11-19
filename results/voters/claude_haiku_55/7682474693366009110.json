@@ -1,0 +1,19 @@
+{
+ "id": "7682474693366009110",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Mothers account for most parental child homicides (55% overall, 72% of infant killings, 97% of neonaticides)",
+  "reason": "Fact-checks a statistic about parental child homicide by sex; the claim blames neither sex, so mixed fits, though it is closer to a statistics fact-check.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 5936,
+  "completion_tokens": 244,
+  "cost_usd": null
+ }
+}

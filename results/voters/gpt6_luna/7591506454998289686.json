@@ -1,0 +1,19 @@
+{
+ "id": "7591506454998289686",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "mixed",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "He says men should explore but women who want experience are red flags",
+  "reason": "Answers a double-standard claim about both sexes, affirming experience can matter for each in different ways",
+  "evidence_seconds": 175
+ },
+ "usage": {
+  "prompt_tokens": 3824,
+  "completion_tokens": 854,
+  "cost_usd": null
+ }
+}

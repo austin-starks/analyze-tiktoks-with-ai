@@ -1,0 +1,18 @@
+{
+ "id": "7630453544813972758",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "category": "politics",
+  "borderline": true,
+  "evidence_seconds": 14,
+  "claim_answered": "Feminism is one single idea, and asking to define it should be dismissed.",
+  "reason": "Applies Rule 3: no claim attacks either sex; the video discusses feminism as a political movement and introduces a series on its waves.",
+  "alternate_category": "misc"
+ },
+ "usage": {
+  "prompt_tokens": 3132,
+  "completion_tokens": 3294,
+  "cost_usd": null
+ }
+}

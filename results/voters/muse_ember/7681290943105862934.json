@@ -1,0 +1,19 @@
+{
+ "id": "7681290943105862934",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "news",
+  "claim_answered": "none",
+  "evidence_seconds": 0,
+  "reason": "Coverage of ongoing Lindsay Clancy trial and possible mistrial"
+ },
+ "usage": {
+  "prompt_tokens": 3431,
+  "completion_tokens": 835,
+  "cost_usd": null
+ }
+}

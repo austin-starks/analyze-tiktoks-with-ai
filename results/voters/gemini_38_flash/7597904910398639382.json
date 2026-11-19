@@ -1,0 +1,19 @@
+{
+ "id": "7597904910398639382",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "misc",
+  "reason": "Pushes back on a claim portraying men who invite women on trips as cheap manipulators.",
+  "evidence_seconds": 21,
+  "claim_answered": "Men offer trips to get intimacy without actually investing in women"
+ },
+ "usage": {
+  "prompt_tokens": 3804,
+  "completion_tokens": 1424,
+  "cost_usd": null
+ }
+}

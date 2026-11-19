@@ -1,0 +1,19 @@
+{
+ "id": "7646800732875722006",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Men are the leading cause of death for women aged 18 to 44, since men kill them",
+  "reason": "Rebuts a claim blaming men for women's deaths by checking CDC data; concedes the murderer is usually a man.",
+  "evidence_seconds": 8
+ },
+ "usage": {
+  "prompt_tokens": 5550,
+  "completion_tokens": 217,
+  "cost_usd": null
+ }
+}

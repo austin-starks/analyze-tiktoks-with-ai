@@ -1,0 +1,19 @@
+{
+ "id": "7692216346959990049",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "news",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Part 3 of multi-part coverage explaining developments in the Cornell case, not answering a claim about men or women",
+  "evidence_seconds": 14
+ },
+ "usage": {
+  "prompt_tokens": 4671,
+  "completion_tokens": 282,
+  "cost_usd": null
+ }
+}

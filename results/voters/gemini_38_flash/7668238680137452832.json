@@ -1,0 +1,19 @@
+{
+ "id": "7668238680137452832",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "evidence_seconds": 37,
+  "reason": "Defends men against dehumanization and pushback claiming men do not deserve rights or feelings.",
+  "alternate_category": "misc",
+  "claim_answered": "Men do not deserve basic sympathy, rights, or feelings",
+  "category": "men",
+  "borderline": true
+ },
+ "usage": {
+  "prompt_tokens": 3614,
+  "completion_tokens": 1071,
+  "cost_usd": null
+ }
+}

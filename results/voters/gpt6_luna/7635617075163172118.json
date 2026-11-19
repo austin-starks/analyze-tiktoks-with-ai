@@ -1,0 +1,19 @@
+{
+ "id": "7635617075163172118",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Being pregnant is more dangerous than being a police officer",
+  "reason": "Fact-checks a comparison of risks, not a claim attacking or favoring either sex",
+  "evidence_seconds": 224
+ },
+ "usage": {
+  "prompt_tokens": 4217,
+  "completion_tokens": 526,
+  "cost_usd": null
+ }
+}

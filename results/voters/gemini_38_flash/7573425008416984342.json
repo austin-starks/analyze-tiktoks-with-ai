@@ -1,0 +1,19 @@
+{
+ "id": "7573425008416984342",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "evidence_seconds": 58,
+  "claim_answered": "Modern men are weak and not real men compared to men in history",
+  "category": "men",
+  "reason": "Pushes back on a claim that runs modern men down as weak and unproductive"
+ },
+ "usage": {
+  "prompt_tokens": 3359,
+  "completion_tokens": 197,
+  "cost_usd": null
+ }
+}

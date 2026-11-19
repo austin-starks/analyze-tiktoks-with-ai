@@ -1,0 +1,19 @@
+{
+ "id": "7705847665971514656",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "debate",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Brian Xu's response criticizing Ilyas's fact-check of the \"women are better drivers\" claim",
+  "reason": "Reply to a creator who made a response video criticizing his earlier fact-check",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 6573,
+  "completion_tokens": 229,
+  "cost_usd": null
+ }
+}

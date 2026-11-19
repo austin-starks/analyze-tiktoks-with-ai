@@ -1,0 +1,19 @@
+{
+ "id": "7594459689312701718",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "If a woman cheated before, she will most likely cheat again",
+  "reason": "Claim runs women down as inherently unfaithful; this is his own argument asserting it, not a rebuttal, so it fits dating advice too.",
+  "evidence_seconds": 13
+ },
+ "usage": {
+  "prompt_tokens": 5166,
+  "completion_tokens": 215,
+  "cost_usd": null
+ }
+}

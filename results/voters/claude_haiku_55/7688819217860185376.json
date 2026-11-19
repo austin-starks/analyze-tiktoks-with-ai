@@ -1,0 +1,19 @@
+{
+ "id": "7688819217860185376",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Father walking the bride down the aisle symbolizes transferring a woman's ownership to the groom",
+  "reason": "Rebuts a claim that runs down the bride as property, partly conceding historical patriarchy; the claim is about women's treatment, not men.",
+  "evidence_seconds": 30
+ },
+ "usage": {
+  "prompt_tokens": 5653,
+  "completion_tokens": 227,
+  "cost_usd": null
+ }
+}

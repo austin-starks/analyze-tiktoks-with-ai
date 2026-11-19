@@ -1,0 +1,19 @@
+{
+ "id": "7532501397237959958",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "misc",
+  "reason": "General dating advice about texting habits and relationship effort; answers no claim.",
+  "evidence_seconds": 0,
+  "borderline": false,
+  "claim_answered": "none",
+  "alternate_category": "none"
+ },
+ "usage": {
+  "prompt_tokens": 3168,
+  "completion_tokens": 398,
+  "cost_usd": null
+ }
+}

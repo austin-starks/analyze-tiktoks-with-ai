@@ -1,0 +1,19 @@
+{
+ "id": "7651234581797965078",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men survive plane crashes more often because they are more willing to claw and trample others to reach exits",
+  "reason": "Rejects a claim portraying men as selfish and morally worse; the cited study does not support it.",
+  "evidence_seconds": 17
+ },
+ "usage": {
+  "prompt_tokens": 3819,
+  "completion_tokens": 187,
+  "cost_usd": null
+ }
+}

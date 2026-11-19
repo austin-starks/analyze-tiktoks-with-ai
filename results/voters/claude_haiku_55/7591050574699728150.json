@@ -1,0 +1,19 @@
+{
+ "id": "7591050574699728150",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": false,
+  "alternate_category": "misc",
+  "claim_answered": "Women who never worked are unsuitable for relationships and cannot understand busy partners",
+  "reason": "Ilyas's answer to a subscriber's relationship question validates claims that run down the girlfriend, which is negative toward women. Not defending men, so women fits; no clear defense of women here.",
+  "evidence_seconds": 143
+ },
+ "usage": {
+  "prompt_tokens": 6542,
+  "completion_tokens": 238,
+  "cost_usd": null
+ }
+}

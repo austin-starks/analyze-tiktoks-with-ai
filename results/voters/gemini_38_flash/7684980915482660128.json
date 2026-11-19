@@ -1,0 +1,19 @@
+{
+ "id": "7684980915482660128",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "claim_answered": "A woman hating men is justified like a victim hating their bully",
+  "evidence_seconds": 27,
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "reason": "He pushes back on an analogy used to justify hatred and prejudice against men."
+ },
+ "usage": {
+  "prompt_tokens": 3728,
+  "completion_tokens": 501,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7669744450641431830",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Men are twice as likely as women not to wash hands after using the restroom, and half of men skip soap",
+  "reason": "Answers a negative claim about men's hygiene; concedes it is largely right but checks the numbers, so it runs men down.",
+  "evidence_seconds": 28
+ },
+ "usage": {
+  "prompt_tokens": 5324,
+  "completion_tokens": 222,
+  "cost_usd": null
+ }
+}

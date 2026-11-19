@@ -1,0 +1,19 @@
+{
+ "id": "7573764043157146902",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Most men do not go months or years without sex or intimacy",
+  "reason": "Counters denial of men's dating and intimacy disadvantage, while correcting the exact 95% figure",
+  "evidence_seconds": 24
+ },
+ "usage": {
+  "prompt_tokens": 3291,
+  "completion_tokens": 237,
+  "cost_usd": null
+ }
+}

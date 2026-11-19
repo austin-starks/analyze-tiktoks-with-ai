@@ -1,0 +1,19 @@
+{
+ "id": "7584423119008599319",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "men",
+  "claim_answered": "Most men walk around assuming all women want to sleep with them",
+  "evidence_seconds": 0,
+  "reason": "Pushes back on claim that men are delusional and assume women want them"
+ },
+ "usage": {
+  "prompt_tokens": 2940,
+  "completion_tokens": 4193,
+  "cost_usd": null
+ }
+}

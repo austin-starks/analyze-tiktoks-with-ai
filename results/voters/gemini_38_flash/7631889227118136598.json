@@ -1,0 +1,19 @@
+{
+ "id": "7631889227118136598",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "borderline": false,
+  "alternate_category": "none",
+  "evidence_seconds": 18,
+  "reason": "Pushes back on a viral claim that grossly generalizes sexual assault rates to tens of millions of men",
+  "category": "men",
+  "claim_answered": "32% of college men admit they would commit rape if they could get away with it"
+ },
+ "usage": {
+  "prompt_tokens": 3924,
+  "completion_tokens": 490,
+  "cost_usd": null
+ }
+}

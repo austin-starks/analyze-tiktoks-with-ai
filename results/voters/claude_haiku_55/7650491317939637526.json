@@ -1,0 +1,19 @@
+{
+ "id": "7650491317939637526",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "none",
+  "reason": "General dating advice on five partner qualities; opens with a loose complaint about manosphere-style standards but answers no specific claim about either sex.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 5721,
+  "completion_tokens": 196,
+  "cost_usd": null
+ }
+}

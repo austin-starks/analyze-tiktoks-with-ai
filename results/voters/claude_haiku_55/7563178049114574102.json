@@ -1,0 +1,19 @@
+{
+ "id": "7563178049114574102",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "mixed",
+  "claim_answered": "There's no such thing as being too mean to a man; men are not innately nice and always put themselves first",
+  "reason": "Pushes back on a claim that runs men down as manipulative and self-serving, defending men as decent.",
+  "evidence_seconds": 6
+ },
+ "usage": {
+  "prompt_tokens": 4835,
+  "completion_tokens": 213,
+  "cost_usd": null
+ }
+}

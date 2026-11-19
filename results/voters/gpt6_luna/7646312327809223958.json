@@ -1,0 +1,19 @@
+{
+ "id": "7646312327809223958",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Viewer relationship Q&A and advice; he does not push back on a claim about men or women.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 3190,
+  "completion_tokens": 290,
+  "cost_usd": null
+ }
+}

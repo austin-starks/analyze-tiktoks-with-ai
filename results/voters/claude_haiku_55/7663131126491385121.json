@@ -1,0 +1,19 @@
+{
+ "id": "7663131126491385121",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "Black pill ideology: men's dating success is fixed by unchangeable traits like looks and height",
+  "reason": "General dating and self-improvement advice; rejects fatalism but frames it as advice to men rather than a rebuttal of a claim about men as a group.",
+  "evidence_seconds": 25
+ },
+ "usage": {
+  "prompt_tokens": 5938,
+  "completion_tokens": 228,
+  "cost_usd": null
+ }
+}

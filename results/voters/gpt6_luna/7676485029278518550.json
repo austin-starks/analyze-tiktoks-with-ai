@@ -1,0 +1,19 @@
+{
+ "id": "7676485029278518550",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Charlie Kirk's message is that boys should not take orders from women",
+  "reason": "Rejects a framing that undermines women's authority, arguing Kirk instead called for male role models alongside women",
+  "evidence_seconds": 120
+ },
+ "usage": {
+  "prompt_tokens": 3985,
+  "completion_tokens": 336,
+  "cost_usd": null
+ }
+}

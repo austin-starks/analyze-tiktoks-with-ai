@@ -1,0 +1,19 @@
+{
+ "id": "7595530524127431958",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "mixed",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "Who cheats more, men or women? Both sexes are answered with survey data.",
+  "reason": "Question about both sexes' cheating rates; he reports data on men and women without blaming either sex, though he confirms men cheat slightly more.",
+  "evidence_seconds": 58
+ },
+ "usage": {
+  "prompt_tokens": 5431,
+  "completion_tokens": 220,
+  "cost_usd": null
+ }
+}

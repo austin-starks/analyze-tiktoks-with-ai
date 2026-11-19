@@ -1,0 +1,19 @@
+{
+ "id": "7629351520525454615",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men avoid donating organs but receive them, while women make up 80% of donors",
+  "reason": "Counters a claim blaming men as hypocritical and falsely portraying their donor participation.",
+  "evidence_seconds": 19
+ },
+ "usage": {
+  "prompt_tokens": 3181,
+  "completion_tokens": 72,
+  "cost_usd": null
+ }
+}

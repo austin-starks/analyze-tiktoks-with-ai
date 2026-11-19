@@ -1,0 +1,19 @@
+{
+ "id": "7653829861491887382",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Domestic violence rises 26% when England plays, 38% after a loss",
+  "reason": "Fact-checks a viral statistic and mostly confirms it; no claim about what men or women are like.",
+  "evidence_seconds": 92
+ },
+ "usage": {
+  "prompt_tokens": 3747,
+  "completion_tokens": 636,
+  "cost_usd": null
+ }
+}

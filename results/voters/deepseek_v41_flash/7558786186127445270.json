@@ -1,0 +1,19 @@
+{
+ "id": "7558786186127445270",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "A guy can give everything and it still \"doesn't feel right\" for her",
+  "reason": "Dating/self-respect advice for men drawn from a woman's story; no claim about men or women as a group is defended or rebutted.",
+  "evidence_seconds": 63
+ },
+ "usage": {
+  "prompt_tokens": 3292,
+  "completion_tokens": 323,
+  "cost_usd": null
+ }
+}

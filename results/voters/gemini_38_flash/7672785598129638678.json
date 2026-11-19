@@ -1,0 +1,19 @@
+{
+ "id": "7672785598129638678",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "claim_answered": "Socialism makes CEOs unnecessary and capitalism exists only to benefit the rich",
+  "borderline": false,
+  "category": "politics",
+  "evidence_seconds": 178,
+  "reason": "Addresses economic arguments about capitalism versus socialism and senior management in market economies",
+  "alternate_category": "none"
+ },
+ "usage": {
+  "prompt_tokens": 3937,
+  "completion_tokens": 567,
+  "cost_usd": null
+ }
+}

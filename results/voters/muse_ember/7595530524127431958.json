@@ -1,0 +1,19 @@
+{
+ "id": "7595530524127431958",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "mixed",
+  "claim_answered": "Men cheat all the time or women cheat more but hide it",
+  "evidence_seconds": 11,
+  "reason": "Answers both opposing claims about men and women cheating with data on both sexes"
+ },
+ "usage": {
+  "prompt_tokens": 3439,
+  "completion_tokens": 3527,
+  "cost_usd": null
+ }
+}

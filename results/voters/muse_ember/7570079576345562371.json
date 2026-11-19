@@ -1,0 +1,19 @@
+{
+ "id": "7570079576345562371",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "misc",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "Men must be obsessed and starving for her attention or she leaves",
+  "evidence_seconds": 15,
+  "reason": "Pushes back on woman's unfair demand that men be obsessed, advising men to leave"
+ },
+ "usage": {
+  "prompt_tokens": 3204,
+  "completion_tokens": 7590,
+  "cost_usd": null
+ }
+}

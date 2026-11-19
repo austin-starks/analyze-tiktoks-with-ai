@@ -1,0 +1,19 @@
+{
+ "id": "7584783459336359170",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men uncomfortable with a girlfriend’s male friends are insecure or controlling",
+  "reason": "Pushes back on a claim that portrays men’s discomfort and boundaries as insecurity or control.",
+  "evidence_seconds": 21
+ },
+ "usage": {
+  "prompt_tokens": 3208,
+  "completion_tokens": 246,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7650938606483213590",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "mixed",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Men and women cannot really just be friends; a critic said his earlier video ignored friendship psychology",
+  "reason": "Opens with a fan's critique of his earlier video, but he answers a general cross-sex friendship claim about both sexes, blaming neither.",
+  "evidence_seconds": 44
+ },
+ "usage": {
+  "prompt_tokens": 5801,
+  "completion_tokens": 229,
+  "cost_usd": null
+ }
+}

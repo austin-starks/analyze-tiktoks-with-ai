@@ -1,0 +1,19 @@
+{
+ "id": "7672043709986311446",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Women never sexualize men in songs the way men objectify women",
+  "reason": "Answers a claim that blames men for objectification while denying women do it, listing female examples",
+  "evidence_seconds": 34
+ },
+ "usage": {
+  "prompt_tokens": 4230,
+  "completion_tokens": 280,
+  "cost_usd": null
+ }
+}

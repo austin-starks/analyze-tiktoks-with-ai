@@ -1,0 +1,19 @@
+{
+ "id": "7667518241039797526",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Channel anniversary thank-you video about his own account growth, monetization and goals; answers no claim about men or women.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 5311,
+  "completion_tokens": 188,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7538473681991781654",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "misc",
+  "claim_answered": "none",
+  "evidence_seconds": 0,
+  "reason": "Dating advice about questions to avoid; answers no claim about men or women"
+ },
+ "usage": {
+  "prompt_tokens": 3114,
+  "completion_tokens": 625,
+  "cost_usd": null
+ }
+}

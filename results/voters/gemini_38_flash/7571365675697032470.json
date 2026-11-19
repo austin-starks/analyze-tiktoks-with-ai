@@ -1,0 +1,19 @@
+{
+ "id": "7571365675697032470",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "evidence_seconds": 18,
+  "reason": "Defends men against the claim that average men are delusional and aim unrealistically high in dating.",
+  "claim_answered": "Men are shooting for the top 10% of women",
+  "alternate_category": "mixed"
+ },
+ "usage": {
+  "prompt_tokens": 3255,
+  "completion_tokens": 955,
+  "cost_usd": null
+ }
+}

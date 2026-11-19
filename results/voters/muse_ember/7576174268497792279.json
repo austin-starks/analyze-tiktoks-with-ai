@@ -1,0 +1,19 @@
+{
+ "id": "7576174268497792279",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "men",
+  "borderline": true,
+  "category": "misc",
+  "claim_answered": "none",
+  "evidence_seconds": 0,
+  "reason": "Relationship and self-improvement advice to leave; answers no claim about men or women as groups"
+ },
+ "usage": {
+  "prompt_tokens": 3353,
+  "completion_tokens": 4783,
+  "cost_usd": null
+ }
+}

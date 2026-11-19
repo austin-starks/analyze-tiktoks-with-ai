@@ -1,0 +1,19 @@
+{
+ "id": "7631106668935351574",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "men",
+  "evidence_seconds": 71,
+  "reason": "Pushes back on a viral claim that massively exaggerated men's involvement in an abuse network",
+  "borderline": true,
+  "claim_answered": "62 million men attended an online rape academy",
+  "alternate_category": "news"
+ },
+ "usage": {
+  "prompt_tokens": 3919,
+  "completion_tokens": 406,
+  "cost_usd": null
+ }
+}

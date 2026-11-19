@@ -1,0 +1,19 @@
+{
+ "id": "7701750717983313184",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "men",
+  "alternate_category": "mixed",
+  "reason": "Pushes back on a viral media claim favoring women at men's expense by presenting the full competition results.",
+  "claim_answered": "A Chinese female SWAT team beat American men using superior technique over brute force",
+  "evidence_seconds": 54,
+  "borderline": true
+ },
+ "usage": {
+  "prompt_tokens": 5629,
+  "completion_tokens": 2080,
+  "cost_usd": null
+ }
+}

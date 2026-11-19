@@ -1,0 +1,19 @@
+{
+ "id": "7570405322804841750",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Men should submit to a woman's \"dark feminine\" energy out of respect, without her doing anything",
+  "reason": "Mocks a viral claim that runs men down as submissive dupes; reads as a satirical reaction, not a clear rebuttal defending women.",
+  "evidence_seconds": 27
+ },
+ "usage": {
+  "prompt_tokens": 4924,
+  "completion_tokens": 227,
+  "cost_usd": null
+ }
+}

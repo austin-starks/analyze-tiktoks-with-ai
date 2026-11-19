@@ -1,0 +1,19 @@
+{
+ "id": "7584783459336359170",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "none",
+  "reason": "General relationship advice on guy friends; no rebuttal of another creator or a claim about men or women.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 5208,
+  "completion_tokens": 183,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7566166786727513366",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "men",
+  "claim_answered": "Pretty women are screwed over because insecure men can't handle them",
+  "evidence_seconds": 34,
+  "reason": "Pushes back on claim blaming insecure men for pretty women's relationship problems"
+ },
+ "usage": {
+  "prompt_tokens": 3011,
+  "completion_tokens": 3327,
+  "cost_usd": null
+ }
+}

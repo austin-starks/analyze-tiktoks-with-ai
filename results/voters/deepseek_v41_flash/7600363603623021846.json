@@ -1,0 +1,19 @@
+{
+ "id": "7600363603623021846",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "A man bothered by his girlfriend talking to other men is just fragile and insecure",
+  "reason": "He rebuts the \"fragile and insecure\" framing of men's boundaries, saying it's emotional cheating and men should leave.",
+  "evidence_seconds": 42
+ },
+ "usage": {
+  "prompt_tokens": 3554,
+  "completion_tokens": 585,
+  "cost_usd": null
+ }
+}

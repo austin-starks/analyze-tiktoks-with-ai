@@ -1,0 +1,19 @@
+{
+ "id": "7669744450641431830",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men are twice as likely as women to skip washing their hands, and half who wash skip soap",
+  "reason": "Checks a claim running men down; he pushes back only on phrasing but the target is men's reputation",
+  "evidence_seconds": 28
+ },
+ "usage": {
+  "prompt_tokens": 3732,
+  "completion_tokens": 371,
+  "cost_usd": null
+ }
+}

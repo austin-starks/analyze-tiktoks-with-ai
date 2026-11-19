@@ -1,0 +1,19 @@
+{
+ "id": "7570992407483780374",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "Women who hate men end up with the best men",
+  "reason": "Rebuts a claim favoring women, but his framing paints the men in such relationships as spineless doormats, a negative portrayal of men.",
+  "evidence_seconds": 18
+ },
+ "usage": {
+  "prompt_tokens": 4785,
+  "completion_tokens": 206,
+  "cost_usd": null
+ }
+}

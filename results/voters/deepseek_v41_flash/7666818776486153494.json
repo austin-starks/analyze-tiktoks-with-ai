@@ -1,0 +1,19 @@
+{
+ "id": "7666818776486153494",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "The \"only men hunted, only women gathered\" myth was invented in 1966 by male anthropologists",
+  "reason": "Rebuts a cartoon claim that blames male researchers for fabricating the hunter myth and paints men in a bad light",
+  "evidence_seconds": 64
+ },
+ "usage": {
+  "prompt_tokens": 4339,
+  "completion_tokens": 463,
+  "cost_usd": null
+ }
+}

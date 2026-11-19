@@ -1,0 +1,19 @@
+{
+ "id": "7554342730105670934",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "alternate_category": "mixed",
+  "reason": "Pushes back against the trope that an extraordinary man is merely an average woman, which puts men down.",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "An extraordinary man is just an average woman",
+  "evidence_seconds": 46
+ },
+ "usage": {
+  "prompt_tokens": 3231,
+  "completion_tokens": 940,
+  "cost_usd": null
+ }
+}

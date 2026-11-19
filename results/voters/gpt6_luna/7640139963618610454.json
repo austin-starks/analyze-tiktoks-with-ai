@@ -1,0 +1,19 @@
+{
+ "id": "7640139963618610454",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "About 1 in 7 men have attempted or completed rape",
+  "reason": "Rejects applying a narrow college-sample statistic to men generally, pushing back on a claim that runs men down.",
+  "evidence_seconds": 153
+ },
+ "usage": {
+  "prompt_tokens": 3798,
+  "completion_tokens": 286,
+  "cost_usd": null
+ }
+}

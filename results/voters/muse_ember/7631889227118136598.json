@@ -1,0 +1,19 @@
+{
+ "id": "7631889227118136598",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "men",
+  "claim_answered": "Over 62 million US men commit sexual assault based on 32% study",
+  "evidence_seconds": 12,
+  "reason": "Pushes back on claim that 32% of men would rape women, defending men against negative generalization"
+ },
+ "usage": {
+  "prompt_tokens": 3635,
+  "completion_tokens": 2883,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7588149817910512918",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "mixed",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Relationships are hard work and love requires constant effort",
+  "reason": "Pushes back on a general claim about relationships without blaming either sex; could also be categorized as relationship advice.",
+  "evidence_seconds": 5
+ },
+ "usage": {
+  "prompt_tokens": 3061,
+  "completion_tokens": 363,
+  "cost_usd": null
+ }
+}

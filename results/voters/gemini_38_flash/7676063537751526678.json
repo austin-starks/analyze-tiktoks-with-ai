@@ -1,0 +1,19 @@
+{
+ "id": "7676063537751526678",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "borderline": true,
+  "claim_answered": "Dean Withers got a taste of his own medicine",
+  "evidence_seconds": 30,
+  "category": "news",
+  "alternate_category": "politics",
+  "reason": "Multi-part coverage of a viral internet case and the reactions surrounding the allegations"
+ },
+ "usage": {
+  "prompt_tokens": 3957,
+  "completion_tokens": 1349,
+  "cost_usd": null
+ }
+}

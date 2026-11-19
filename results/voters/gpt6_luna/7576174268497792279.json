@@ -1,0 +1,19 @@
+{
+ "id": "7576174268497792279",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "He is broke and fails to support his wife adequately",
+  "reason": "Pushes back on the wife's accusations and defends a man being blamed and disrespected by his partner.",
+  "evidence_seconds": 98
+ },
+ "usage": {
+  "prompt_tokens": 3344,
+  "completion_tokens": 420,
+  "cost_usd": null
+ }
+}

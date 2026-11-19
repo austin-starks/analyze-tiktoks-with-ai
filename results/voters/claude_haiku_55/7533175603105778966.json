@@ -1,0 +1,19 @@
+{
+ "id": "7533175603105778966",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "none",
+  "reason": "Dating advice translating women's phrases; mainly tips for men, with a jab at women seeking provision, which is borderline.",
+  "evidence_seconds": 29
+ },
+ "usage": {
+  "prompt_tokens": 4998,
+  "completion_tokens": 191,
+  "cost_usd": null
+ }
+}

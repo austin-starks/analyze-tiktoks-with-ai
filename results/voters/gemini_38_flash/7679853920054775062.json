@@ -1,0 +1,19 @@
+{
+ "id": "7679853920054775062",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "claim_answered": "Men alone touch the Juliet statue to harass female figures",
+  "reason": "Pushes back on a video vilifying men by showing that touching the statue is a tradition both women and men do.",
+  "alternate_category": "none",
+  "evidence_seconds": 48,
+  "borderline": false,
+  "category": "men"
+ },
+ "usage": {
+  "prompt_tokens": 3744,
+  "completion_tokens": 221,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7647502364034878742",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men in the West live in paradise while women alone are oppressed",
+  "reason": "Counters a narrative that minimizes men's struggles and presents men as oppressors while women suffer",
+  "evidence_seconds": 129
+ },
+ "usage": {
+  "prompt_tokens": 3737,
+  "completion_tokens": 260,
+  "cost_usd": null
+ }
+}

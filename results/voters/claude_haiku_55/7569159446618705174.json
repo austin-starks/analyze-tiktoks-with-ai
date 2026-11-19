@@ -1,0 +1,19 @@
+{
+ "id": "7569159446618705174",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Women who get the ick over harmless things are shallow, insecure, and toxic",
+  "reason": "Opens with a woman's ick clip, then argues women's \"ick\" culture is shallow and insecure; he runs women down, so women.",
+  "evidence_seconds": 39
+ },
+ "usage": {
+  "prompt_tokens": 4793,
+  "completion_tokens": 218,
+  "cost_usd": null
+ }
+}

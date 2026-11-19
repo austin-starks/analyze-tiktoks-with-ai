@@ -1,0 +1,19 @@
+{
+ "id": "7568768145624812822",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "men",
+  "claim_answered": "Men laughing together must have done something wrong or hit a woman",
+  "evidence_seconds": 37,
+  "reason": "He rebuts women claiming happy men are awful and likely violent"
+ },
+ "usage": {
+  "prompt_tokens": 3356,
+  "completion_tokens": 2875,
+  "cost_usd": null
+ }
+}

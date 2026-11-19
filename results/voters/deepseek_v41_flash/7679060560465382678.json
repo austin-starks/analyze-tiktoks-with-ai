@@ -1,0 +1,19 @@
+{
+ "id": "7679060560465382678",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "debate",
+  "claim_answered": "Men who picked the 18-year-old want younger, dependent women because they want the upper hand, not an equal",
+  "reason": "He rebuts a viral video's claim running men down, showing it misreads a joke challenge; another creator is answered but not one replying to him.",
+  "evidence_seconds": 28
+ },
+ "usage": {
+  "prompt_tokens": 3708,
+  "completion_tokens": 338,
+  "cost_usd": null
+ }
+}

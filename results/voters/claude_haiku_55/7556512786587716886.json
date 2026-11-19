@@ -1,0 +1,19 @@
+{
+ "id": "7556512786587716886",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Men today aren't real men because they can't change a tire or do an oil change",
+  "reason": "Pushes back on a claim that runs men down as not real men; also tells men to be useful, so partly agrees.",
+  "evidence_seconds": 23
+ },
+ "usage": {
+  "prompt_tokens": 4999,
+  "completion_tokens": 209,
+  "cost_usd": null
+ }
+}

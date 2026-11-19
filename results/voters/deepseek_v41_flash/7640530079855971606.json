@@ -1,0 +1,19 @@
+{
+ "id": "7640530079855971606",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "debate",
+  "claim_answered": "More than 1 in 3 men have sexually assaulted a woman",
+  "reason": "Answers a claim that runs men down, showing the 1-in-3 figure is women's victimization rate, not men's perpetration.",
+  "evidence_seconds": 77
+ },
+ "usage": {
+  "prompt_tokens": 4238,
+  "completion_tokens": 372,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7682113438805462294",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "news",
+  "reason": "Reporting and explaining the outcome, mistrial, and legal details of the ongoing Lindsay Clancy trial",
+  "alternate_category": "none",
+  "evidence_seconds": 13,
+  "borderline": false,
+  "claim_answered": "none"
+ },
+ "usage": {
+  "prompt_tokens": 3937,
+  "completion_tokens": 379,
+  "cost_usd": null
+ }
+}

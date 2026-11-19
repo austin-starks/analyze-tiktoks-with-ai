@@ -1,0 +1,19 @@
+{
+ "id": "7636408740261924118",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "debate",
+  "borderline": false,
+  "alternate_category": "women",
+  "claim_answered": "SimpleBlackTheory's critique of his earlier video: pregnancy maternal deaths should include late maternal deaths",
+  "reason": "Reply to a creator who responded to his earlier video and called him out directly, beating the sex categories.",
+  "evidence_seconds": 5
+ },
+ "usage": {
+  "prompt_tokens": 6189,
+  "completion_tokens": 222,
+  "cost_usd": null
+ }
+}

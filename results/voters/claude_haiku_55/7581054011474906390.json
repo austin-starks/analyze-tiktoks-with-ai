@@ -1,0 +1,19 @@
+{
+ "id": "7581054011474906390",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Women who are successful, rich and tough are what men want in a partner",
+  "reason": "Mocks a claim that runs women down as aggressive partners and pushes back on it; reads as dating advice, the alternative",
+  "evidence_seconds": 17
+ },
+ "usage": {
+  "prompt_tokens": 5126,
+  "completion_tokens": 210,
+  "cost_usd": null
+ }
+}

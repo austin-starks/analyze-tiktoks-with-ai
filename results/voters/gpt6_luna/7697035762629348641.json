@@ -1,0 +1,19 @@
+{
+ "id": "7697035762629348641",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men who do not abuse women directly benefit from other men’s violence",
+  "reason": "Challenges the evidence for a claim that assigns men collective benefit from violence against women",
+  "evidence_seconds": 270
+ },
+ "usage": {
+  "prompt_tokens": 4397,
+  "completion_tokens": 345,
+  "cost_usd": null
+ }
+}

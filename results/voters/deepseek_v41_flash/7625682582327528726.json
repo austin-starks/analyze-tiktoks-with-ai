@@ -1,0 +1,19 @@
+{
+ "id": "7625682582327528726",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "The gender pay gap is mainly caused by sexism and discrimination",
+  "reason": "Rebuts a claim blaming men/employers for women's pay disadvantage via an analogy",
+  "evidence_seconds": 155
+ },
+ "usage": {
+  "prompt_tokens": 3699,
+  "completion_tokens": 419,
+  "cost_usd": null
+ }
+}

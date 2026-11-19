@@ -1,0 +1,19 @@
+{
+ "id": "7617480520905100566",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Subscriber relationship-advice question about whether AI sexting crosses a couple’s boundaries; it targets neither sex as a group.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 3160,
+  "completion_tokens": 65,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7618963692230577430",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "men",
+  "claim_answered": "Men are good at nothing",
+  "evidence_seconds": 3,
+  "reason": "Pushes back on woman's claim that men are good at nothing, defending men"
+ },
+ "usage": {
+  "prompt_tokens": 3344,
+  "completion_tokens": 2585,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7580313586845699350",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Men who want wives should insult and hate women; men are bitter, hateful, and plotting to insult women into marriage",
+  "reason": "Rebuts a skit portraying men as hateful, manipulative, and plotting against women; defends men's image, with a note on both sexes' extremes.",
+  "evidence_seconds": 33
+ },
+ "usage": {
+  "prompt_tokens": 5118,
+  "completion_tokens": 236,
+  "cost_usd": null
+ }
+}

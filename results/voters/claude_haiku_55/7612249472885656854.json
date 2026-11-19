@@ -1,0 +1,19 @@
+{
+ "id": "7612249472885656854",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "none",
+  "reason": "Relationship advice listing signs of cheating; no rebuttal of a claim about men or women, so not a defense of either sex.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 5555,
+  "completion_tokens": 192,
+  "cost_usd": null
+ }
+}

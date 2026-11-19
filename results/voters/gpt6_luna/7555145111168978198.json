@@ -1,0 +1,19 @@
+{
+ "id": "7555145111168978198",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "If a guy really likes a woman, he is scared to touch her",
+  "reason": "Dating advice about showing confidence and physical interest; does not defend or criticize either sex as a group.",
+  "evidence_seconds": 24
+ },
+ "usage": {
+  "prompt_tokens": 3127,
+  "completion_tokens": 74,
+  "cost_usd": null
+ }
+}

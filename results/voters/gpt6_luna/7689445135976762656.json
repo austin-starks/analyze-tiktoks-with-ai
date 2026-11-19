@@ -1,0 +1,19 @@
+{
+ "id": "7689445135976762656",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "women",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "100% of women cheat within the first 90 days of a relationship",
+  "reason": "Rejects an unsupported claim that portrays women as universally unfaithful.",
+  "evidence_seconds": 48
+ },
+ "usage": {
+  "prompt_tokens": 3539,
+  "completion_tokens": 164,
+  "cost_usd": null
+ }
+}

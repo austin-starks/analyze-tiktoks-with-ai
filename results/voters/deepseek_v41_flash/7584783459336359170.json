@@ -1,0 +1,19 @@
+{
+ "id": "7584783459336359170",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "A man uncomfortable with his girlfriend's many guy friends is just insecure and controlling",
+  "reason": "Pushes back on a claim dismissing men's concerns as insecurity, though he says it works both ways",
+  "evidence_seconds": 17
+ },
+ "usage": {
+  "prompt_tokens": 3563,
+  "completion_tokens": 866,
+  "cost_usd": null
+ }
+}

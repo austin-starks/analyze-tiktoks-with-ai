@@ -1,0 +1,19 @@
+{
+ "id": "7684980915482660128",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "mixed",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Hating your bully is equivalent to a woman hating men or a black person hating white people",
+  "reason": "Rebuts an analogy defending group hatred against both sexes and races; not blaming one sex, so mixed.",
+  "evidence_seconds": 18
+ },
+ "usage": {
+  "prompt_tokens": 5480,
+  "completion_tokens": 215,
+  "cost_usd": null
+ }
+}

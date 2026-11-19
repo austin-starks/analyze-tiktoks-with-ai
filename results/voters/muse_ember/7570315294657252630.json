@@ -1,0 +1,19 @@
+{
+ "id": "7570315294657252630",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "misc",
+  "claim_answered": "none",
+  "evidence_seconds": 0,
+  "reason": "General catfishing dating advice for both sexes; no claim about men or women"
+ },
+ "usage": {
+  "prompt_tokens": 3175,
+  "completion_tokens": 4886,
+  "cost_usd": null
+ }
+}

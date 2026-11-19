@@ -1,0 +1,19 @@
+{
+ "id": "7636138868969917718",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "debate",
+  "borderline": false,
+  "alternate_category": "women",
+  "claim_answered": "SimpleBlackTheory's critique of his earlier reaction: live birth equates to pregnancy",
+  "reason": "Reply to a creator who responded to his earlier video and called him out directly.",
+  "evidence_seconds": 36
+ },
+ "usage": {
+  "prompt_tokens": 5707,
+  "completion_tokens": 207,
+  "cost_usd": null
+ }
+}

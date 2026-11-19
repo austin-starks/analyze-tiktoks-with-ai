@@ -1,0 +1,19 @@
+{
+ "id": "7644131994145705238",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "One in five men have sexual feelings for children and have offended against a child",
+  "reason": "Answers a viral claim that vilifies a large share of men by inflating the study's real figures",
+  "evidence_seconds": 85
+ },
+ "usage": {
+  "prompt_tokens": 4289,
+  "completion_tokens": 353,
+  "cost_usd": null
+ }
+}

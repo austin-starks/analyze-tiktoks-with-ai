@@ -1,0 +1,19 @@
+{
+ "id": "7579546575777713430",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "misc",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "Men sexualize and objectify women and abandon them after sex",
+  "evidence_seconds": 16,
+  "reason": "Pushes back on claim blaming men for her dating problems, defending men's hesitation"
+ },
+ "usage": {
+  "prompt_tokens": 3174,
+  "completion_tokens": 3952,
+  "cost_usd": null
+ }
+}

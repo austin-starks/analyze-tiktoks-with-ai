@@ -1,0 +1,246 @@
+{
+ "text": "Now, according to a post by black millionaires, it says couples who get married and the woman does not take on her husband's last name are about 50% more likely to divorce and tend to split around 30% earlier, according to research. Now, I don't know if this is true because I don't know what research they got this from. Well, I got curious if this is true, so I decided to check. So the claim is that couples are 50% more likely to divorce if the wife does not take her husband's last name and that they divorce around 30% earlier. These numbers come from an April 2026 article published by the Institute for Family Studies. So right off the bat, it's not a peer-reviewed study. It is just a blog post, so we should be extra careful with these claims. The author of the post analyzed Texas divorce records from 2016 and 2017, which included both spouses' last names and the duration of their marriage. Among couples who divorce, those sharing a last name had been married for approximately 12 years. Those with completely different last names lasted around 8 years, while couples with hyphenated or partially shared names were somewhere in between. So the claim that couples with different names divorce around 30% earlier are mainly based on these records. Fair enough, but this comparison included only couples who got divorced. It doesn't automatically tell us that couples with different last names were more likely to divorce in the first place. To calculate that, you would need to know how many Texas marriages used each naming arrangement, and that information was not available. So where did the 50% more likely figure come from? A National Pew survey from 2023 suggested that approximately 77% of married couples shared a last name, meaning around 23% did not. But among the Texas couples divorcing in 2016 and 2017, only 64% shared a last name, while 36% did not. So couples with different last names represented approximately 23% of marriages, but 36% of divorces. If both groups divorced at the same rate, we would expect their share of divorces to be much closer to their share of marriages. Because couples with different last names were overrepresented among divorces, the author estimated that their divorce rate was around 50% higher. I know it is a little bit confusing, but there is a major limitation. The 23% figure came from a national survey conducted in 2023, not from the population of married Texas couples in 2016 and 2017. The author, therefore, had to assume that last-name practices in Texas were approximately the same as those found nationally 6 or 7 years later. Even the author describes this comparison as a loose approximation. It suggests that couples with different last names may divorce more frequently, but it doesn't establish a reliable 50% difference. And even if this association is real, it still does not establish causation. Couples who share a last name and couples who do not are not randomly selected groups. Women who keep their last names are more likely to be younger, more educated, less religious, and politically liberal. These characteristics may also be connected with different attitudes towards marriage and divorce. The author himself acknowledges that there are very large selection biases and that the observed differences may not be mostly causal. Perhaps sharing a last name strengthens a couple's sense of common identity. But it is equally possible that more traditional couples are both more likely to share a name and more reluctant to divorce. There is also one peer-reviewed study from 2021 that points in the same direction on marriage duration. It found that marriages lasted around 60% longer when the woman changed her last name, even after controlling for her age at marriage. But it examined only 107 divorcing couples in one Canadian county, and like the Texas records, it only looked at marriages that ended, so it could not establish whether either group was more likely to divorce in the first place. So the verdict? The numbers have a real source, and the association appears in both analyses, so it shouldn't simply be dismissed. But the 50% figure is a rough estimate stitched together from two different data sets. And even the author says we cannot conclude that the effect is entirely, or even mostly, causal. Based on the available evidence, sharing a last name looks more like a marker of the kind of couple that was already less likely to divorce than a demonstrated cause of staying together.",
+ "duration": 208.7100067138672,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.359999895095825,
+   "text": " Now, according to a post by black millionaires, it says couples who get married and the woman"
+  },
+  {
+   "start": 3.359999895095825,
+   "end": 7.360000133514404,
+   "text": " does not take on her husband's last name are about 50% more likely to divorce and tend to"
+  },
+  {
+   "start": 7.360000133514404,
+   "end": 11.760000228881836,
+   "text": " split around 30% earlier, according to research. Now, I don't know if this is true because I don't"
+  },
+  {
+   "start": 11.760000228881836,
+   "end": 14.640000343322754,
+   "text": " know what research they got this from. Well, I got curious if this is true,"
+  },
+  {
+   "start": 14.640000343322754,
+   "end": 19.1200008392334,
+   "text": " so I decided to check. So the claim is that couples are 50% more likely to divorce if the"
+  },
+  {
+   "start": 19.1200008392334,
+   "end": 23.280000686645508,
+   "text": " wife does not take her husband's last name and that they divorce around 30% earlier."
+  },
+  {
+   "start": 23.280000686645508,
+   "end": 27.68000030517578,
+   "text": " These numbers come from an April 2026 article published by the Institute for Family Studies."
+  },
+  {
+   "start": 27.68000030517578,
+   "end": 31.84000015258789,
+   "text": " So right off the bat, it's not a peer-reviewed study. It is just a blog post, so we should be"
+  },
+  {
+   "start": 31.84000015258789,
+   "end": 36.720001220703125,
+   "text": " extra careful with these claims. The author of the post analyzed Texas divorce records from 2016 and"
+  },
+  {
+   "start": 36.720001220703125,
+   "end": 41.36000061035156,
+   "text": " 2017, which included both spouses' last names and the duration of their marriage. Among couples who"
+  },
+  {
+   "start": 41.36000061035156,
+   "end": 45.84000015258789,
+   "text": " divorce, those sharing a last name had been married for approximately 12 years. Those with"
+  },
+  {
+   "start": 45.84000015258789,
+   "end": 50.47999954223633,
+   "text": " completely different last names lasted around 8 years, while couples with hyphenated or partially"
+  },
+  {
+   "start": 50.47999954223633,
+   "end": 54.400001525878906,
+   "text": " shared names were somewhere in between. So the claim that couples with different names divorce"
+  },
+  {
+   "start": 54.400001525878906,
+   "end": 59.20000076293945,
+   "text": " around 30% earlier are mainly based on these records. Fair enough, but this comparison included"
+  },
+  {
+   "start": 59.20000076293945,
+   "end": 62.47999954223633,
+   "text": " only couples who got divorced. It doesn't automatically tell us that couples with"
+  },
+  {
+   "start": 62.47999954223633,
+   "end": 66.55999755859375,
+   "text": " different last names were more likely to divorce in the first place. To calculate that, you would"
+  },
+  {
+   "start": 66.55999755859375,
+   "end": 71.12000274658203,
+   "text": " need to know how many Texas marriages used each naming arrangement, and that information was not"
+  },
+  {
+   "start": 71.12000274658203,
+   "end": 76.0,
+   "text": " available. So where did the 50% more likely figure come from? A National Pew survey from 2023"
+  },
+  {
+   "start": 76.0,
+   "end": 81.04000091552734,
+   "text": " suggested that approximately 77% of married couples shared a last name, meaning around 23%"
+  },
+  {
+   "start": 81.04000091552734,
+   "end": 86.23999786376953,
+   "text": " did not. But among the Texas couples divorcing in 2016 and 2017, only 64% shared a last name,"
+  },
+  {
+   "start": 86.23999786376953,
+   "end": 92.0,
+   "text": " while 36% did not. So couples with different last names represented approximately 23% of marriages,"
+  },
+  {
+   "start": 92.0,
+   "end": 96.87999725341797,
+   "text": " but 36% of divorces. If both groups divorced at the same rate, we would expect their share of"
+  },
+  {
+   "start": 96.87999725341797,
+   "end": 100.80000305175781,
+   "text": " divorces to be much closer to their share of marriages. Because couples with different last"
+  },
+  {
+   "start": 100.80000305175781,
+   "end": 104.80000305175781,
+   "text": " names were overrepresented among divorces, the author estimated that their divorce rate was"
+  },
+  {
+   "start": 104.80000305175781,
+   "end": 108.31999969482422,
+   "text": " around 50% higher. I know it is a little bit confusing, but there is a major limitation."
+  },
+  {
+   "start": 108.31999969482422,
+   "end": 112.87999725341797,
+   "text": " The 23% figure came from a national survey conducted in 2023, not from the population of"
+  },
+  {
+   "start": 112.87999725341797,
+   "end": 117.76000213623047,
+   "text": " married Texas couples in 2016 and 2017. The author, therefore, had to assume that last-name practices"
+  },
+  {
+   "start": 117.76000213623047,
+   "end": 122.08000183105469,
+   "text": " in Texas were approximately the same as those found nationally 6 or 7 years later. Even the"
+  },
+  {
+   "start": 122.08000183105469,
+   "end": 125.91999816894531,
+   "text": " author describes this comparison as a loose approximation. It suggests that couples with"
+  },
+  {
+   "start": 125.91999816894531,
+   "end": 130.8000030517578,
+   "text": " different last names may divorce more frequently, but it doesn't establish a reliable 50% difference."
+  },
+  {
+   "start": 130.8000030517578,
+   "end": 135.36000061035156,
+   "text": " And even if this association is real, it still does not establish causation. Couples who share"
+  },
+  {
+   "start": 135.36000061035156,
+   "end": 139.60000610351562,
+   "text": " a last name and couples who do not are not randomly selected groups. Women who keep their"
+  },
+  {
+   "start": 139.60000610351562,
+   "end": 144.0800018310547,
+   "text": " last names are more likely to be younger, more educated, less religious, and politically liberal."
+  },
+  {
+   "start": 144.0800018310547,
+   "end": 148.16000366210938,
+   "text": " These characteristics may also be connected with different attitudes towards marriage and divorce."
+  },
+  {
+   "start": 148.16000366210938,
+   "end": 152.39999389648438,
+   "text": " The author himself acknowledges that there are very large selection biases and that the observed"
+  },
+  {
+   "start": 152.39999389648438,
+   "end": 156.63999938964844,
+   "text": " differences may not be mostly causal. Perhaps sharing a last name strengthens a couple's sense"
+  },
+  {
+   "start": 156.63999938964844,
+   "end": 161.1999969482422,
+   "text": " of common identity. But it is equally possible that more traditional couples are both more likely to"
+  },
+  {
+   "start": 161.1999969482422,
+   "end": 165.52000427246094,
+   "text": " share a name and more reluctant to divorce. There is also one peer-reviewed study from 2021"
+  },
+  {
+   "start": 165.52000427246094,
+   "end": 169.1199951171875,
+   "text": " that points in the same direction on marriage duration. It found that marriages lasted around"
+  },
+  {
+   "start": 169.1199951171875,
+   "end": 174.0800018310547,
+   "text": " 60% longer when the woman changed her last name, even after controlling for her age at marriage."
+  },
+  {
+   "start": 174.0800018310547,
+   "end": 179.52000427246094,
+   "text": " But it examined only 107 divorcing couples in one Canadian county, and like the Texas records,"
+  },
+  {
+   "start": 179.52000427246094,
+   "end": 183.52000427246094,
+   "text": " it only looked at marriages that ended, so it could not establish whether either group was"
+  },
+  {
+   "start": 183.52000427246094,
+   "end": 187.52000427246094,
+   "text": " more likely to divorce in the first place. So the verdict? The numbers have a real source,"
+  },
+  {
+   "start": 187.52000427246094,
+   "end": 191.27999877929688,
+   "text": " and the association appears in both analyses, so it shouldn't simply be dismissed."
+  },
+  {
+   "start": 191.27999877929688,
+   "end": 195.83999633789062,
+   "text": " But the 50% figure is a rough estimate stitched together from two different data sets. And even"
+  },
+  {
+   "start": 195.83999633789062,
+   "end": 200.39999389648438,
+   "text": " the author says we cannot conclude that the effect is entirely, or even mostly, causal."
+  },
+  {
+   "start": 200.39999389648438,
+   "end": 204.39999389648438,
+   "text": " Based on the available evidence, sharing a last name looks more like a marker of the kind of"
+  },
+  {
+   "start": 204.39999389648438,
+   "end": 208.55999755859375,
+   "text": " couple that was already less likely to divorce than a demonstrated cause of staying together."
+  }
+ ]
+}

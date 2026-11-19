@@ -1,0 +1,19 @@
+{
+ "id": "7545107423749623062",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Dating advice telling men to ask women out rather than wait; no claim about men or women as groups",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 3399,
+  "completion_tokens": 146,
+  "cost_usd": null
+ }
+}

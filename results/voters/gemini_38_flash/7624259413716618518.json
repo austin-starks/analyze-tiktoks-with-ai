@@ -1,0 +1,19 @@
+{
+ "id": "7624259413716618518",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Viewer DM answering relationship advice and self-respect tips without refuting a claim about men or women.",
+  "category": "misc",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 3834,
+  "completion_tokens": 619,
+  "cost_usd": null
+ }
+}

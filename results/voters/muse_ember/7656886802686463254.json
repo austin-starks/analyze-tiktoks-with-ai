@@ -1,0 +1,19 @@
+{
+ "id": "7656886802686463254",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "men",
+  "claim_answered": "100% of men accused of rape deny it",
+  "evidence_seconds": 98,
+  "reason": "Pushes back on claim that accused men always lie, defending men"
+ },
+ "usage": {
+  "prompt_tokens": 3717,
+  "completion_tokens": 4291,
+  "cost_usd": null
+ }
+}

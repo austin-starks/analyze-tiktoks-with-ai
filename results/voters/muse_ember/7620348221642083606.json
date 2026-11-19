@@ -1,0 +1,19 @@
+{
+ "id": "7620348221642083606",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "misc",
+  "claim_answered": "none",
+  "evidence_seconds": 0,
+  "reason": "Reaction to a dating anecdote with advice to men; answers no general claim about men or women"
+ },
+ "usage": {
+  "prompt_tokens": 3551,
+  "completion_tokens": 2349,
+  "cost_usd": null
+ }
+}

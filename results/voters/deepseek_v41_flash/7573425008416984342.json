@@ -1,0 +1,19 @@
+{
+ "id": "7573425008416984342",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Today's men are weaker and less real than men of the past",
+  "reason": "Rebuts a claim running down modern men, showing past men were laborers and men still contribute",
+  "evidence_seconds": 26
+ },
+ "usage": {
+  "prompt_tokens": 3478,
+  "completion_tokens": 293,
+  "cost_usd": null
+ }
+}

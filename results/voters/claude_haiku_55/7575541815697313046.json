@@ -1,0 +1,19 @@
+{
+ "id": "7575541815697313046",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "mixed",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "In relationships the man has to love the woman more",
+  "reason": "Rejects a claim about couples without blaming either sex; says problems go both ways. Dating advice could also fit misc.",
+  "evidence_seconds": 7
+ },
+ "usage": {
+  "prompt_tokens": 4881,
+  "completion_tokens": 204,
+  "cost_usd": null
+ }
+}

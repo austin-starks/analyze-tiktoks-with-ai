@@ -1,0 +1,19 @@
+{
+ "id": "7631579441566600470",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "claim_answered": "Women should distrust all men because some are bad",
+  "category": "men",
+  "alternate_category": "none",
+  "evidence_seconds": 70,
+  "reason": "Rebuts a viral analogy that justifies treating all men as dangerous or contaminated.",
+  "borderline": false
+ },
+ "usage": {
+  "prompt_tokens": 3266,
+  "completion_tokens": 603,
+  "cost_usd": null
+ }
+}

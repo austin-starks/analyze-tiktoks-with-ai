@@ -1,0 +1,18 @@
+{
+ "id": "7580661544665664771",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "reason": "Rule 3 (misc): reacts to a street interview and gives general dating advice about red flags and pasts without answering a claim about men or women.",
+  "category": "misc",
+  "claim_answered": "none",
+  "borderline": false,
+  "evidence_seconds": 96,
+  "alternate_category": "none"
+ },
+ "usage": {
+  "prompt_tokens": 3451,
+  "completion_tokens": 1569,
+  "cost_usd": null
+ }
+}

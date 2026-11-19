@@ -1,0 +1,19 @@
+{
+ "id": "7620048877365906710",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Am I overreacting to my girlfriend's disrespectful behavior?",
+  "reason": "Relationship advice reacting to a viewer story; no general claim about men or women is defended.",
+  "evidence_seconds": 11
+ },
+ "usage": {
+  "prompt_tokens": 4350,
+  "completion_tokens": 306,
+  "cost_usd": null
+ }
+}

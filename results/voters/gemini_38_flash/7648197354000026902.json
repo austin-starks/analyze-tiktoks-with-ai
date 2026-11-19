@@ -1,0 +1,19 @@
+{
+ "id": "7648197354000026902",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "claim_answered": "SimpleBlackTheory's claim that Ilyas argued men have it harder",
+  "category": "debate",
+  "reason": "Direct reply to a creator who responded to and criticized his earlier video",
+  "evidence_seconds": 36
+ },
+ "usage": {
+  "prompt_tokens": 4123,
+  "completion_tokens": 297,
+  "cost_usd": null
+ }
+}

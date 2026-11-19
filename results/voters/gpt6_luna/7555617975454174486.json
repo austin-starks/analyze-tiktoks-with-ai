@@ -1,0 +1,19 @@
+{
+ "id": "7555617975454174486",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "A one-time cheater is more understandable, and reformed cheaters can be trusted",
+  "reason": "General relationship advice about cheating; it does not answer a claim about men or women as a group",
+  "evidence_seconds": 23
+ },
+ "usage": {
+  "prompt_tokens": 3123,
+  "completion_tokens": 193,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7693533048557587745",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "debate",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "GoodTrouble's portrayal of his \"Mansplaining Feminism\" series as misogynistic",
+  "reason": "Replies to another creator's reaction/call-out of his own video, correcting his portrayal",
+  "evidence_seconds": 38
+ },
+ "usage": {
+  "prompt_tokens": 4377,
+  "completion_tokens": 192,
+  "cost_usd": null
+ }
+}

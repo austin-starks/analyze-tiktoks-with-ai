@@ -1,0 +1,19 @@
+{
+ "id": "7659449622141619489",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Channel news: a paid membership pitch about his own account and monetization, answering no claim about men or women.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 5599,
+  "completion_tokens": 184,
+  "cost_usd": null
+ }
+}

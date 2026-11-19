@@ -1,0 +1,19 @@
+{
+ "id": "7637908664338222358",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Breakup recovery and dating advice; he answers no claim about men or women.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 3934,
+  "completion_tokens": 94,
+  "cost_usd": null
+ }
+}

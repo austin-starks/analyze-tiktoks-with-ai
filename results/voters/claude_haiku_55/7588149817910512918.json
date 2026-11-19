@@ -1,0 +1,19 @@
+{
+ "id": "7588149817910512918",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Relationships are hard work and love requires constant effort",
+  "reason": "General relationship advice about choosing the right partner; the claim about effort blames neither sex.",
+  "evidence_seconds": 5
+ },
+ "usage": {
+  "prompt_tokens": 5016,
+  "completion_tokens": 198,
+  "cost_usd": null
+ }
+}

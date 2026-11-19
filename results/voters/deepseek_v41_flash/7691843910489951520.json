@@ -1,0 +1,19 @@
+{
+ "id": "7691843910489951520",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "news",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Part 2 of ongoing coverage of the Cornell fraternity case, laying out new reporting rather than answering a claim about men or women generally",
+  "evidence_seconds": 14
+ },
+ "usage": {
+  "prompt_tokens": 4468,
+  "completion_tokens": 218,
+  "cost_usd": null
+ }
+}

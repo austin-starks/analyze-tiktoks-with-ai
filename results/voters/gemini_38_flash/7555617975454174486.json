@@ -1,0 +1,19 @@
+{
+ "id": "7555617975454174486",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "reason": "General dating and relationship advice about cheating; answers no claim about men or women.",
+  "borderline": false,
+  "claim_answered": "Reformed cheaters exist and one-time cheating is understandable",
+  "evidence_seconds": 21,
+  "alternate_category": "none",
+  "category": "misc"
+ },
+ "usage": {
+  "prompt_tokens": 3341,
+  "completion_tokens": 907,
+  "cost_usd": null
+ }
+}

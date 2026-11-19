@@ -1,0 +1,19 @@
+{
+ "id": "7625272494852672790",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "Women earn 82 cents for every dollar men earn because of discrimination",
+  "reason": "Pushes back on a claim that women are disadvantaged in pay, but acknowledges a remaining unexplained gap.",
+  "evidence_seconds": 156
+ },
+ "usage": {
+  "prompt_tokens": 3459,
+  "completion_tokens": 74,
+  "cost_usd": null
+ }
+}

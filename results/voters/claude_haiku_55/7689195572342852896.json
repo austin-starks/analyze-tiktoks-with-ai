@@ -1,0 +1,19 @@
+{
+ "id": "7689195572342852896",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "news",
+  "claim_answered": "Converse's ad with Karina secretly depicted KKK and lynching imagery, a deliberate racist message",
+  "reason": "Covers a viral brand controversy about Converse's ad; no claim about men or women, so not a gender category.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 5756,
+  "completion_tokens": 220,
+  "cost_usd": null
+ }
+}

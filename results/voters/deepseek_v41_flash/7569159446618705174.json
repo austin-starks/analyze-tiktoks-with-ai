@@ -1,0 +1,19 @@
+{
+ "id": "7569159446618705174",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Women who get the \"ick\" over harmless things are picky with standards",
+  "reason": "Pushes back on a claim that runs women down as shallow, insecure and toxic, though framed as dating advice to men",
+  "evidence_seconds": 20
+ },
+ "usage": {
+  "prompt_tokens": 3295,
+  "completion_tokens": 329,
+  "cost_usd": null
+ }
+}

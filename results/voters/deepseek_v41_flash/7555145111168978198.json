@@ -1,0 +1,19 @@
+{
+ "id": "7555145111168978198",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "If a guy really likes you, he's scared to touch you",
+  "reason": "Dating/confidence advice for men; he disputes a psychology claim rather than defending a sex's reputation.",
+  "evidence_seconds": 24
+ },
+ "usage": {
+  "prompt_tokens": 3500,
+  "completion_tokens": 776,
+  "cost_usd": null
+ }
+}

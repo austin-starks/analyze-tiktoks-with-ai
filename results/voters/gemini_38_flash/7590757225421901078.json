@@ -1,0 +1,19 @@
+{
+ "id": "7590757225421901078",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "misc",
+  "reason": "Viewer DM and Q&A providing dating and relationship advice, answering no general claim about men or women.",
+  "evidence_seconds": 13,
+  "borderline": false,
+  "claim_answered": "none",
+  "alternate_category": "none"
+ },
+ "usage": {
+  "prompt_tokens": 4902,
+  "completion_tokens": 445,
+  "cost_usd": null
+ }
+}

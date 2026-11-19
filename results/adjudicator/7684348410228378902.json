@@ -1,0 +1,18 @@
+{
+ "id": "7684348410228378902",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "reason": "Mixed rule: the sensational claim is centrally about both sexes' employment without blaming either, and he fact-checks both.",
+  "borderline": true,
+  "evidence_seconds": 254,
+  "alternate_category": "men",
+  "category": "mixed",
+  "claim_answered": "Women got 98% of new jobs, men are being pushed out of the workforce, and matriarchy is here."
+ },
+ "usage": {
+  "prompt_tokens": 4610,
+  "completion_tokens": 5387,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7693217471829904672",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "women",
+  "borderline": false,
+  "alternate_category": "mixed",
+  "claim_answered": "Women don't think, they just feel — women are illogical and purely emotional",
+  "reason": "The claim runs women down; his \"neither sex fits the stereotype\" answer still belongs to the sex the claim attacked.",
+  "evidence_seconds": 26
+ },
+ "usage": {
+  "prompt_tokens": 4276,
+  "completion_tokens": 354,
+  "cost_usd": null
+ }
+}

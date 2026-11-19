@@ -1,0 +1,19 @@
+{
+ "id": "7690233503568481569",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "mixed",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "Women are way funnier than men and every man copies the funniest woman he knows",
+  "evidence_seconds": 14,
+  "reason": "Pushes back on claim that women are way funnier and men only copy women, running men down"
+ },
+ "usage": {
+  "prompt_tokens": 3619,
+  "completion_tokens": 4393,
+  "cost_usd": null
+ }
+}

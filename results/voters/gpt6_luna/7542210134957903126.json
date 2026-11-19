@@ -1,0 +1,19 @@
+{
+ "id": "7542210134957903126",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Self-improvement and dating motivation; it challenges no claim about men or women.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 3166,
+  "completion_tokens": 57,
+  "cost_usd": null
+ }
+}

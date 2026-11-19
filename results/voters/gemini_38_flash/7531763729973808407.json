@@ -1,0 +1,19 @@
+{
+ "id": "7531763729973808407",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "alternate_category": "none",
+  "evidence_seconds": 0,
+  "borderline": false,
+  "category": "misc",
+  "claim_answered": "none",
+  "reason": "General dating and relationship advice; answers no empirical claim about a group"
+ },
+ "usage": {
+  "prompt_tokens": 3237,
+  "completion_tokens": 279,
+  "cost_usd": null
+ }
+}

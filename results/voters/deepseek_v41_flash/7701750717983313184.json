@@ -1,0 +1,19 @@
+{
+ "id": "7701750717983313184",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Chinese women beat American men, showing women outplay men and men rely on brute force",
+  "reason": "Answers a viral claim that runs men down and uses women's win to say men suck, though he also debunks a media framing",
+  "evidence_seconds": 58
+ },
+ "usage": {
+  "prompt_tokens": 5438,
+  "completion_tokens": 417,
+  "cost_usd": null
+ }
+}

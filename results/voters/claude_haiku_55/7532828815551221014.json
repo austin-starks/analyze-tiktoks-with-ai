@@ -1,0 +1,19 @@
+{
+ "id": "7532828815551221014",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "A girl who sleeps with you quickly is low-quality or easy to get",
+  "reason": "Pushes back on a claim that runs women down for quick sex; no speaker clip, so the claim is the slut-shaming framing.",
+  "evidence_seconds": 13
+ },
+ "usage": {
+  "prompt_tokens": 4807,
+  "completion_tokens": 216,
+  "cost_usd": null
+ }
+}

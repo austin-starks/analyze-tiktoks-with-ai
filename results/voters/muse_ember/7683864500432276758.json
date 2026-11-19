@@ -1,0 +1,19 @@
+{
+ "id": "7683864500432276758",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "misc",
+  "claim_answered": "none",
+  "evidence_seconds": 0,
+  "reason": "Viewer Q&A giving self-improvement advice on independent thinking; answers no claim about men or women"
+ },
+ "usage": {
+  "prompt_tokens": 3655,
+  "completion_tokens": 965,
+  "cost_usd": null
+ }
+}

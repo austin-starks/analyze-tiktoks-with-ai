@@ -1,0 +1,19 @@
+{
+ "id": "7663131126491385121",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "evidence_seconds": 132,
+  "claim_answered": "Looks are all that matter in dating",
+  "borderline": true,
+  "category": "misc",
+  "alternate_category": "men",
+  "reason": "General dating advice and self-improvement motivation rejecting the fatalistic black pill mindset"
+ },
+ "usage": {
+  "prompt_tokens": 4082,
+  "completion_tokens": 1114,
+  "cost_usd": null
+ }
+}

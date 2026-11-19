@@ -1,0 +1,19 @@
+{
+ "id": "7662739718399986977",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "mixed",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Women are attracted to Haaland mainly for his energy, not his looks or status",
+  "reason": "Challenges a claim about women’s preferences that neither attacks men nor unfairly blames either sex",
+  "evidence_seconds": 54
+ },
+ "usage": {
+  "prompt_tokens": 3702,
+  "completion_tokens": 369,
+  "cost_usd": null
+ }
+}

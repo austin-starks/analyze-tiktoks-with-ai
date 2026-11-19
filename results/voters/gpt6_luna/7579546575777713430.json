@@ -1,0 +1,19 @@
+{
+ "id": "7579546575777713430",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men sexualize her and lose interest after sex despite her wanting romance",
+  "reason": "Pushes back on her blaming men for the outcome, arguing her past behavior explains why serious men hesitate.",
+  "evidence_seconds": 43
+ },
+ "usage": {
+  "prompt_tokens": 3176,
+  "completion_tokens": 348,
+  "cost_usd": null
+ }
+}

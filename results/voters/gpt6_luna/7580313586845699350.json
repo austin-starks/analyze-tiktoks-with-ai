@@ -1,0 +1,19 @@
+{
+ "id": "7580313586845699350",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "The skit portrays men as hateful toward women and driven by resentment and money concerns.",
+  "reason": "He rejects projecting extreme anti-women views from a skit onto men generally.",
+  "evidence_seconds": 55
+ },
+ "usage": {
+  "prompt_tokens": 3152,
+  "completion_tokens": 72,
+  "cost_usd": null
+ }
+}

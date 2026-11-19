@@ -1,0 +1,19 @@
+{
+ "id": "7577335530967420182",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "borderline": false,
+  "evidence_seconds": 28,
+  "reason": "Pushes back against a claim running men down and telling them to 'sack up' while ignoring men's burdens.",
+  "claim_answered": "Men have no excuse for failing to show up or do what they are supposed to do",
+  "alternate_category": "none",
+  "category": "men"
+ },
+ "usage": {
+  "prompt_tokens": 3499,
+  "completion_tokens": 432,
+  "cost_usd": null
+ }
+}

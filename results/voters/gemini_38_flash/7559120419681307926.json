@@ -1,0 +1,19 @@
+{
+ "id": "7559120419681307926",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "alternate_category": "men",
+  "claim_answered": "Men must text within hours after a date if they like you",
+  "borderline": true,
+  "category": "misc",
+  "evidence_seconds": 13,
+  "reason": "General dating advice and texting tips for men after a first date"
+ },
+ "usage": {
+  "prompt_tokens": 3030,
+  "completion_tokens": 1033,
+  "cost_usd": null
+ }
+}

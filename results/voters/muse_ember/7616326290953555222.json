@@ -1,0 +1,19 @@
+{
+ "id": "7616326290953555222",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "women",
+  "claim_answered": "Every idea from a woman is lunacy and men should not listen to women",
+  "evidence_seconds": 41,
+  "reason": "He rebuts a guy claiming women's ideas are lunacy, defending women's rationality and respect"
+ },
+ "usage": {
+  "prompt_tokens": 3340,
+  "completion_tokens": 2856,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7554342730105670934",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "men",
+  "claim_answered": "A man who cooks, cleans, works and communicates is extraordinary",
+  "evidence_seconds": 46,
+  "reason": "Pushes back on claim that basic adult skills make a man extraordinary, implying men normally fail them"
+ },
+ "usage": {
+  "prompt_tokens": 3030,
+  "completion_tokens": 3994,
+  "cost_usd": null
+ }
+}

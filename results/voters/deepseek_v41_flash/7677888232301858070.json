@@ -1,0 +1,19 @@
+{
+ "id": "7677888232301858070",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "news",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "Patrick Clancy killed his children and framed his mentally ill wife",
+  "reason": "Part 4 of ongoing trial coverage; the claims target a specific husband in the case, not men in general.",
+  "evidence_seconds": 17
+ },
+ "usage": {
+  "prompt_tokens": 4014,
+  "completion_tokens": 467,
+  "cost_usd": null
+ }
+}

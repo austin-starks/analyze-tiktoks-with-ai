@@ -1,0 +1,19 @@
+{
+ "id": "7680094337362922774",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "debate",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Public Offender's rebuttal that hypergamy is about more than income",
+  "reason": "He answers a creator's follow-up response to his earlier hypergamy video, point by point",
+  "evidence_seconds": 21
+ },
+ "usage": {
+  "prompt_tokens": 4461,
+  "completion_tokens": 275,
+  "cost_usd": null
+ }
+}

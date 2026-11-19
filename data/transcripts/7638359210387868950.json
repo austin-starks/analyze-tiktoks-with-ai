@@ -1,0 +1,476 @@
+{
+ "text": "Ready for some of the top Google searches in 2025? How to f**k a woman without leaving a trace was googled 163 million times. And then the phrase, he is going to kill me, was googled 107 million times. Let that sink in. I often get messages from you asking, man, how can I debate like you? Or how do you do your research? I want to learn it. So today I decided not only to talk, but also to show you how I actually do it. For some of you, this might be common sense, but for others, maybe it will clarify a few things. Now, please understand, this is not some formal scientific method. This is more of a hands-on simplified version because we're dealing with time limits. First of all, you need to understand what question you are trying to answer. In this case, it is quite simple. The guy in the video claims that in 2025 the phrase, how to kill a woman without leaving a trace was googled 163 million times. And the phrase, he is going to kill me, was googled 107 million times. So the question is, is that true? Second, where do you start? In today's world, the answer is pretty simple. You ask AI. And yes, I know this may sound controversial to some people, but AI is too useful to ignore. Its effectiveness is crazy. You can decide which AI you want to use. For basic research like this, chat GPT, Gemini, or Cloud should all give you a pretty solid starting point. Or better yet, use two or three of them and cross-check the answers. For today's demonstration, I will use Google's AI, Gemini. At the end of the day, we are talking about Google searches here. Prompting is quite important. Try to ask the question without putting too much bias into it, or simply ask it to give you an unbiased, objective answer. In my case, I just wrote what the guy said in the video and asked Gemini to check whether it was true. Probably not the most perfect prompt in the world, but it does the job. And the result actually surprised me a little bit, because normally AI gives you a vague answer, and then you need to dig deeper. But here, Gemini basically says, their claims are entirely false. I guess Gemini took it personally that someone was misrepresenting Google search information. Now, of course, you cannot just be satisfied with an answer because AI told you so. You need to understand the reasoning behind it. And ideally, you should even play devil's advocate, because this is exactly what the person you are reacting to might do. Gemini says that these statistics most likely come from an old 2021 research paper that was widely criticized and later debunked. The problem was that the number 163 million did not mean the phrase was searched 163 million times. It was basically the number of Google search results that appeared. And that is a completely different thing. That is a good start. Ideally, you should even go and familiarize yourself with that article and the debunking. But you should also notice something important. The phrase from the 2021 claim was not how to K-I-L-L a woman without leaving a trace. It was how to H-I-T a woman so no one knows. So the phrase is different. Also, that claim was from 2021, while this guy is talking about 2025. So at this point, you still do not have the full answer. You need to continue. Then Gemini explains why the claim is extremely unlikely. And this is the real gem. It explains that the most searched terms on Google are usually single word, broad, simple things like YouTube, weather, or Amazon. It says that even a huge search term like weather in the US typically gets around 110 to 100 million searches per month. So when someone tells you that a long specific sentence like how to K-I-L-L a woman without leaving a trace was googled 163 million times a year, which would be around 13.5 million per month, that should immediately raise red flags. Because this is what is called a long tail search phrase, a very specific multi-word sentence. And long tail phrases usually do not get search volume anywhere near the biggest search terms on the internet. If that phrase really had 163 million searches, it would be one of the most searched things on Google, competing with major global brands, world events, celebrities, and everyday search terms. As a comparison, according to SEO tool like SEMrush, an extremely popular phrase like what time is it, gets 2.24 million searches per month globally, which is nowhere near 13.5 or 8.9 million we have for the phrases in question. Of course, even at this point, you already have a pretty strong argument that the claims in the video are false. But to be more careful, I would still double check the key information Gemini gave me. Then I would also check Google Trends. It doesn't give you exact raw search count, but it does show how popular a search term was over time. And with all of that, you have a much stronger basis to explain why the information in the video is false.",
+ "duration": 236.1699981689453,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.200000047683716,
+   "text": " Ready for some of the top Google searches in 2025?"
+  },
+  {
+   "start": 3.200000047683716,
+   "end": 8.640000343322754,
+   "text": " How to f**k a woman without leaving a trace was googled 163 million times."
+  },
+  {
+   "start": 8.640000343322754,
+   "end": 13.4399995803833,
+   "text": " And then the phrase, he is going to kill me, was googled 107 million times."
+  },
+  {
+   "start": 13.4399995803833,
+   "end": 14.479999542236328,
+   "text": " Let that sink in."
+  },
+  {
+   "start": 14.479999542236328,
+   "end": 18.079999923706055,
+   "text": " I often get messages from you asking, man, how can I debate like you?"
+  },
+  {
+   "start": 18.079999923706055,
+   "end": 20.31999969482422,
+   "text": " Or how do you do your research? I want to learn it."
+  },
+  {
+   "start": 20.31999969482422,
+   "end": 24.15999984741211,
+   "text": " So today I decided not only to talk, but also to show you how I actually do it."
+  },
+  {
+   "start": 24.15999984741211,
+   "end": 28.399999618530273,
+   "text": " For some of you, this might be common sense, but for others, maybe it will clarify a few things."
+  },
+  {
+   "start": 28.399999618530273,
+   "end": 31.440000534057617,
+   "text": " Now, please understand, this is not some formal scientific method."
+  },
+  {
+   "start": 31.440000534057617,
+   "end": 35.119998931884766,
+   "text": " This is more of a hands-on simplified version because we're dealing with time limits."
+  },
+  {
+   "start": 35.119998931884766,
+   "end": 38.15999984741211,
+   "text": " First of all, you need to understand what question you are trying to answer."
+  },
+  {
+   "start": 38.15999984741211,
+   "end": 39.599998474121094,
+   "text": " In this case, it is quite simple."
+  },
+  {
+   "start": 39.599998474121094,
+   "end": 42.400001525878906,
+   "text": " The guy in the video claims that in 2025 the phrase,"
+  },
+  {
+   "start": 42.400001525878906,
+   "end": 47.84000015258789,
+   "text": " how to kill a woman without leaving a trace was googled 163 million times."
+  },
+  {
+   "start": 47.84000015258789,
+   "end": 52.63999938964844,
+   "text": " And the phrase, he is going to kill me, was googled 107 million times."
+  },
+  {
+   "start": 52.63999938964844,
+   "end": 54.31999969482422,
+   "text": " So the question is, is that true?"
+  },
+  {
+   "start": 54.31999969482422,
+   "end": 55.599998474121094,
+   "text": " Second, where do you start?"
+  },
+  {
+   "start": 55.599998474121094,
+   "end": 57.36000061035156,
+   "text": " In today's world, the answer is pretty simple."
+  },
+  {
+   "start": 57.36000061035156,
+   "end": 58.2400016784668,
+   "text": " You ask AI."
+  },
+  {
+   "start": 58.2400016784668,
+   "end": 60.880001068115234,
+   "text": " And yes, I know this may sound controversial to some people,"
+  },
+  {
+   "start": 60.880001068115234,
+   "end": 62.79999923706055,
+   "text": " but AI is too useful to ignore."
+  },
+  {
+   "start": 62.79999923706055,
+   "end": 64.23999786376953,
+   "text": " Its effectiveness is crazy."
+  },
+  {
+   "start": 64.23999786376953,
+   "end": 66.08000183105469,
+   "text": " You can decide which AI you want to use."
+  },
+  {
+   "start": 66.08000183105469,
+   "end": 69.36000061035156,
+   "text": " For basic research like this, chat GPT, Gemini, or Cloud"
+  },
+  {
+   "start": 69.36000061035156,
+   "end": 71.19999694824219,
+   "text": " should all give you a pretty solid starting point."
+  },
+  {
+   "start": 71.19999694824219,
+   "end": 74.0,
+   "text": " Or better yet, use two or three of them and cross-check the answers."
+  },
+  {
+   "start": 74.0,
+   "end": 77.27999877929688,
+   "text": " For today's demonstration, I will use Google's AI, Gemini."
+  },
+  {
+   "start": 77.27999877929688,
+   "end": 79.76000213623047,
+   "text": " At the end of the day, we are talking about Google searches here."
+  },
+  {
+   "start": 79.76000213623047,
+   "end": 81.19999694824219,
+   "text": " Prompting is quite important."
+  },
+  {
+   "start": 81.19999694824219,
+   "end": 84.23999786376953,
+   "text": " Try to ask the question without putting too much bias into it,"
+  },
+  {
+   "start": 84.23999786376953,
+   "end": 87.04000091552734,
+   "text": " or simply ask it to give you an unbiased, objective answer."
+  },
+  {
+   "start": 87.04000091552734,
+   "end": 89.19999694824219,
+   "text": " In my case, I just wrote what the guy said in the video"
+  },
+  {
+   "start": 89.19999694824219,
+   "end": 91.12000274658203,
+   "text": " and asked Gemini to check whether it was true."
+  },
+  {
+   "start": 91.12000274658203,
+   "end": 93.5999984741211,
+   "text": " Probably not the most perfect prompt in the world, but it does the job."
+  },
+  {
+   "start": 93.5999984741211,
+   "end": 95.5199966430664,
+   "text": " And the result actually surprised me a little bit,"
+  },
+  {
+   "start": 95.5199966430664,
+   "end": 97.76000213623047,
+   "text": " because normally AI gives you a vague answer,"
+  },
+  {
+   "start": 97.76000213623047,
+   "end": 99.27999877929688,
+   "text": " and then you need to dig deeper."
+  },
+  {
+   "start": 99.27999877929688,
+   "end": 101.36000061035156,
+   "text": " But here, Gemini basically says,"
+  },
+  {
+   "start": 101.36000061035156,
+   "end": 103.12000274658203,
+   "text": " their claims are entirely false."
+  },
+  {
+   "start": 103.12000274658203,
+   "end": 105.04000091552734,
+   "text": " I guess Gemini took it personally that someone"
+  },
+  {
+   "start": 105.04000091552734,
+   "end": 107.04000091552734,
+   "text": " was misrepresenting Google search information."
+  },
+  {
+   "start": 107.04000091552734,
+   "end": 109.5199966430664,
+   "text": " Now, of course, you cannot just be satisfied with an answer"
+  },
+  {
+   "start": 109.5199966430664,
+   "end": 110.72000122070312,
+   "text": " because AI told you so."
+  },
+  {
+   "start": 110.72000122070312,
+   "end": 112.4800033569336,
+   "text": " You need to understand the reasoning behind it."
+  },
+  {
+   "start": 112.4800033569336,
+   "end": 114.63999938964844,
+   "text": " And ideally, you should even play devil's advocate,"
+  },
+  {
+   "start": 114.63999938964844,
+   "end": 117.5999984741211,
+   "text": " because this is exactly what the person you are reacting to might do."
+  },
+  {
+   "start": 117.5999984741211,
+   "end": 121.68000030517578,
+   "text": " Gemini says that these statistics most likely come from an old 2021 research paper"
+  },
+  {
+   "start": 121.68000030517578,
+   "end": 123.5199966430664,
+   "text": " that was widely criticized and later debunked."
+  },
+  {
+   "start": 123.5199966430664,
+   "end": 125.91999816894531,
+   "text": " The problem was that the number 163 million"
+  },
+  {
+   "start": 125.91999816894531,
+   "end": 128.9600067138672,
+   "text": " did not mean the phrase was searched 163 million times."
+  },
+  {
+   "start": 128.9600067138672,
+   "end": 131.52000427246094,
+   "text": " It was basically the number of Google search results that appeared."
+  },
+  {
+   "start": 131.52000427246094,
+   "end": 132.8000030517578,
+   "text": " And that is a completely different thing."
+  },
+  {
+   "start": 132.8000030517578,
+   "end": 133.60000610351562,
+   "text": " That is a good start."
+  },
+  {
+   "start": 133.60000610351562,
+   "end": 135.75999450683594,
+   "text": " Ideally, you should even go and familiarize yourself"
+  },
+  {
+   "start": 135.75999450683594,
+   "end": 137.1199951171875,
+   "text": " with that article and the debunking."
+  },
+  {
+   "start": 137.1199951171875,
+   "end": 138.8000030517578,
+   "text": " But you should also notice something important."
+  },
+  {
+   "start": 138.8000030517578,
+   "end": 140.8000030517578,
+   "text": " The phrase from the 2021 claim was not"
+  },
+  {
+   "start": 140.8000030517578,
+   "end": 143.44000244140625,
+   "text": " how to K-I-L-L a woman without leaving a trace."
+  },
+  {
+   "start": 143.44000244140625,
+   "end": 146.39999389648438,
+   "text": " It was how to H-I-T a woman so no one knows."
+  },
+  {
+   "start": 146.39999389648438,
+   "end": 147.52000427246094,
+   "text": " So the phrase is different."
+  },
+  {
+   "start": 147.52000427246094,
+   "end": 151.52000427246094,
+   "text": " Also, that claim was from 2021, while this guy is talking about 2025."
+  },
+  {
+   "start": 151.52000427246094,
+   "end": 153.67999267578125,
+   "text": " So at this point, you still do not have the full answer."
+  },
+  {
+   "start": 153.67999267578125,
+   "end": 154.63999938964844,
+   "text": " You need to continue."
+  },
+  {
+   "start": 154.63999938964844,
+   "end": 157.36000061035156,
+   "text": " Then Gemini explains why the claim is extremely unlikely."
+  },
+  {
+   "start": 157.36000061035156,
+   "end": 158.39999389648438,
+   "text": " And this is the real gem."
+  },
+  {
+   "start": 158.39999389648438,
+   "end": 160.63999938964844,
+   "text": " It explains that the most searched terms on Google"
+  },
+  {
+   "start": 160.63999938964844,
+   "end": 165.0399932861328,
+   "text": " are usually single word, broad, simple things like YouTube, weather, or Amazon."
+  },
+  {
+   "start": 165.0399932861328,
+   "end": 168.0800018310547,
+   "text": " It says that even a huge search term like weather in the US"
+  },
+  {
+   "start": 168.0800018310547,
+   "end": 171.27999877929688,
+   "text": " typically gets around 110 to 100 million searches per month."
+  },
+  {
+   "start": 171.27999877929688,
+   "end": 174.63999938964844,
+   "text": " So when someone tells you that a long specific sentence like"
+  },
+  {
+   "start": 174.63999938964844,
+   "end": 180.0800018310547,
+   "text": " how to K-I-L-L a woman without leaving a trace was googled 163 million times a year,"
+  },
+  {
+   "start": 180.0800018310547,
+   "end": 182.55999755859375,
+   "text": " which would be around 13.5 million per month,"
+  },
+  {
+   "start": 182.55999755859375,
+   "end": 184.47999572753906,
+   "text": " that should immediately raise red flags."
+  },
+  {
+   "start": 184.47999572753906,
+   "end": 186.9600067138672,
+   "text": " Because this is what is called a long tail search phrase,"
+  },
+  {
+   "start": 186.9600067138672,
+   "end": 189.1199951171875,
+   "text": " a very specific multi-word sentence."
+  },
+  {
+   "start": 189.1199951171875,
+   "end": 191.60000610351562,
+   "text": " And long tail phrases usually do not get search volume"
+  },
+  {
+   "start": 191.60000610351562,
+   "end": 193.75999450683594,
+   "text": " anywhere near the biggest search terms on the internet."
+  },
+  {
+   "start": 193.75999450683594,
+   "end": 196.72000122070312,
+   "text": " If that phrase really had 163 million searches,"
+  },
+  {
+   "start": 196.72000122070312,
+   "end": 199.1199951171875,
+   "text": " it would be one of the most searched things on Google,"
+  },
+  {
+   "start": 199.1999969482422,
+   "end": 200.9600067138672,
+   "text": " competing with major global brands,"
+  },
+  {
+   "start": 200.9600067138672,
+   "end": 203.44000244140625,
+   "text": " world events, celebrities, and everyday search terms."
+  },
+  {
+   "start": 203.44000244140625,
+   "end": 206.72000122070312,
+   "text": " As a comparison, according to SEO tool like SEMrush,"
+  },
+  {
+   "start": 206.72000122070312,
+   "end": 209.52000427246094,
+   "text": " an extremely popular phrase like what time is it,"
+  },
+  {
+   "start": 209.52000427246094,
+   "end": 212.63999938964844,
+   "text": " gets 2.24 million searches per month globally,"
+  },
+  {
+   "start": 212.63999938964844,
+   "end": 217.1199951171875,
+   "text": " which is nowhere near 13.5 or 8.9 million we have for the phrases in question."
+  },
+  {
+   "start": 217.1199951171875,
+   "end": 218.32000732421875,
+   "text": " Of course, even at this point,"
+  },
+  {
+   "start": 218.32000732421875,
+   "end": 221.36000061035156,
+   "text": " you already have a pretty strong argument that the claims in the video are false."
+  },
+  {
+   "start": 221.36000061035156,
+   "end": 222.32000732421875,
+   "text": " But to be more careful,"
+  },
+  {
+   "start": 222.32000732421875,
+   "end": 224.8800048828125,
+   "text": " I would still double check the key information Gemini gave me."
+  },
+  {
+   "start": 224.8800048828125,
+   "end": 226.39999389648438,
+   "text": " Then I would also check Google Trends."
+  },
+  {
+   "start": 226.39999389648438,
+   "end": 228.39999389648438,
+   "text": " It doesn't give you exact raw search count,"
+  },
+  {
+   "start": 228.39999389648438,
+   "end": 231.1999969482422,
+   "text": " but it does show how popular a search term was over time."
+  },
+  {
+   "start": 231.1999969482422,
+   "end": 232.24000549316406,
+   "text": " And with all of that,"
+  },
+  {
+   "start": 232.24000549316406,
+   "end": 236.0,
+   "text": " you have a much stronger basis to explain why the information in the video is false."
+  }
+ ]
+}

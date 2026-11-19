@@ -1,0 +1,19 @@
+{
+ "id": "7557671641023532310",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Women only want the top 15% of men, and it's common sense to reject the 'fat loser' majority",
+  "reason": "Rebuts a claim that dismisses most men as losers; he defends average men as invisible and urges men to build up, though with some critique of women.",
+  "evidence_seconds": 28
+ },
+ "usage": {
+  "prompt_tokens": 5196,
+  "completion_tokens": 226,
+  "cost_usd": null
+ }
+}

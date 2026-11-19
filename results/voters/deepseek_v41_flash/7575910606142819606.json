@@ -1,0 +1,19 @@
+{
+ "id": "7575910606142819606",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men have nothing to offer and are energy vampires women should avoid",
+  "reason": "Pushes back on a viral claim that runs men down as worthless and draining",
+  "evidence_seconds": 19
+ },
+ "usage": {
+  "prompt_tokens": 3802,
+  "completion_tokens": 215,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7653829861491887382",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "misc",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "Domestic violence increases 26% when England plays, 38% if they lose",
+  "evidence_seconds": 37,
+  "reason": "Fact-checks claim blaming men for domestic abuse rise on England match days, adding causal caveats"
+ },
+ "usage": {
+  "prompt_tokens": 3394,
+  "completion_tokens": 8122,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7572656853042072854",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Dating apps are easy for women; men's dating struggles are overstated or self-inflicted",
+  "reason": "Opens with a woman's video; he answers a claim that men's app struggles are unfair and bluntly calls women's entitlement delusional, while stressing men must level up.",
+  "evidence_seconds": 104
+ },
+ "usage": {
+  "prompt_tokens": 5530,
+  "completion_tokens": 233,
+  "cost_usd": null
+ }
+}

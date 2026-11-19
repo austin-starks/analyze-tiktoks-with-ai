@@ -1,0 +1,19 @@
+{
+ "id": "7572656853042072854",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Dating apps are easy for men; if a guy struggles he must be doing something wrong",
+  "reason": "Pushes back on the claim that men have no disadvantage on dating apps, confirming it is extremely hard for average guys.",
+  "evidence_seconds": 26
+ },
+ "usage": {
+  "prompt_tokens": 3907,
+  "completion_tokens": 547,
+  "cost_usd": null
+ }
+}

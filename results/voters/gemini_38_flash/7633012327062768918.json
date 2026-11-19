@@ -1,0 +1,19 @@
+{
+ "id": "7633012327062768918",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "reason": "Channel update and thank-you video discussing the aftermath of a creator dispute and addressing viewer feedback.",
+  "borderline": true,
+  "category": "misc",
+  "alternate_category": "debate",
+  "evidence_seconds": 20,
+  "claim_answered": "none"
+ },
+ "usage": {
+  "prompt_tokens": 3780,
+  "completion_tokens": 1284,
+  "cost_usd": null
+ }
+}

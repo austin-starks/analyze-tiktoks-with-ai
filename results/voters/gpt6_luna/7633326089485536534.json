@@ -1,0 +1,19 @@
+{
+ "id": "7633326089485536534",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "politics",
+  "claim_answered": "Women are naturally inferior to men",
+  "reason": "Explains feminism’s challenge to claims of women’s natural inferiority and exclusion; historical account also overlaps with politics.",
+  "evidence_seconds": 138
+ },
+ "usage": {
+  "prompt_tokens": 3581,
+  "completion_tokens": 170,
+  "cost_usd": null
+ }
+}

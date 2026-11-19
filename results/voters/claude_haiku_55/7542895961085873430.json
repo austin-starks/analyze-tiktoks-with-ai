@@ -1,0 +1,19 @@
+{
+ "id": "7542895961085873430",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "men",
+  "claim_answered": "none",
+  "reason": "General dating motivation and advice for men; answers no claim that runs men down or defends men against one.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 5005,
+  "completion_tokens": 181,
+  "cost_usd": null
+ }
+}

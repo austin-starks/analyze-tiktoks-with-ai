@@ -1,0 +1,19 @@
+{
+ "id": "7552963554459127062",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "reason": "General dating advice answering no claim about men or women",
+  "category": "misc",
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "evidence_seconds": 0,
+  "borderline": false
+ },
+ "usage": {
+  "prompt_tokens": 2950,
+  "completion_tokens": 393,
+  "cost_usd": null
+ }
+}

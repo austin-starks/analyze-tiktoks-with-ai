@@ -1,0 +1,19 @@
+{
+ "id": "7632719596910415127",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "debate",
+  "claim_answered": "Brenna's response criticizing his video on 62 million men claim",
+  "evidence_seconds": 11,
+  "reason": "He replies step by step to Brenna, who responded to his earlier video."
+ },
+ "usage": {
+  "prompt_tokens": 4583,
+  "completion_tokens": 1491,
+  "cost_usd": null
+ }
+}

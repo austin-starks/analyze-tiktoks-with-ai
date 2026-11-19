@@ -1,0 +1,366 @@
+{
+ "text": "A 20-year study from Kingston University tracked 10,000 people through divorce, and the finding was that divorced women didn't just become happier than they were during the marriage, they became happier than they'd been in their entire adult lives. Still think divorce ruins women? So what she says points mildly in the right direction, but her version also misrepresents the study. She basically makes two claims. Claim one, a 20-year study from Kingston University tracked 10,000 people through divorce. And claim two, divorced women didn't just become happier than they were during the marriage, they became happier than they had been in their entire adult lives. The study she's most probably talking about is real, and I must say, it is quite an interesting one. It is connected to Kingston University, and it used data from the British Household Panel Survey. But the study was not only about divorce. It followed around 10,000 people ages 16 to 60, and looked at their well-being levels before and after major life events, unemployment, marriage, divorce, the birth of a child, and widowhood. So divorce was only one of the events being tracked. And they didn't track 10,000 people through divorce, they tracked around 10,000 people overall. But actually, a much smaller number actually went through divorce during the study and had usable data around that event. For example, in the first year after divorce, the study had 669 divorce observations, 248 for men and 421 for women. And in some later years, the numbers were even smaller. So claim one, as phrased, was false. Now to claim number two. Did the study find that women became not only happier after divorce, but the happiest they had been in their entire adult lives? Happier, kind of, at least on the life satisfaction measure. But happiest in their entire adult lives is a misrepresentation. The study simply didn't track these women's entire adult lives. It tracked them during the survey period. The study used two different measures. The first was life satisfaction. Basically, how satisfied are you with your life overall? The second was GHQ well-being, a mental well-being measure, looking at things like stress, sleep, depression, confidence, and ability to cope. While similar, those two are not the same thing. First, let's look at life satisfaction. By the way, the small X, triangle, square, or plain point represent statistical significance levels. So we should not over-interpret every single yearly movement. On life satisfaction, both men and women were clearly worse off in the years before divorce. Then after divorce, men broadly moved back towards the baseline. Women also moved back up, and in later years, the point estimates even go above baseline. But there is an important caveat. Most of those post-divorce points are not statistically significant. So this doesn't mean we can confidently say women became significantly happier than usual after divorce every year. The authors themselves phrase it carefully. They say there is only mild evidence that women are more satisfied with their lives after a number of years of divorce. Now when we look at the GHQ well-being measure, the picture is suddenly better for men and not as rosy for women. Here we can also see that both men and women were clearly worse off before divorce. But after divorce, well-being for men moves up quite strongly, even above the baseline. For women, it improves for a while, but later drops even below the baseline. In fact, the authors themselves state that long-run effects of divorce are estimated to be positive and significant for men, but negative and significant for women in the GHQ regressions. In the life satisfaction regressions, both estimated coefficients were positive but insignificant. So what can we say in conclusion? Both claims by this lady were either false or at the very least misleading. Life satisfaction after divorce tends to improve for both men and women, with a somewhat stronger pattern for women, but the coefficients are not statistically significant. GHQ well-being, which deals with stress, sleep, depression, confidence, and ability to cope, tends to behave better for men, with the long-run divorce effect being positive and significant for men, but negative and significant for women. Overall, I feel like this field needs more research for stronger evidence. The topic is quite interesting, and if you're curious, I would recommend studying that paper.",
+ "duration": 199.80999755859375,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.640000104904175,
+   "text": " A 20-year study from Kingston University tracked 10,000 people through divorce, and the finding"
+  },
+  {
+   "start": 3.640000104904175,
+   "end": 6.920000076293945,
+   "text": " was that divorced women didn't just become happier than they were during the marriage,"
+  },
+  {
+   "start": 6.920000076293945,
+   "end": 10.199999809265137,
+   "text": " they became happier than they'd been in their entire adult lives."
+  },
+  {
+   "start": 10.199999809265137,
+   "end": 11.600000381469727,
+   "text": " Still think divorce ruins women?"
+  },
+  {
+   "start": 11.600000381469727,
+   "end": 15.84000015258789,
+   "text": " So what she says points mildly in the right direction, but her version also misrepresents"
+  },
+  {
+   "start": 15.84000015258789,
+   "end": 16.84000015258789,
+   "text": " the study."
+  },
+  {
+   "start": 16.84000015258789,
+   "end": 17.84000015258789,
+   "text": " She basically makes two claims."
+  },
+  {
+   "start": 17.84000015258789,
+   "end": 21.719999313354492,
+   "text": " Claim one, a 20-year study from Kingston University tracked 10,000 people through divorce."
+  },
+  {
+   "start": 21.719999313354492,
+   "end": 26.15999984741211,
+   "text": " And claim two, divorced women didn't just become happier than they were during the marriage,"
+  },
+  {
+   "start": 26.15999984741211,
+   "end": 29.520000457763672,
+   "text": " they became happier than they had been in their entire adult lives."
+  },
+  {
+   "start": 29.520000457763672,
+   "end": 33.599998474121094,
+   "text": " The study she's most probably talking about is real, and I must say, it is quite an interesting"
+  },
+  {
+   "start": 33.599998474121094,
+   "end": 34.599998474121094,
+   "text": " one."
+  },
+  {
+   "start": 34.599998474121094,
+   "end": 37.79999923706055,
+   "text": " It is connected to Kingston University, and it used data from the British Household Panel"
+  },
+  {
+   "start": 37.79999923706055,
+   "end": 38.79999923706055,
+   "text": " Survey."
+  },
+  {
+   "start": 38.79999923706055,
+   "end": 39.79999923706055,
+   "text": " But the study was not only about divorce."
+  },
+  {
+   "start": 39.79999923706055,
+   "end": 44.119998931884766,
+   "text": " It followed around 10,000 people ages 16 to 60, and looked at their well-being levels"
+  },
+  {
+   "start": 44.119998931884766,
+   "end": 48.720001220703125,
+   "text": " before and after major life events, unemployment, marriage, divorce, the birth of a child, and"
+  },
+  {
+   "start": 48.720001220703125,
+   "end": 49.720001220703125,
+   "text": " widowhood."
+  },
+  {
+   "start": 49.720001220703125,
+   "end": 51.34000015258789,
+   "text": " So divorce was only one of the events being tracked."
+  },
+  {
+   "start": 51.34000015258789,
+   "end": 55.0,
+   "text": " And they didn't track 10,000 people through divorce, they tracked around 10,000 people"
+  },
+  {
+   "start": 55.0,
+   "end": 56.0,
+   "text": " overall."
+  },
+  {
+   "start": 56.0,
+   "end": 59.0,
+   "text": " But actually, a much smaller number actually went through divorce during the study and"
+  },
+  {
+   "start": 59.0,
+   "end": 60.91999816894531,
+   "text": " had usable data around that event."
+  },
+  {
+   "start": 60.91999816894531,
+   "end": 65.87999725341797,
+   "text": " For example, in the first year after divorce, the study had 669 divorce observations, 248"
+  },
+  {
+   "start": 65.87999725341797,
+   "end": 67.55999755859375,
+   "text": " for men and 421 for women."
+  },
+  {
+   "start": 67.55999755859375,
+   "end": 70.0999984741211,
+   "text": " And in some later years, the numbers were even smaller."
+  },
+  {
+   "start": 70.0999984741211,
+   "end": 72.12000274658203,
+   "text": " So claim one, as phrased, was false."
+  },
+  {
+   "start": 72.12000274658203,
+   "end": 73.12000274658203,
+   "text": " Now to claim number two."
+  },
+  {
+   "start": 73.12000274658203,
+   "end": 76.80000305175781,
+   "text": " Did the study find that women became not only happier after divorce, but the happiest they"
+  },
+  {
+   "start": 76.80000305175781,
+   "end": 79.0,
+   "text": " had been in their entire adult lives?"
+  },
+  {
+   "start": 79.0,
+   "end": 81.83999633789062,
+   "text": " Happier, kind of, at least on the life satisfaction measure."
+  },
+  {
+   "start": 81.83999633789062,
+   "end": 84.87999725341797,
+   "text": " But happiest in their entire adult lives is a misrepresentation."
+  },
+  {
+   "start": 84.87999725341797,
+   "end": 87.95999908447266,
+   "text": " The study simply didn't track these women's entire adult lives."
+  },
+  {
+   "start": 87.95999908447266,
+   "end": 89.86000061035156,
+   "text": " It tracked them during the survey period."
+  },
+  {
+   "start": 89.86000061035156,
+   "end": 91.36000061035156,
+   "text": " The study used two different measures."
+  },
+  {
+   "start": 91.36000061035156,
+   "end": 92.80000305175781,
+   "text": " The first was life satisfaction."
+  },
+  {
+   "start": 92.80000305175781,
+   "end": 95.4800033569336,
+   "text": " Basically, how satisfied are you with your life overall?"
+  },
+  {
+   "start": 95.4800033569336,
+   "end": 100.63999938964844,
+   "text": " The second was GHQ well-being, a mental well-being measure, looking at things like stress, sleep,"
+  },
+  {
+   "start": 100.63999938964844,
+   "end": 102.76000213623047,
+   "text": " depression, confidence, and ability to cope."
+  },
+  {
+   "start": 102.76000213623047,
+   "end": 104.80000305175781,
+   "text": " While similar, those two are not the same thing."
+  },
+  {
+   "start": 104.80000305175781,
+   "end": 106.44000244140625,
+   "text": " First, let's look at life satisfaction."
+  },
+  {
+   "start": 106.44000244140625,
+   "end": 110.87999725341797,
+   "text": " By the way, the small X, triangle, square, or plain point represent statistical significance"
+  },
+  {
+   "start": 110.87999725341797,
+   "end": 111.87999725341797,
+   "text": " levels."
+  },
+  {
+   "start": 111.87999725341797,
+   "end": 113.9000015258789,
+   "text": " So we should not over-interpret every single yearly movement."
+  },
+  {
+   "start": 113.91999816894531,
+   "end": 118.33999633789062,
+   "text": " On life satisfaction, both men and women were clearly worse off in the years before divorce."
+  },
+  {
+   "start": 118.33999633789062,
+   "end": 121.33999633789062,
+   "text": " Then after divorce, men broadly moved back towards the baseline."
+  },
+  {
+   "start": 121.33999633789062,
+   "end": 125.69999694824219,
+   "text": " Women also moved back up, and in later years, the point estimates even go above baseline."
+  },
+  {
+   "start": 125.69999694824219,
+   "end": 127.18000030517578,
+   "text": " But there is an important caveat."
+  },
+  {
+   "start": 127.18000030517578,
+   "end": 129.6999969482422,
+   "text": " Most of those post-divorce points are not statistically significant."
+  },
+  {
+   "start": 129.6999969482422,
+   "end": 133.6999969482422,
+   "text": " So this doesn't mean we can confidently say women became significantly happier than usual"
+  },
+  {
+   "start": 133.6999969482422,
+   "end": 135.05999755859375,
+   "text": " after divorce every year."
+  },
+  {
+   "start": 135.05999755859375,
+   "end": 136.6999969482422,
+   "text": " The authors themselves phrase it carefully."
+  },
+  {
+   "start": 136.6999969482422,
+   "end": 140.44000244140625,
+   "text": " They say there is only mild evidence that women are more satisfied with their lives"
+  },
+  {
+   "start": 140.44000244140625,
+   "end": 142.13999938964844,
+   "text": " after a number of years of divorce."
+  },
+  {
+   "start": 142.13999938964844,
+   "end": 146.25999450683594,
+   "text": " Now when we look at the GHQ well-being measure, the picture is suddenly better for men and"
+  },
+  {
+   "start": 146.25999450683594,
+   "end": 147.5399932861328,
+   "text": " not as rosy for women."
+  },
+  {
+   "start": 147.5399932861328,
+   "end": 151.4199981689453,
+   "text": " Here we can also see that both men and women were clearly worse off before divorce."
+  },
+  {
+   "start": 151.4199981689453,
+   "end": 155.02000427246094,
+   "text": " But after divorce, well-being for men moves up quite strongly, even above the baseline."
+  },
+  {
+   "start": 155.02000427246094,
+   "end": 158.66000366210938,
+   "text": " For women, it improves for a while, but later drops even below the baseline."
+  },
+  {
+   "start": 158.66000366210938,
+   "end": 162.36000061035156,
+   "text": " In fact, the authors themselves state that long-run effects of divorce are estimated"
+  },
+  {
+   "start": 162.36000061035156,
+   "end": 166.4600067138672,
+   "text": " to be positive and significant for men, but negative and significant for women in the"
+  },
+  {
+   "start": 166.4600067138672,
+   "end": 167.6199951171875,
+   "text": " GHQ regressions."
+  },
+  {
+   "start": 167.6199951171875,
+   "end": 172.27999877929688,
+   "text": " In the life satisfaction regressions, both estimated coefficients were positive but insignificant."
+  },
+  {
+   "start": 172.27999877929688,
+   "end": 173.5399932861328,
+   "text": " So what can we say in conclusion?"
+  },
+  {
+   "start": 173.5399932861328,
+   "end": 176.66000366210938,
+   "text": " Both claims by this lady were either false or at the very least misleading."
+  },
+  {
+   "start": 176.66000366210938,
+   "end": 180.44000244140625,
+   "text": " Life satisfaction after divorce tends to improve for both men and women, with a somewhat stronger"
+  },
+  {
+   "start": 180.44000244140625,
+   "end": 183.4600067138672,
+   "text": " pattern for women, but the coefficients are not statistically significant."
+  },
+  {
+   "start": 183.4600067138672,
+   "end": 187.6999969482422,
+   "text": " GHQ well-being, which deals with stress, sleep, depression, confidence, and ability to cope,"
+  },
+  {
+   "start": 187.6999969482422,
+   "end": 191.17999267578125,
+   "text": " tends to behave better for men, with the long-run divorce effect being positive and significant"
+  },
+  {
+   "start": 191.17999267578125,
+   "end": 193.3000030517578,
+   "text": " for men, but negative and significant for women."
+  },
+  {
+   "start": 193.3000030517578,
+   "end": 196.25999450683594,
+   "text": " Overall, I feel like this field needs more research for stronger evidence."
+  },
+  {
+   "start": 196.25999450683594,
+   "end": 199.77999877929688,
+   "text": " The topic is quite interesting, and if you're curious, I would recommend studying that paper."
+  }
+ ]
+}

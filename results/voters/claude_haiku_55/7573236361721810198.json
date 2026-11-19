@@ -1,0 +1,19 @@
+{
+ "id": "7573236361721810198",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Akaash's wife is disrespectful and contributes nothing; men need experience to spot such women",
+  "reason": "Video runs down a wife and women generally as disrespectful, gold-digging, and unfaithful-minded; it is not Ilyas defending women, so the category is hard to place.",
+  "evidence_seconds": 117
+ },
+ "usage": {
+  "prompt_tokens": 5520,
+  "completion_tokens": 237,
+  "cost_usd": null
+ }
+}

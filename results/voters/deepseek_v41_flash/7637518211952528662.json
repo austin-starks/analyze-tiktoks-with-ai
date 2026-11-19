@@ -1,0 +1,19 @@
+{
+ "id": "7637518211952528662",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "debate",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Being pregnant is more dangerous than being a police officer (SimpleBlackTheory's rebuttal to his video)",
+  "reason": "Reply to a creator who responded to and attacked his earlier video, answering his arguments",
+  "evidence_seconds": 70
+ },
+ "usage": {
+  "prompt_tokens": 4161,
+  "completion_tokens": 251,
+  "cost_usd": null
+ }
+}

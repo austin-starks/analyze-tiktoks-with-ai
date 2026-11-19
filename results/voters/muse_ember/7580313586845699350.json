@@ -1,0 +1,19 @@
+{
+ "id": "7580313586845699350",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "mixed",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "Extreme manosphere men represent all men",
+  "evidence_seconds": 55,
+  "reason": "Pushes back on skit projecting extreme hateful men onto all men"
+ },
+ "usage": {
+  "prompt_tokens": 3157,
+  "completion_tokens": 3863,
+  "cost_usd": null
+ }
+}

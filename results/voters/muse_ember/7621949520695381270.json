@@ -1,0 +1,19 @@
+{
+ "id": "7621949520695381270",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "women",
+  "borderline": true,
+  "category": "misc",
+  "claim_answered": "none",
+  "evidence_seconds": 0,
+  "reason": "Mainly dating advice on choosing a partner; he rejects blaming women but answers no claim about a group"
+ },
+ "usage": {
+  "prompt_tokens": 3464,
+  "completion_tokens": 3673,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7684645936982789398",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "mixed",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "Married women die earlier because of chronic stress from men",
+  "evidence_seconds": 16,
+  "reason": "Pushes back on claim blaming men for married women's earlier deaths, while noting men benefit more from marriage"
+ },
+ "usage": {
+  "prompt_tokens": 3711,
+  "completion_tokens": 3244,
+  "cost_usd": null
+ }
+}

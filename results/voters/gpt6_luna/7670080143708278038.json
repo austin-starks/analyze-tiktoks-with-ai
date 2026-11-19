@@ -1,0 +1,19 @@
+{
+ "id": "7670080143708278038",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Marrying a man makes women live shorter, earn less, and be less happy",
+  "reason": "Pushes back on a claim that blames men and marriage to men for women's worse outcomes.",
+  "evidence_seconds": 183
+ },
+ "usage": {
+  "prompt_tokens": 3562,
+  "completion_tokens": 217,
+  "cost_usd": null
+ }
+}

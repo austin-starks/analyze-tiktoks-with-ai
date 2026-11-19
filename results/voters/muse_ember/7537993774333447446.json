@@ -1,0 +1,19 @@
+{
+ "id": "7537993774333447446",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "misc",
+  "claim_answered": "none",
+  "evidence_seconds": 0,
+  "reason": "Dating and self-improvement advice; answers no claim about a group"
+ },
+ "usage": {
+  "prompt_tokens": 2950,
+  "completion_tokens": 1620,
+  "cost_usd": null
+ }
+}

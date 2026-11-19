@@ -1,0 +1,19 @@
+{
+ "id": "7630175058022911254",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "none",
+  "reason": "Answers a viewer DM about relationship trust; general dating advice, not a claim that runs either sex down or defends one.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 6356,
+  "completion_tokens": 190,
+  "cost_usd": null
+ }
+}

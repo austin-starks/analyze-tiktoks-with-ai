@@ -1,0 +1,19 @@
+{
+ "id": "7684348410228378902",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "mixed",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "98% of job growth went to women; men are being pushed out and matriarchy has arrived",
+  "reason": "Answers a claim about both sexes: women's gains are real but exaggerated, and men are not disappearing from work",
+  "evidence_seconds": 13
+ },
+ "usage": {
+  "prompt_tokens": 4692,
+  "completion_tokens": 1297,
+  "cost_usd": null
+ }
+}

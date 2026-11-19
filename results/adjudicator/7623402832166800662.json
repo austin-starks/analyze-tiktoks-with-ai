@@ -1,0 +1,18 @@
+{
+ "id": "7623402832166800662",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "claim_answered": "Men are worse drivers, talk more and interrupt women, and women's brains are superior for leadership.",
+  "alternate_category": "mixed",
+  "reason": "Rule 2: He pushes back on a creator's claims running men down and asserting female superiority, despite his nuanced verdict.",
+  "category": "men",
+  "borderline": true,
+  "evidence_seconds": 4
+ },
+ "usage": {
+  "prompt_tokens": 3499,
+  "completion_tokens": 3054,
+  "cost_usd": null
+ }
+}

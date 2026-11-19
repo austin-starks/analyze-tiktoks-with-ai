@@ -1,0 +1,19 @@
+{
+ "id": "7539557917415001366",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "misc",
+  "claim_answered": "none",
+  "evidence_seconds": 0,
+  "reason": "Dating and confidence advice; no claim about men or women answered"
+ },
+ "usage": {
+  "prompt_tokens": 3128,
+  "completion_tokens": 511,
+  "cost_usd": null
+ }
+}

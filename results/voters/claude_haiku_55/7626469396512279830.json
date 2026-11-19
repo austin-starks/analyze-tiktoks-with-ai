@@ -1,0 +1,19 @@
+{
+ "id": "7626469396512279830",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "none",
+  "reason": "General dating and self-respect advice for men from his \"Men's Main Rules\" series; no claim about men or women is answered.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 5342,
+  "completion_tokens": 189,
+  "cost_usd": null
+ }
+}

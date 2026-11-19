@@ -1,0 +1,19 @@
+{
+ "id": "7548533717631831318",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "alternate_category": "none",
+  "reason": "Relationship and self-respect advice responding to a Reddit post about a troubled marriage.",
+  "category": "misc",
+  "evidence_seconds": 130,
+  "claim_answered": "none",
+  "borderline": false
+ },
+ "usage": {
+  "prompt_tokens": 3863,
+  "completion_tokens": 349,
+  "cost_usd": null
+ }
+}

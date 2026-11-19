@@ -1,0 +1,19 @@
+{
+ "id": "7700248656938585377",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "politics",
+  "borderline": true,
+  "category": "news",
+  "claim_answered": "France unrest is Islamist riots from mass migration, not student protests",
+  "evidence_seconds": 21,
+  "reason": "Mainly reports and explains ongoing France riots and protest spread, not a men/women claim"
+ },
+ "usage": {
+  "prompt_tokens": 4510,
+  "completion_tokens": 2845,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7654659460018867478",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Men are the secondary gender, auxiliary and used for experiments while women are the base of the species",
+  "reason": "Rebuts a claim that runs men down as secondary and disposable; he rejects the men-as-experiments framing.",
+  "evidence_seconds": 3
+ },
+ "usage": {
+  "prompt_tokens": 5758,
+  "completion_tokens": 218,
+  "cost_usd": null
+ }
+}

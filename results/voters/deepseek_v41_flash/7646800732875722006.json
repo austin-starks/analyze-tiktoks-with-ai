@@ -1,0 +1,19 @@
+{
+ "id": "7646800732875722006",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "The leading cause of death for women aged 18-44 is men killing them",
+  "reason": "Checks CDC data to debunk a claim that blames men for women's deaths",
+  "evidence_seconds": 13
+ },
+ "usage": {
+  "prompt_tokens": 3922,
+  "completion_tokens": 186,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7678293642183855382",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "debate",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Dean's claim that Ilyas said there was absolutely no evidence Trump abused a child",
+  "reason": "Replies to a creator who criticized and misrepresented his earlier video",
+  "evidence_seconds": 41
+ },
+ "usage": {
+  "prompt_tokens": 3508,
+  "completion_tokens": 180,
+  "cost_usd": null
+ }
+}

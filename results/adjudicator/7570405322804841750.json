@@ -1,0 +1,18 @@
+{
+ "id": "7570405322804841750",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "category": "men",
+  "evidence_seconds": 38,
+  "borderline": true,
+  "alternate_category": "misc",
+  "reason": "Rule 2: He pushes back on a claim favoring women at men's expense, demanding men submit while she does nothing.",
+  "claim_answered": "Men must submit to a woman's dark feminine energy and do everything she wants while she does nothing."
+ },
+ "usage": {
+  "prompt_tokens": 2976,
+  "completion_tokens": 2012,
+  "cost_usd": null
+ }
+}

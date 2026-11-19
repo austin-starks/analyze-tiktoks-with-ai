@@ -1,0 +1,19 @@
+{
+ "id": "7647502364034878742",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Men live in paradise as oppressors while women are the oppressed",
+  "reason": "Uses CDC death data to rebut a claim denying men's disadvantages; his \"we share the same struggles\" framing is not mixed",
+  "evidence_seconds": 49
+ },
+ "usage": {
+  "prompt_tokens": 4106,
+  "completion_tokens": 283,
+  "cost_usd": null
+ }
+}

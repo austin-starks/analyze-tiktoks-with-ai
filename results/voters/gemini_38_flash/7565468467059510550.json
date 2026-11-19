@@ -1,0 +1,19 @@
+{
+ "id": "7565468467059510550",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "men",
+  "evidence_seconds": 12,
+  "claim_answered": "Men want a model, a maid, a mother, and a therapist all in one",
+  "reason": "Defends men against the claim that their relationship expectations are demanding, extreme, or unreasonable"
+ },
+ "usage": {
+  "prompt_tokens": 3196,
+  "completion_tokens": 352,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "id": "7574392359748734230",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "reason": "Rule 3 (misc): Rebuts dating persistence advice with general dating advice for men, answering no claim attacking either sex.",
+  "claim_answered": "Persisting after seven rejections is confidence and the art of closing.",
+  "evidence_seconds": 36,
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none"
+ },
+ "usage": {
+  "prompt_tokens": 3401,
+  "completion_tokens": 1685,
+  "cost_usd": null
+ }
+}

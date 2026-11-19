@@ -1,0 +1,19 @@
+{
+ "id": "7611872778911829270",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Men should be removed or boycotted from business, conversation and society",
+  "reason": "Rebuts a viral call to cut men out of everything, defending men's role and rejecting generalizing men as a problem.",
+  "evidence_seconds": 3
+ },
+ "usage": {
+  "prompt_tokens": 5032,
+  "completion_tokens": 209,
+  "cost_usd": null
+ }
+}

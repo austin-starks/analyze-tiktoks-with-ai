@@ -1,0 +1,19 @@
+{
+ "id": "7532501397237959958",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "misc",
+  "claim_answered": "none",
+  "evidence_seconds": 0,
+  "reason": "Dating and texting advice about a girlfriend's initiative; answers no claim about men or women"
+ },
+ "usage": {
+  "prompt_tokens": 2971,
+  "completion_tokens": 1003,
+  "cost_usd": null
+ }
+}

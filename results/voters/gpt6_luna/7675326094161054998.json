@@ -1,0 +1,19 @@
+{
+ "id": "7675326094161054998",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "mixed",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men who opt out of fatherhood should still be legally and financially responsible for the child",
+  "reason": "A claim about parental obligations and the competing interests of both parents and child, without blaming either sex.",
+  "evidence_seconds": 48
+ },
+ "usage": {
+  "prompt_tokens": 3536,
+  "completion_tokens": 77,
+  "cost_usd": null
+ }
+}

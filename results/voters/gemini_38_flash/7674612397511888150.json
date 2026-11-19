@@ -1,0 +1,19 @@
+{
+ "id": "7674612397511888150",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "evidence_seconds": 49,
+  "borderline": false,
+  "reason": "Addresses a religious claim about the existence of God, which belongs under politics.",
+  "alternate_category": "none",
+  "claim_answered": "Biological complexity and DNA prove God exists",
+  "category": "politics"
+ },
+ "usage": {
+  "prompt_tokens": 4152,
+  "completion_tokens": 549,
+  "cost_usd": null
+ }
+}

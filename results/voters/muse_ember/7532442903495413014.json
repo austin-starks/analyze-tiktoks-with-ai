@@ -1,0 +1,19 @@
+{
+ "id": "7532442903495413014",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "misc",
+  "claim_answered": "none",
+  "evidence_seconds": 0,
+  "reason": "Dating advice about what to do when a girlfriend pulls away; answers no claim about men or women"
+ },
+ "usage": {
+  "prompt_tokens": 2915,
+  "completion_tokens": 1261,
+  "cost_usd": null
+ }
+}

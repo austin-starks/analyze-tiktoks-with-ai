@@ -1,0 +1,19 @@
+{
+ "id": "7557818759818317078",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Women would never date an ugly man, regardless of money",
+  "reason": "Pushes back on a claim that demeans men’s attractiveness and argues attraction is subjective.",
+  "evidence_seconds": 29
+ },
+ "usage": {
+  "prompt_tokens": 3075,
+  "completion_tokens": 248,
+  "cost_usd": null
+ }
+}

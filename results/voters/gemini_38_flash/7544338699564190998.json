@@ -1,0 +1,19 @@
+{
+ "id": "7544338699564190998",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "evidence_seconds": 9,
+  "category": "misc",
+  "borderline": false,
+  "reason": "General dating advice for men on who should pay on a first date.",
+  "claim_answered": "none",
+  "alternate_category": "none"
+ },
+ "usage": {
+  "prompt_tokens": 3252,
+  "completion_tokens": 319,
+  "cost_usd": null
+ }
+}

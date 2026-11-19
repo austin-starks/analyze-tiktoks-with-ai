@@ -1,0 +1,19 @@
+{
+ "id": "7575910606142819606",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "men",
+  "claim_answered": "Men have nothing to offer and should be ignored forever",
+  "evidence_seconds": 17,
+  "reason": "Pushes back on claim that men are energy vampires with nothing to offer"
+ },
+ "usage": {
+  "prompt_tokens": 3440,
+  "completion_tokens": 2222,
+  "cost_usd": null
+ }
+}

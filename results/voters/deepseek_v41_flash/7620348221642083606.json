@@ -1,0 +1,19 @@
+{
+ "id": "7620348221642083606",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Reacts to a dating-app story and gives dating advice; no claim about men or women as a group.",
+  "evidence_seconds": 133
+ },
+ "usage": {
+  "prompt_tokens": 3903,
+  "completion_tokens": 257,
+  "cost_usd": null
+ }
+}

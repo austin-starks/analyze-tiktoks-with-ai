@@ -1,0 +1,19 @@
+{
+ "id": "7574392359748734230",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "Getting rejected seven times and still chasing is persistence",
+  "reason": "Dating advice about persistence after rejection; he cites his own story and tells men to walk away, not rebutting a claim about a sex.",
+  "evidence_seconds": 36
+ },
+ "usage": {
+  "prompt_tokens": 5434,
+  "completion_tokens": 211,
+  "cost_usd": null
+ }
+}

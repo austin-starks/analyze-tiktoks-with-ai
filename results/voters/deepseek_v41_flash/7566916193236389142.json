@@ -1,0 +1,19 @@
+{
+ "id": "7566916193236389142",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "Women have more confidence and self-respect than men today",
+  "reason": "Self-improvement advice urging men to build confidence; he agrees with the comparison rather than rebutting a claim.",
+  "evidence_seconds": 40
+ },
+ "usage": {
+  "prompt_tokens": 3512,
+  "completion_tokens": 433,
+  "cost_usd": null
+ }
+}

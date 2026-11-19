@@ -1,0 +1,19 @@
+{
+ "id": "7572161776809151766",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Women today expect too much and give almost nothing back",
+  "reason": "Rebuts the \"no good women left / women give nothing\" claim by blaming men for paying for fake intimacy",
+  "evidence_seconds": 78
+ },
+ "usage": {
+  "prompt_tokens": 3486,
+  "completion_tokens": 493,
+  "cost_usd": null
+ }
+}

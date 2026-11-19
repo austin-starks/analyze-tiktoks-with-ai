@@ -1,0 +1,18 @@
+{
+ "id": "7573236361721810198",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "borderline": true,
+  "evidence_seconds": 0,
+  "alternate_category": "misc",
+  "reason": "Rule 3: multi-part coverage of a viral celebrity story without answering a general claim about men or women, so news.",
+  "claim_answered": "none",
+  "category": "news"
+ },
+ "usage": {
+  "prompt_tokens": 3403,
+  "completion_tokens": 1711,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7582182286829948182",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "women",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "A woman is ungrateful and entitled despite her boyfriend buying her a Tesla.",
+  "reason": "Pushes back on a claim framing a woman as entitled, but this is general relationship advice rather than a claim about women as a group.",
+  "evidence_seconds": 74
+ },
+ "usage": {
+  "prompt_tokens": 3096,
+  "completion_tokens": 83,
+  "cost_usd": null
+ }
+}

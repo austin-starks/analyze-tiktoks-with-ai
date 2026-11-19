@@ -1,0 +1,19 @@
+{
+ "id": "7585540965696392470",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "A man is insecure or controlling for objecting to his girlfriend's club nights",
+  "reason": "Pushes back on labeling men controlling for discomfort, framing the girlfriend's choice as disrespectful instead.",
+  "evidence_seconds": 83
+ },
+ "usage": {
+  "prompt_tokens": 3309,
+  "completion_tokens": 545,
+  "cost_usd": null
+ }
+}

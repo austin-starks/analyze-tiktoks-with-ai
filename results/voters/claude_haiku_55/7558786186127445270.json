@@ -1,0 +1,19 @@
+{
+ "id": "7558786186127445270",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "none",
+  "reason": "General dating advice about reciprocity; no specific claim about men or women is rebutted, so it is not a defense of either sex.",
+  "evidence_seconds": 63
+ },
+ "usage": {
+  "prompt_tokens": 4776,
+  "completion_tokens": 193,
+  "cost_usd": null
+ }
+}

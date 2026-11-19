@@ -1,0 +1,19 @@
+{
+ "id": "7662739718399986977",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "borderline": true,
+  "claim_answered": "Women pine for Haaland because of his energy rather than height, wealth, and status",
+  "alternate_category": "mixed",
+  "category": "misc",
+  "reason": "Framed as a logical exercise and self-improvement advice rather than defending either sex",
+  "evidence_seconds": 65
+ },
+ "usage": {
+  "prompt_tokens": 3975,
+  "completion_tokens": 2948,
+  "cost_usd": null
+ }
+}

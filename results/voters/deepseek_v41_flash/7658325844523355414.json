@@ -1,0 +1,19 @@
+{
+ "id": "7658325844523355414",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "politics",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Rent freeze is not rent control and my video misrepresented rent freeze",
+  "reason": "Housing policy and economics research on rent freezes; answers critics' policy objections, not a claim about men or women.",
+  "evidence_seconds": 46
+ },
+ "usage": {
+  "prompt_tokens": 4056,
+  "completion_tokens": 381,
+  "cost_usd": null
+ }
+}

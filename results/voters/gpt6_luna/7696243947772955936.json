@@ -1,0 +1,19 @@
+{
+ "id": "7696243947772955936",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Men have privilege, but female privilege does not exist",
+  "reason": "Counters a one-sided claim that men alone have gender-based advantages; both sexes are central to his response.",
+  "evidence_seconds": 30
+ },
+ "usage": {
+  "prompt_tokens": 4234,
+  "completion_tokens": 1044,
+  "cost_usd": null
+ }
+}

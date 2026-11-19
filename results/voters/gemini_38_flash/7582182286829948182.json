@@ -1,0 +1,19 @@
+{
+ "id": "7582182286829948182",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "claim_answered": "none",
+  "reason": "General relationship and dating advice on the importance of gratitude, answering no general claim.",
+  "evidence_seconds": 39,
+  "alternate_category": "none",
+  "category": "misc",
+  "borderline": false
+ },
+ "usage": {
+  "prompt_tokens": 3315,
+  "completion_tokens": 590,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7567297521848962326",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Healthy straight relationships require the man to be more patient, tolerant and carry everything",
+  "reason": "Answers a claim that places all burden and unfair expectation on men, defending men against it.",
+  "evidence_seconds": 30
+ },
+ "usage": {
+  "prompt_tokens": 3367,
+  "completion_tokens": 247,
+  "cost_usd": null
+ }
+}

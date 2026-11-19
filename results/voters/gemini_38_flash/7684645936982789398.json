@@ -1,0 +1,19 @@
+{
+ "id": "7684645936982789398",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "alternate_category": "mixed",
+  "borderline": true,
+  "claim_answered": "Married women die earlier because of chronic stress from men",
+  "evidence_seconds": 69,
+  "category": "men",
+  "reason": "Pushes back on a claim blaming men for women supposedly having shorter lifespans in marriage"
+ },
+ "usage": {
+  "prompt_tokens": 4014,
+  "completion_tokens": 874,
+  "cost_usd": null
+ }
+}

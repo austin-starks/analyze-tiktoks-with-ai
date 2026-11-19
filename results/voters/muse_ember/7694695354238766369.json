@@ -1,0 +1,19 @@
+{
+ "id": "7694695354238766369",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "news",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "975 of 1,000 sexual assault perpetrators walk free, proving sexism",
+  "evidence_seconds": 7,
+  "reason": "Pushes back on claim blaming men as proven perpetrators walking free and inflating women's disadvantage"
+ },
+ "usage": {
+  "prompt_tokens": 4360,
+  "completion_tokens": 6259,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7642622501578722582",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Sisters constantly rant that men are evil, and the family gangs up on him for defending men",
+  "reason": "Responds to a negative claim about men and women ganging up on him; advice is mainly about independence and boundaries, so misc is possible.",
+  "evidence_seconds": 12
+ },
+ "usage": {
+  "prompt_tokens": 5340,
+  "completion_tokens": 221,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7665316567202417923",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "politics",
+  "claim_answered": "Mamdani's rent freeze will fix New York housing",
+  "evidence_seconds": 0,
+  "reason": "Economic housing policy analysis of Mamdani's rent freeze, not about men or women"
+ },
+ "usage": {
+  "prompt_tokens": 4208,
+  "completion_tokens": 1273,
+  "cost_usd": null
+ }
+}

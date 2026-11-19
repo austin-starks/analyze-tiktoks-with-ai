@@ -1,0 +1,19 @@
+{
+ "id": "7636408740261924118",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "debate",
+  "claim_answered": "SimpleBlackTheory's second debunking of his pregnancy versus police mortality video",
+  "evidence_seconds": 5,
+  "reason": "Reply to a creator who responded to and criticized his earlier video"
+ },
+ "usage": {
+  "prompt_tokens": 3998,
+  "completion_tokens": 1261,
+  "cost_usd": null
+ }
+}

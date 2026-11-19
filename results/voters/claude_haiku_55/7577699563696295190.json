@@ -1,0 +1,19 @@
+{
+ "id": "7577699563696295190",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "A 25-year-old woman says real romance means a man funding her master's, savings, and crypto",
+  "reason": "Pushes back on a claim that portrays women as sponsorship-seekers; he attacks her as entitled and warns men away from women.",
+  "evidence_seconds": 30
+ },
+ "usage": {
+  "prompt_tokens": 5308,
+  "completion_tokens": 221,
+  "cost_usd": null
+ }
+}

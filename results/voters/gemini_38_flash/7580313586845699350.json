@@ -1,0 +1,19 @@
+{
+ "id": "7580313586845699350",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "men",
+  "evidence_seconds": 33,
+  "borderline": true,
+  "alternate_category": "mixed",
+  "reason": "Pushes back against a parody skit that generalizes hateful manosphere extremes onto all men.",
+  "claim_answered": "Extreme manosphere skits represent how most men think and act"
+ },
+ "usage": {
+  "prompt_tokens": 3379,
+  "completion_tokens": 754,
+  "cost_usd": null
+ }
+}

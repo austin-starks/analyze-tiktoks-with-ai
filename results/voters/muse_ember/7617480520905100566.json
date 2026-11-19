@@ -1,0 +1,19 @@
+{
+ "id": "7617480520905100566",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "misc",
+  "claim_answered": "none",
+  "evidence_seconds": 0,
+  "reason": "Viewer DM relationship advice about girlfriend sexting AI; no general claim about men or women"
+ },
+ "usage": {
+  "prompt_tokens": 3161,
+  "completion_tokens": 2041,
+  "cost_usd": null
+ }
+}

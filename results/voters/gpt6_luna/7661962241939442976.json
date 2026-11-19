@@ -1,0 +1,19 @@
+{
+ "id": "7661962241939442976",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "mixed",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "Homicide is the leading cause of workplace fatalities for women",
+  "reason": "Refutes a claim about women’s workplace deaths; it does not directly attack either sex, though the comparison with men makes men plausible.",
+  "evidence_seconds": 15
+ },
+ "usage": {
+  "prompt_tokens": 3698,
+  "completion_tokens": 680,
+  "cost_usd": null
+ }
+}

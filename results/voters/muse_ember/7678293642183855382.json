@@ -1,0 +1,19 @@
+{
+ "id": "7678293642183855382",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "debate",
+  "claim_answered": "Creator's claim he said absolutely no evidence on Trump allegations",
+  "evidence_seconds": 41,
+  "reason": "Reply to creator who took his earlier video out of context and criticized him"
+ },
+ "usage": {
+  "prompt_tokens": 3521,
+  "completion_tokens": 3130,
+  "cost_usd": null
+ }
+}

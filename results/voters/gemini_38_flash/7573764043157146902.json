@@ -1,0 +1,19 @@
+{
+ "id": "7573764043157146902",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "borderline": true,
+  "alternate_category": "misc",
+  "category": "men",
+  "reason": "Validates men's dating disadvantages with data against skepticism and claims that men are just playing victim.",
+  "evidence_seconds": 91,
+  "claim_answered": "Men do not go years without intimacy and are playing victim about dating"
+ },
+ "usage": {
+  "prompt_tokens": 3529,
+  "completion_tokens": 746,
+  "cost_usd": null
+ }
+}

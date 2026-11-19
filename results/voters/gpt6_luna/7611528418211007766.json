@@ -1,0 +1,19 @@
+{
+ "id": "7611528418211007766",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "General dating advice setting standards for partners; he does not rebut a claim.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 3593,
+  "completion_tokens": 320,
+  "cost_usd": null
+ }
+}

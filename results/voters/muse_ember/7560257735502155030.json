@@ -1,0 +1,19 @@
+{
+ "id": "7560257735502155030",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "misc",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "Every guy should start in jail and work his way out",
+  "evidence_seconds": 0,
+  "reason": "Reframes anti-men jail claim as men's dating disadvantage and argues men can walk out stronger"
+ },
+ "usage": {
+  "prompt_tokens": 2984,
+  "completion_tokens": 5294,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7546227936802950422",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Responds to a personal breakup question with relationship advice, not a claim about men or women.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 3281,
+  "completion_tokens": 138,
+  "cost_usd": null
+ }
+}

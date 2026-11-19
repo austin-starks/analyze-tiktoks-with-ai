@@ -1,0 +1,19 @@
+{
+ "id": "7531490357180222742",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Dating advice on signs a girl likes you; answers no claim about men or women as a group.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 4801,
+  "completion_tokens": 180,
+  "cost_usd": null
+ }
+}

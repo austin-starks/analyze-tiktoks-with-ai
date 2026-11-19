@@ -1,0 +1,19 @@
+{
+ "id": "7622712783536180502",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "Dating is cooked in 2026, so people should give up",
+  "reason": "Motivational dating advice urging persistence; no specific claim about men or women is rebutted.",
+  "evidence_seconds": 20
+ },
+ "usage": {
+  "prompt_tokens": 5171,
+  "completion_tokens": 197,
+  "cost_usd": null
+ }
+}

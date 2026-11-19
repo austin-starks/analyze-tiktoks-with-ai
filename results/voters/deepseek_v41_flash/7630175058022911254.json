@@ -1,0 +1,19 @@
+{
+ "id": "7630175058022911254",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Viewer DM relationship advice about a girlfriend reading adult manhwa; no claim about men or women as groups is answered",
+  "evidence_seconds": 185
+ },
+ "usage": {
+  "prompt_tokens": 4495,
+  "completion_tokens": 187,
+  "cost_usd": null
+ }
+}

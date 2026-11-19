@@ -1,0 +1,19 @@
+{
+ "id": "7657605966581599510",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "Less than 1% of reported rape allegations are false",
+  "alternate_category": "mixed",
+  "reason": "Pushes back on a claim downplaying the rate of false allegations against accused men",
+  "evidence_seconds": 52
+ },
+ "usage": {
+  "prompt_tokens": 4076,
+  "completion_tokens": 554,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7570992407483780374",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "evidence_seconds": 24,
+  "reason": "Pushes back on the claim that the best men tolerate and reward women who hate them.",
+  "claim_answered": "Women who hate men end up with the best men",
+  "alternate_category": "misc",
+  "borderline": true,
+  "category": "men"
+ },
+ "usage": {
+  "prompt_tokens": 3144,
+  "completion_tokens": 3294,
+  "cost_usd": null
+ }
+}

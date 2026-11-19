@@ -1,0 +1,19 @@
+{
+ "id": "7692796886071201057",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "alternate_category": "none",
+  "evidence_seconds": 21,
+  "claim_answered": "Jiyu's critique of Ilyas's video on partner count double standards",
+  "borderline": false,
+  "category": "debate",
+  "reason": "Directly responds to another creator who made a reaction video criticizing his earlier argument."
+ },
+ "usage": {
+  "prompt_tokens": 4652,
+  "completion_tokens": 289,
+  "cost_usd": null
+ }
+}

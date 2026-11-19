@@ -1,0 +1,19 @@
+{
+ "id": "7680094337362922774",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "debate",
+  "claim_answered": "Public Offender's claim that women are not hypergamous",
+  "evidence_seconds": 182,
+  "reason": "Reply to creator Public Offender who responded to his earlier hypergamy videos"
+ },
+ "usage": {
+  "prompt_tokens": 4109,
+  "completion_tokens": 1830,
+  "cost_usd": null
+ }
+}

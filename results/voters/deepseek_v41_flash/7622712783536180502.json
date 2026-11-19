@@ -1,0 +1,19 @@
+{
+ "id": "7622712783536180502",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Dating is hopeless in 2026, so men should give up",
+  "reason": "Motivational dating/self-improvement advice; he answers no claim that attacks either sex, explicitly balancing good women and good men",
+  "evidence_seconds": 47
+ },
+ "usage": {
+  "prompt_tokens": 3612,
+  "completion_tokens": 193,
+  "cost_usd": null
+ }
+}

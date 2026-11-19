@@ -1,0 +1,19 @@
+{
+ "id": "7674612397511888150",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "politics",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "A necklace, DNA, and biological complexity prove God exists",
+  "reason": "Religious claim about God's existence; no claim about men or women, so politics per religion rule.",
+  "evidence_seconds": 3
+ },
+ "usage": {
+  "prompt_tokens": 6049,
+  "completion_tokens": 199,
+  "cost_usd": null
+ }
+}

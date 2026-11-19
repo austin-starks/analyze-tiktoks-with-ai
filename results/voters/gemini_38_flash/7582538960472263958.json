@@ -1,0 +1,19 @@
+{
+ "id": "7582538960472263958",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "reason": "Rebuts a claim that justifies anti-male hatred and inflates women's oppression by villainizing men.",
+  "borderline": true,
+  "evidence_seconds": 89,
+  "alternate_category": "mixed",
+  "category": "men",
+  "claim_answered": "Men facing online hate are just experiencing the oppression women face from men"
+ },
+ "usage": {
+  "prompt_tokens": 3584,
+  "completion_tokens": 1381,
+  "cost_usd": null
+ }
+}

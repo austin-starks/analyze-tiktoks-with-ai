@@ -1,0 +1,19 @@
+{
+ "id": "7629812322822786326",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Women can't separate logic from emotion",
+  "reason": "Rebuts a negative claim about women's reasoning; the research shows differences are small. Opening clip is another speaker, not a debate reply.",
+  "evidence_seconds": 1
+ },
+ "usage": {
+  "prompt_tokens": 5716,
+  "completion_tokens": 209,
+  "cost_usd": null
+ }
+}

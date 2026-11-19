@@ -1,0 +1,19 @@
+{
+ "id": "7618122083314191638",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "misc",
+  "evidence_seconds": 0,
+  "borderline": false,
+  "alternate_category": "none",
+  "reason": "General dating advice for men on how to plan a date; answers no demographic claim.",
+  "claim_answered": "none"
+ },
+ "usage": {
+  "prompt_tokens": 3964,
+  "completion_tokens": 758,
+  "cost_usd": null
+ }
+}

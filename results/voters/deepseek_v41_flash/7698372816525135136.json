@@ -1,0 +1,19 @@
+{
+ "id": "7698372816525135136",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Aborting a baby just because it is a boy is acceptable and defensible",
+  "reason": "Answers a claim devaluing boys; his \"equally wrong for girls\" answer keeps it in the sex the claim attacked.",
+  "evidence_seconds": 155
+ },
+ "usage": {
+  "prompt_tokens": 4718,
+  "completion_tokens": 675,
+  "cost_usd": null
+ }
+}

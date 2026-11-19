@@ -1,0 +1,19 @@
+{
+ "id": "7639406062147341590",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "debate",
+  "borderline": false,
+  "alternate_category": "men",
+  "claim_answered": "Nick's two response videos to Ilyas's \"all men\" reply, which ignored his points",
+  "reason": "Creator Nick responded to Ilyas's earlier video; this is Ilyas's reply to Nick's arguments, which beats the men/women categories.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 5918,
+  "completion_tokens": 228,
+  "cost_usd": null
+ }
+}

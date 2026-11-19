@@ -1,0 +1,19 @@
+{
+ "id": "7632719596910415127",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "debate",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Brenna's reply defending her claim that over 62 million US men commit sexual assault",
+  "reason": "He replies point by point to a creator who responded directly to his earlier video",
+  "evidence_seconds": 9
+ },
+ "usage": {
+  "prompt_tokens": 4944,
+  "completion_tokens": 196,
+  "cost_usd": null
+ }
+}

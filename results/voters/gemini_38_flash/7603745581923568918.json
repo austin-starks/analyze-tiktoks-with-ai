@@ -1,0 +1,19 @@
+{
+ "id": "7603745581923568918",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "alternate_category": "none",
+  "reason": "Dating and psychological advice for men on handling jealousy; answers no claim.",
+  "claim_answered": "none",
+  "borderline": false,
+  "category": "misc",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 3685,
+  "completion_tokens": 664,
+  "cost_usd": null
+ }
+}

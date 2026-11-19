@@ -1,0 +1,19 @@
+{
+ "id": "7697035762629348641",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "debate",
+  "claim_answered": "Men who don't abuse women still directly benefit from other men's violence",
+  "reason": "Rebuts a claim that blames men as a group for benefiting from violence; he backs the professor's view that nonviolent men are \"rewarded\" and judges the logic. Also a reply to creators.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 6947,
+  "completion_tokens": 234,
+  "cost_usd": null
+ }
+}

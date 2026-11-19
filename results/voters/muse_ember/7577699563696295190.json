@@ -1,0 +1,19 @@
+{
+ "id": "7577699563696295190",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "men",
+  "claim_answered": "A man should pay for her master's, crypto and savings",
+  "evidence_seconds": 8,
+  "reason": "Pushes back on a claim that men must financially invest in her"
+ },
+ "usage": {
+  "prompt_tokens": 3306,
+  "completion_tokens": 6249,
+  "cost_usd": null
+ }
+}

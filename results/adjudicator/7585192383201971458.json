@@ -1,0 +1,18 @@
+{
+ "id": "7585192383201971458",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "reason": "Rule 3: general dating and relationship advice about boundaries and cheating risk, rather than a claim about men or women.",
+  "alternate_category": "mixed",
+  "evidence_seconds": 110,
+  "category": "misc",
+  "claim_answered": "If someone is loyal they will stay loyal anywhere, so relationship boundaries are just insecurity",
+  "borderline": true
+ },
+ "usage": {
+  "prompt_tokens": 3212,
+  "completion_tokens": 3627,
+  "cost_usd": null
+ }
+}

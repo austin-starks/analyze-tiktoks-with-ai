@@ -1,0 +1,19 @@
+{
+ "id": "7623884936394722582",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "women",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Women are overly emotional and are gold diggers",
+  "reason": "Pushes back on negative stereotypes about women, arguing emotionality is nuanced and most women are not gold diggers.",
+  "evidence_seconds": 28
+ },
+ "usage": {
+  "prompt_tokens": 3512,
+  "completion_tokens": 672,
+  "cost_usd": null
+ }
+}

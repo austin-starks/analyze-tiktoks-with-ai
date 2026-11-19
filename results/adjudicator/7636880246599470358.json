@@ -1,0 +1,18 @@
+{
+ "id": "7636880246599470358",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "category": "misc",
+  "claim_answered": "Being the pregnant partner of a police officer is more dangerous than being a police officer.",
+  "borderline": true,
+  "alternate_category": "men",
+  "reason": "Rule 3: Fact-checks a claim about police-family DV and danger, not men or women as a sex, so misc.",
+  "evidence_seconds": 53
+ },
+ "usage": {
+  "prompt_tokens": 3621,
+  "completion_tokens": 4215,
+  "cost_usd": null
+ }
+}

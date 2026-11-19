@@ -1,0 +1,19 @@
+{
+ "id": "7563572833780075798",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "borderline": true,
+  "reason": "Gives dating and self-respect advice reacting to a viral clip rather than answering a claim.",
+  "claim_answered": "none",
+  "evidence_seconds": 60,
+  "category": "misc",
+  "alternate_category": "men"
+ },
+ "usage": {
+  "prompt_tokens": 3520,
+  "completion_tokens": 931,
+  "cost_usd": null
+ }
+}

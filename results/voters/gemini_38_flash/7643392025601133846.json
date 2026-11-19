@@ -1,0 +1,19 @@
+{
+ "id": "7643392025601133846",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "borderline": false,
+  "evidence_seconds": 36,
+  "category": "misc",
+  "reason": "Answers a viewer question about his channel, content goals, audience, and comment moderation."
+ },
+ "usage": {
+  "prompt_tokens": 3758,
+  "completion_tokens": 405,
+  "cost_usd": null
+ }
+}

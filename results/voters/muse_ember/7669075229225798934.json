@@ -1,0 +1,19 @@
+{
+ "id": "7669075229225798934",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "debate",
+  "claim_answered": "Hypergamy is only about who women marry, not preferences",
+  "evidence_seconds": 135,
+  "reason": "Reply to creator who made a reaction video about him and moved goalposts on hypergamy definition"
+ },
+ "usage": {
+  "prompt_tokens": 4108,
+  "completion_tokens": 2220,
+  "cost_usd": null
+ }
+}

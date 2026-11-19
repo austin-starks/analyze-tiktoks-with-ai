@@ -1,0 +1,18 @@
+{
+ "id": "7676063537751526678",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "alternate_category": "news",
+  "evidence_seconds": 167,
+  "claim_answered": "Dean got a taste of his own medicine and partisan standards on allegations are consistent",
+  "category": "politics",
+  "borderline": true,
+  "reason": "Examines left-versus-right political reactions and partisan hypocrisy (Rule 3: political subject beats news even when in the news)."
+ },
+ "usage": {
+  "prompt_tokens": 3705,
+  "completion_tokens": 2394,
+  "cost_usd": null
+ }
+}

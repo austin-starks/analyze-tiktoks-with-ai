@@ -1,0 +1,19 @@
+{
+ "id": "7626741667181120790",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "none",
+  "reason": "Motivational advice to his 18-year-old self; no claim about men or women is rebutted. Dating mention is generic.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 5523,
+  "completion_tokens": 190,
+  "cost_usd": null
+ }
+}

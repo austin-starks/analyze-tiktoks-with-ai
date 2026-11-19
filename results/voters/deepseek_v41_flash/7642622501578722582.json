@@ -1,0 +1,19 @@
+{
+ "id": "7642622501578722582",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "none",
+  "reason": "Viewer DM advice on becoming independent and setting family boundaries; he offers no argument about men or women in general",
+  "evidence_seconds": 36
+ },
+ "usage": {
+  "prompt_tokens": 3772,
+  "completion_tokens": 318,
+  "cost_usd": null
+ }
+}

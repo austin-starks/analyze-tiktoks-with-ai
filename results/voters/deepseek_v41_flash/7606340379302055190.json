@@ -1,0 +1,19 @@
+{
+ "id": "7606340379302055190",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "women",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Women with habits like vaping, going out, or not cooking should be cut off immediately",
+  "reason": "Pushes back on exaggerated negative claims about women as dating red flags",
+  "evidence_seconds": 18
+ },
+ "usage": {
+  "prompt_tokens": 4401,
+  "completion_tokens": 323,
+  "cost_usd": null
+ }
+}

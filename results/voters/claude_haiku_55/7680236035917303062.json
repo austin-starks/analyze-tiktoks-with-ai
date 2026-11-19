@@ -1,0 +1,19 @@
+{
+ "id": "7680236035917303062",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "debate",
+  "borderline": false,
+  "alternate_category": "men",
+  "claim_answered": "Issues affecting men are self-inflicted; Public Offender's reply to Ilyas's video",
+  "reason": "Ilyas replies to Public Offender, a creator who responded to his earlier video and called him out directly.",
+  "evidence_seconds": 22
+ },
+ "usage": {
+  "prompt_tokens": 5843,
+  "completion_tokens": 215,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7692496968643382560",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "politics",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Mamdani describes socialism's goals instead of defining the economic system",
+  "reason": "Economic system definition and comparison of socialism vs capitalism; no claim about men or women",
+  "evidence_seconds": 26
+ },
+ "usage": {
+  "prompt_tokens": 3774,
+  "completion_tokens": 167,
+  "cost_usd": null
+ }
+}

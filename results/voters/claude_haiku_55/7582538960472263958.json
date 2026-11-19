@@ -1,0 +1,19 @@
+{
+ "id": "7582538960472263958",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "debate",
+  "claim_answered": "Modern women are oppressed: baby girls are surrounded by predators, told they are worth less than men, and are cattle and slaves under capitalism",
+  "reason": "Pushes back on a claim running women down and portraying women as oppressed; he says women are free and today's world is not chains, though he says men are not monsters.",
+  "evidence_seconds": 29
+ },
+ "usage": {
+  "prompt_tokens": 5368,
+  "completion_tokens": 244,
+  "cost_usd": null
+ }
+}

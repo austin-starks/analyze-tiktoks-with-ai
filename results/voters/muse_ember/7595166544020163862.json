@@ -1,0 +1,19 @@
+{
+ "id": "7595166544020163862",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "misc",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "Toxic men hurt her and she is only a victim",
+  "evidence_seconds": 56,
+  "reason": "He rebuts blaming men for her trauma, arguing she chose toxic exes and stayed with them"
+ },
+ "usage": {
+  "prompt_tokens": 3259,
+  "completion_tokens": 5856,
+  "cost_usd": null
+ }
+}

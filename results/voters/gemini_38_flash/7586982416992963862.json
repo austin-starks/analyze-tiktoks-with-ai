@@ -1,0 +1,19 @@
+{
+ "id": "7586982416992963862",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "borderline": false,
+  "claim_answered": "none",
+  "evidence_seconds": 126,
+  "category": "misc",
+  "reason": "General relationship and breakup advice reacting to a user story; answers no demographic claim.",
+  "alternate_category": "none"
+ },
+ "usage": {
+  "prompt_tokens": 3888,
+  "completion_tokens": 606,
+  "cost_usd": null
+ }
+}

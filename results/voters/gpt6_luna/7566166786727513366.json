@@ -1,0 +1,19 @@
+{
+ "id": "7566166786727513366",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Pretty women are mistreated because insecure men can’t handle their beauty",
+  "reason": "Pushes back on a claim blaming men generally for women’s relationship problems.",
+  "evidence_seconds": 56
+ },
+ "usage": {
+  "prompt_tokens": 3005,
+  "completion_tokens": 163,
+  "cost_usd": null
+ }
+}

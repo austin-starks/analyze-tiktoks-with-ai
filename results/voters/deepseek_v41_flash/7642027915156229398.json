@@ -1,0 +1,19 @@
+{
+ "id": "7642027915156229398",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Reads supportive viewer messages; channel/community content answering no claim about the sexes",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 4269,
+  "completion_tokens": 163,
+  "cost_usd": null
+ }
+}

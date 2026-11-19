@@ -1,0 +1,19 @@
+{
+ "id": "7591767303092571394",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "misc",
+  "claim_answered": "none",
+  "evidence_seconds": 0,
+  "reason": "Viewer DM relationship advice about girlfriend's sleepovers; answers no claim about men or women as groups"
+ },
+ "usage": {
+  "prompt_tokens": 4015,
+  "completion_tokens": 1932,
+  "cost_usd": null
+ }
+}

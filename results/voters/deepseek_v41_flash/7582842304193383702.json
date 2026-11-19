@@ -1,0 +1,19 @@
+{
+ "id": "7582842304193383702",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Women should test boyfriends with three questions demanding he sacrifice career and name",
+  "reason": "Answers a claim framing men as obliged to sacrifice career, identity and name to prove worth",
+  "evidence_seconds": 32
+ },
+ "usage": {
+  "prompt_tokens": 3551,
+  "completion_tokens": 317,
+  "cost_usd": null
+ }
+}

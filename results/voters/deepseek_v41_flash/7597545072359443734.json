@@ -1,0 +1,19 @@
+{
+ "id": "7597545072359443734",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Viewer DM and relationship advice about boundaries and moving on; answers no claim about men or women as a group",
+  "evidence_seconds": 82
+ },
+ "usage": {
+  "prompt_tokens": 4138,
+  "completion_tokens": 174,
+  "cost_usd": null
+ }
+}

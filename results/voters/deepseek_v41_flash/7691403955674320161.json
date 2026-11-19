@@ -1,0 +1,19 @@
+{
+ "id": "7691403955674320161",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "news",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Viral claims that seven Cornell fraternity men drugged and gang raped a woman as settled fact",
+  "reason": "Multi-part breakdown of an ongoing viral case; answers no general claim about men or women",
+  "evidence_seconds": 28
+ },
+ "usage": {
+  "prompt_tokens": 4734,
+  "completion_tokens": 261,
+  "cost_usd": null
+ }
+}

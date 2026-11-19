@@ -1,0 +1,19 @@
+{
+ "id": "7591050574699728150",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Subscriber relationship-advice Q&A; he evaluates this couple’s situation rather than rebutting a claim about either sex.",
+  "evidence_seconds": 105
+ },
+ "usage": {
+  "prompt_tokens": 4257,
+  "completion_tokens": 278,
+  "cost_usd": null
+ }
+}

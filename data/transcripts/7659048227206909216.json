@@ -1,0 +1,491 @@
+{
+ "text": "What the hell is he talking about? First, the reason why I didn't mention your second video is because I was actually looking into your source and it turns out that's terrible. Specifically, this study, which you use as your main source for why rent freeze can be bad for the economy. The main problem that I have with this study is that their outcome comes from a theoretical framework and that their findings come from predictions and theories and not empirical evidence. Man, do you even understand what empirical and theoretical mean? Theoretical was my very simplified example about rent control. The Berlin study is probably as empirical as housing research gets. It uses real rental market data from Berlin. Actual advertised rent, actual listing counts, actual apartment characteristics, not simulated numbers. It applies a difference in differences design, a causal inference method that compares apartment covered by the rent freeze with apartment not covered by it, before and after the policy, to isolate the freeze's effect. Its findings are measured from real data. Advertised rents fell, listings dropped, rent rose in nearby positive, all observed in the market data, not pulled out of some theoretical prediction. The mechanisms it identifies, conversions to owner occupancy, fewer new dwellings, fewer properties advertised for rent, are based on observed market behavior. How more empirical can it be? The next problem with your source is the methodology. The results of the data collected only came from 56 days worth of data collecting. Because if you didn't know, the rent freeze was happening during a pandemic. So in order to make sure that the data was not skewed by pandemic, they collected data 28 days before the rent freeze was enacted and 28 days after the rent freeze was enacted, which is a small sample size to determine the effect of rent freeze on the economy. No, the results didn't come only from 56 days worth of data. The main rent data sample had over 74,000 advertisements covering the period from January 2018 through June 2021. And the 28 days before and after were used exactly because of what you are talking about, to make sure the data was not skewed by the pandemic. This is not a weakness of the study. That is them trying to control for COVID as a confounding factor. So to make sure COVID didn't affect the price effects, they not only used a hedonic DID model, but also chose time windows specifically to avoid the main COVID containment period. For you to understand it better, think of it as if it was a multi-tool approach to make sure the data is not skewed. But the research itself took a span before the freeze, during the freeze, and after the freeze. Not to mention that they got their data solely from advertised apartments, which is why they said advertised rent dropped 7% after the rent freeze. How else do you think researchers are supposed to get this data? Do you think they go door to door and ask every tenant, uh, excuse me, how much rent do you pay? Using advertised rent is a standard in this kind of housing research, especially when you want to study asking rent and what people actually see when they search for an apartment. Now the study blames rent freeze for the 7% drop, but the pandemic could have still played a factor. They already controlled for pandemic. You said it yourself couple of sentences before. Damn, how slow can you be? Overall, simple black theory. This is probably your weakest response. Before, you just argued with arguments I never made. This time, you actually tried to address the research I used, and it turned out to be a disaster. Almost nothing of what you said is correct. This is just pathetic, even for you. Now two more things I want to mention. You published your video 5 hours after I published my response. So I'm sorry, but there is no way you were actually able to read a relatively complex study that uses a difference in differences framework with hedonic control in 5 hours, write a script, record a video, and publish it. Now let's imagine SBT can read the future. So he knew what my response would be. So he dropped everything, didn't sleep, didn't eat, and started reading the Berlin paper not after my response, but right when I published my video on rent freeze, which I did on July 3rd at 5.35pm German time. You published your video on July 4th around 4pm German time, so that would still give you less than a day to study that paper. So unless you are freaking good with hunting, it means you almost certainly didn't read the paper in full and didn't study it properly. And it very clearly shows in your answers. My guess is that you just used AI, asked it very biased questions specifically to attack the paper, and then repeated what it gave you. But this is not how you use AI. You have to study the paper yourself. You need to check what AI tells you, and then double check it again. And this is very ironic coming from a person who addresses me in his story, Stop using AI to do your work. Simple black theory. How dishonest and hypocritical can you be? Also, it turns out that you did watch my second video on rent freeze when you recorded your first response. So you knew that I was not talking about NYC and Mamdani. I gave you the benefit of the doubt because I agree that my first video on rent control could have been a bit confusing. But in my second video, I cleared the situation and explained which topics I was addressing. So you knew it. And you still started arguing about things I never said. I didn't think you could disappoint me even more. But it turns out I underestimated you. Go study some statistics and economics. And this time, do not turn off your comments.",
+ "duration": 240.11000061035156,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 1.600000023841858,
+   "text": " What the hell is he talking about?"
+  },
+  {
+   "start": 1.600000023841858,
+   "end": 4.079999923706055,
+   "text": " First, the reason why I didn't mention your second video is because I was actually looking"
+  },
+  {
+   "start": 4.079999923706055,
+   "end": 5.760000228881836,
+   "text": " into your source and it turns out that's terrible."
+  },
+  {
+   "start": 5.760000228881836,
+   "end": 8.640000343322754,
+   "text": " Specifically, this study, which you use as your main source for why rent freeze can be"
+  },
+  {
+   "start": 8.640000343322754,
+   "end": 9.359999656677246,
+   "text": " bad for the economy."
+  },
+  {
+   "start": 9.359999656677246,
+   "end": 12.079999923706055,
+   "text": " The main problem that I have with this study is that their outcome comes from a theoretical"
+  },
+  {
+   "start": 12.079999923706055,
+   "end": 15.520000457763672,
+   "text": " framework and that their findings come from predictions and theories and not empirical"
+  },
+  {
+   "start": 15.520000457763672,
+   "end": 15.84000015258789,
+   "text": " evidence."
+  },
+  {
+   "start": 15.84000015258789,
+   "end": 18.719999313354492,
+   "text": " Man, do you even understand what empirical and theoretical mean?"
+  },
+  {
+   "start": 18.719999313354492,
+   "end": 21.68000030517578,
+   "text": " Theoretical was my very simplified example about rent control."
+  },
+  {
+   "start": 21.68000030517578,
+   "end": 25.1200008392334,
+   "text": " The Berlin study is probably as empirical as housing research gets."
+  },
+  {
+   "start": 25.1200008392334,
+   "end": 27.68000030517578,
+   "text": " It uses real rental market data from Berlin."
+  },
+  {
+   "start": 27.68000030517578,
+   "end": 32.400001525878906,
+   "text": " Actual advertised rent, actual listing counts, actual apartment characteristics, not simulated"
+  },
+  {
+   "start": 32.400001525878906,
+   "end": 32.79999923706055,
+   "text": " numbers."
+  },
+  {
+   "start": 32.79999923706055,
+   "end": 36.720001220703125,
+   "text": " It applies a difference in differences design, a causal inference method that compares apartment"
+  },
+  {
+   "start": 36.720001220703125,
+   "end": 40.959999084472656,
+   "text": " covered by the rent freeze with apartment not covered by it, before and after the policy,"
+  },
+  {
+   "start": 40.959999084472656,
+   "end": 42.31999969482422,
+   "text": " to isolate the freeze's effect."
+  },
+  {
+   "start": 42.31999969482422,
+   "end": 44.15999984741211,
+   "text": " Its findings are measured from real data."
+  },
+  {
+   "start": 44.15999984741211,
+   "end": 48.400001525878906,
+   "text": " Advertised rents fell, listings dropped, rent rose in nearby positive, all observed in the"
+  },
+  {
+   "start": 48.400001525878906,
+   "end": 51.040000915527344,
+   "text": " market data, not pulled out of some theoretical prediction."
+  },
+  {
+   "start": 51.040000915527344,
+   "end": 55.20000076293945,
+   "text": " The mechanisms it identifies, conversions to owner occupancy, fewer new dwellings, fewer"
+  },
+  {
+   "start": 55.20000076293945,
+   "end": 58.15999984741211,
+   "text": " properties advertised for rent, are based on observed market behavior."
+  },
+  {
+   "start": 58.15999984741211,
+   "end": 59.52000045776367,
+   "text": " How more empirical can it be?"
+  },
+  {
+   "start": 59.52000045776367,
+   "end": 61.439998626708984,
+   "text": " The next problem with your source is the methodology."
+  },
+  {
+   "start": 61.439998626708984,
+   "end": 64.16000366210938,
+   "text": " The results of the data collected only came from 56 days worth of data collecting."
+  },
+  {
+   "start": 64.16000366210938,
+   "end": 66.23999786376953,
+   "text": " Because if you didn't know, the rent freeze was happening during a pandemic."
+  },
+  {
+   "start": 66.23999786376953,
+   "end": 69.04000091552734,
+   "text": " So in order to make sure that the data was not skewed by pandemic, they collected data"
+  },
+  {
+   "start": 69.04000091552734,
+   "end": 72.16000366210938,
+   "text": " 28 days before the rent freeze was enacted and 28 days after the rent freeze was enacted,"
+  },
+  {
+   "start": 72.16000366210938,
+   "end": 74.95999908447266,
+   "text": " which is a small sample size to determine the effect of rent freeze on the economy."
+  },
+  {
+   "start": 74.95999908447266,
+   "end": 77.76000213623047,
+   "text": " No, the results didn't come only from 56 days worth of data."
+  },
+  {
+   "start": 77.76000213623047,
+   "end": 82.31999969482422,
+   "text": " The main rent data sample had over 74,000 advertisements covering the period from January"
+  },
+  {
+   "start": 82.31999969482422,
+   "end": 84.08000183105469,
+   "text": " 2018 through June 2021."
+  },
+  {
+   "start": 84.08000183105469,
+   "end": 88.23999786376953,
+   "text": " And the 28 days before and after were used exactly because of what you are talking about,"
+  },
+  {
+   "start": 88.23999786376953,
+   "end": 90.4800033569336,
+   "text": " to make sure the data was not skewed by the pandemic."
+  },
+  {
+   "start": 90.4800033569336,
+   "end": 92.0,
+   "text": " This is not a weakness of the study."
+  },
+  {
+   "start": 92.0,
+   "end": 95.04000091552734,
+   "text": " That is them trying to control for COVID as a confounding factor."
+  },
+  {
+   "start": 95.04000091552734,
+   "end": 99.36000061035156,
+   "text": " So to make sure COVID didn't affect the price effects, they not only used a hedonic DID model,"
+  },
+  {
+   "start": 99.36000061035156,
+   "end": 103.36000061035156,
+   "text": " but also chose time windows specifically to avoid the main COVID containment period."
+  },
+  {
+   "start": 103.36000061035156,
+   "end": 107.04000091552734,
+   "text": " For you to understand it better, think of it as if it was a multi-tool approach to make"
+  },
+  {
+   "start": 107.04000091552734,
+   "end": 108.31999969482422,
+   "text": " sure the data is not skewed."
+  },
+  {
+   "start": 108.31999969482422,
+   "end": 111.83999633789062,
+   "text": " But the research itself took a span before the freeze, during the freeze, and after the"
+  },
+  {
+   "start": 111.83999633789062,
+   "end": 112.23999786376953,
+   "text": " freeze."
+  },
+  {
+   "start": 112.23999786376953,
+   "end": 114.80000305175781,
+   "text": " Not to mention that they got their data solely from advertised apartments,"
+  },
+  {
+   "start": 114.80000305175781,
+   "end": 117.5999984741211,
+   "text": " which is why they said advertised rent dropped 7% after the rent freeze."
+  },
+  {
+   "start": 117.5999984741211,
+   "end": 120.23999786376953,
+   "text": " How else do you think researchers are supposed to get this data?"
+  },
+  {
+   "start": 120.23999786376953,
+   "end": 122.72000122070312,
+   "text": " Do you think they go door to door and ask every tenant,"
+  },
+  {
+   "start": 122.72000122070312,
+   "end": 124.80000305175781,
+   "text": " uh, excuse me, how much rent do you pay?"
+  },
+  {
+   "start": 124.80000305175781,
+   "end": 128.0800018310547,
+   "text": " Using advertised rent is a standard in this kind of housing research,"
+  },
+  {
+   "start": 128.0800018310547,
+   "end": 131.67999267578125,
+   "text": " especially when you want to study asking rent and what people actually see when they search"
+  },
+  {
+   "start": 131.67999267578125,
+   "end": 132.39999389648438,
+   "text": " for an apartment."
+  },
+  {
+   "start": 132.39999389648438,
+   "end": 135.83999633789062,
+   "text": " Now the study blames rent freeze for the 7% drop, but the pandemic could have still played a factor."
+  },
+  {
+   "start": 135.83999633789062,
+   "end": 137.44000244140625,
+   "text": " They already controlled for pandemic."
+  },
+  {
+   "start": 137.44000244140625,
+   "end": 139.83999633789062,
+   "text": " You said it yourself couple of sentences before."
+  },
+  {
+   "start": 139.83999633789062,
+   "end": 141.60000610351562,
+   "text": " Damn, how slow can you be?"
+  },
+  {
+   "start": 141.60000610351562,
+   "end": 143.1199951171875,
+   "text": " Overall, simple black theory."
+  },
+  {
+   "start": 143.1199951171875,
+   "end": 144.9600067138672,
+   "text": " This is probably your weakest response."
+  },
+  {
+   "start": 144.9600067138672,
+   "end": 147.1999969482422,
+   "text": " Before, you just argued with arguments I never made."
+  },
+  {
+   "start": 147.1999969482422,
+   "end": 150.63999938964844,
+   "text": " This time, you actually tried to address the research I used, and it turned out to be a"
+  },
+  {
+   "start": 150.63999938964844,
+   "end": 151.1999969482422,
+   "text": " disaster."
+  },
+  {
+   "start": 151.1999969482422,
+   "end": 153.1199951171875,
+   "text": " Almost nothing of what you said is correct."
+  },
+  {
+   "start": 153.1199951171875,
+   "end": 154.63999938964844,
+   "text": " This is just pathetic, even for you."
+  },
+  {
+   "start": 154.63999938964844,
+   "end": 155.9199981689453,
+   "text": " Now two more things I want to mention."
+  },
+  {
+   "start": 155.9199981689453,
+   "end": 158.55999755859375,
+   "text": " You published your video 5 hours after I published my response."
+  },
+  {
+   "start": 158.55999755859375,
+   "end": 162.39999389648438,
+   "text": " So I'm sorry, but there is no way you were actually able to read a relatively complex"
+  },
+  {
+   "start": 162.39999389648438,
+   "end": 166.32000732421875,
+   "text": " study that uses a difference in differences framework with hedonic control in 5 hours,"
+  },
+  {
+   "start": 166.32000732421875,
+   "end": 168.32000732421875,
+   "text": " write a script, record a video, and publish it."
+  },
+  {
+   "start": 168.32000732421875,
+   "end": 170.24000549316406,
+   "text": " Now let's imagine SBT can read the future."
+  },
+  {
+   "start": 170.24000549316406,
+   "end": 171.9199981689453,
+   "text": " So he knew what my response would be."
+  },
+  {
+   "start": 171.9199981689453,
+   "end": 175.67999267578125,
+   "text": " So he dropped everything, didn't sleep, didn't eat, and started reading the Berlin paper"
+  },
+  {
+   "start": 175.67999267578125,
+   "end": 179.67999267578125,
+   "text": " not after my response, but right when I published my video on rent freeze, which I did on July"
+  },
+  {
+   "start": 179.67999267578125,
+   "end": 181.60000610351562,
+   "text": " 3rd at 5.35pm German time."
+  },
+  {
+   "start": 181.60000610351562,
+   "end": 185.44000244140625,
+   "text": " You published your video on July 4th around 4pm German time, so that would still give"
+  },
+  {
+   "start": 185.44000244140625,
+   "end": 187.1999969482422,
+   "text": " you less than a day to study that paper."
+  },
+  {
+   "start": 187.1999969482422,
+   "end": 190.8000030517578,
+   "text": " So unless you are freaking good with hunting, it means you almost certainly didn't read"
+  },
+  {
+   "start": 190.8000030517578,
+   "end": 192.63999938964844,
+   "text": " the paper in full and didn't study it properly."
+  },
+  {
+   "start": 192.63999938964844,
+   "end": 194.32000732421875,
+   "text": " And it very clearly shows in your answers."
+  },
+  {
+   "start": 194.32000732421875,
+   "end": 198.47999572753906,
+   "text": " My guess is that you just used AI, asked it very biased questions specifically to attack"
+  },
+  {
+   "start": 198.47999572753906,
+   "end": 200.32000732421875,
+   "text": " the paper, and then repeated what it gave you."
+  },
+  {
+   "start": 200.32000732421875,
+   "end": 201.75999450683594,
+   "text": " But this is not how you use AI."
+  },
+  {
+   "start": 201.75999450683594,
+   "end": 203.36000061035156,
+   "text": " You have to study the paper yourself."
+  },
+  {
+   "start": 203.36000061035156,
+   "end": 206.47999572753906,
+   "text": " You need to check what AI tells you, and then double check it again."
+  },
+  {
+   "start": 206.47999572753906,
+   "end": 210.0800018310547,
+   "text": " And this is very ironic coming from a person who addresses me in his story,"
+  },
+  {
+   "start": 210.0800018310547,
+   "end": 211.67999267578125,
+   "text": " Stop using AI to do your work."
+  },
+  {
+   "start": 211.67999267578125,
+   "end": 212.47999572753906,
+   "text": " Simple black theory."
+  },
+  {
+   "start": 212.47999572753906,
+   "end": 214.39999389648438,
+   "text": " How dishonest and hypocritical can you be?"
+  },
+  {
+   "start": 214.39999389648438,
+   "end": 218.24000549316406,
+   "text": " Also, it turns out that you did watch my second video on rent freeze when you recorded your"
+  },
+  {
+   "start": 218.24000549316406,
+   "end": 218.8800048828125,
+   "text": " first response."
+  },
+  {
+   "start": 218.8800048828125,
+   "end": 221.67999267578125,
+   "text": " So you knew that I was not talking about NYC and Mamdani."
+  },
+  {
+   "start": 221.67999267578125,
+   "end": 224.9600067138672,
+   "text": " I gave you the benefit of the doubt because I agree that my first video on rent control"
+  },
+  {
+   "start": 224.9600067138672,
+   "end": 226.0,
+   "text": " could have been a bit confusing."
+  },
+  {
+   "start": 226.0,
+   "end": 229.67999267578125,
+   "text": " But in my second video, I cleared the situation and explained which topics I was addressing."
+  },
+  {
+   "start": 229.67999267578125,
+   "end": 230.47999572753906,
+   "text": " So you knew it."
+  },
+  {
+   "start": 230.47999572753906,
+   "end": 232.72000122070312,
+   "text": " And you still started arguing about things I never said."
+  },
+  {
+   "start": 232.72000122070312,
+   "end": 234.47999572753906,
+   "text": " I didn't think you could disappoint me even more."
+  },
+  {
+   "start": 234.47999572753906,
+   "end": 236.24000549316406,
+   "text": " But it turns out I underestimated you."
+  },
+  {
+   "start": 236.24000549316406,
+   "end": 238.16000366210938,
+   "text": " Go study some statistics and economics."
+  },
+  {
+   "start": 238.16000366210938,
+   "end": 240.0800018310547,
+   "text": " And this time, do not turn off your comments."
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7644961710108888342",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Do long-distance relationships work?",
+  "reason": "Viewer question about long-distance dating; general relationship advice, no claim about men or women.",
+  "evidence_seconds": 30
+ },
+ "usage": {
+  "prompt_tokens": 3566,
+  "completion_tokens": 164,
+  "cost_usd": null
+ }
+}

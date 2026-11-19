@@ -1,0 +1,19 @@
+{
+ "id": "7598647281503685910",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "A viewer's ex-treated-badly friend misses her ex; Ilyas says the friend is problematic and her choices of partners are the cause",
+  "reason": "Answers a viewer's story by blaming the woman (the friend) for her relationship troubles, a claim running women down; mostly dating advice otherwise.",
+  "evidence_seconds": 87
+ },
+ "usage": {
+  "prompt_tokens": 5809,
+  "completion_tokens": 245,
+  "cost_usd": null
+ }
+}

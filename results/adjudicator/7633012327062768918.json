@@ -1,0 +1,18 @@
+{
+ "id": "7633012327062768918",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "borderline": true,
+  "category": "misc",
+  "claim_answered": "none",
+  "evidence_seconds": 16,
+  "reason": "Channel update thanking viewers, discussing next steps after Brenna declined, and answering a viewer comment; misc applies even when a creator is mentioned.",
+  "alternate_category": "debate"
+ },
+ "usage": {
+  "prompt_tokens": 3475,
+  "completion_tokens": 1503,
+  "cost_usd": null
+ }
+}

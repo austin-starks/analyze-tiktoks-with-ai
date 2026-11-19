@@ -1,0 +1,19 @@
+{
+ "id": "7650938606483213590",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "claim_answered": "Men and women can be just friends without romantic feelings",
+  "alternate_category": "misc",
+  "evidence_seconds": 56,
+  "category": "mixed",
+  "reason": "Evaluates whether men and women can be just friends, analyzing dynamics for both sexes.",
+  "borderline": true
+ },
+ "usage": {
+  "prompt_tokens": 3940,
+  "completion_tokens": 2926,
+  "cost_usd": null
+ }
+}

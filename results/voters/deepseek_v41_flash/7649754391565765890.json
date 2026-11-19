@@ -1,0 +1,19 @@
+{
+ "id": "7649754391565765890",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men running the labels force female pop stars to dress in revealing outfits or get replaced",
+  "reason": "Answers a claim blaming men at labels for controlling women, showing the roster and market explain the looks",
+  "evidence_seconds": 121
+ },
+ "usage": {
+  "prompt_tokens": 4258,
+  "completion_tokens": 494,
+  "cost_usd": null
+ }
+}

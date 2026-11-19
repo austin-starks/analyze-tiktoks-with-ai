@@ -1,0 +1,19 @@
+{
+ "id": "7652812545304071446",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "Women pay more for equivalent products because companies exploit them, and men should be blamed for it",
+  "reason": "Challenges a claim framing women's higher prices as another problem for which men are blamed, while disputing the disadvantage itself",
+  "evidence_seconds": 174
+ },
+ "usage": {
+  "prompt_tokens": 3856,
+  "completion_tokens": 363,
+  "cost_usd": null
+ }
+}

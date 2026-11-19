@@ -1,0 +1,19 @@
+{
+ "id": "7677581790235725058",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "news",
+  "claim_answered": "none",
+  "evidence_seconds": 0,
+  "reason": "Coverage of ongoing Lindsay Clancy trial and expert disagreement"
+ },
+ "usage": {
+  "prompt_tokens": 3614,
+  "completion_tokens": 2090,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7631579441566600470",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "One in ten men is bad, so you should be wary of all men",
+  "reason": "Pushes back on the Whoppers analogy that justifies generalizing against men, arguing you can screen individuals instead",
+  "evidence_seconds": 40
+ },
+ "usage": {
+  "prompt_tokens": 3426,
+  "completion_tokens": 321,
+  "cost_usd": null
+ }
+}

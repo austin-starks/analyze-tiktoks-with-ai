@@ -1,0 +1,19 @@
+{
+ "id": "7614481244155333910",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "A subscriber's girlfriend who kissed her female friend means she cheated, so his distrust is justified",
+  "reason": "Relationship Q&A and advice to a viewer; answers no general claim about men or women, though it touches a partner's conduct.",
+  "evidence_seconds": 96
+ },
+ "usage": {
+  "prompt_tokens": 5267,
+  "completion_tokens": 224,
+  "cost_usd": null
+ }
+}

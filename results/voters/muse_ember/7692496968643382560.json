@@ -1,0 +1,19 @@
+{
+ "id": "7692496968643382560",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "politics",
+  "claim_answered": "Mamdani's definition of socialism as ensuring a dignified life",
+  "evidence_seconds": 6,
+  "reason": "Discussing socialism versus capitalism definitions, an economic and political topic not about men or women"
+ },
+ "usage": {
+  "prompt_tokens": 3434,
+  "completion_tokens": 1142,
+  "cost_usd": null
+ }
+}

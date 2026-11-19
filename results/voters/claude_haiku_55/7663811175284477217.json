@@ -1,0 +1,19 @@
+{
+ "id": "7663811175284477217",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "politics",
+  "claim_answered": "Being a public-school student is more dangerous than being a police officer, based on raw incident numbers",
+  "reason": "Rebuts a creator's police-danger comparison; it is not about men or women, and police policing is not a gender claim. Possibly politics, but mainly a stats fact-check of a non-gender claim.",
+  "evidence_seconds": 2
+ },
+ "usage": {
+  "prompt_tokens": 5427,
+  "completion_tokens": 245,
+  "cost_usd": null
+ }
+}

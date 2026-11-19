@@ -1,0 +1,19 @@
+{
+ "id": "7556146293597408534",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "misc",
+  "borderline": true,
+  "category": "mixed",
+  "claim_answered": "Healthy relationships mean constant conflict, triggers, and repair",
+  "evidence_seconds": 16,
+  "reason": "Pushes back on a couples claim about conflict and repair that blames neither sex"
+ },
+ "usage": {
+  "prompt_tokens": 3116,
+  "completion_tokens": 4591,
+  "cost_usd": null
+ }
+}

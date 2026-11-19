@@ -1,0 +1,19 @@
+{
+ "id": "7672043709986311446",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "mixed",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "Women never sexualize men in songs the way men sexualize women",
+  "evidence_seconds": 29,
+  "reason": "Pushes back on claim blaming men for sexualizing women while claiming women never do"
+ },
+ "usage": {
+  "prompt_tokens": 3876,
+  "completion_tokens": 4214,
+  "cost_usd": null
+ }
+}

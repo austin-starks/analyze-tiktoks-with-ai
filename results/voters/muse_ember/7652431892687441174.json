@@ -1,0 +1,19 @@
+{
+ "id": "7652431892687441174",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "misc",
+  "claim_answered": "none",
+  "evidence_seconds": 0,
+  "reason": "Video mainly about his copyright strike, ban risk and appeal, not answering a new claim"
+ },
+ "usage": {
+  "prompt_tokens": 3619,
+  "completion_tokens": 2025,
+  "cost_usd": null
+ }
+}

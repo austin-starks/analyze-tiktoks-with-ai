@@ -1,0 +1,19 @@
+{
+ "id": "7534332182693793046",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "misc",
+  "reason": "General dating and texting advice for men after a first date without answering a claim",
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "borderline": false,
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 3202,
+  "completion_tokens": 294,
+  "cost_usd": null
+ }
+}

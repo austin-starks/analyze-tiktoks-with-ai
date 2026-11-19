@@ -1,0 +1,19 @@
+{
+ "id": "7568768145624812822",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Women who see men laughing assume they must have done something wrong or hit a woman",
+  "reason": "Pushes back on a claim that runs men down as violent and up to wrongdoing; defends men.",
+  "evidence_seconds": 37
+ },
+ "usage": {
+  "prompt_tokens": 5336,
+  "completion_tokens": 205,
+  "cost_usd": null
+ }
+}

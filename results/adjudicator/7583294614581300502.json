@@ -1,0 +1,18 @@
+{
+ "id": "7583294614581300502",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "claim_answered": "none",
+  "category": "misc",
+  "alternate_category": "men",
+  "evidence_seconds": 106,
+  "reason": "Rule 3 (misc): the comedian makes no claim about men; he critiques stand-up comedy craft rather than answering a claim about men.",
+  "borderline": true
+ },
+ "usage": {
+  "prompt_tokens": 3190,
+  "completion_tokens": 2686,
+  "cost_usd": 0.02493
+ }
+}

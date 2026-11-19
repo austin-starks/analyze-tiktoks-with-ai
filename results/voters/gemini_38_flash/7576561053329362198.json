@@ -1,0 +1,19 @@
+{
+ "id": "7576561053329362198",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "alternate_category": "none",
+  "category": "men",
+  "borderline": false,
+  "reason": "He defends men against the claim that they are emotionally stunted and cannot learn emotional intelligence from other men.",
+  "claim_answered": "Men only learn emotional intelligence from women or gay friends",
+  "evidence_seconds": 105
+ },
+ "usage": {
+  "prompt_tokens": 3495,
+  "completion_tokens": 737,
+  "cost_usd": null
+ }
+}

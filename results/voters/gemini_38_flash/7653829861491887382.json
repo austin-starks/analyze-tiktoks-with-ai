@@ -1,0 +1,19 @@
+{
+ "id": "7653829861491887382",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "evidence_seconds": 92,
+  "alternate_category": "mixed",
+  "borderline": true,
+  "reason": "Evaluates a claim linking England football matches to a surge in domestic violence, which targets men as abusers.",
+  "claim_answered": "Domestic violence increases by 26% when England plays and 38% if they lose",
+  "category": "men"
+ },
+ "usage": {
+  "prompt_tokens": 3635,
+  "completion_tokens": 2178,
+  "cost_usd": null
+ }
+}

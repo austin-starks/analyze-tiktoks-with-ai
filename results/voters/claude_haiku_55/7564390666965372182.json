@@ -1,0 +1,19 @@
+{
+ "id": "7564390666965372182",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "Women who have boyfriends should be free to be passed around; monogamy is unreasonable",
+  "reason": "Dating advice to men about reading signs in women; the clip is a viral quote, not a claim he rebuts about either sex as a group.",
+  "evidence_seconds": 40
+ },
+ "usage": {
+  "prompt_tokens": 4861,
+  "completion_tokens": 221,
+  "cost_usd": null
+ }
+}

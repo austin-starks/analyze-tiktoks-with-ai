@@ -1,0 +1,19 @@
+{
+ "id": "7609041344673139990",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "A 19-year-old man feels stressed and wants personal time at his girlfriend's parents' home; is it wrong?",
+  "reason": "Responds to a man's complaint by telling him to be grateful; no claim about men or women, so closer to general relationship advice.",
+  "evidence_seconds": 74
+ },
+ "usage": {
+  "prompt_tokens": 5618,
+  "completion_tokens": 228,
+  "cost_usd": null
+ }
+}

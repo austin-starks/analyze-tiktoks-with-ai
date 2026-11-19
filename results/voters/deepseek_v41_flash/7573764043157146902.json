@@ -1,0 +1,19 @@
+{
+ "id": "7573764043157146902",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men don't really go years without sex; most men have plenty of options",
+  "reason": "He backs the denied disadvantage of sexless young men with survey data, rebutting the claim that men's dating struggles are fake.",
+  "evidence_seconds": 24
+ },
+ "usage": {
+  "prompt_tokens": 3652,
+  "completion_tokens": 318,
+  "cost_usd": null
+ }
+}

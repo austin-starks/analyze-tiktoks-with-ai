@@ -1,0 +1,19 @@
+{
+ "id": "7607152368580300054",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Having a modern room and a mid-level car makes girls like you",
+  "reason": "Mocks a viewer's dating question and gives general dating and self-improvement advice; attacks no group's reputation.",
+  "evidence_seconds": 47
+ },
+ "usage": {
+  "prompt_tokens": 5004,
+  "completion_tokens": 207,
+  "cost_usd": null
+ }
+}

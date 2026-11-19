@@ -1,0 +1,19 @@
+{
+ "id": "7613384030058269974",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "mixed",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "Women are not wired to obsess over men; men are, because women are more evolved",
+  "evidence_seconds": 34,
+  "reason": "Pushes back on claim that men are biologically obsessed and women are more evolved"
+ },
+ "usage": {
+  "prompt_tokens": 3635,
+  "completion_tokens": 2851,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7625682582327528726",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "men",
+  "claim_answered": "Gender pay gap is due to sexism and discrimination",
+  "evidence_seconds": 14,
+  "reason": "Pushes back on claim blaming men for women's pay disadvantage"
+ },
+ "usage": {
+  "prompt_tokens": 3345,
+  "completion_tokens": 3139,
+  "cost_usd": null
+ }
+}

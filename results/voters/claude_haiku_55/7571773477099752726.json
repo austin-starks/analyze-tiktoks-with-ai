@@ -1,0 +1,19 @@
+{
+ "id": "7571773477099752726",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men are boring; a woman's fun with a man is just her enjoying herself",
+  "reason": "Rebuts a claim running men down by blaming the woman's attitude for men seeming boring, defending women's side too",
+  "evidence_seconds": 27
+ },
+ "usage": {
+  "prompt_tokens": 4882,
+  "completion_tokens": 210,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7679516802401029398",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "politics",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "No voter ID exists only so that ineligible people can vote and steal elections",
+  "reason": "Fact-checks a claim about voter ID law and election integrity — election policy, not about men or women.",
+  "evidence_seconds": 90
+ },
+ "usage": {
+  "prompt_tokens": 3991,
+  "completion_tokens": 231,
+  "cost_usd": null
+ }
+}

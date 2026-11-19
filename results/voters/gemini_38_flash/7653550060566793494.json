@@ -1,0 +1,19 @@
+{
+ "id": "7653550060566793494",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "claim_answered": "none",
+  "evidence_seconds": 77,
+  "alternate_category": "politics",
+  "reason": "Personal storytime and philosophical opinion sharing his perspective on racism versus ignorance, answering no claim."
+ },
+ "usage": {
+  "prompt_tokens": 3980,
+  "completion_tokens": 513,
+  "cost_usd": null
+ }
+}

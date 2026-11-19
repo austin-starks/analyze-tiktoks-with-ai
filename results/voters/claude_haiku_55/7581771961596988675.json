@@ -1,0 +1,19 @@
+{
+ "id": "7581771961596988675",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "A woman on a dating show calls a man's demand for accountability a red flag",
+  "reason": "Pushes back on a claim that runs down a man's stance; the claimant is a woman who gets criticized, so he defends the man's side",
+  "evidence_seconds": 17
+ },
+ "usage": {
+  "prompt_tokens": 5064,
+  "completion_tokens": 216,
+  "cost_usd": null
+ }
+}

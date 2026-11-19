@@ -1,0 +1,19 @@
+{
+ "id": "7690233503568481569",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Women are way funnier than men; every man is a version of the funniest woman he knows",
+  "reason": "Pushes back on a claim that runs men's humor down, though he also rejects the mirror stereotype that women aren't funny",
+  "evidence_seconds": 77
+ },
+ "usage": {
+  "prompt_tokens": 3975,
+  "completion_tokens": 710,
+  "cost_usd": null
+ }
+}

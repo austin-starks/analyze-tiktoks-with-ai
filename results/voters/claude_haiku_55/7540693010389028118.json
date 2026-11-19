@@ -1,0 +1,19 @@
+{
+ "id": "7540693010389028118",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "General dating and confidence advice for men; answers no claim about either sex.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 4886,
+  "completion_tokens": 174,
+  "cost_usd": null
+ }
+}

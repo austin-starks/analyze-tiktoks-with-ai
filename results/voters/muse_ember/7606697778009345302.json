@@ -1,0 +1,19 @@
+{
+ "id": "7606697778009345302",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "misc",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "Men who watch porn, play games, smoke or are overweight should be blocked",
+  "evidence_seconds": 36,
+  "reason": "Pushes back on exaggerated red-flag list that runs down men for porn, games, smoking, weight"
+ },
+ "usage": {
+  "prompt_tokens": 3790,
+  "completion_tokens": 4523,
+  "cost_usd": null
+ }
+}

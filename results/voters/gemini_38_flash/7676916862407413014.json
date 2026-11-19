@@ -1,0 +1,19 @@
+{
+ "id": "7676916862407413014",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "claim_answered": "none",
+  "alternate_category": "none",
+  "borderline": false,
+  "evidence_seconds": 13,
+  "category": "news",
+  "reason": "Report and timeline explanation of an ongoing criminal trial and viral true crime story."
+ },
+ "usage": {
+  "prompt_tokens": 3983,
+  "completion_tokens": 242,
+  "cost_usd": null
+ }
+}

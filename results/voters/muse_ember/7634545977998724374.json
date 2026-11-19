@@ -1,0 +1,19 @@
+{
+ "id": "7634545977998724374",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "politics",
+  "claim_answered": "Europe passed a new yes-means-yes law",
+  "evidence_seconds": 46,
+  "reason": "Fact-checks whether EU passed consent law; government policy, not a claim about men or women"
+ },
+ "usage": {
+  "prompt_tokens": 3569,
+  "completion_tokens": 2528,
+  "cost_usd": null
+ }
+}

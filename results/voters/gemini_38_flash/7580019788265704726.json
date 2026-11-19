@@ -1,0 +1,19 @@
+{
+ "id": "7580019788265704726",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "claim_answered": "none",
+  "category": "news",
+  "reason": "Coverage and reaction to an ongoing viral celebrity drama from a podcast episode.",
+  "borderline": true,
+  "evidence_seconds": 0,
+  "alternate_category": "misc"
+ },
+ "usage": {
+  "prompt_tokens": 3404,
+  "completion_tokens": 2186,
+  "cost_usd": null
+ }
+}

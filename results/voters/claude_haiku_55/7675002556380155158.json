@@ -1,0 +1,19 @@
+{
+ "id": "7675002556380155158",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "politics",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "none",
+  "reason": "Abortion is a contested moral and legal political topic; no claim about men or women is answered.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 5762,
+  "completion_tokens": 181,
+  "cost_usd": null
+ }
+}

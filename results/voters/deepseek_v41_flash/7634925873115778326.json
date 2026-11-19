@@ -1,0 +1,19 @@
+{
+ "id": "7634925873115778326",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "politics",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Yes-means-yes was already the law and requires written consent",
+  "reason": "Explains EU consent-law policy and the Parliament vote; no claim about men or women as a group",
+  "evidence_seconds": 17
+ },
+ "usage": {
+  "prompt_tokens": 3852,
+  "completion_tokens": 314,
+  "cost_usd": null
+ }
+}

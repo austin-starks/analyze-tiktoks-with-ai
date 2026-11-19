@@ -1,0 +1,19 @@
+{
+ "id": "7568478200372808982",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men who want to date would always make the effort women expect",
+  "reason": "Pushes back on a dating claim that judges men as unwilling when they may lack the ability or means.",
+  "evidence_seconds": 23
+ },
+ "usage": {
+  "prompt_tokens": 3122,
+  "completion_tokens": 73,
+  "cost_usd": null
+ }
+}

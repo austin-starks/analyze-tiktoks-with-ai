@@ -1,0 +1,19 @@
+{
+ "id": "7635617075163172118",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "mixed",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "Being pregnant is more dangerous than being a police officer",
+  "evidence_seconds": 224,
+  "reason": "Pushes back on claim downplaying cops' danger relative to pregnancy"
+ },
+ "usage": {
+  "prompt_tokens": 4232,
+  "completion_tokens": 6792,
+  "cost_usd": null
+ }
+}

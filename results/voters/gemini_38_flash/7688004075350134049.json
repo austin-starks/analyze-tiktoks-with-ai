@@ -1,0 +1,19 @@
+{
+ "id": "7688004075350134049",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "evidence_seconds": 197,
+  "claim_answered": "Men get 2 to 6 years for killing partners while women get 12 to 15",
+  "category": "men",
+  "reason": "Refutes a claim that reverses men's documented sentencing disadvantage into supposed discrimination against women",
+  "alternate_category": "mixed",
+  "borderline": true
+ },
+ "usage": {
+  "prompt_tokens": 4068,
+  "completion_tokens": 1009,
+  "cost_usd": null
+ }
+}

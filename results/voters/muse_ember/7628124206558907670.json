@@ -1,0 +1,19 @@
+{
+ "id": "7628124206558907670",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "women",
+  "borderline": true,
+  "category": "misc",
+  "claim_answered": "none",
+  "evidence_seconds": 0,
+  "reason": "Viewer DM dating advice about girlfriend hiding ex meeting; brief women never learn pushback makes women plausible"
+ },
+ "usage": {
+  "prompt_tokens": 3587,
+  "completion_tokens": 7899,
+  "cost_usd": null
+ }
+}

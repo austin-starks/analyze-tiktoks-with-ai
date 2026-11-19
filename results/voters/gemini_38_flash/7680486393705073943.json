@@ -1,0 +1,19 @@
+{
+ "id": "7680486393705073943",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "men",
+  "claim_answered": "All wars have been started by men",
+  "alternate_category": "mixed",
+  "evidence_seconds": 17,
+  "reason": "Pushes back on the claim that men start all wars",
+  "borderline": true
+ },
+ "usage": {
+  "prompt_tokens": 3639,
+  "completion_tokens": 652,
+  "cost_usd": null
+ }
+}

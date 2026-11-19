@@ -1,0 +1,19 @@
+{
+ "id": "7533925122852343062",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "alternate_category": "none",
+  "evidence_seconds": 14,
+  "claim_answered": "none",
+  "borderline": false,
+  "category": "misc",
+  "reason": "General dating advice listing signs a first date went well; answers no claim about a group."
+ },
+ "usage": {
+  "prompt_tokens": 3218,
+  "completion_tokens": 392,
+  "cost_usd": null
+ }
+}

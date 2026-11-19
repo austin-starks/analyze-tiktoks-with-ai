@@ -1,0 +1,19 @@
+{
+ "id": "7645259932840807702",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "mixed",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "Body count does not matter because people can lie about it",
+  "reason": "He argues it can matter, then compares what a high count may signify for men and women, while explaining the gendered double standard.",
+  "evidence_seconds": 68
+ },
+ "usage": {
+  "prompt_tokens": 4350,
+  "completion_tokens": 710,
+  "cost_usd": null
+ }
+}

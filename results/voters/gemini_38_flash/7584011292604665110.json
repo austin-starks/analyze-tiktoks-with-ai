@@ -1,0 +1,19 @@
+{
+ "id": "7584011292604665110",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "claim_answered": "none",
+  "evidence_seconds": 78,
+  "borderline": true,
+  "alternate_category": "men",
+  "category": "misc",
+  "reason": "Relationship and marriage advice reacting to a viral clip without answering a claim about either sex as a group."
+ },
+ "usage": {
+  "prompt_tokens": 3513,
+  "completion_tokens": 717,
+  "cost_usd": null
+ }
+}

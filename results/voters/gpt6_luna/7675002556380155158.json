@@ -1,0 +1,19 @@
+{
+ "id": "7675002556380155158",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "politics",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Whether abortion should be permitted based on fetal moral status and bodily autonomy",
+  "reason": "Discusses abortion ethics and rights as a political issue, not a claim about men or women as groups.",
+  "evidence_seconds": 162
+ },
+ "usage": {
+  "prompt_tokens": 3593,
+  "completion_tokens": 75,
+  "cost_usd": null
+ }
+}

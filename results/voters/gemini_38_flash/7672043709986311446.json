@@ -1,0 +1,19 @@
+{
+ "id": "7672043709986311446",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "evidence_seconds": 34,
+  "reason": "Pushes back on a claim that uniquely blames men for sexual objectification in music.",
+  "claim_answered": "Women never sexually objectify men in music like men objectify women",
+  "category": "men",
+  "alternate_category": "mixed",
+  "borderline": true
+ },
+ "usage": {
+  "prompt_tokens": 4212,
+  "completion_tokens": 703,
+  "cost_usd": null
+ }
+}

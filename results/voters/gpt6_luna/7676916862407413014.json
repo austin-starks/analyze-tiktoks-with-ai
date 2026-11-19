@@ -1,0 +1,19 @@
+{
+ "id": "7676916862407413014",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "news",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Explains the timeline and central issue in an ongoing criminal trial; it does not primarily answer a gender claim.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 3729,
+  "completion_tokens": 158,
+  "cost_usd": null
+ }
+}

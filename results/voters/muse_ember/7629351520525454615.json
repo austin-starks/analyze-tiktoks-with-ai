@@ -1,0 +1,19 @@
+{
+ "id": "7629351520525454615",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "men",
+  "claim_answered": "80% of organ donors are women and 80% of recipients are men",
+  "evidence_seconds": 8,
+  "reason": "Pushes back on claim portraying men as hypocritical non-donors who only take organs"
+ },
+ "usage": {
+  "prompt_tokens": 3184,
+  "completion_tokens": 3279,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7687593527030582560",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "alternate_category": "none",
+  "category": "men",
+  "borderline": false,
+  "claim_answered": "Men are inherently predatory or violent toward women",
+  "reason": "Pushes back on using animal behavior to assign collective guilt and portray men as predatory",
+  "evidence_seconds": 98
+ },
+ "usage": {
+  "prompt_tokens": 3817,
+  "completion_tokens": 1027,
+  "cost_usd": null
+ }
+}

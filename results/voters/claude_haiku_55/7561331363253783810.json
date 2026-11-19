@@ -1,0 +1,19 @@
+{
+ "id": "7561331363253783810",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "The hotter the girl, the more loyal she is",
+  "reason": "Dating advice about loyalty and self-worth; the claim is about attractiveness and loyalty, not a sex-group attack, so no men or women defense.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 4865,
+  "completion_tokens": 217,
+  "cost_usd": null
+ }
+}

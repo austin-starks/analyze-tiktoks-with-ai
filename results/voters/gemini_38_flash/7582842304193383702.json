@@ -1,0 +1,19 @@
+{
+ "id": "7582842304193383702",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "alternate_category": "misc",
+  "claim_answered": "Men must agree to sacrifice their career and name or they are sexist",
+  "borderline": true,
+  "category": "men",
+  "reason": "Pushes back on unfair relationship compliance tests that label men sexist if they do not sacrifice everything",
+  "evidence_seconds": 101
+ },
+ "usage": {
+  "prompt_tokens": 3403,
+  "completion_tokens": 1331,
+  "cost_usd": null
+ }
+}

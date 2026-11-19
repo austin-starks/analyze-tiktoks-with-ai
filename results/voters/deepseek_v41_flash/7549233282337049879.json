@@ -1,0 +1,19 @@
+{
+ "id": "7549233282337049879",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Relationship advice on a Reddit dead-bedroom story; no claim about men or women as groups",
+  "evidence_seconds": 83
+ },
+ "usage": {
+  "prompt_tokens": 4037,
+  "completion_tokens": 266,
+  "cost_usd": null
+ }
+}

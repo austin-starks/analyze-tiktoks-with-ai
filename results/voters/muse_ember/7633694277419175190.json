@@ -1,0 +1,19 @@
+{
+ "id": "7633694277419175190",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "politics",
+  "borderline": true,
+  "category": "misc",
+  "claim_answered": "Being gay is not normal or natural and gay people should change",
+  "evidence_seconds": 40,
+  "reason": "Subscriber Q&A personal story about homosexuality; no men/women claim, not political argument"
+ },
+ "usage": {
+  "prompt_tokens": 3526,
+  "completion_tokens": 3767,
+  "cost_usd": null
+ }
+}

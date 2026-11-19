@@ -1,0 +1,19 @@
+{
+ "id": "7609645328962161942",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "men",
+  "claim_answered": "Women don't choose bad men; men hide who they are",
+  "evidence_seconds": 12,
+  "borderline": true,
+  "alternate_category": "mixed",
+  "reason": "Pushes back on a claim blaming men for women's poor relationship choices and lack of accountability."
+ },
+ "usage": {
+  "prompt_tokens": 3151,
+  "completion_tokens": 791,
+  "cost_usd": null
+ }
+}

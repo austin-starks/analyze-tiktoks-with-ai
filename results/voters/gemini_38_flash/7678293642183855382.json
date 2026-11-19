@@ -1,0 +1,19 @@
+{
+ "id": "7678293642183855382",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "alternate_category": "none",
+  "evidence_seconds": 14,
+  "borderline": false,
+  "reason": "Directly replies to another creator who reacted to and criticized his previous video",
+  "category": "debate",
+  "claim_answered": "That Ilyas claimed there was absolutely no evidence regarding Trump"
+ },
+ "usage": {
+  "prompt_tokens": 3781,
+  "completion_tokens": 371,
+  "cost_usd": null
+ }
+}

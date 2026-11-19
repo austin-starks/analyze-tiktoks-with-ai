@@ -1,0 +1,19 @@
+{
+ "id": "7683533279575805206",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "politics",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "AfD's state election result means it has taken over Germany",
+  "reason": "Explains election results and government formation in German politics; no claim about men or women.",
+  "evidence_seconds": 39
+ },
+ "usage": {
+  "prompt_tokens": 3985,
+  "completion_tokens": 71,
+  "cost_usd": null
+ }
+}

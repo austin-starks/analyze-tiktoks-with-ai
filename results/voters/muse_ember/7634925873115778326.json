@@ -1,0 +1,19 @@
+{
+ "id": "7634925873115778326",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "news",
+  "borderline": true,
+  "category": "politics",
+  "claim_answered": "Yes-means-yes cancels presumption of innocence",
+  "evidence_seconds": 104,
+  "reason": "Explains European Parliament consent-law vote and policy; no claim attacking men or women"
+ },
+ "usage": {
+  "prompt_tokens": 3490,
+  "completion_tokens": 8262,
+  "cost_usd": null
+ }
+}

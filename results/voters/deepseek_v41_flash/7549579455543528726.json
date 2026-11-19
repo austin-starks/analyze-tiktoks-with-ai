@@ -1,0 +1,19 @@
+{
+ "id": "7549579455543528726",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "It's too late to improve your dating life after your 20s",
+  "reason": "Self-improvement and dating motivation aimed at men; no claim about men or women as a group",
+  "evidence_seconds": 16
+ },
+ "usage": {
+  "prompt_tokens": 3581,
+  "completion_tokens": 202,
+  "cost_usd": null
+ }
+}

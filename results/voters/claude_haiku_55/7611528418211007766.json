@@ -1,0 +1,19 @@
+{
+ "id": "7611528418211007766",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Men barely have standards and are shocked when relationships turn to chaos; women set checklists while men say \"I kinda like her\"",
+  "reason": "Pushes back on claims that men lack standards and cause their own chaos; dating advice framing, but runs men down.",
+  "evidence_seconds": 35
+ },
+ "usage": {
+  "prompt_tokens": 5698,
+  "completion_tokens": 226,
+  "cost_usd": null
+ }
+}

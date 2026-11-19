@@ -1,0 +1,19 @@
+{
+ "id": "7665725491093032214",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "debate",
+  "borderline": true,
+  "alternate_category": "politics",
+  "claim_answered": "Simple Black Theory's points against his rent control video and Mamdani's rent freeze",
+  "reason": "Replies point-by-point to a creator who responded to his earlier video, though substance is housing policy",
+  "evidence_seconds": 44
+ },
+ "usage": {
+  "prompt_tokens": 4358,
+  "completion_tokens": 660,
+  "cost_usd": null
+ }
+}

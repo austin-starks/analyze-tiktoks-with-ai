@@ -1,0 +1,19 @@
+{
+ "id": "7570315294657252630",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "The man who unmatched her was at fault for missing out",
+  "reason": "Counters the woman's 'his loss' framing, suggesting she may have misrepresented herself; mostly dating advice.",
+  "evidence_seconds": 80
+ },
+ "usage": {
+  "prompt_tokens": 3175,
+  "completion_tokens": 1051,
+  "cost_usd": null
+ }
+}

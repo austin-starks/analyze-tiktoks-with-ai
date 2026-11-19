@@ -1,0 +1,19 @@
+{
+ "id": "7672043709986311446",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Women never sexualize men's bodies in songs the way men sexualize women",
+  "reason": "Rebuts a claim that runs women down by denying they objectify men, and that blames men; he defends women's songwriting.",
+  "evidence_seconds": 34
+ },
+ "usage": {
+  "prompt_tokens": 6078,
+  "completion_tokens": 213,
+  "cost_usd": null
+ }
+}

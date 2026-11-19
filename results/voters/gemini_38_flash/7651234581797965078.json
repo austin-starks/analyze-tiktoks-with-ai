@@ -1,0 +1,19 @@
+{
+ "id": "7651234581797965078",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "claim_answered": "Men survive plane crashes more because they claw and trample others to escape",
+  "reason": "Pushes back on a negative claim painting men as selfishly trampling others to survive plane crashes",
+  "category": "men",
+  "evidence_seconds": 17,
+  "borderline": false,
+  "alternate_category": "none"
+ },
+ "usage": {
+  "prompt_tokens": 4095,
+  "completion_tokens": 447,
+  "cost_usd": null
+ }
+}

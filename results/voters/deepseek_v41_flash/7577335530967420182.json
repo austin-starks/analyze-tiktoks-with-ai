@@ -1,0 +1,19 @@
+{
+ "id": "7577335530967420182",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men have no excuse for not showing up; women do more and carry bigger balls",
+  "reason": "Pushes back on a claim that runs men down and blames them, defending men's struggles",
+  "evidence_seconds": 22
+ },
+ "usage": {
+  "prompt_tokens": 3664,
+  "completion_tokens": 250,
+  "cost_usd": null
+ }
+}

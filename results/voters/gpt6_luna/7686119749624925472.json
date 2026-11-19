@@ -1,0 +1,19 @@
+{
+ "id": "7686119749624925472",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "women",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Sydney Sweeney’s revealing ad sexualizes women and sets women’s sports backwards",
+  "reason": "Pushes back on criticism that a woman’s sexualized ad harms women’s standing in sports.",
+  "evidence_seconds": 48
+ },
+ "usage": {
+  "prompt_tokens": 3782,
+  "completion_tokens": 425,
+  "cost_usd": null
+ }
+}

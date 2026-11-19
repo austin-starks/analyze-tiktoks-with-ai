@@ -1,0 +1,19 @@
+{
+ "id": "7601097591316663574",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men who have not had children by 30 have lost their chance and are too old to attract fertile women",
+  "reason": "Pushes back on a claim that demeans men over 30 and says their reproductive and dating prospects are over.",
+  "evidence_seconds": 44
+ },
+ "usage": {
+  "prompt_tokens": 3498,
+  "completion_tokens": 241,
+  "cost_usd": null
+ }
+}

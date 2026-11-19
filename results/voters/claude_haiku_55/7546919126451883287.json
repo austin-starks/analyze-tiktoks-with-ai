@@ -1,0 +1,19 @@
+{
+ "id": "7546919126451883287",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "If a date doesn't text back after a great first date, he's not interested",
+  "reason": "General dating advice about texting and ghosting; no claim blaming or running down either sex.",
+  "evidence_seconds": 63
+ },
+ "usage": {
+  "prompt_tokens": 5257,
+  "completion_tokens": 200,
+  "cost_usd": null
+ }
+}

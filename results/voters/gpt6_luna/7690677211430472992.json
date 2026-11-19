@@ -1,0 +1,19 @@
+{
+ "id": "7690677211430472992",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "politics",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Noah’s Ark has been found and confirmed at a site in Turkey",
+  "reason": "Fact-checks a biblical/religious claim, which belongs in politics under the category rules.",
+  "evidence_seconds": 27
+ },
+ "usage": {
+  "prompt_tokens": 3725,
+  "completion_tokens": 139,
+  "cost_usd": null
+ }
+}

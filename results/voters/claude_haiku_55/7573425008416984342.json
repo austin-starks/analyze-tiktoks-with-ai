@@ -1,0 +1,19 @@
+{
+ "id": "7573425008416984342",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Modern men are weaker and less real than men in history, and men don't contribute to society",
+  "reason": "Pushes back on claims that men are weak, not real men, and don't contribute; defends men's value and contributions.",
+  "evidence_seconds": 58
+ },
+ "usage": {
+  "prompt_tokens": 5085,
+  "completion_tokens": 212,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7703578512250211616",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "men",
+  "claim_answered": "Men perceive women speaking 15-30% as 50% and 33% women as majority",
+  "evidence_seconds": 48,
+  "reason": "Pushes back on claim blaming men's biased perception for women's underrepresentation"
+ },
+ "usage": {
+  "prompt_tokens": 4595,
+  "completion_tokens": 4416,
+  "cost_usd": null
+ }
+}

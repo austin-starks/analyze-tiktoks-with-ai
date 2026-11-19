@@ -1,0 +1,19 @@
+{
+ "id": "7661962241939442976",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "mixed",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "Leading cause of workplace fatalities for women is homicide",
+  "evidence_seconds": 11,
+  "reason": "Pushes back on claim inflating women's danger from homicide, implying male violence, while showing men die far more at work"
+ },
+ "usage": {
+  "prompt_tokens": 3710,
+  "completion_tokens": 8238,
+  "cost_usd": null
+ }
+}

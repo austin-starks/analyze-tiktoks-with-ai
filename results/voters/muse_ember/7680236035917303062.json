@@ -1,0 +1,19 @@
+{
+ "id": "7680236035917303062",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "debate",
+  "claim_answered": "Public Offender's 24-minute response to his self-inflicted men's issues video",
+  "evidence_seconds": 38,
+  "reason": "Creator responded to his earlier video; this is Ilyas's reply, so debate beats men"
+ },
+ "usage": {
+  "prompt_tokens": 3694,
+  "completion_tokens": 2622,
+  "cost_usd": null
+ }
+}

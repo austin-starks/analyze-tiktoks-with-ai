@@ -1,0 +1,19 @@
+{
+ "id": "7651601979113819414",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "politics",
+  "claim_answered": "Reward should track work, so Elon being trillionaire while workers aren't is unfair",
+  "evidence_seconds": 37,
+  "reason": "Answers economic claim about capitalism, pay by demand, and trickle-down, not about men or women"
+ },
+ "usage": {
+  "prompt_tokens": 3679,
+  "completion_tokens": 2499,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7559479526653185302",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "She doesn't want to be judged by her size but judges men by their height",
+  "reason": "Pushes back on her double standard that unfairly disqualifies men by height",
+  "evidence_seconds": 19
+ },
+ "usage": {
+  "prompt_tokens": 3507,
+  "completion_tokens": 1016,
+  "cost_usd": null
+ }
+}

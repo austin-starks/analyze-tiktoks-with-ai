@@ -1,0 +1,19 @@
+{
+ "id": "7537239131684949270",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "none",
+  "reason": "General dating advice to men about pursuing women who pull away; answers no claim that runs men or women down.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 4813,
+  "completion_tokens": 183,
+  "cost_usd": null
+ }
+}

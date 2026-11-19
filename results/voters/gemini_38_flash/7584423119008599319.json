@@ -1,0 +1,19 @@
+{
+ "id": "7584423119008599319",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "claim_answered": "Most men are delusional and assume all women want to sleep with them",
+  "evidence_seconds": 30,
+  "reason": "Pushes back on a claim painting men as overconfident and delusional in dating",
+  "alternate_category": "none",
+  "category": "men",
+  "borderline": false
+ },
+ "usage": {
+  "prompt_tokens": 3120,
+  "completion_tokens": 518,
+  "cost_usd": null
+ }
+}

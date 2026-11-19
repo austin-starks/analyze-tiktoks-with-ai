@@ -1,0 +1,18 @@
+{
+ "id": "7644499700015549718",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "claim_answered": "Blanket claims blaming all men as dangerous or all women as dishonest gold diggers",
+  "borderline": true,
+  "evidence_seconds": 37,
+  "category": "mixed",
+  "alternate_category": "men",
+  "reason": "He addresses opposing blanket claims blaming each sex—anti-men in the clip and anti-women in his examples—so mixed applies."
+ },
+ "usage": {
+  "prompt_tokens": 3528,
+  "completion_tokens": 3634,
+  "cost_usd": 0.032547
+ }
+}

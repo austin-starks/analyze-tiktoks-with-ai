@@ -1,0 +1,19 @@
+{
+ "id": "7656122026112929056",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "reason": "Channel update about his copyright strike and appeal status, which falls under misc.",
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "evidence_seconds": 63,
+  "borderline": false,
+  "category": "misc"
+ },
+ "usage": {
+  "prompt_tokens": 3720,
+  "completion_tokens": 377,
+  "cost_usd": null
+ }
+}

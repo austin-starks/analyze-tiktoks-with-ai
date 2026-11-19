@@ -1,0 +1,19 @@
+{
+ "id": "7685706466870775072",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "There is no scientific evidence that Earth is billions of years old because nobody observed it directly.",
+  "reason": "Science fact-check about Earth's age; it does not concern men or women.",
+  "evidence_seconds": 120
+ },
+ "usage": {
+  "prompt_tokens": 3573,
+  "completion_tokens": 179,
+  "cost_usd": null
+ }
+}

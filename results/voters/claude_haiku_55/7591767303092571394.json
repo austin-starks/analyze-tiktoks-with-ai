@@ -1,0 +1,19 @@
+{
+ "id": "7591767303092571394",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "Girlfriend's sleepovers at a house where her ex lives are innocent (he answers a subscriber's dating worry)",
+  "reason": "Relationship advice to a subscriber's question; no claim about men or women as a group, though it is a dating-advice answer.",
+  "evidence_seconds": 124
+ },
+ "usage": {
+  "prompt_tokens": 6222,
+  "completion_tokens": 229,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7675326094161054998",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "A man who clearly rejects fatherhood early should be able to opt out of child support obligations",
+  "reason": "Argues men's rejected fatherhood should limit obligations; he is advocating for men's interests, though he also grants the mother's final say and child's needs.",
+  "evidence_seconds": 69
+ },
+ "usage": {
+  "prompt_tokens": 5617,
+  "completion_tokens": 228,
+  "cost_usd": null
+ }
+}

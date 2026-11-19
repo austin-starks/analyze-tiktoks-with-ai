@@ -1,0 +1,19 @@
+{
+ "id": "7606697778009345302",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men who watch porn, play video games, are overweight or smoke should be avoided",
+  "reason": "Pushes back on a red-flag list that runs men down for ordinary traits, defending men as dateable",
+  "evidence_seconds": 41
+ },
+ "usage": {
+  "prompt_tokens": 4155,
+  "completion_tokens": 399,
+  "cost_usd": null
+ }
+}

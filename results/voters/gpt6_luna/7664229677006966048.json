@@ -1,0 +1,19 @@
+{
+ "id": "7664229677006966048",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Misandry is not real because no systemic barriers target men",
+  "reason": "Counters a claim denying men's disadvantages, using conscription as an example.",
+  "evidence_seconds": 193
+ },
+ "usage": {
+  "prompt_tokens": 3743,
+  "completion_tokens": 66,
+  "cost_usd": null
+ }
+}

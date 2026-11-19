@@ -1,0 +1,19 @@
+{
+ "id": "7566599072379899158",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "men",
+  "borderline": true,
+  "category": "misc",
+  "claim_answered": "none",
+  "evidence_seconds": 0,
+  "reason": "Dating advice to men about boundaries and leaving; answers no general claim about men or women"
+ },
+ "usage": {
+  "prompt_tokens": 3082,
+  "completion_tokens": 4753,
+  "cost_usd": null
+ }
+}

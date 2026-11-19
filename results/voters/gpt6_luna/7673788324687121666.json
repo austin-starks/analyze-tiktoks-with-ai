@@ -1,0 +1,19 @@
+{
+ "id": "7673788324687121666",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "debate",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Public Offender’s claim that women are not hypergamous and his critique of Ilyas’s evidence",
+  "reason": "Replies at length to a creator who challenged his earlier video and moved the definition of hypergamy.",
+  "evidence_seconds": 7
+ },
+ "usage": {
+  "prompt_tokens": 5716,
+  "completion_tokens": 166,
+  "cost_usd": null
+ }
+}

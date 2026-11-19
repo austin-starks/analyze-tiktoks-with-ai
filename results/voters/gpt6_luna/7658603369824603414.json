@@ -1,0 +1,19 @@
+{
+ "id": "7658603369824603414",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "debate",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Simple Black Theory's critique that his rent-control example misrepresented NYC's rent freeze",
+  "reason": "Reply to a creator who responded to his earlier rent-control video.",
+  "evidence_seconds": 30
+ },
+ "usage": {
+  "prompt_tokens": 4333,
+  "completion_tokens": 132,
+  "cost_usd": null
+ }
+}

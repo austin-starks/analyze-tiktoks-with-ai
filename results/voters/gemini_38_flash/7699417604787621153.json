@@ -1,0 +1,19 @@
+{
+ "id": "7699417604787621153",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "claim_answered": "Most men are cowards who care more about men's opinions than women's safety",
+  "evidence_seconds": 48,
+  "reason": "Defends men against the accusation that failing to physically intervene in street harassment makes them cowards",
+  "borderline": false,
+  "alternate_category": "none",
+  "category": "men"
+ },
+ "usage": {
+  "prompt_tokens": 6383,
+  "completion_tokens": 660,
+  "cost_usd": null
+ }
+}

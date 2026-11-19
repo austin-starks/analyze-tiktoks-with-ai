@@ -1,0 +1,19 @@
+{
+ "id": "7676916862407413014",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "news",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Whether Lindsay Clancy was criminally responsible for killing her children",
+  "reason": "Reports the timeline and central issue of an ongoing murder trial; no claim about men or women as a group.",
+  "evidence_seconds": 166
+ },
+ "usage": {
+  "prompt_tokens": 4077,
+  "completion_tokens": 184,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7575132589032246550",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Having a boyfriend is embarrassing because men are incompetent and low-effort",
+  "reason": "Pushes back on a claim that depicts men as embarrassing and incompetent.",
+  "evidence_seconds": 36
+ },
+ "usage": {
+  "prompt_tokens": 3122,
+  "completion_tokens": 192,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7578085437475015958",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Men act perfect for six months then turn nonchalant and emotionally negligent",
+  "reason": "Pushes back on a claim that runs men down as deceptive and emotionally negligent, shifting responsibility to her choices",
+  "evidence_seconds": 52
+ },
+ "usage": {
+  "prompt_tokens": 3516,
+  "completion_tokens": 650,
+  "cost_usd": null
+ }
+}

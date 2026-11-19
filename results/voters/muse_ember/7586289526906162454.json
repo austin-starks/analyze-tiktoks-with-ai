@@ -1,0 +1,19 @@
+{
+ "id": "7586289526906162454",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "mixed",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "My money is my money, your money is our money",
+  "evidence_seconds": 66,
+  "reason": "Pushes back on a claim favoring women at men's financial expense"
+ },
+ "usage": {
+  "prompt_tokens": 3278,
+  "completion_tokens": 4870,
+  "cost_usd": null
+ }
+}

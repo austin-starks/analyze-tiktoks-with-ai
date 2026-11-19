@@ -1,0 +1,18 @@
+{
+ "id": "7570079576345562371",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "claim_answered": "none",
+  "alternate_category": "men",
+  "borderline": true,
+  "evidence_seconds": 72,
+  "category": "misc",
+  "reason": "Rule 3 (misc): mocks one woman's extreme dating standards and gives general dating advice to men without answering a general claim."
+ },
+ "usage": {
+  "prompt_tokens": 3170,
+  "completion_tokens": 3203,
+  "cost_usd": null
+ }
+}

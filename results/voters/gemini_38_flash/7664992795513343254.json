@@ -1,0 +1,19 @@
+{
+ "id": "7664992795513343254",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "borderline": false,
+  "evidence_seconds": 16,
+  "category": "politics",
+  "alternate_category": "news",
+  "claim_answered": "Mamdani's rent freeze covers all rents in NYC",
+  "reason": "Explains economic policy and housing regulation regarding NYC rent stabilization and proposed rent freezes"
+ },
+ "usage": {
+  "prompt_tokens": 4304,
+  "completion_tokens": 539,
+  "cost_usd": null
+ }
+}

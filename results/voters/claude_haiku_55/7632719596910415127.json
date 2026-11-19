@@ -1,0 +1,19 @@
+{
+ "id": "7632719596910415127",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "debate",
+  "borderline": false,
+  "alternate_category": "women",
+  "claim_answered": "Brenna Parris's response to his earlier video, which used a 2 study claiming tens of millions of men in the US commit sexual assault",
+  "reason": "Reply to a creator (@perezbrenna) who responded to and criticized his earlier video; debate beats sex categories.",
+  "evidence_seconds": 7
+ },
+ "usage": {
+  "prompt_tokens": 6859,
+  "completion_tokens": 233,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7670850439490931990",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Black people commit more violent crimes than white people",
+  "reason": "Fact-checks a race-based crime-statistics claim, not a claim about men or women or a political issue.",
+  "evidence_seconds": 9
+ },
+ "usage": {
+  "prompt_tokens": 3751,
+  "completion_tokens": 423,
+  "cost_usd": null
+ }
+}

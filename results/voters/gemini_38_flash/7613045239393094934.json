@@ -1,0 +1,19 @@
+{
+ "id": "7613045239393094934",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "reason": "General dating and self-improvement advice for men; answers no claim.",
+  "category": "misc",
+  "borderline": false,
+  "claim_answered": "none",
+  "evidence_seconds": 0,
+  "alternate_category": "none"
+ },
+ "usage": {
+  "prompt_tokens": 3997,
+  "completion_tokens": 663,
+  "cost_usd": null
+ }
+}

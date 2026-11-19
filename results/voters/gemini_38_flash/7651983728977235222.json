@@ -1,0 +1,19 @@
+{
+ "id": "7651983728977235222",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "men",
+  "claim_answered": "Men do not have real problems and their struggles do not matter",
+  "evidence_seconds": 35,
+  "reason": "Pushes back on a claim that downplays and mocks men's issues and disadvantages.",
+  "borderline": true,
+  "alternate_category": "misc"
+ },
+ "usage": {
+  "prompt_tokens": 3702,
+  "completion_tokens": 835,
+  "cost_usd": null
+ }
+}

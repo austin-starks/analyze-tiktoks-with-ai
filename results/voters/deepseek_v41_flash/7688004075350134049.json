@@ -1,0 +1,19 @@
+{
+ "id": "7688004075350134049",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Men get 2-6 years for killing partners while women get 12-15 despite self-defense",
+  "reason": "Claim inflates women's disadvantage by portraying lenient sentencing for men; he shows data reverses it, a disadvantage for men",
+  "evidence_seconds": 19
+ },
+ "usage": {
+  "prompt_tokens": 4119,
+  "completion_tokens": 495,
+  "cost_usd": null
+ }
+}

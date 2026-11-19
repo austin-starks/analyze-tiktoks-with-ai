@@ -1,0 +1,19 @@
+{
+ "id": "7685706466870775072",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "misc",
+  "claim_answered": "There is no scientific evidence that the Earth is billions of years old",
+  "reason": "Science explanation and radiometric dating fact-check; could alternatively be seen as addressing religious creationism.",
+  "alternate_category": "politics",
+  "evidence_seconds": 17,
+  "borderline": true
+ },
+ "usage": {
+  "prompt_tokens": 3847,
+  "completion_tokens": 1745,
+  "cost_usd": null
+ }
+}

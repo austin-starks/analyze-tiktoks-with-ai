@@ -1,0 +1,19 @@
+{
+ "id": "7616013397909343510",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "Girlfriend talking to another guy daily is fine; he is insecure and controlling for objecting",
+  "reason": "Mainly relationship advice to a subscriber about boundaries and commitment; not a claim about men or women as a group.",
+  "evidence_seconds": 51
+ },
+ "usage": {
+  "prompt_tokens": 4988,
+  "completion_tokens": 219,
+  "cost_usd": null
+ }
+}

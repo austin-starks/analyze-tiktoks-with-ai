@@ -1,0 +1,19 @@
+{
+ "id": "7563572833780075798",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Women should find an ugly man and marry him; a wife calls her husband terminally unattractive",
+  "reason": "Rebuts a woman's mocking claim that runs down her husband and men; advice centers on men's self-respect.",
+  "evidence_seconds": 14
+ },
+ "usage": {
+  "prompt_tokens": 5221,
+  "completion_tokens": 217,
+  "cost_usd": null
+ }
+}

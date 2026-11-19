@@ -1,0 +1,19 @@
+{
+ "id": "7688819217860185376",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "mixed",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "Father walking daughter down aisle transfers ownership of her to groom",
+  "evidence_seconds": 25,
+  "reason": "Pushes back on claim blaming fathers and grooms for treating women as property, calling ownership oversimplification"
+ },
+ "usage": {
+  "prompt_tokens": 3567,
+  "completion_tokens": 6065,
+  "cost_usd": null
+ }
+}

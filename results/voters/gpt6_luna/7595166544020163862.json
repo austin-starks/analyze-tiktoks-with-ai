@@ -1,0 +1,19 @@
+{
+ "id": "7595166544020163862",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Her toxic exes alone explain her past relationships; she bears no responsibility",
+  "reason": "Pushes back on the implied blame of men for her bad dating history, arguing she chose and stayed with toxic partners.",
+  "evidence_seconds": 46
+ },
+ "usage": {
+  "prompt_tokens": 3261,
+  "completion_tokens": 814,
+  "cost_usd": null
+ }
+}

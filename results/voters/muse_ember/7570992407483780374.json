@@ -1,0 +1,19 @@
+{
+ "id": "7570992407483780374",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "mixed",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "Women who hate men end up with the best men",
+  "evidence_seconds": 18,
+  "reason": "Pushes back on claim that best men end up with man-hating women, defending real men"
+ },
+ "usage": {
+  "prompt_tokens": 2950,
+  "completion_tokens": 6774,
+  "cost_usd": null
+ }
+}

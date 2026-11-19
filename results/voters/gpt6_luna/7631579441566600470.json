@@ -1,0 +1,19 @@
+{
+ "id": "7631579441566600470",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "One bad man in ten justifies treating all men as dangerous",
+  "reason": "Pushes back on a generalization that treats men as contaminated because some men are bad",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 3069,
+  "completion_tokens": 278,
+  "cost_usd": null
+ }
+}

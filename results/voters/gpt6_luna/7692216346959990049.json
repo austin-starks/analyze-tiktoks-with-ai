@@ -1,0 +1,19 @@
+{
+ "id": "7692216346959990049",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "news",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Only two students were expelled and everyone else merely wrote essays",
+  "reason": "Explains new developments and disputed facts in an ongoing sexual-assault case; the claim is not about men or women as a group",
+  "evidence_seconds": 116
+ },
+ "usage": {
+  "prompt_tokens": 4316,
+  "completion_tokens": 252,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7574901846536457494",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "A husband should quit-proof her life and fund her emotions with his credit card",
+  "reason": "Pushes back on a claim blaming a husband for not bankrolling and fixing his wife's emotions",
+  "evidence_seconds": 31
+ },
+ "usage": {
+  "prompt_tokens": 3433,
+  "completion_tokens": 380,
+  "cost_usd": null
+ }
+}

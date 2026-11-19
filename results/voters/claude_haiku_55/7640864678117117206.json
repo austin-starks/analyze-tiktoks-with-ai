@@ -1,0 +1,19 @@
+{
+ "id": "7640864678117117206",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "debate",
+  "claim_answered": "none",
+  "reason": "Mainly about his own shadowban and general debating tips; does not answer a claim about men or women.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 5942,
+  "completion_tokens": 183,
+  "cost_usd": null
+ }
+}

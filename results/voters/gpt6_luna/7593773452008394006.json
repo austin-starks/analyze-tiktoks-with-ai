@@ -1,0 +1,19 @@
+{
+ "id": "7593773452008394006",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Should I stay with my girlfriend after she emotionally cheated?",
+  "reason": "Answers a subscriber’s relationship question with breakup and boundary advice, not a claim about either sex.",
+  "evidence_seconds": 139
+ },
+ "usage": {
+  "prompt_tokens": 4007,
+  "completion_tokens": 277,
+  "cost_usd": null
+ }
+}

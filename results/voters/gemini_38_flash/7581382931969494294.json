@@ -1,0 +1,19 @@
+{
+ "id": "7581382931969494294",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "claim_answered": "none",
+  "evidence_seconds": 35,
+  "borderline": true,
+  "alternate_category": "men",
+  "category": "misc",
+  "reason": "Reacts to an absurd dating standard with relationship advice on self-respect, answering no general claim about men."
+ },
+ "usage": {
+  "prompt_tokens": 3293,
+  "completion_tokens": 1413,
+  "cost_usd": null
+ }
+}

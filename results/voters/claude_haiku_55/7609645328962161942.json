@@ -1,0 +1,19 @@
+{
+ "id": "7609645328962161942",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Women don't choose bad men; men hide who they are until they're comfortable",
+  "reason": "Dating advice on red flags; says the issue applies to both sexes, but addresses a claim about hidden male behavior and women's choices.",
+  "evidence_seconds": 7
+ },
+ "usage": {
+  "prompt_tokens": 4859,
+  "completion_tokens": 219,
+  "cost_usd": null
+ }
+}

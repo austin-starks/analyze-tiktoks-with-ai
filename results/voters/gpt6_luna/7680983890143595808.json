@@ -1,0 +1,19 @@
+{
+ "id": "7680983890143595808",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "news",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "none",
+  "reason": "Explains the emerging social-media trend through Savanna Cannon and Farha Khalidi; no claim is substantively rebutted.",
+  "evidence_seconds": 157
+ },
+ "usage": {
+  "prompt_tokens": 3585,
+  "completion_tokens": 333,
+  "cost_usd": null
+ }
+}

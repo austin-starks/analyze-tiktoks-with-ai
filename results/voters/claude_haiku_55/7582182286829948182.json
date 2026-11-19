@@ -1,0 +1,19 @@
+{
+ "id": "7582182286829948182",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "A girlfriend who is ungrateful for a Tesla will never be satisfied and is entitled",
+  "reason": "Relationship advice framed around a viral clip; it attacks an ungrateful partner but answers no claim about a sex as a group.",
+  "evidence_seconds": 54
+ },
+ "usage": {
+  "prompt_tokens": 5020,
+  "completion_tokens": 223,
+  "cost_usd": null
+ }
+}

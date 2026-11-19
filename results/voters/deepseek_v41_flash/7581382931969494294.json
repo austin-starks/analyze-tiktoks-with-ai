@@ -1,0 +1,19 @@
+{
+ "id": "7581382931969494294",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men must get on their knees and bark to enter her life",
+  "reason": "Pushes back on a claim that degrades men and demands they humiliate themselves",
+  "evidence_seconds": 24
+ },
+ "usage": {
+  "prompt_tokens": 3468,
+  "completion_tokens": 232,
+  "cost_usd": null
+ }
+}

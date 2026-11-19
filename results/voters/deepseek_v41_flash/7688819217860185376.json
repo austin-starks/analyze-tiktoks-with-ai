@@ -1,0 +1,19 @@
+{
+ "id": "7688819217860185376",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Walking the bride down the aisle means one man transfers ownership of her to another",
+  "reason": "Pushes back on a claim blaming patriarchal male authority for treating women as property, calling it an oversimplification",
+  "evidence_seconds": 31
+ },
+ "usage": {
+  "prompt_tokens": 3912,
+  "completion_tokens": 674,
+  "cost_usd": null
+ }
+}

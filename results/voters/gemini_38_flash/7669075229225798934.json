@@ -1,0 +1,19 @@
+{
+ "id": "7669075229225798934",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "alternate_category": "none",
+  "reason": "Replying to a creator who responded to his previous video and criticized him",
+  "claim_answered": "Hypergamy is only about marriage outcomes, not preferences",
+  "category": "debate",
+  "borderline": false,
+  "evidence_seconds": 32
+ },
+ "usage": {
+  "prompt_tokens": 4422,
+  "completion_tokens": 707,
+  "cost_usd": null
+ }
+}

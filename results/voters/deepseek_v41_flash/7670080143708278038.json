@@ -1,0 +1,19 @@
+{
+ "id": "7670080143708278038",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Marrying a man is the worst thing a woman can do; married women live shorter, earn less, and are less happy",
+  "reason": "He rebuts a claim blaming men and marriage to men for women's harms, calling it anti-male rhetoric.",
+  "evidence_seconds": 10
+ },
+ "usage": {
+  "prompt_tokens": 3906,
+  "completion_tokens": 293,
+  "cost_usd": null
+ }
+}

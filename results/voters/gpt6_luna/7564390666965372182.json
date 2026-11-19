@@ -1,0 +1,19 @@
+{
+ "id": "7564390666965372182",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Expecting to be with one person for life is unreasonable",
+  "reason": "Pushes back on a claim that frames a man's expectation of monogamy as unreasonable.",
+  "evidence_seconds": 4
+ },
+ "usage": {
+  "prompt_tokens": 2983,
+  "completion_tokens": 318,
+  "cost_usd": null
+ }
+}

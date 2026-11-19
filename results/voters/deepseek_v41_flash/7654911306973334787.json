@@ -1,0 +1,19 @@
+{
+ "id": "7654911306973334787",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "debate",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men get less custody because they don't fight for it, and those who do usually win",
+  "reason": "Replies to a creator's stitch criticizing his earlier custody point and answers her three objections.",
+  "evidence_seconds": 51
+ },
+ "usage": {
+  "prompt_tokens": 4278,
+  "completion_tokens": 835,
+  "cost_usd": null
+ }
+}

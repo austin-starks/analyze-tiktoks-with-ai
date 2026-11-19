@@ -1,0 +1,19 @@
+{
+ "id": "7618580994907475222",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "mixed",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "Women are judged for many partners while men are praised",
+  "evidence_seconds": 106,
+  "reason": "He explains the double standard via women's dating advantage and men's disadvantage, rebutting the unfairness claim against men"
+ },
+ "usage": {
+  "prompt_tokens": 3608,
+  "completion_tokens": 6625,
+  "cost_usd": null
+ }
+}

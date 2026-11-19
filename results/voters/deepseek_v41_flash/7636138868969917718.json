@@ -1,0 +1,19 @@
+{
+ "id": "7636138868969917718",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "debate",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "SimpleBlackTheory's reply that \"live birth does equate to pregnancy\" refuting Ilyas's denominator argument",
+  "reason": "Reply to a creator who responded to his earlier video, answering that creator's objections directly",
+  "evidence_seconds": 33
+ },
+ "usage": {
+  "prompt_tokens": 3958,
+  "completion_tokens": 354,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7579915589620174102",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "mixed",
+  "claim_answered": "A wife publicly insults her husband as worthless and lazy in therapy, and the therapist sugarcoats it as communication issues",
+  "reason": "Defends a husband being belittled by his wife; runs no men down and its criticism targets the wife and the therapist, but the video is about men's self-respect and boundaries.",
+  "evidence_seconds": 47
+ },
+ "usage": {
+  "prompt_tokens": 5629,
+  "completion_tokens": 246,
+  "cost_usd": null
+ }
+}

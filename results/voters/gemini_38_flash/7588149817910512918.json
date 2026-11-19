@@ -1,0 +1,19 @@
+{
+ "id": "7588149817910512918",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "claim_answered": "Relationships are hard work and require constant effort",
+  "borderline": false,
+  "alternate_category": "none",
+  "evidence_seconds": 5,
+  "category": "misc",
+  "reason": "General dating and relationship advice not targeting either sex or making gender claims"
+ },
+ "usage": {
+  "prompt_tokens": 3253,
+  "completion_tokens": 365,
+  "cost_usd": null
+ }
+}

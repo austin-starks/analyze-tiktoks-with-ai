@@ -1,0 +1,19 @@
+{
+ "id": "7569287321858608406",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "A wife says her husband's everyday efforts are only the bare minimum",
+  "reason": "Mocks a woman's claim that her husband does only the bare minimum; this is a woman running down men's efforts, not a claim that blames women",
+  "evidence_seconds": 10
+ },
+ "usage": {
+  "prompt_tokens": 5078,
+  "completion_tokens": 217,
+  "cost_usd": null
+ }
+}

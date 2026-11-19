@@ -1,0 +1,19 @@
+{
+ "id": "7573236361721810198",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "A wife's contribution is \"just existing\" and his money is shared while hers is not",
+  "reason": "Pushes back on entitlement/disrespect claims that favor women at men's expense, framed as advice to men",
+  "evidence_seconds": 81
+ },
+ "usage": {
+  "prompt_tokens": 3825,
+  "completion_tokens": 966,
+  "cost_usd": null
+ }
+}

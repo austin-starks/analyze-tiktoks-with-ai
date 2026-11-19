@@ -1,0 +1,19 @@
+{
+ "id": "7653829861491887382",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "debate",
+  "borderline": false,
+  "alternate_category": "women",
+  "claim_answered": "Domestic abuse rises 26% when England plays football, 38% after losses, 11% the day after",
+  "reason": "Responds to another creator's video making this claim; he is replying to their arguments, which beats the sex categories.",
+  "evidence_seconds": 27
+ },
+ "usage": {
+  "prompt_tokens": 5409,
+  "completion_tokens": 215,
+  "cost_usd": null
+ }
+}

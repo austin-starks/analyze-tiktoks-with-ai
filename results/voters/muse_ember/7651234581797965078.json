@@ -1,0 +1,19 @@
+{
+ "id": "7651234581797965078",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "mixed",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "Men survive plane crashes because they claw and trample others to reach exits",
+  "evidence_seconds": 17,
+  "reason": "Pushes back on claim men survive by trampling others, citing seating and physical factors instead"
+ },
+ "usage": {
+  "prompt_tokens": 3821,
+  "completion_tokens": 3562,
+  "cost_usd": null
+ }
+}

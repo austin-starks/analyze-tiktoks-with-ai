@@ -1,0 +1,19 @@
+{
+ "id": "7560257735502155030",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "Every guy should start in jail and earn his way out",
+  "reason": "Opens with others' clip but mainly gives self-improvement dating advice; the jail claim is framed as a metaphor, not a clear attack on men.",
+  "evidence_seconds": 17
+ },
+ "usage": {
+  "prompt_tokens": 4835,
+  "completion_tokens": 214,
+  "cost_usd": null
+ }
+}

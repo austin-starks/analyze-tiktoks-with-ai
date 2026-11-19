@@ -1,0 +1,19 @@
+{
+ "id": "7681290943105862934",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "news",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Reports developments and possible outcome in an ongoing criminal trial.",
+  "evidence_seconds": 12
+ },
+ "usage": {
+  "prompt_tokens": 3428,
+  "completion_tokens": 103,
+  "cost_usd": null
+ }
+}

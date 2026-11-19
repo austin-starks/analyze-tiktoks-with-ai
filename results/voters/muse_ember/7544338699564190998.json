@@ -1,0 +1,19 @@
+{
+ "id": "7544338699564190998",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "misc",
+  "claim_answered": "none",
+  "evidence_seconds": 0,
+  "reason": "Dating advice telling men to pay for effectiveness; answers no claim attacking men or women"
+ },
+ "usage": {
+  "prompt_tokens": 3067,
+  "completion_tokens": 2598,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7656436651945708822",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "women",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "39.6% of women could imagine making a false sexual assault allegation if it benefited them",
+  "reason": "Fact-checks a statistic that runs women down, showing the survey question was misread and overstated",
+  "evidence_seconds": 136
+ },
+ "usage": {
+  "prompt_tokens": 4245,
+  "completion_tokens": 284,
+  "cost_usd": null
+ }
+}

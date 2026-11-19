@@ -1,0 +1,19 @@
+{
+ "id": "7581771961596988675",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Wanting accountability from a woman is a red flag because it focuses on her issues",
+  "reason": "Pushes back on a claim portraying men who seek accountability as blame-focused or controlling.",
+  "evidence_seconds": 42
+ },
+ "usage": {
+  "prompt_tokens": 3127,
+  "completion_tokens": 240,
+  "cost_usd": null
+ }
+}

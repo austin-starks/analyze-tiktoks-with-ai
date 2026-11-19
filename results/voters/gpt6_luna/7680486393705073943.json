@@ -1,0 +1,19 @@
+{
+ "id": "7680486393705073943",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "All wars have been started by men",
+  "reason": "Pushes back on a claim that blames men for starting wars and argues the evidence is more complicated.",
+  "evidence_seconds": 17
+ },
+ "usage": {
+  "prompt_tokens": 3395,
+  "completion_tokens": 184,
+  "cost_usd": null
+ }
+}

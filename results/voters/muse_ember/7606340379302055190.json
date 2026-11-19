@@ -1,0 +1,19 @@
+{
+ "id": "7606340379302055190",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "women",
+  "borderline": true,
+  "category": "misc",
+  "claim_answered": "Men should cut off women who vape, go out, or cannot cook",
+  "evidence_seconds": 18,
+  "reason": "Reaction to dating list giving nuanced red-flag advice, not defending women as a group"
+ },
+ "usage": {
+  "prompt_tokens": 4042,
+  "completion_tokens": 6320,
+  "cost_usd": null
+ }
+}

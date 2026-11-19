@@ -1,0 +1,19 @@
+{
+ "id": "7652812545304071446",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Companies charge women more for identical products because they are marketed to women (pink tax)",
+  "reason": "Rebutts a claim of women's disadvantage as gender-based pricing, showing it disappears like-for-like and that men pay more elsewhere.",
+  "evidence_seconds": 70
+ },
+ "usage": {
+  "prompt_tokens": 4233,
+  "completion_tokens": 577,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7533925122852343062",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "General dating advice listing signs a first date went well; it answers no claim about men or women.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 3037,
+  "completion_tokens": 61,
+  "cost_usd": null
+ }
+}

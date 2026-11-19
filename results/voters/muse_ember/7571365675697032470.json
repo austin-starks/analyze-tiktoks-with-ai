@@ -1,0 +1,19 @@
+{
+ "id": "7571365675697032470",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "mixed",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "Men are shooting for the top 10% of women",
+  "evidence_seconds": 18,
+  "reason": "Defends men against claim they aim too high, arguing men are invisible while women have dating advantage"
+ },
+ "usage": {
+  "prompt_tokens": 3053,
+  "completion_tokens": 4643,
+  "cost_usd": null
+ }
+}

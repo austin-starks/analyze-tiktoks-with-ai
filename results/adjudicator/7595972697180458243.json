@@ -1,0 +1,18 @@
+{
+ "id": "7595972697180458243",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "borderline": true,
+  "claim_answered": "Men are lonely because women aren't financially trapped anymore and reject low-quality men.",
+  "reason": "Rule 2: He rebuts a claim blaming men's lack of quality for male loneliness, defending average men's dating struggles.",
+  "evidence_seconds": 31,
+  "alternate_category": "women",
+  "category": "men"
+ },
+ "usage": {
+  "prompt_tokens": 3593,
+  "completion_tokens": 3851,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7554825463584001302",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Women cheat because men fail to give them attention or meet their needs",
+  "reason": "Pushes back on a claim that blames men for women's cheating.",
+  "evidence_seconds": 15
+ },
+ "usage": {
+  "prompt_tokens": 2957,
+  "completion_tokens": 248,
+  "cost_usd": null
+ }
+}

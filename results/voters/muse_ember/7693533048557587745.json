@@ -1,0 +1,19 @@
+{
+ "id": "7693533048557587745",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "debate",
+  "claim_answered": "GoodTrouble's portrayal of his Mansplaining Feminism introduction",
+  "evidence_seconds": 38,
+  "reason": "Reply to creator who reacted to and misrepresented his earlier video"
+ },
+ "usage": {
+  "prompt_tokens": 4026,
+  "completion_tokens": 1630,
+  "cost_usd": null
+ }
+}

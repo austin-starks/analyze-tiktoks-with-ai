@@ -1,0 +1,19 @@
+{
+ "id": "7556512786587716886",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men today aren't real men because they can't change a tire or do an oil change",
+  "reason": "Pushes back on a claim running men down for lacking old-school manual skills; his \"women can't cook either\" point still serves men's defense.",
+  "evidence_seconds": 19
+ },
+ "usage": {
+  "prompt_tokens": 3472,
+  "completion_tokens": 354,
+  "cost_usd": null
+ }
+}

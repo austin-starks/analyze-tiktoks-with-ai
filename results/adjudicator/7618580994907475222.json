@@ -1,0 +1,18 @@
+{
+ "id": "7618580994907475222",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "borderline": true,
+  "evidence_seconds": 0,
+  "claim_answered": "Why promiscuous women are judged while promiscuous men are praised",
+  "category": "mixed",
+  "alternate_category": "misc",
+  "reason": "Under Rule 2, he addresses a premise about both sexes' reputations equally without blaming or defending either sex."
+ },
+ "usage": {
+  "prompt_tokens": 3617,
+  "completion_tokens": 2842,
+  "cost_usd": null
+ }
+}

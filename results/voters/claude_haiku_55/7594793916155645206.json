@@ -1,0 +1,19 @@
+{
+ "id": "7594793916155645206",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "none",
+  "reason": "Self-improvement advice to men about handling rejection; no rebuttal of a claim that runs men down or defends women.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 5303,
+  "completion_tokens": 189,
+  "cost_usd": null
+ }
+}

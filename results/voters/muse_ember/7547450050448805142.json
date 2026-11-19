@@ -1,0 +1,19 @@
+{
+ "id": "7547450050448805142",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "misc",
+  "claim_answered": "none",
+  "evidence_seconds": 0,
+  "reason": "Dating and breakup advice responding to a viewer's relationship question; no claim about men or women as a group"
+ },
+ "usage": {
+  "prompt_tokens": 3309,
+  "completion_tokens": 1806,
+  "cost_usd": null
+ }
+}

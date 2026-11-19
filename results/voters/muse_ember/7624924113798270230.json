@@ -1,0 +1,19 @@
+{
+ "id": "7624924113798270230",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "women",
+  "borderline": true,
+  "category": "mixed",
+  "claim_answered": "Women are better with money than men",
+  "evidence_seconds": 37,
+  "reason": "He fact-checks claim women are better than men, finding mixed evidence for both sexes"
+ },
+ "usage": {
+  "prompt_tokens": 3586,
+  "completion_tokens": 3478,
+  "cost_usd": null
+ }
+}

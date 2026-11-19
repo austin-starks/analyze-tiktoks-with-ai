@@ -1,0 +1,19 @@
+{
+ "id": "7660193138450910497",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Divorce makes women happier than at any point in their adult lives",
+  "reason": "Rebuts a claim favoring women's post-divorce happiness; study shows women's long-run well-being negative on GHQ, so he pushes back on a pro-women overstatement.",
+  "evidence_seconds": 10
+ },
+ "usage": {
+  "prompt_tokens": 6000,
+  "completion_tokens": 229,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7571365675697032470",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "Everyone, including men, shoots for the top 10% of women and men are unrealistic in dating",
+  "reason": "Rebuts a claim that men aim too high and are the problem, defending men's dating reality and blaming women's filtering.",
+  "evidence_seconds": 23
+ },
+ "usage": {
+  "prompt_tokens": 4927,
+  "completion_tokens": 218,
+  "cost_usd": null
+ }
+}

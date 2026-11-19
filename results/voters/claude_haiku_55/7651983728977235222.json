@@ -1,0 +1,19 @@
+{
+ "id": "7651983728977235222",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Men's rights people are whiners; men don't really have problems and women have it harder",
+  "reason": "Pushes back on a claim that denies or downplays men's problems and says men's struggles don't count; mostly self-improvement framing.",
+  "evidence_seconds": 41
+ },
+ "usage": {
+  "prompt_tokens": 5396,
+  "completion_tokens": 217,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "id": "7584011292604665110",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "claim_answered": "none",
+  "alternate_category": "men",
+  "reason": "Dating and marriage advice on red flags and boundaries from a clip; answers no claim about men or women (Rule 3).",
+  "evidence_seconds": 78,
+  "category": "misc",
+  "borderline": true
+ },
+ "usage": {
+  "prompt_tokens": 3220,
+  "completion_tokens": 1930,
+  "cost_usd": null
+ }
+}

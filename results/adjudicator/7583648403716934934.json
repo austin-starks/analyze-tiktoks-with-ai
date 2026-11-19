@@ -1,0 +1,18 @@
+{
+ "id": "7583648403716934934",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "reason": "Under rule 3, he gives general dating advice on relationship teamwork and red flags rather than answering a claim about men or women.",
+  "borderline": true,
+  "category": "misc",
+  "alternate_category": "men",
+  "evidence_seconds": 32,
+  "claim_answered": "none"
+ },
+ "usage": {
+  "prompt_tokens": 3278,
+  "completion_tokens": 2105,
+  "cost_usd": null
+ }
+}

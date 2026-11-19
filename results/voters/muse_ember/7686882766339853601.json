@@ -1,0 +1,19 @@
+{
+ "id": "7686882766339853601",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "women",
+  "claim_answered": "97.4% of women would rather go to jail than admit fault",
+  "evidence_seconds": 13,
+  "reason": "Pushes back on fabricated claim that 97% of women share a horrible character flaw"
+ },
+ "usage": {
+  "prompt_tokens": 3694,
+  "completion_tokens": 1606,
+  "cost_usd": null
+ }
+}

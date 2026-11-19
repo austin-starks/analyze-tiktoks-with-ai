@@ -1,0 +1,19 @@
+{
+ "id": "7564678946529365270",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Women are all 10s while attractive men are rare",
+  "reason": "Pushes back on a claim favoring women and imposing unfairly high standards on men.",
+  "evidence_seconds": 33
+ },
+ "usage": {
+  "prompt_tokens": 3114,
+  "completion_tokens": 69,
+  "cost_usd": null
+ }
+}

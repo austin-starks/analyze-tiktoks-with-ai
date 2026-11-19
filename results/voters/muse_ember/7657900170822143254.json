@@ -1,0 +1,19 @@
+{
+ "id": "7657900170822143254",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "politics",
+  "claim_answered": "Rent control protects poor tenants and does more good than harm",
+  "evidence_seconds": 8,
+  "reason": "Explains rent control economics via supply and demand; no claim about men or women"
+ },
+ "usage": {
+  "prompt_tokens": 3780,
+  "completion_tokens": 1208,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7570079576345562371",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Men must be obsessed and \"starving\" for her attention or she gets the ick",
+  "reason": "Pushes back on a woman's demand that treats men as interchangeable and disposable, defending men against it",
+  "evidence_seconds": 72
+ },
+ "usage": {
+  "prompt_tokens": 3578,
+  "completion_tokens": 311,
+  "cost_usd": null
+ }
+}

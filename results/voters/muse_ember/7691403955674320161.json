@@ -1,0 +1,19 @@
+{
+ "id": "7691403955674320161",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "men",
+  "borderline": true,
+  "category": "news",
+  "claim_answered": "Seven men drugged and gang raped a 20-year-old woman",
+  "evidence_seconds": 0,
+  "reason": "Part 1 multi-part coverage of ongoing Cornell fraternity case, reporting lawsuit, texts and DA summary"
+ },
+ "usage": {
+  "prompt_tokens": 4401,
+  "completion_tokens": 5820,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7569159446618705174",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "men",
+  "borderline": true,
+  "category": "misc",
+  "claim_answered": "none",
+  "evidence_seconds": 0,
+  "reason": "Dating advice reacting to a woman's ick anecdote; no general claim about men or women"
+ },
+ "usage": {
+  "prompt_tokens": 2936,
+  "completion_tokens": 6479,
+  "cost_usd": null
+ }
+}

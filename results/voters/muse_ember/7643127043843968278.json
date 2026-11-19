@@ -1,0 +1,19 @@
+{
+ "id": "7643127043843968278",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "men",
+  "claim_answered": "8 in 10 men lied to convince a woman to sleep with them",
+  "evidence_seconds": 34,
+  "reason": "Pushes back on claim that 8 in 10 men lie to manipulate women into sex"
+ },
+ "usage": {
+  "prompt_tokens": 3880,
+  "completion_tokens": 2472,
+  "cost_usd": null
+ }
+}

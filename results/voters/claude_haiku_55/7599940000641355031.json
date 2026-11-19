@@ -1,0 +1,19 @@
+{
+ "id": "7599940000641355031",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "mixed",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Who cheats emotionally more, men or women? Data suggests women do more emotional-only affairs while men cheat more physically.",
+  "reason": "Answers a comparative question about both sexes' cheating without blaming either; overall conclusion is that cheating is roughly equal.",
+  "evidence_seconds": 129
+ },
+ "usage": {
+  "prompt_tokens": 5426,
+  "completion_tokens": 234,
+  "cost_usd": null
+ }
+}

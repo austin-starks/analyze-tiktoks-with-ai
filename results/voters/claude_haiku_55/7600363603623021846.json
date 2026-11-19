@@ -1,0 +1,19 @@
+{
+ "id": "7600363603623021846",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "Men should keep trying to explain themselves to abusive girlfriends who insult and humiliate them",
+  "reason": "Dating advice about a bad relationship; the clip's commentary is about a single couple, not a claim running down or defending either sex.",
+  "evidence_seconds": 57
+ },
+ "usage": {
+  "prompt_tokens": 5127,
+  "completion_tokens": 222,
+  "cost_usd": null
+ }
+}

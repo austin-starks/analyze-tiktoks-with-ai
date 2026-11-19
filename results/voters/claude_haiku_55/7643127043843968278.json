@@ -1,0 +1,19 @@
+{
+ "id": "7643127043843968278",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "debate",
+  "claim_answered": "Eight in 10 men lied to convince a woman to sleep with them",
+  "reason": "Rebuts a claim running men down as deceptive manipulators, arguing the survey item is misrepresented; responds to Professor Neil's claims, so debate is possible.",
+  "evidence_seconds": 12
+ },
+ "usage": {
+  "prompt_tokens": 6020,
+  "completion_tokens": 228,
+  "cost_usd": null
+ }
+}

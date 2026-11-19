@@ -1,0 +1,19 @@
+{
+ "id": "7644961710108888342",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Long-distance relationships rarely last, and only two conditions give them a real chance",
+  "reason": "General relationship advice answering a viewer's question; the claim is about couples without blaming either sex.",
+  "evidence_seconds": 22
+ },
+ "usage": {
+  "prompt_tokens": 5144,
+  "completion_tokens": 208,
+  "cost_usd": null
+ }
+}

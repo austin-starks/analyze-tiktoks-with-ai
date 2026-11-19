@@ -1,0 +1,19 @@
+{
+ "id": "7673501255775325462",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "An all-female chess team should not have to include a male player; the rule is unfair to women",
+  "reason": "Pushes back on a complaint that inflates women's disadvantage, calling the rule a double standard; not a claim blaming men, so women-leaning but borderline.",
+  "evidence_seconds": 108
+ },
+ "usage": {
+  "prompt_tokens": 5499,
+  "completion_tokens": 229,
+  "cost_usd": null
+ }
+}

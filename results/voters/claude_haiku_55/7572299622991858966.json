@@ -1,0 +1,19 @@
+{
+ "id": "7572299622991858966",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Women should never buy boyfriends gifts, cook, or do errands; women should not make men's lives easier",
+  "reason": "Reacts to a woman's advice that favors men and tells women to do nothing for partners; he pushes back on the claim that women are exploiting men, so it's a claim favoring men, not against women.",
+  "evidence_seconds": 82
+ },
+ "usage": {
+  "prompt_tokens": 5083,
+  "completion_tokens": 245,
+  "cost_usd": null
+ }
+}

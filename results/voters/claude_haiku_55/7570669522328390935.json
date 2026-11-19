@@ -1,0 +1,19 @@
+{
+ "id": "7570669522328390935",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "Men who restrict what women wear are just insecure or secretly cheating",
+  "reason": "Defends male boundary-setting against a woman's claim that it signals insecurity; pushes back on a claim running men down.",
+  "evidence_seconds": 28
+ },
+ "usage": {
+  "prompt_tokens": 4999,
+  "completion_tokens": 210,
+  "cost_usd": null
+ }
+}

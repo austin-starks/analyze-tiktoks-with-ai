@@ -1,0 +1,19 @@
+{
+ "id": "7654215200115133718",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Every problem that predominantly affects men is self-inflicted",
+  "reason": "Rebuts a claim that runs men down by blaming them for their own problems; also argues women's problems are shared.",
+  "evidence_seconds": 3
+ },
+ "usage": {
+  "prompt_tokens": 6029,
+  "completion_tokens": 206,
+  "cost_usd": null
+ }
+}

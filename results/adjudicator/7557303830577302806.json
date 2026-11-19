@@ -1,0 +1,18 @@
+{
+ "id": "7557303830577302806",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "borderline": true,
+  "claim_answered": "Turning 30 without life figured out leaves men bald, broken, and alone.",
+  "evidence_seconds": 81,
+  "category": "misc",
+  "reason": "Self-improvement and motivation for men about aging (misc rule), rather than rebutting a claim that runs men down.",
+  "alternate_category": "men"
+ },
+ "usage": {
+  "prompt_tokens": 3168,
+  "completion_tokens": 4224,
+  "cost_usd": null
+ }
+}

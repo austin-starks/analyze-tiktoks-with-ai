@@ -1,0 +1,19 @@
+{
+ "id": "7565797638583454998",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "misc",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "He doesn't have to buy me anything, but I'll choose the one who wants to",
+  "evidence_seconds": 0,
+  "reason": "Pushes back on claim favoring women at men's expense, defending men against gold-digging expectation"
+ },
+ "usage": {
+  "prompt_tokens": 3040,
+  "completion_tokens": 12101,
+  "cost_usd": null
+ }
+}

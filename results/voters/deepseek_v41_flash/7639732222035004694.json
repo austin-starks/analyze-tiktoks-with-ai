@@ -1,0 +1,19 @@
+{
+ "id": "7639732222035004694",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "debate",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Professor Neil's claims that 1 in 7 men have raped and over 1 in 3 assaulted a woman",
+  "reason": "Professor Neil stitched and criticized his Whopper analogy; this is his reply to that creator.",
+  "evidence_seconds": 30
+ },
+ "usage": {
+  "prompt_tokens": 3871,
+  "completion_tokens": 341,
+  "cost_usd": null
+ }
+}

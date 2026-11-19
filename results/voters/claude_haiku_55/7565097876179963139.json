@@ -1,0 +1,19 @@
+{
+ "id": "7565097876179963139",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Women should not do things like cooking, cleaning, or oral for men they are not married to",
+  "reason": "Pushes back on a woman's advice that treats men as wallets and withholds care, which runs women down as selfish and entitled.",
+  "evidence_seconds": 41
+ },
+ "usage": {
+  "prompt_tokens": 5274,
+  "completion_tokens": 216,
+  "cost_usd": null
+ }
+}

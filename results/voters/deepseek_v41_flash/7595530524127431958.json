@@ -1,0 +1,19 @@
+{
+ "id": "7595530524127431958",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "mixed",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men cheat all the time vs. women cheat more and just hide it",
+  "reason": "He answers both opposing claims, one against each sex, with data showing both cheat at similar rates",
+  "evidence_seconds": 11
+ },
+ "usage": {
+  "prompt_tokens": 3793,
+  "completion_tokens": 302,
+  "cost_usd": null
+ }
+}

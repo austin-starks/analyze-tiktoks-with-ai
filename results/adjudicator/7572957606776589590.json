@@ -1,0 +1,18 @@
+{
+ "id": "7572957606776589590",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "evidence_seconds": 63,
+  "alternate_category": "news",
+  "borderline": true,
+  "reason": "Rule 3: He answers no group claim; uses a viral celebrity story mainly to give general dating advice to men, fitting misc.",
+  "claim_answered": "none",
+  "category": "misc"
+ },
+ "usage": {
+  "prompt_tokens": 3257,
+  "completion_tokens": 1360,
+  "cost_usd": null
+ }
+}

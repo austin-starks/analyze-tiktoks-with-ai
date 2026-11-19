@@ -1,0 +1,19 @@
+{
+ "id": "7666818776486153494",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "reason": "He explicitly frames the video as rebutting a cartoon created to paint men in a bad light.",
+  "alternate_category": "mixed",
+  "claim_answered": "Male anthropologists invented the hunter-gatherer gender division in 1966",
+  "borderline": true,
+  "evidence_seconds": 25,
+  "category": "men"
+ },
+ "usage": {
+  "prompt_tokens": 4316,
+  "completion_tokens": 1088,
+  "cost_usd": null
+ }
+}

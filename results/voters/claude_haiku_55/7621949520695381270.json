@@ -1,0 +1,19 @@
+{
+ "id": "7621949520695381270",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "A man's sacrifice for his partner who later left him shows his choice of partner was wrong",
+  "reason": "Uses a celebrity story to argue men should gain dating experience; not a direct rebuttal of a claim about men or women, so misc is plausible.",
+  "evidence_seconds": 59
+ },
+ "usage": {
+  "prompt_tokens": 5527,
+  "completion_tokens": 226,
+  "cost_usd": null
+ }
+}

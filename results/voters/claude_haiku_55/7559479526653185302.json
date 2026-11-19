@@ -1,0 +1,19 @@
+{
+ "id": "7559479526653185302",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "A woman says she doesn't want to be judged by her size while judging men by height",
+  "reason": "Mainly general dating advice about looks and self-improvement; the opening woman's remark is a hypocrisy jab, not a group claim about either sex.",
+  "evidence_seconds": 22
+ },
+ "usage": {
+  "prompt_tokens": 5012,
+  "completion_tokens": 222,
+  "cost_usd": null
+ }
+}

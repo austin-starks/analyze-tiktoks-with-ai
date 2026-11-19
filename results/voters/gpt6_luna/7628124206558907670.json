@@ -1,0 +1,19 @@
+{
+ "id": "7628124206558907670",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "women",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Women don't learn unless they face consequences",
+  "reason": "Pushes back on a negative generalization about women while giving relationship advice.",
+  "evidence_seconds": 100
+ },
+ "usage": {
+  "prompt_tokens": 3577,
+  "completion_tokens": 185,
+  "cost_usd": null
+ }
+}

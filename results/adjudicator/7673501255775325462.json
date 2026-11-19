@@ -1,0 +1,18 @@
+{
+ "id": "7673501255775325462",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "claim_answered": "The mixed-team chess rule requiring a male player is unfair to an all-female team.",
+  "evidence_seconds": 151,
+  "borderline": true,
+  "reason": "Rule 2: pushes back on a double-standard claim favoring women at men's expense over a gender-neutral team rule.",
+  "alternate_category": "mixed",
+  "category": "men"
+ },
+ "usage": {
+  "prompt_tokens": 3485,
+  "completion_tokens": 3112,
+  "cost_usd": null
+ }
+}

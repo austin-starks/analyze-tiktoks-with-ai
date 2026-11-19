@@ -1,0 +1,19 @@
+{
+ "id": "7541746243211463958",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "none",
+  "reason": "Motivational dating advice for men about rejection; no claim about men or women being answered.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 5055,
+  "completion_tokens": 178,
+  "cost_usd": null
+ }
+}

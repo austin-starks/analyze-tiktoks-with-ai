@@ -1,0 +1,19 @@
+{
+ "id": "7677888232301858070",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "reason": "Part of multi-part coverage of an ongoing trial debunking viral accusations against Patrick Clancy.",
+  "alternate_category": "men",
+  "claim_answered": "Patrick Clancy is to blame or killed his children",
+  "category": "news",
+  "borderline": true,
+  "evidence_seconds": 20
+ },
+ "usage": {
+  "prompt_tokens": 3909,
+  "completion_tokens": 1047,
+  "cost_usd": null
+ }
+}

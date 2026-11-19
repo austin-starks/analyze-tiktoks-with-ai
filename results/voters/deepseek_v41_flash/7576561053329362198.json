@@ -1,0 +1,19 @@
+{
+ "id": "7576561053329362198",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men with many female friends are a green flag; men can't learn emotional intelligence from other men",
+  "reason": "Answers a claim that runs men down as emotionally unintelligent without women or gay friends",
+  "evidence_seconds": 19
+ },
+ "usage": {
+  "prompt_tokens": 3638,
+  "completion_tokens": 392,
+  "cost_usd": null
+ }
+}

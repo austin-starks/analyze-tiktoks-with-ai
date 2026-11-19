@@ -1,0 +1,19 @@
+{
+ "id": "7643824474822888726",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "All women are dishonest liars and honest women don't exist",
+  "reason": "Answers a viewer's claim that runs women down, arguing the common denominator is his own partner choice",
+  "evidence_seconds": 90
+ },
+ "usage": {
+  "prompt_tokens": 4063,
+  "completion_tokens": 442,
+  "cost_usd": null
+ }
+}

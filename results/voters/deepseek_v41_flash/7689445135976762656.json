@@ -1,0 +1,19 @@
+{
+ "id": "7689445135976762656",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "women",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "A study found 100% of women cheat within 90 days of dating",
+  "reason": "Debunks a claim that runs women down, showing no such study exists; not a reply to a creator's critique of him",
+  "evidence_seconds": 45
+ },
+ "usage": {
+  "prompt_tokens": 3894,
+  "completion_tokens": 302,
+  "cost_usd": null
+ }
+}

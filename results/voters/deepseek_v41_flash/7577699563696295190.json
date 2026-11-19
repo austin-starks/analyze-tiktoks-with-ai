@@ -1,0 +1,19 @@
+{
+ "id": "7577699563696295190",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "A man's love should be measured by financial investment in her future",
+  "reason": "Pushes back on a demand framing men as walking ATMs expected to fund a partner one-way",
+  "evidence_seconds": 30
+ },
+ "usage": {
+  "prompt_tokens": 3671,
+  "completion_tokens": 338,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7532874203276659990",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "misc",
+  "claim_answered": "none",
+  "evidence_seconds": 0,
+  "reason": "Dating advice about interpreting a woman coming over; answers no claim about men or women"
+ },
+ "usage": {
+  "prompt_tokens": 2919,
+  "completion_tokens": 2055,
+  "cost_usd": null
+ }
+}

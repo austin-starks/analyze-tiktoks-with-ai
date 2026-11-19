@@ -1,0 +1,19 @@
+{
+ "id": "7679853920054775062",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "\"Not all men, but always a man\" — men harass the Juliet statue, so women never get peace",
+  "reason": "Answers a viral claim that vilifies men, showing women do the same tourist tradition",
+  "evidence_seconds": 32
+ },
+ "usage": {
+  "prompt_tokens": 3854,
+  "completion_tokens": 264,
+  "cost_usd": null
+ }
+}

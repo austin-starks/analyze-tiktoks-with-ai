@@ -1,0 +1,19 @@
+{
+ "id": "7664543032812834070",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men are primitive alien savages who ruined a peaceful world of women.",
+  "reason": "He pushes back on a theory that denigrates men and blames them for ruining the world.",
+  "evidence_seconds": 97
+ },
+ "usage": {
+  "prompt_tokens": 3658,
+  "completion_tokens": 73,
+  "cost_usd": null
+ }
+}

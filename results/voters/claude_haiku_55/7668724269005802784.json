@@ -1,0 +1,19 @@
+{
+ "id": "7668724269005802784",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "debate",
+  "claim_answered": "Women are not hypergamous; there is little to no data that women are hypergamous",
+  "reason": "Rebuts a claim that runs women down (hypergamy) by showing data that women prefer higher-status, higher-income partners on average.",
+  "evidence_seconds": 4
+ },
+ "usage": {
+  "prompt_tokens": 5594,
+  "completion_tokens": 218,
+  "cost_usd": null
+ }
+}

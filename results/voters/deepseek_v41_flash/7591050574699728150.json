@@ -1,0 +1,19 @@
+{
+ "id": "7591050574699728150",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Relationship advice answering a viewer's DM about his girlfriend; no general claim about men or women is being answered.",
+  "evidence_seconds": 105
+ },
+ "usage": {
+  "prompt_tokens": 4624,
+  "completion_tokens": 163,
+  "cost_usd": null
+ }
+}

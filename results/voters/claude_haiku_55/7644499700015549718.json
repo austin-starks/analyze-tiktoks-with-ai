@@ -1,0 +1,19 @@
+{
+ "id": "7644499700015549718",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "debate",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "Men as a group are dangerous because a person struggles to filter who they date",
+  "reason": "Reacts to Allie Voss, then extends it to a video where he criticized a guy's claim. Mainly reply to another creator's critique of his earlier work.",
+  "evidence_seconds": 3
+ },
+ "usage": {
+  "prompt_tokens": 5568,
+  "completion_tokens": 224,
+  "cost_usd": null
+ }
+}

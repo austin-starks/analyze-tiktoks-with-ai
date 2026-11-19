@@ -1,0 +1,19 @@
+{
+ "id": "7637908664338222358",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Breakup and self-improvement advice for men; no claim about men or women is being answered.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 4288,
+  "completion_tokens": 163,
+  "cost_usd": null
+ }
+}

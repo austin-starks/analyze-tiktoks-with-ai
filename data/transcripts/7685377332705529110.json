@@ -1,0 +1,211 @@
+{
+ "text": "Oh yeah, look at this here. A study done on 360,000 job applications in almost 30 countries over the last 40 years discovered a hiring virus in society is actually against men and not women. The thing that everybody knew was happening was discovered to have been happening. Okay, is it true that a study of more than 360,000 job applications really discovered that hiring discrimination is actually against men, not women? Well, not exactly. Or at the very least, such summary would be quite misleading of what the study actually found. But there was an interesting finding there about discrimination against men. I know it may sound a bit confusing, so let's take it one step at a time. The study itself is pretty substantial. It is a 2023 meta-analysis combining 85 real-world hiring experiments, more than 361,000 job applications across 26 countries and territories between 1976 and 2020. And the methodology is actually pretty good. In these experiments, researchers create fictional applicants who are similarly qualified but change whether the employer perceives the applicant as male or female, usually through something like the applicant's first name. So imagine two comparable CVs with similar education, experience, and skills. But one says John and the other says Maria. They send those applications to real employers and compare who gets a positive response. And because the qualifications are matched or randomized, if one gender consistently gets more callbacks, that gives us pretty strong evidence that gender itself affected the decision. Now, this is where there's actually some truth to the claim. If you simply pool all of the studies together, male applicants had about 9% lower odds of receiving a callback than female applicants. So yes, the raw overall result actually did favor women. But even that result becomes much less clear when you look deeper. Once the researchers statistically accounted for differences between the studies, things like country-level gender inequality and differences in experimental design, the adjusted estimate moved very close to zero. And importantly, the uncertainty became much wider. So after those controls, you could no longer confidently say that there was one clear overall advantage for either sex. But researchers then went a step further. Instead of treating every job as if it were the same, they divided occupations into three broad categories. Male-type jobs, female-type jobs, and gender-balanced jobs. Basically, jobs associated more with men, jobs associated more with women, and jobs where the gender split was more even. And that revealed a much clearer pattern. In male-type and gender-balanced jobs, women historically did face a disadvantage. But over the decades, the disadvantage declined substantially. And by the more recent period covered by the study, the preference for male applicants had basically disappeared. Female-type jobs were different. There, male applicants had about 25% lower odds of receiving a callback than female applicants. And unlike the historical disadvantage against women, this disadvantage against men did not show the same decline over time. It remained surprisingly persistent across the period covered by the study. So yes, the study absolutely did find evidence of hiring discrimination against men, particularly in female-type jobs. But that is very different from saying it discovered that hiring bias in society is actually against men and not women. That is simply much broader than what the data shows. And I think it is important to be precise here. Because otherwise, we take a real statistic and stretch it into a claim the study itself doesn't support. And that standard should be the same whether the statistic negatively affects men or women. If we want to understand discrimination properly, we should describe what the data actually shows, not just the version that fits the narrative we prefer.",
+ "duration": 178.91000366210938,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 4.400000095367432,
+   "text": " Oh yeah, look at this here. A study done on 360,000 job applications in almost 30 countries"
+  },
+  {
+   "start": 4.400000095367432,
+   "end": 8.5600004196167,
+   "text": " over the last 40 years discovered a hiring virus in society is actually against men and not women."
+  },
+  {
+   "start": 8.5600004196167,
+   "end": 11.4399995803833,
+   "text": " The thing that everybody knew was happening was discovered to have been happening."
+  },
+  {
+   "start": 11.4399995803833,
+   "end": 16.15999984741211,
+   "text": " Okay, is it true that a study of more than 360,000 job applications really discovered"
+  },
+  {
+   "start": 16.15999984741211,
+   "end": 20.799999237060547,
+   "text": " that hiring discrimination is actually against men, not women? Well, not exactly. Or at the"
+  },
+  {
+   "start": 20.799999237060547,
+   "end": 25.1200008392334,
+   "text": " very least, such summary would be quite misleading of what the study actually found. But there was"
+  },
+  {
+   "start": 25.1200008392334,
+   "end": 29.1200008392334,
+   "text": " an interesting finding there about discrimination against men. I know it may sound a bit confusing,"
+  },
+  {
+   "start": 29.1200008392334,
+   "end": 33.68000030517578,
+   "text": " so let's take it one step at a time. The study itself is pretty substantial. It is a 2023"
+  },
+  {
+   "start": 33.68000030517578,
+   "end": 39.52000045776367,
+   "text": " meta-analysis combining 85 real-world hiring experiments, more than 361,000 job applications"
+  },
+  {
+   "start": 39.52000045776367,
+   "end": 44.720001220703125,
+   "text": " across 26 countries and territories between 1976 and 2020. And the methodology is actually pretty"
+  },
+  {
+   "start": 44.720001220703125,
+   "end": 49.040000915527344,
+   "text": " good. In these experiments, researchers create fictional applicants who are similarly qualified"
+  },
+  {
+   "start": 49.040000915527344,
+   "end": 53.040000915527344,
+   "text": " but change whether the employer perceives the applicant as male or female, usually through"
+  },
+  {
+   "start": 53.040000915527344,
+   "end": 57.68000030517578,
+   "text": " something like the applicant's first name. So imagine two comparable CVs with similar education,"
+  },
+  {
+   "start": 57.68000030517578,
+   "end": 62.15999984741211,
+   "text": " experience, and skills. But one says John and the other says Maria. They send those applications"
+  },
+  {
+   "start": 62.15999984741211,
+   "end": 66.23999786376953,
+   "text": " to real employers and compare who gets a positive response. And because the qualifications are"
+  },
+  {
+   "start": 66.23999786376953,
+   "end": 70.72000122070312,
+   "text": " matched or randomized, if one gender consistently gets more callbacks, that gives us pretty strong"
+  },
+  {
+   "start": 70.72000122070312,
+   "end": 74.72000122070312,
+   "text": " evidence that gender itself affected the decision. Now, this is where there's actually some truth to"
+  },
+  {
+   "start": 74.72000122070312,
+   "end": 79.76000213623047,
+   "text": " the claim. If you simply pool all of the studies together, male applicants had about 9% lower odds"
+  },
+  {
+   "start": 79.76000213623047,
+   "end": 84.4800033569336,
+   "text": " of receiving a callback than female applicants. So yes, the raw overall result actually did favor"
+  },
+  {
+   "start": 84.4800033569336,
+   "end": 88.63999938964844,
+   "text": " women. But even that result becomes much less clear when you look deeper. Once the researchers"
+  },
+  {
+   "start": 88.63999938964844,
+   "end": 92.31999969482422,
+   "text": " statistically accounted for differences between the studies, things like country-level gender"
+  },
+  {
+   "start": 92.31999969482422,
+   "end": 97.12000274658203,
+   "text": " inequality and differences in experimental design, the adjusted estimate moved very close to zero."
+  },
+  {
+   "start": 97.12000274658203,
+   "end": 101.76000213623047,
+   "text": " And importantly, the uncertainty became much wider. So after those controls, you could no longer"
+  },
+  {
+   "start": 101.76000213623047,
+   "end": 106.08000183105469,
+   "text": " confidently say that there was one clear overall advantage for either sex. But researchers then"
+  },
+  {
+   "start": 106.08000183105469,
+   "end": 110.63999938964844,
+   "text": " went a step further. Instead of treating every job as if it were the same, they divided occupations"
+  },
+  {
+   "start": 110.63999938964844,
+   "end": 115.27999877929688,
+   "text": " into three broad categories. Male-type jobs, female-type jobs, and gender-balanced jobs."
+  },
+  {
+   "start": 115.27999877929688,
+   "end": 119.36000061035156,
+   "text": " Basically, jobs associated more with men, jobs associated more with women, and jobs where the"
+  },
+  {
+   "start": 119.36000061035156,
+   "end": 123.91999816894531,
+   "text": " gender split was more even. And that revealed a much clearer pattern. In male-type and gender-balanced"
+  },
+  {
+   "start": 123.91999816894531,
+   "end": 128.39999389648438,
+   "text": " jobs, women historically did face a disadvantage. But over the decades, the disadvantage declined"
+  },
+  {
+   "start": 128.39999389648438,
+   "end": 132.32000732421875,
+   "text": " substantially. And by the more recent period covered by the study, the preference for male"
+  },
+  {
+   "start": 132.32000732421875,
+   "end": 137.0399932861328,
+   "text": " applicants had basically disappeared. Female-type jobs were different. There, male applicants had"
+  },
+  {
+   "start": 137.0399932861328,
+   "end": 141.83999633789062,
+   "text": " about 25% lower odds of receiving a callback than female applicants. And unlike the historical"
+  },
+  {
+   "start": 141.83999633789062,
+   "end": 146.0800018310547,
+   "text": " disadvantage against women, this disadvantage against men did not show the same decline over"
+  },
+  {
+   "start": 146.0800018310547,
+   "end": 150.55999755859375,
+   "text": " time. It remained surprisingly persistent across the period covered by the study. So yes, the study"
+  },
+  {
+   "start": 150.55999755859375,
+   "end": 155.44000244140625,
+   "text": " absolutely did find evidence of hiring discrimination against men, particularly in female-type jobs."
+  },
+  {
+   "start": 155.44000244140625,
+   "end": 158.8800048828125,
+   "text": " But that is very different from saying it discovered that hiring bias in society is"
+  },
+  {
+   "start": 158.8800048828125,
+   "end": 163.27999877929688,
+   "text": " actually against men and not women. That is simply much broader than what the data shows. And I think"
+  },
+  {
+   "start": 163.27999877929688,
+   "end": 167.0399932861328,
+   "text": " it is important to be precise here. Because otherwise, we take a real statistic and stretch"
+  },
+  {
+   "start": 167.0399932861328,
+   "end": 170.8000030517578,
+   "text": " it into a claim the study itself doesn't support. And that standard should be the same whether the"
+  },
+  {
+   "start": 170.8000030517578,
+   "end": 174.63999938964844,
+   "text": " statistic negatively affects men or women. If we want to understand discrimination properly,"
+  },
+  {
+   "start": 174.63999938964844,
+   "end": 178.72000122070312,
+   "text": " we should describe what the data actually shows, not just the version that fits the narrative we prefer."
+  }
+ ]
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7677581790235725058",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "news",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Explains competing expert testimony and evidence in an ongoing murder trial.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 3607,
+  "completion_tokens": 170,
+  "cost_usd": null
+ }
+}

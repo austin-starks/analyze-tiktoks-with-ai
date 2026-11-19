@@ -1,0 +1,19 @@
+{
+ "id": "7581054011474906390",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Men should want a rich, hardcore woman who can fight — can they handle it?",
+  "reason": "Answers a claim that runs men down as too weak to handle a strong woman and blames men for rejecting her",
+  "evidence_seconds": 17
+ },
+ "usage": {
+  "prompt_tokens": 3566,
+  "completion_tokens": 438,
+  "cost_usd": null
+ }
+}

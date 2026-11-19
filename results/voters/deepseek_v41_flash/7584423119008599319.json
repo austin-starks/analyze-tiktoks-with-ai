@@ -1,0 +1,19 @@
+{
+ "id": "7584423119008599319",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Most men assume all women want to sleep with them; men are overconfident and delusional",
+  "reason": "Pushes back on a claim running men down as delusional, noting rejection-prepared average guys face harder dating",
+  "evidence_seconds": 15
+ },
+ "usage": {
+  "prompt_tokens": 3296,
+  "completion_tokens": 306,
+  "cost_usd": null
+ }
+}

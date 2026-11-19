@@ -1,0 +1,19 @@
+{
+ "id": "7602542941499854102",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Dating advice about reading ghosting; answers no claim defending a sex.",
+  "evidence_seconds": 32
+ },
+ "usage": {
+  "prompt_tokens": 3592,
+  "completion_tokens": 156,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7611180124645428503",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Viewer DM asking what to do after a cheating girlfriend; he gives dating/self-respect advice, answering no claim about a sex.",
+  "evidence_seconds": 124
+ },
+ "usage": {
+  "prompt_tokens": 3850,
+  "completion_tokens": 186,
+  "cost_usd": null
+ }
+}

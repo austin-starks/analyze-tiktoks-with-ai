@@ -1,0 +1,19 @@
+{
+ "id": "7654215200115133718",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "borderline": false,
+  "alternate_category": "none",
+  "evidence_seconds": 15,
+  "category": "men",
+  "claim_answered": "Every issue that predominantly affects men is self-inflicted",
+  "reason": "Pushes back against a claim blaming men for all of men's problems and downplaying their disadvantages."
+ },
+ "usage": {
+  "prompt_tokens": 4119,
+  "completion_tokens": 1071,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7631106668935351574",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "men",
+  "claim_answered": "62 million men attended online rape academy",
+  "evidence_seconds": 11,
+  "reason": "Pushes back on viral claim that 62 million men attended rape academy, which runs men down"
+ },
+ "usage": {
+  "prompt_tokens": 3663,
+  "completion_tokens": 3293,
+  "cost_usd": null
+ }
+}

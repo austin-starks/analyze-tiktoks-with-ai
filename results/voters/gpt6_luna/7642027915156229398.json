@@ -1,0 +1,19 @@
+{
+ "id": "7642027915156229398",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Reads and responds to supportive viewer messages; this is channel appreciation, not an answer to a claim.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 3894,
+  "completion_tokens": 61,
+  "cost_usd": null
+ }
+}

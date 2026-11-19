@@ -1,0 +1,18 @@
+{
+ "id": "7596671213645253910",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "evidence_seconds": 83,
+  "alternate_category": "misc",
+  "claim_answered": "Ne-Yo's one-sided polyamorous relationship with three women is based on radical honesty",
+  "category": "news",
+  "reason": "Rule 3 (news): covers a viral celebrity interview and story without answering a general claim about men or women; includes dating advice.",
+  "borderline": true
+ },
+ "usage": {
+  "prompt_tokens": 3592,
+  "completion_tokens": 1578,
+  "cost_usd": null
+ }
+}

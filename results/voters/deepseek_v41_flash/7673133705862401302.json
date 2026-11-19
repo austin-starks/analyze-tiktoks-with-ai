@@ -1,0 +1,19 @@
+{
+ "id": "7673133705862401302",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "politics",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "If socialism is so bad, why do the rich spend billions fighting it?",
+  "reason": "Rebuts economic arguments for socialism (China, Vietnam, sanctions); no claim about men or women.",
+  "evidence_seconds": 78
+ },
+ "usage": {
+  "prompt_tokens": 4042,
+  "completion_tokens": 240,
+  "cost_usd": null
+ }
+}

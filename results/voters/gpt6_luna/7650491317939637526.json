@@ -1,0 +1,19 @@
+{
+ "id": "7650491317939637526",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "General relationship advice listing qualities to seek in a partner; it answers no claim about men or women.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 3620,
+  "completion_tokens": 217,
+  "cost_usd": null
+ }
+}

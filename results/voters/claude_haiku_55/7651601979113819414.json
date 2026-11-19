@@ -1,0 +1,19 @@
+{
+ "id": "7651601979113819414",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "debate",
+  "borderline": true,
+  "alternate_category": "politics",
+  "claim_answered": "Musk became a trillionaire, so a worker earning 42k should ask where their billion is; reward should track work",
+  "reason": "Responds to a creator's reaction video, which he frames as a reply to her; mainly a logic critique of her argument. Economic subject could be politics.",
+  "evidence_seconds": 16
+ },
+ "usage": {
+  "prompt_tokens": 5713,
+  "completion_tokens": 233,
+  "cost_usd": null
+ }
+}

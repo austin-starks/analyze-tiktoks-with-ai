@@ -1,0 +1,19 @@
+{
+ "id": "7567740237850381590",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "Being a virgin in your 20s shows self-control and virtue, so waiting for the right partner is admirable",
+  "reason": "General dating advice telling men to go out and get experience; answers a self-improvement stance, not a claim that runs down men as a group.",
+  "evidence_seconds": 29
+ },
+ "usage": {
+  "prompt_tokens": 5187,
+  "completion_tokens": 225,
+  "cost_usd": null
+ }
+}

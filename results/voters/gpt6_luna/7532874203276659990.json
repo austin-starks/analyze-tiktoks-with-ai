@@ -1,0 +1,19 @@
+{
+ "id": "7532874203276659990",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "General dating advice about interpreting a woman's visit and consent; it answers no claim about men or women.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 2917,
+  "completion_tokens": 169,
+  "cost_usd": null
+ }
+}

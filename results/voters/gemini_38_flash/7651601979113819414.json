@@ -1,0 +1,19 @@
+{
+ "id": "7651601979113819414",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "reason": "Evaluates an economic argument about market pricing, capitalism, and wealth redistribution.",
+  "category": "politics",
+  "alternate_category": "misc",
+  "claim_answered": "Pay should track effort and extreme billionaire wealth is unfair",
+  "evidence_seconds": 76,
+  "borderline": true
+ },
+ "usage": {
+  "prompt_tokens": 3918,
+  "completion_tokens": 986,
+  "cost_usd": null
+ }
+}

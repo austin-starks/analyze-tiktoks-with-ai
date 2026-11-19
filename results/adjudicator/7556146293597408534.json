@@ -1,0 +1,18 @@
+{
+ "id": "7556146293597408534",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "reason": "Rule 3: it is general dating and relationship advice answering no claim about men or women, though it answers a couples claim.",
+  "evidence_seconds": 33,
+  "category": "misc",
+  "claim_answered": "Healthy relationships mean constant conflict, triggers, and repair, and are boring.",
+  "alternate_category": "mixed",
+  "borderline": true
+ },
+ "usage": {
+  "prompt_tokens": 3036,
+  "completion_tokens": 1854,
+  "cost_usd": null
+ }
+}

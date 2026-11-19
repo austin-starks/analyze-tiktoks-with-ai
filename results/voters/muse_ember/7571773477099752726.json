@@ -1,0 +1,19 @@
+{
+ "id": "7571773477099752726",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "men",
+  "claim_answered": "Men are boring",
+  "evidence_seconds": 0,
+  "reason": "Pushes back on claim that men are boring, defending men"
+ },
+ "usage": {
+  "prompt_tokens": 2988,
+  "completion_tokens": 1013,
+  "cost_usd": null
+ }
+}

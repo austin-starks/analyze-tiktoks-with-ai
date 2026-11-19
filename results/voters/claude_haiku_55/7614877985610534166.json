@@ -1,0 +1,19 @@
+{
+ "id": "7614877985610534166",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Men are the original \"pick me's\" because patriarchy turned women into pygmies, and nature makes women the choosers",
+  "reason": "Rebuts a claim that blames patriarchy/men for women's dating problems and portrays men as the ones who must prove themselves; mutual selection verdict is secondary.",
+  "evidence_seconds": 25
+ },
+ "usage": {
+  "prompt_tokens": 5660,
+  "completion_tokens": 243,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7576174268497792279",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "borderline": true,
+  "reason": "Gives relationship advice and self-improvement guidance to men reacting to a viral clip rather than answering a claim.",
+  "claim_answered": "none",
+  "alternate_category": "men",
+  "evidence_seconds": 110,
+  "category": "misc"
+ },
+ "usage": {
+  "prompt_tokens": 3616,
+  "completion_tokens": 740,
+  "cost_usd": null
+ }
+}

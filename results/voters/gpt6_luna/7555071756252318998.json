@@ -1,0 +1,19 @@
+{
+ "id": "7555071756252318998",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "mixed",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "Women are always right about men’s fashion and beauty choices",
+  "reason": "Pushes back on an exaggerated claim favoring women, without directly attacking men or women as a group.",
+  "evidence_seconds": 20
+ },
+ "usage": {
+  "prompt_tokens": 3028,
+  "completion_tokens": 72,
+  "cost_usd": null
+ }
+}

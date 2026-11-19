@@ -1,0 +1,19 @@
+{
+ "id": "7620721126636850454",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Women who never worked lack understanding of effort and will never be grateful in relationships",
+  "reason": "Runs down women as ungrateful and entitled, a negative generalization about women; dating advice framing.",
+  "evidence_seconds": 11
+ },
+ "usage": {
+  "prompt_tokens": 5158,
+  "completion_tokens": 208,
+  "cost_usd": null
+ }
+}

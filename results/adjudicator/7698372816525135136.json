@@ -1,0 +1,18 @@
+{
+ "id": "7698372816525135136",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "alternate_category": "mixed",
+  "category": "men",
+  "borderline": true,
+  "claim_answered": "Aborting a baby simply because he is a boy is defensible under a woman's right to choose.",
+  "evidence_seconds": 144,
+  "reason": "By Rule 2, he rebuts a claim defending aborting boys, devaluing males; saying it is equally wrong for girls stays men."
+ },
+ "usage": {
+  "prompt_tokens": 4558,
+  "completion_tokens": 2768,
+  "cost_usd": null
+ }
+}

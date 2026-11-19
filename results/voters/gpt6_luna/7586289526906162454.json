@@ -1,0 +1,19 @@
+{
+ "id": "7586289526906162454",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Women should treat a man's money as shared while keeping their own money separate",
+  "reason": "Pushes back on a one-sided financial expectation portrayed as women taking from men without contributing",
+  "evidence_seconds": 66
+ },
+ "usage": {
+  "prompt_tokens": 3281,
+  "completion_tokens": 190,
+  "cost_usd": null
+ }
+}

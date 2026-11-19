@@ -1,0 +1,19 @@
+{
+ "id": "7660193138450910497",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "women",
+  "borderline": true,
+  "category": "mixed",
+  "claim_answered": "Divorced women become happier than ever in their adult lives",
+  "evidence_seconds": 21,
+  "reason": "Pushes back on a claim favoring women that does not attack men"
+ },
+ "usage": {
+  "prompt_tokens": 3826,
+  "completion_tokens": 4935,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7633326089485536534",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Historical explanation of feminism's origins; no claim about men or women being answered",
+  "evidence_seconds": 17
+ },
+ "usage": {
+  "prompt_tokens": 3928,
+  "completion_tokens": 365,
+  "cost_usd": null
+ }
+}

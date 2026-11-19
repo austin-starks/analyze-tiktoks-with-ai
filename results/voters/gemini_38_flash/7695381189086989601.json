@@ -1,0 +1,19 @@
+{
+ "id": "7695381189086989601",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "borderline": false,
+  "reason": "Evaluates political claims comparing violence and extremism between the political left and right",
+  "claim_answered": "The far left is at worst annoying while the far right is dangerous",
+  "alternate_category": "none",
+  "category": "politics",
+  "evidence_seconds": 15
+ },
+ "usage": {
+  "prompt_tokens": 5077,
+  "completion_tokens": 555,
+  "cost_usd": null
+ }
+}

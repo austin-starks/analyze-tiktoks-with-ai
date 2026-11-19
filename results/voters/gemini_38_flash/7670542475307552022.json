@@ -1,0 +1,19 @@
+{
+ "id": "7670542475307552022",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "alternate_category": "mixed",
+  "borderline": true,
+  "reason": "Pushes back on a claim reducing men solely to their reproductive organs and procreation",
+  "claim_answered": "Men were born just to procreate and that is their purpose",
+  "category": "men",
+  "evidence_seconds": 28
+ },
+ "usage": {
+  "prompt_tokens": 3654,
+  "completion_tokens": 927,
+  "cost_usd": null
+ }
+}

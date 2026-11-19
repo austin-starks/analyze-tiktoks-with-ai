@@ -1,0 +1,19 @@
+{
+ "id": "7617147475127799062",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "women",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Women use men for free meals on dates",
+  "reason": "Pushes back on a claim that runs women down, arguing the foodie-call study does not mean most women date for meals",
+  "evidence_seconds": 59
+ },
+ "usage": {
+  "prompt_tokens": 3943,
+  "completion_tokens": 285,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7649372814603996438",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "misc",
+  "claim_answered": "Feminism went straight from 1790s books to the 1848 first wave",
+  "evidence_seconds": 40,
+  "reason": "History explainer on feminism's 56-year gap; no claim attacking men or women is answered"
+ },
+ "usage": {
+  "prompt_tokens": 3816,
+  "completion_tokens": 4388,
+  "cost_usd": null
+ }
+}

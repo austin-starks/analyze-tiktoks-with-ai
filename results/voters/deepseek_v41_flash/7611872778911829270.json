@@ -1,0 +1,19 @@
+{
+ "id": "7611872778911829270",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "We should boycott and cut men out of business and society",
+  "reason": "Pushes back on a viral claim that runs men down and calls for excluding them",
+  "evidence_seconds": 30
+ },
+ "usage": {
+  "prompt_tokens": 3462,
+  "completion_tokens": 184,
+  "cost_usd": null
+ }
+}

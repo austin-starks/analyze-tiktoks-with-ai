@@ -1,0 +1,19 @@
+{
+ "id": "7634545977998724374",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "alternate_category": "news",
+  "evidence_seconds": 46,
+  "borderline": true,
+  "claim_answered": "The EU just passed a new yes means yes law",
+  "category": "politics",
+  "reason": "Explains EU government and legislative policy, clarifying that a resolution is not a passed law."
+ },
+ "usage": {
+  "prompt_tokens": 3822,
+  "completion_tokens": 1334,
+  "cost_usd": null
+ }
+}

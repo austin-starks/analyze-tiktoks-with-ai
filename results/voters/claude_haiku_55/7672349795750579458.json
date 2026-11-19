@@ -1,0 +1,19 @@
+{
+ "id": "7672349795750579458",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "politics",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "CEO pay and vacations expose capitalism's unfairness, so socialism is better",
+  "reason": "Economic system debate about capitalism versus socialism; no claim about men or women.",
+  "evidence_seconds": 10
+ },
+ "usage": {
+  "prompt_tokens": 5888,
+  "completion_tokens": 203,
+  "cost_usd": null
+ }
+}

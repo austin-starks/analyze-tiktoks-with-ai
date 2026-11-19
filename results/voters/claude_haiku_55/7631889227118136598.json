@@ -1,0 +1,19 @@
+{
+ "id": "7631889227118136598",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "Over 62 million US men commit non-consensual sex, based on a 32% study",
+  "reason": "Debunks a viral study-misuse claim about men's sexual assault; his point is about research methods, not defending or attacking either sex.",
+  "evidence_seconds": 12
+ },
+ "usage": {
+  "prompt_tokens": 5720,
+  "completion_tokens": 218,
+  "cost_usd": null
+ }
+}

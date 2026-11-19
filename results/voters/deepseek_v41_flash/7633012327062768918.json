@@ -1,0 +1,19 @@
+{
+ "id": "7633012327062768918",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "debate",
+  "claim_answered": "none",
+  "reason": "Channel update: thanks viewers, notes Brenna declined his bet and may sue; no claim about the sexes answered.",
+  "evidence_seconds": 20
+ },
+ "usage": {
+  "prompt_tokens": 3900,
+  "completion_tokens": 341,
+  "cost_usd": null
+ }
+}

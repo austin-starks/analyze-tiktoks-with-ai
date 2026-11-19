@@ -1,0 +1,19 @@
+{
+ "id": "7704328708034661664",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "debate",
+  "claim_answered": "none",
+  "reason": "Mainly about his own TikTok disqualification, appeal, and restrictions; a creator is mentioned, but this is account news, not a reply to their arguments.",
+  "evidence_seconds": 27
+ },
+ "usage": {
+  "prompt_tokens": 6192,
+  "completion_tokens": 204,
+  "cost_usd": null
+ }
+}

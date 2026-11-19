@@ -1,0 +1,19 @@
+{
+ "id": "7562084349441510678",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "misc",
+  "claim_answered": "none",
+  "evidence_seconds": 0,
+  "reason": "Dating advice about women keeping backup plans in DMs; answers no group claim"
+ },
+ "usage": {
+  "prompt_tokens": 3038,
+  "completion_tokens": 5269,
+  "cost_usd": null
+ }
+}

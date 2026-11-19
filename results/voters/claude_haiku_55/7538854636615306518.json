@@ -1,0 +1,19 @@
+{
+ "id": "7538854636615306518",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "none",
+  "reason": "General dating advice to simplify dating and let go of hard connections; answers no claim that runs down either sex.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 4804,
+  "completion_tokens": 185,
+  "cost_usd": null
+ }
+}

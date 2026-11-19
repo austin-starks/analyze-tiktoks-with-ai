@@ -1,0 +1,19 @@
+{
+ "id": "7575910606142819606",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "alternate_category": "none",
+  "reason": "Rebuts a claim running men down as having nothing to offer and being energy vampires",
+  "borderline": false,
+  "claim_answered": "Men have nothing to offer and women should avoid them entirely",
+  "evidence_seconds": 22,
+  "category": "men"
+ },
+ "usage": {
+  "prompt_tokens": 3688,
+  "completion_tokens": 512,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7654911306973334787",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "debate",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "A creator’s pushback that men’s lower custody rates are self-inflicted because they do not fight for custody and usually win when they do",
+  "reason": "He responds to a creator’s critique of his earlier video, which makes this debate.",
+  "evidence_seconds": 26
+ },
+ "usage": {
+  "prompt_tokens": 3918,
+  "completion_tokens": 180,
+  "cost_usd": null
+ }
+}

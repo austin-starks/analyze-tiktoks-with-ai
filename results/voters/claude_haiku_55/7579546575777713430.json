@@ -1,0 +1,19 @@
+{
+ "id": "7579546575777713430",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Women who admit promiscuous pasts then set a three-date rule are simply setting standards; serious men hesitate because of her past",
+  "reason": "Opens with a woman's clip; he rebuts her framing that men hesitate or should be blamed, defending women against the claim that men wrongly judge her",
+  "evidence_seconds": 39
+ },
+ "usage": {
+  "prompt_tokens": 5164,
+  "completion_tokens": 239,
+  "cost_usd": null
+ }
+}

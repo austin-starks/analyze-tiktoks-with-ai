@@ -1,0 +1,19 @@
+{
+ "id": "7567740237850381590",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "borderline": true,
+  "reason": "Gives dating and self-improvement advice to men; does not defend men against an unfair claim.",
+  "category": "misc",
+  "alternate_category": "men",
+  "evidence_seconds": 33,
+  "claim_answered": "Being a virgin in your 20s shows virtue and waiting for the right girl makes you happier"
+ },
+ "usage": {
+  "prompt_tokens": 3451,
+  "completion_tokens": 721,
+  "cost_usd": null
+ }
+}

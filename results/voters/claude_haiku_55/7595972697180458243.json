@@ -1,0 +1,19 @@
+{
+ "id": "7595972697180458243",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Men are lonely today because women no longer depend on men financially",
+  "reason": "Rebuts a claim blaming women's freedom for male loneliness, defending men's dating prospects; partly agrees, mostly reframes via tech and hypergamy.",
+  "evidence_seconds": 31
+ },
+ "usage": {
+  "prompt_tokens": 5732,
+  "completion_tokens": 225,
+  "cost_usd": null
+ }
+}

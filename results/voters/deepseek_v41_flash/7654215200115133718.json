@@ -1,0 +1,19 @@
+{
+ "id": "7654215200115133718",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Every problem that predominantly affects men is self-inflicted",
+  "reason": "Rebuts a claim that blames men for their own disadvantages, dismissing them as self-caused",
+  "evidence_seconds": 33
+ },
+ "usage": {
+  "prompt_tokens": 4183,
+  "completion_tokens": 326,
+  "cost_usd": null
+ }
+}

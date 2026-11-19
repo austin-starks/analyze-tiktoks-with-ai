@@ -1,0 +1,19 @@
+{
+ "id": "7664229677006966048",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Misandry is not a real thing in society; there are no systemic barriers against men",
+  "reason": "Pushes back on a claim denying men's disadvantage, using conscription as a counterexample",
+  "evidence_seconds": 45
+ },
+ "usage": {
+  "prompt_tokens": 4091,
+  "completion_tokens": 303,
+  "cost_usd": null
+ }
+}

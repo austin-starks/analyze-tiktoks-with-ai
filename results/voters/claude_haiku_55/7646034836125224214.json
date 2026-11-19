@@ -1,0 +1,19 @@
+{
+ "id": "7646034836125224214",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "Men over-sexualize dancing while women keep it modest, blaming men for it",
+  "reason": "Rebuts a claim blaming men for dancing's sexualization; argues women sexualize it more, defending men.",
+  "evidence_seconds": 23
+ },
+ "usage": {
+  "prompt_tokens": 4918,
+  "completion_tokens": 211,
+  "cost_usd": null
+ }
+}

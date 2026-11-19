@@ -1,0 +1,19 @@
+{
+ "id": "7672785598129638678",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "politics",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "CEOs are unnecessary without advertising, and capitalism exists only to enrich the rich",
+  "reason": "Rebuts socialist economic arguments about CEO roles and capitalism; political/economic, not about sexes",
+  "evidence_seconds": 47
+ },
+ "usage": {
+  "prompt_tokens": 4046,
+  "completion_tokens": 182,
+  "cost_usd": null
+ }
+}

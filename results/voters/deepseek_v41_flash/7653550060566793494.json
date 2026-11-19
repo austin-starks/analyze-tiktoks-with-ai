@@ -1,0 +1,19 @@
+{
+ "id": "7653550060566793494",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Personal storytime on his view of racism and ignorance; answers no claim about men or women",
+  "evidence_seconds": 77
+ },
+ "usage": {
+  "prompt_tokens": 4066,
+  "completion_tokens": 196,
+  "cost_usd": null
+ }
+}

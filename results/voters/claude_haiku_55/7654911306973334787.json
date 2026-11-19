@@ -1,0 +1,19 @@
+{
+ "id": "7654911306973334787",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "debate",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "Men get less custody because they do not fight for it, and when they fight they usually win",
+  "reason": "Reply to a creator who pushed back on his earlier video; he answers her arguments point by point.",
+  "evidence_seconds": 10
+ },
+ "usage": {
+  "prompt_tokens": 6089,
+  "completion_tokens": 205,
+  "cost_usd": null
+ }
+}

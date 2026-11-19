@@ -1,0 +1,19 @@
+{
+ "id": "7568768145624812822",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "reason": "Pushes back against claims painting men as naturally awful and doing bad things whenever they are happy.",
+  "evidence_seconds": 44,
+  "alternate_category": "none",
+  "claim_answered": "Men laughing together must have done something bad or harmful",
+  "category": "men",
+  "borderline": false
+ },
+ "usage": {
+  "prompt_tokens": 3608,
+  "completion_tokens": 247,
+  "cost_usd": null
+ }
+}

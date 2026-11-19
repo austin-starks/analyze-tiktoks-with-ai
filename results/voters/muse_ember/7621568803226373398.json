@@ -1,0 +1,19 @@
+{
+ "id": "7621568803226373398",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "misc",
+  "claim_answered": "none",
+  "evidence_seconds": 0,
+  "reason": "He reacts to call-out clip, questioning motives and appearance bullying, answering no group claim about men or women."
+ },
+ "usage": {
+  "prompt_tokens": 3533,
+  "completion_tokens": 4496,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7664543032812834070",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men are alien savages who arrived and ruined a peaceful all-female human world",
+  "reason": "Pushes back on a theory that runs men down as primitive invaders while glorifying women",
+  "evidence_seconds": 63
+ },
+ "usage": {
+  "prompt_tokens": 4009,
+  "completion_tokens": 260,
+  "cost_usd": null
+ }
+}

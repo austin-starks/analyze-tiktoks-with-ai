@@ -1,0 +1,19 @@
+{
+ "id": "7554342730105670934",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "A man who cooks, cleans, works and communicates is an \"extraordinary\" top-tier man",
+  "reason": "Rejects a claim implying men are so deficient that basic adult skills make them extraordinary; his flip against women is a supporting counter-argument.",
+  "evidence_seconds": 46
+ },
+ "usage": {
+  "prompt_tokens": 3392,
+  "completion_tokens": 604,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7557303830577302806",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "Life peaks early; for most men turning 30 is when life gets good",
+  "reason": "Self-improvement motivation about turning 30; no claim that runs men down or defends them against one, mainly encouragement.",
+  "evidence_seconds": 20
+ },
+ "usage": {
+  "prompt_tokens": 5095,
+  "completion_tokens": 210,
+  "cost_usd": null
+ }
+}

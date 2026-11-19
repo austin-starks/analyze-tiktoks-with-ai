@@ -1,0 +1,19 @@
+{
+ "id": "7705134218665266464",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "women",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Women are about five times more likely than men to show in-group bias, explaining votes for Hillary Clinton",
+  "reason": "Challenges a negative claim portraying women as unusually biased voters.",
+  "evidence_seconds": 209
+ },
+ "usage": {
+  "prompt_tokens": 3973,
+  "completion_tokens": 318,
+  "cost_usd": null
+ }
+}

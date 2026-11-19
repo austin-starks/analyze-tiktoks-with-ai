@@ -1,0 +1,19 @@
+{
+ "id": "7664992795513343254",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "politics",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Mamdani’s rent freeze helps stabilized tenants but does not solve NYC’s housing shortage",
+  "reason": "Explains an economic and housing policy, not a claim about men or women.",
+  "evidence_seconds": 188
+ },
+ "usage": {
+  "prompt_tokens": 3960,
+  "completion_tokens": 142,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7572656853042072854",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Dating apps are easy for women and average men are doing something wrong when they struggle",
+  "reason": "Pushes back on a claim that downplays men's dating-app disadvantage and blames struggling men.",
+  "evidence_seconds": 24
+ },
+ "usage": {
+  "prompt_tokens": 3519,
+  "completion_tokens": 75,
+  "cost_usd": null
+ }
+}

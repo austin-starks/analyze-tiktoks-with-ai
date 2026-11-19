@@ -1,0 +1,19 @@
+{
+ "id": "7619740283458161942",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "misc",
+  "claim_answered": "none",
+  "evidence_seconds": 0,
+  "reason": "Viewer DM relationship advice about not returning to an ex; answers no claim about men or women as a group"
+ },
+ "usage": {
+  "prompt_tokens": 3802,
+  "completion_tokens": 1830,
+  "cost_usd": null
+ }
+}

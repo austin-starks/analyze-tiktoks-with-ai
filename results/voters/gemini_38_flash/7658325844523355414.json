@@ -1,0 +1,19 @@
+{
+ "id": "7658325844523355414",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "claim_answered": "Rent freezes are effective and do not cause the negative effects of rent control",
+  "borderline": false,
+  "category": "politics",
+  "alternate_category": "none",
+  "reason": "Analyzes empirical economic research on rent freezes and public housing policy.",
+  "evidence_seconds": 84
+ },
+ "usage": {
+  "prompt_tokens": 3959,
+  "completion_tokens": 963,
+  "cost_usd": null
+ }
+}

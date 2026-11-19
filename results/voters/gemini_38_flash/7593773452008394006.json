@@ -1,0 +1,19 @@
+{
+ "id": "7593773452008394006",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "evidence_seconds": 4,
+  "alternate_category": "none",
+  "reason": "Viewer DM relationship advice answering whether to stay with a partner after emotional cheating.",
+  "category": "misc",
+  "claim_answered": "none",
+  "borderline": false
+ },
+ "usage": {
+  "prompt_tokens": 4308,
+  "completion_tokens": 331,
+  "cost_usd": null
+ }
+}

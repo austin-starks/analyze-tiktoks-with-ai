@@ -1,0 +1,19 @@
+{
+ "id": "7684348410228378902",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men are being pushed out of the workforce; the matriarchy has arrived because 98% of new jobs went to women.",
+  "reason": "Counters sensational claims that overstate women's gains and imply men are shut out of the labor market.",
+  "evidence_seconds": 11
+ },
+ "usage": {
+  "prompt_tokens": 4329,
+  "completion_tokens": 84,
+  "cost_usd": null
+ }
+}

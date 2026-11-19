@@ -1,0 +1,19 @@
+{
+ "id": "7539809875723963670",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "men",
+  "claim_answered": "none",
+  "reason": "General dating advice on perfectionism; answers no claim that runs down or defends either sex.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 4864,
+  "completion_tokens": 180,
+  "cost_usd": null
+ }
+}

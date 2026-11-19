@@ -1,0 +1,19 @@
+{
+ "id": "7675326094161054998",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "claim_answered": "Men should automatically be financially responsible for an unwanted child",
+  "category": "men",
+  "reason": "Argues men should have legal ability to opt out of parenthood when women have sole reproductive choice.",
+  "evidence_seconds": 52,
+  "borderline": true,
+  "alternate_category": "mixed"
+ },
+ "usage": {
+  "prompt_tokens": 3820,
+  "completion_tokens": 1232,
+  "cost_usd": null
+ }
+}

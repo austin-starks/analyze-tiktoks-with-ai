@@ -1,0 +1,19 @@
+{
+ "id": "7670080143708278038",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "men",
+  "claim_answered": "Married women live less, earn less, and are less happy than single women",
+  "evidence_seconds": 0,
+  "reason": "Pushes back on claim blaming men for married women's worse outcomes, calling it anti-male rhetoric"
+ },
+ "usage": {
+  "prompt_tokens": 3570,
+  "completion_tokens": 2215,
+  "cost_usd": null
+ }
+}

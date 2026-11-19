@@ -1,0 +1,19 @@
+{
+ "id": "7701000710791499041",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "news",
+  "borderline": true,
+  "alternate_category": "politics",
+  "claim_answered": "The riots were an Islamist uprising or simply innocent schoolchildren protesting",
+  "reason": "Explains an ongoing riot and assesses claims about who drove it; political and religious framing makes politics a plausible alternative",
+  "evidence_seconds": 651
+ },
+ "usage": {
+  "prompt_tokens": 6580,
+  "completion_tokens": 651,
+  "cost_usd": null
+ }
+}

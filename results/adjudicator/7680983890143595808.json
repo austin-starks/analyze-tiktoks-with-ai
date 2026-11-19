@@ -1,0 +1,18 @@
+{
+ "id": "7680983890143595808",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "alternate_category": "misc",
+  "evidence_seconds": 137,
+  "borderline": true,
+  "category": "politics",
+  "reason": "No claim about men or women; Rule 3 puts commentary on left-right political identity, voter demographics, and political influencers in politics.",
+  "claim_answered": "none"
+ },
+ "usage": {
+  "prompt_tokens": 3551,
+  "completion_tokens": 2409,
+  "cost_usd": null
+ }
+}

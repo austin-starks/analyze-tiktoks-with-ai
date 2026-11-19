@@ -1,0 +1,19 @@
+{
+ "id": "7532075640334322966",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "claim_answered": "none",
+  "borderline": false,
+  "reason": "General dating advice tips for men; does not answer an empirical claim about a group.",
+  "alternate_category": "none",
+  "evidence_seconds": 3,
+  "category": "misc"
+ },
+ "usage": {
+  "prompt_tokens": 3184,
+  "completion_tokens": 297,
+  "cost_usd": null
+ }
+}

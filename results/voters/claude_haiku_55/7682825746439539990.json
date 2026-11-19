@@ -1,0 +1,19 @@
+{
+ "id": "7682825746439539990",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "mixed",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Mothers or fathers commit more child homicide; explaining why gender ratios differ across filicide types",
+  "reason": "Explores filicide research by sex without blaming either sex; the claim concerns both mothers and fathers, not one sex run down.",
+  "evidence_seconds": 6
+ },
+ "usage": {
+  "prompt_tokens": 5729,
+  "completion_tokens": 225,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7660833454120045856",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Straight white men are the group that has caused the most harm and deserve mockery",
+  "reason": "Pushes back on a claim assigning collective guilt to men as a sex, defending them against blame.",
+  "evidence_seconds": 14
+ },
+ "usage": {
+  "prompt_tokens": 3905,
+  "completion_tokens": 347,
+  "cost_usd": null
+ }
+}

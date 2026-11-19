@@ -1,0 +1,19 @@
+{
+ "id": "7586289526906162454",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "mixed",
+  "claim_answered": "A woman's money is hers, but a man's money is shared (\"my money is my money, your money is our money\")",
+  "reason": "Pushes back on a claim favoring women at men's expense, defending men against financial entitlement.",
+  "evidence_seconds": 66
+ },
+ "usage": {
+  "prompt_tokens": 3632,
+  "completion_tokens": 361,
+  "cost_usd": null
+ }
+}

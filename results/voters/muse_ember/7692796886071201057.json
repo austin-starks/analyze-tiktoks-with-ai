@@ -1,0 +1,19 @@
+{
+ "id": "7692796886071201057",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "debate",
+  "claim_answered": "Jiyu's critique that his double-standard video used flawed logic",
+  "evidence_seconds": 21,
+  "reason": "Reply to a creator who responded to his earlier video"
+ },
+ "usage": {
+  "prompt_tokens": 4323,
+  "completion_tokens": 1354,
+  "cost_usd": null
+ }
+}

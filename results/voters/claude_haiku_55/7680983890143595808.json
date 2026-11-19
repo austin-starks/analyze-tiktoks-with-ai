@@ -1,0 +1,19 @@
+{
+ "id": "7680983890143595808",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "politics",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Savanna Cannon's sexualized conservative political content is a marketing strategy; political identity is becoming an influencer niche",
+  "reason": "Commentary on a political OnlyFans creator's conservative politics and marketing; no claim about men or women is answered.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 5746,
+  "completion_tokens": 229,
+  "cost_usd": null
+ }
+}

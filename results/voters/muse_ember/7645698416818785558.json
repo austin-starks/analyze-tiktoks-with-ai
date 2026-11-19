@@ -1,0 +1,19 @@
+{
+ "id": "7645698416818785558",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "men",
+  "claim_answered": "More than nine in ten men admitted to not accepting no as an answer",
+  "evidence_seconds": 25,
+  "reason": "Pushes back on claim that over 90% of men don't accept no, showing statistic counts any of 36 strategies"
+ },
+ "usage": {
+  "prompt_tokens": 4777,
+  "completion_tokens": 4895,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7639732222035004694",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "men",
+  "borderline": true,
+  "category": "debate",
+  "claim_answered": "Professor Neil's claims that 1 in 7 men rape women",
+  "evidence_seconds": 23,
+  "reason": "Professor Neil reacted to his video; Ilyas replies to his claims about men"
+ },
+ "usage": {
+  "prompt_tokens": 3512,
+  "completion_tokens": 4086,
+  "cost_usd": null
+ }
+}

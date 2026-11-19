@@ -1,0 +1,19 @@
+{
+ "id": "7659048227206909216",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "debate",
+  "borderline": false,
+  "alternate_category": "politics",
+  "claim_answered": "Simple Black Theory's critique that the Berlin rent freeze study is theoretical, small-sample, and pandemic-skewed",
+  "reason": "Replies to a creator who came back to criticize his earlier rent freeze video; not about men or women.",
+  "evidence_seconds": 1
+ },
+ "usage": {
+  "prompt_tokens": 6597,
+  "completion_tokens": 226,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7614877985610534166",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "evidence_seconds": 150,
+  "claim_answered": "Men are the original pick-me's and women shouldn't compete for men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "category": "men",
+  "reason": "Pushes back on a claim degrading men as natural 'pick-me's' and disposable drones."
+ },
+ "usage": {
+  "prompt_tokens": 3836,
+  "completion_tokens": 939,
+  "cost_usd": null
+ }
+}

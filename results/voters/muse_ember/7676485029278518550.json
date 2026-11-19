@@ -1,0 +1,19 @@
+{
+ "id": "7676485029278518550",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "politics",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "Charlie Kirk said boys shouldn't take orders from women teachers",
+  "evidence_seconds": 92,
+  "reason": "Pushes back on mother's claim that Charlie Kirk said boys shouldn't take orders from women, defending his male-role-model point"
+ },
+ "usage": {
+  "prompt_tokens": 3987,
+  "completion_tokens": 5993,
+  "cost_usd": null
+ }
+}

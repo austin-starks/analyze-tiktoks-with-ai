@@ -1,0 +1,19 @@
+{
+ "id": "7562866438080335126",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "women",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "None",
+  "reason": "Dating advice reacting to a woman's treatment of one man; it does not answer a general claim about women.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 3281,
+  "completion_tokens": 62,
+  "cost_usd": null
+ }
+}

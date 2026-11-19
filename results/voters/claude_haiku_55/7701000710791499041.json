@@ -1,0 +1,19 @@
+{
+ "id": "7701000710791499041",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "news",
+  "borderline": true,
+  "alternate_category": "politics",
+  "claim_answered": "none",
+  "reason": "Ongoing coverage of France's riots: who was arrested, Islamist and radical-left involvement, misleading footage. No claim about men or women.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 10209,
+  "completion_tokens": 199,
+  "cost_usd": null
+ }
+}

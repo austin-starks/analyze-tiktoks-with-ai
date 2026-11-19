@@ -1,0 +1,18 @@
+{
+ "id": "7565797638583454998",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "reason": "Rule 2: pushes back on a claim favoring women at men's expense that reduces men's value to money.",
+  "alternate_category": "misc",
+  "borderline": true,
+  "evidence_seconds": 26,
+  "claim_answered": "A man doesn't have to buy me luxury gifts or princess treatment, but I'll choose one who does.",
+  "category": "men"
+ },
+ "usage": {
+  "prompt_tokens": 3009,
+  "completion_tokens": 2681,
+  "cost_usd": null
+ }
+}

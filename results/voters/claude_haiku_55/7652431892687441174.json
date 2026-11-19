@@ -1,0 +1,19 @@
+{
+ "id": "7652431892687441174",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "debate",
+  "borderline": false,
+  "alternate_category": "misc",
+  "claim_answered": "The creator who filed a copyright claim against his fact-check video, which he says erased it",
+  "reason": "Reply to a creator who responded to his earlier fact-check, but mainly about his own removed video and strike, which pushes it toward misc.",
+  "evidence_seconds": 36
+ },
+ "usage": {
+  "prompt_tokens": 5702,
+  "completion_tokens": 222,
+  "cost_usd": null
+ }
+}

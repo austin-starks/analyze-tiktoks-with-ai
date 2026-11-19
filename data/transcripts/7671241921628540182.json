@@ -1,0 +1,491 @@
+{
+ "text": "You guys know when you hear a statistic that there's like no way it could possibly be true? That's how I felt when I first saw this statistic. You expect me to believe that almost 20,000 white women were graped by black men whereas zero black women were graped by white men? I pulled up the source and it leads you to this 2005 Bureau of Justice report, which by the way, they've since ceased reporting interracial grape. I wonder why. So anyways, if you go to table 42 of the report, you'll see that 16.4% of the 117,000 grapes of white women were committed by black men. And you can also see that out of the 46,000 grapes of black women, zero of them were committed by white men. So feminists, is it really men that are the problem? Or is it a certain type of men? Damn. So many influencers really need to learn how to properly read and understand the data they present. So this guy claims that government data shows almost 20,000 white women were RAPE'd by black men while exactly zero black women were RAPE'd by white men. And he finishes by asking feminists whether men are really the problem or whether it is a certain type of men. And as proof, he shows this table from the National Crime Victimization Survey. First of all, the data is from 2008, not 2005 like he claims in the video. It literally says 2008 at the top of the table that he himself puts on the screen. Now, some of you may ask why I am being so picky about a small mistake like that. Because the devil is in the details. Yes, everyone can make mistakes or overlook something, including me. But when you are talking about a topic this sensitive, you need to be extra careful with how you present your information. And when someone doesn't even correctly identify the year of the data they're using, it does make me question how carefully the rest of the research was done. Second, this table doesn't actually say white women RAPE'd by black men. It actually combines RAPE and SA. The victims are not separated by sex, and it is specifically about single offender victimizations. But most importantly, look at this little asterisk. He even highlights it in red, but never mentions it. My guess is that he didn't even understand what it means. At the bottom it says, estimate is based on 10 of your sample cases. So what does that mean? In 2008, the NCVS interviewed 77,852 people aged 12 or older. But once you narrow that huge survey down to black victims of RAPE or SA involving just one offender, regardless of that offender's race, there were only 10 or fewer sample victimization cases behind that entire row. 10 or fewer. And within that tiny sample, the estimate for white offenders came out at 0.0%. That does not mean the government documented every RAPE case in America and discovered that literally zero black women were attacked by white men. It means that in this extremely small survey cell, the estimate came out at zero. Each sample victimization can represent thousands of estimated victimizations nationally because the NCVS uses statistical weighting. That is completely normal for a national survey. But when your subgroup contains 10 or fewer sampled records, your estimate can be extremely unstable. That is exactly why the Bureau of Justice Statistics puts the damn asterisk there. Then the guy says that BJS later stopped publishing this particular interracial breakdown and adds, I wonder why. And while saying that, he literally puts text above his own head explaining that this kind of tables were reduced or discontinued in part because of the instability of small cell estimates. Man, do you even read the things you put on your own screen? I feel like I have a deja vu over here. But here's where this gets even more interesting. BJS may no longer publish this exact annual table, but the data didn't magically disappear. The current NCVS API still provides victimization records containing variables such as the victim's race, crime type, and perceived offender race. For those of you who are not that good with programming, think of it this way. NCVS still has the data, but instead of giving you a nice table where you can simply click on the categories you want, you can access it through an API. An API is basically like a counter where you can ask, give me all records that meet these conditions. And one way to do that is with a bit of Python. So if you use the NCVS API and search for RAPE slash SA, victim, non-Hispanic black, offender, non-Hispanic white, years 2019 to 2023, you get only 19 sample victimization records across those five years. 1 in 2019, 3 in 2020, 5 in 2021, 8 in 2022, and 2 in 2023. After applying the NCVS survey weights, you get approximately 6.8% in 2019, or about 1,851 estimated victimizations involving black victims and white offenders. 11% in 2020, about 4,106. 32.2% in 2021, about 21,286. 48.7% in 2022, about 25,826. 5.7% in 2023, about 4,320. Now, this isn't a perfect apples-to-apples replication of the 2008 table, because some of the modern categories and methodology are different. But that's probably as close as you can get. And look at the volatility. You go from 0% of black victim RAPE SA victimizations involving white offenders in that 2008 table, to 6.8% in 2019, to 11%, then 32.2%, then almost 50% in 2022, and then straight back down to 5.7% the following year. Do you really think the actual interracial victimization pattern in the entire US suddenly changed by that magnitude from one year to another? This is exactly what people mean when they say that when your sample is this small, the estimates can be extremely unstable. And this is exactly why that little asterisk matters. So guys, once again, educate yourself. Learn statistics. Learn how to properly read and understand the data before you use it to make some sensational or controversial claim about an entire group of people.",
+ "duration": 298.04998779296875,
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 3.2799999713897705,
+   "text": " You guys know when you hear a statistic that there's like no way it could possibly be true?"
+  },
+  {
+   "start": 3.2799999713897705,
+   "end": 5.440000057220459,
+   "text": " That's how I felt when I first saw this statistic."
+  },
+  {
+   "start": 5.440000057220459,
+   "end": 9.600000381469727,
+   "text": " You expect me to believe that almost 20,000 white women were graped by black men"
+  },
+  {
+   "start": 9.600000381469727,
+   "end": 12.15999984741211,
+   "text": " whereas zero black women were graped by white men?"
+  },
+  {
+   "start": 12.15999984741211,
+   "end": 15.359999656677246,
+   "text": " I pulled up the source and it leads you to this 2005 Bureau of Justice report,"
+  },
+  {
+   "start": 15.359999656677246,
+   "end": 18.799999237060547,
+   "text": " which by the way, they've since ceased reporting interracial grape."
+  },
+  {
+   "start": 18.799999237060547,
+   "end": 19.520000457763672,
+   "text": " I wonder why."
+  },
+  {
+   "start": 19.520000457763672,
+   "end": 21.68000030517578,
+   "text": " So anyways, if you go to table 42 of the report,"
+  },
+  {
+   "start": 21.68000030517578,
+   "end": 26.719999313354492,
+   "text": " you'll see that 16.4% of the 117,000 grapes of white women were committed by black men."
+  },
+  {
+   "start": 26.719999313354492,
+   "end": 30.399999618530273,
+   "text": " And you can also see that out of the 46,000 grapes of black women,"
+  },
+  {
+   "start": 30.399999618530273,
+   "end": 32.2400016784668,
+   "text": " zero of them were committed by white men."
+  },
+  {
+   "start": 32.2400016784668,
+   "end": 35.20000076293945,
+   "text": " So feminists, is it really men that are the problem?"
+  },
+  {
+   "start": 35.20000076293945,
+   "end": 36.959999084472656,
+   "text": " Or is it a certain type of men?"
+  },
+  {
+   "start": 36.959999084472656,
+   "end": 37.36000061035156,
+   "text": " Damn."
+  },
+  {
+   "start": 37.36000061035156,
+   "end": 41.84000015258789,
+   "text": " So many influencers really need to learn how to properly read and understand the data they present."
+  },
+  {
+   "start": 41.84000015258789,
+   "end": 46.720001220703125,
+   "text": " So this guy claims that government data shows almost 20,000 white women were RAPE'd by black"
+  },
+  {
+   "start": 46.720001220703125,
+   "end": 50.0,
+   "text": " men while exactly zero black women were RAPE'd by white men."
+  },
+  {
+   "start": 50.0,
+   "end": 53.119998931884766,
+   "text": " And he finishes by asking feminists whether men are really the problem"
+  },
+  {
+   "start": 53.119998931884766,
+   "end": 55.040000915527344,
+   "text": " or whether it is a certain type of men."
+  },
+  {
+   "start": 55.040000915527344,
+   "end": 58.15999984741211,
+   "text": " And as proof, he shows this table from the National Crime Victimization Survey."
+  },
+  {
+   "start": 58.15999984741211,
+   "end": 62.31999969482422,
+   "text": " First of all, the data is from 2008, not 2005 like he claims in the video."
+  },
+  {
+   "start": 62.31999969482422,
+   "end": 66.23999786376953,
+   "text": " It literally says 2008 at the top of the table that he himself puts on the screen."
+  },
+  {
+   "start": 66.23999786376953,
+   "end": 69.76000213623047,
+   "text": " Now, some of you may ask why I am being so picky about a small mistake like that."
+  },
+  {
+   "start": 69.76000213623047,
+   "end": 71.27999877929688,
+   "text": " Because the devil is in the details."
+  },
+  {
+   "start": 71.27999877929688,
+   "end": 74.31999969482422,
+   "text": " Yes, everyone can make mistakes or overlook something, including me."
+  },
+  {
+   "start": 74.31999969482422,
+   "end": 76.4800033569336,
+   "text": " But when you are talking about a topic this sensitive,"
+  },
+  {
+   "start": 76.4800033569336,
+   "end": 79.36000061035156,
+   "text": " you need to be extra careful with how you present your information."
+  },
+  {
+   "start": 79.36000061035156,
+   "end": 82.95999908447266,
+   "text": " And when someone doesn't even correctly identify the year of the data they're using,"
+  },
+  {
+   "start": 82.95999908447266,
+   "end": 86.0,
+   "text": " it does make me question how carefully the rest of the research was done."
+  },
+  {
+   "start": 86.0,
+   "end": 89.5999984741211,
+   "text": " Second, this table doesn't actually say white women RAPE'd by black men."
+  },
+  {
+   "start": 89.5999984741211,
+   "end": 91.83999633789062,
+   "text": " It actually combines RAPE and SA."
+  },
+  {
+   "start": 91.83999633789062,
+   "end": 96.08000183105469,
+   "text": " The victims are not separated by sex, and it is specifically about single offender victimizations."
+  },
+  {
+   "start": 96.08000183105469,
+   "end": 98.4000015258789,
+   "text": " But most importantly, look at this little asterisk."
+  },
+  {
+   "start": 98.4000015258789,
+   "end": 100.87999725341797,
+   "text": " He even highlights it in red, but never mentions it."
+  },
+  {
+   "start": 100.87999725341797,
+   "end": 103.12000274658203,
+   "text": " My guess is that he didn't even understand what it means."
+  },
+  {
+   "start": 103.12000274658203,
+   "end": 106.55999755859375,
+   "text": " At the bottom it says, estimate is based on 10 of your sample cases."
+  },
+  {
+   "start": 106.55999755859375,
+   "end": 107.76000213623047,
+   "text": " So what does that mean?"
+  },
+  {
+   "start": 107.76000213623047,
+   "end": 113.04000091552734,
+   "text": " In 2008, the NCVS interviewed 77,852 people aged 12 or older."
+  },
+  {
+   "start": 113.04000091552734,
+   "end": 116.95999908447266,
+   "text": " But once you narrow that huge survey down to black victims of RAPE or SA"
+  },
+  {
+   "start": 116.95999908447266,
+   "end": 119.91999816894531,
+   "text": " involving just one offender, regardless of that offender's race,"
+  },
+  {
+   "start": 119.91999816894531,
+   "end": 124.08000183105469,
+   "text": " there were only 10 or fewer sample victimization cases behind that entire row."
+  },
+  {
+   "start": 124.08000183105469,
+   "end": 124.87999725341797,
+   "text": " 10 or fewer."
+  },
+  {
+   "start": 124.87999725341797,
+   "end": 128.63999938964844,
+   "text": " And within that tiny sample, the estimate for white offenders came out at 0.0%."
+  },
+  {
+   "start": 129.1199951171875,
+   "end": 132.8000030517578,
+   "text": " That does not mean the government documented every RAPE case in America"
+  },
+  {
+   "start": 132.8000030517578,
+   "end": 136.0,
+   "text": " and discovered that literally zero black women were attacked by white men."
+  },
+  {
+   "start": 136.0,
+   "end": 139.9199981689453,
+   "text": " It means that in this extremely small survey cell, the estimate came out at zero."
+  },
+  {
+   "start": 139.9199981689453,
+   "end": 143.83999633789062,
+   "text": " Each sample victimization can represent thousands of estimated victimizations nationally"
+  },
+  {
+   "start": 143.83999633789062,
+   "end": 146.16000366210938,
+   "text": " because the NCVS uses statistical weighting."
+  },
+  {
+   "start": 146.16000366210938,
+   "end": 148.0,
+   "text": " That is completely normal for a national survey."
+  },
+  {
+   "start": 148.0,
+   "end": 150.8000030517578,
+   "text": " But when your subgroup contains 10 or fewer sampled records,"
+  },
+  {
+   "start": 150.8000030517578,
+   "end": 152.63999938964844,
+   "text": " your estimate can be extremely unstable."
+  },
+  {
+   "start": 152.63999938964844,
+   "end": 156.32000732421875,
+   "text": " That is exactly why the Bureau of Justice Statistics puts the damn asterisk there."
+  },
+  {
+   "start": 156.32000732421875,
+   "end": 160.47999572753906,
+   "text": " Then the guy says that BJS later stopped publishing this particular interracial breakdown"
+  },
+  {
+   "start": 160.47999572753906,
+   "end": 161.83999633789062,
+   "text": " and adds, I wonder why."
+  },
+  {
+   "start": 161.83999633789062,
+   "end": 164.8800048828125,
+   "text": " And while saying that, he literally puts text above his own head"
+  },
+  {
+   "start": 164.8800048828125,
+   "end": 168.24000549316406,
+   "text": " explaining that this kind of tables were reduced or discontinued"
+  },
+  {
+   "start": 168.24000549316406,
+   "end": 171.36000061035156,
+   "text": " in part because of the instability of small cell estimates."
+  },
+  {
+   "start": 171.36000061035156,
+   "end": 173.83999633789062,
+   "text": " Man, do you even read the things you put on your own screen?"
+  },
+  {
+   "start": 173.83999633789062,
+   "end": 175.36000061035156,
+   "text": " I feel like I have a deja vu over here."
+  },
+  {
+   "start": 175.36000061035156,
+   "end": 177.27999877929688,
+   "text": " But here's where this gets even more interesting."
+  },
+  {
+   "start": 177.27999877929688,
+   "end": 180.0,
+   "text": " BJS may no longer publish this exact annual table,"
+  },
+  {
+   "start": 180.0,
+   "end": 181.75999450683594,
+   "text": " but the data didn't magically disappear."
+  },
+  {
+   "start": 181.75999450683594,
+   "end": 186.72000122070312,
+   "text": " The current NCVS API still provides victimization records containing variables such as the victim's"
+  },
+  {
+   "start": 186.72000122070312,
+   "end": 188.8000030517578,
+   "text": " race, crime type, and perceived offender race."
+  },
+  {
+   "start": 188.8000030517578,
+   "end": 191.83999633789062,
+   "text": " For those of you who are not that good with programming, think of it this way."
+  },
+  {
+   "start": 191.9199981689453,
+   "end": 196.24000549316406,
+   "text": " NCVS still has the data, but instead of giving you a nice table where you can simply click on"
+  },
+  {
+   "start": 196.24000549316406,
+   "end": 199.0399932861328,
+   "text": " the categories you want, you can access it through an API."
+  },
+  {
+   "start": 199.0399932861328,
+   "end": 201.36000061035156,
+   "text": " An API is basically like a counter where you can ask,"
+  },
+  {
+   "start": 201.36000061035156,
+   "end": 203.1999969482422,
+   "text": " give me all records that meet these conditions."
+  },
+  {
+   "start": 203.1999969482422,
+   "end": 205.27999877929688,
+   "text": " And one way to do that is with a bit of Python."
+  },
+  {
+   "start": 205.27999877929688,
+   "end": 209.1999969482422,
+   "text": " So if you use the NCVS API and search for RAPE slash SA,"
+  },
+  {
+   "start": 209.1999969482422,
+   "end": 214.63999938964844,
+   "text": " victim, non-Hispanic black, offender, non-Hispanic white, years 2019 to 2023,"
+  },
+  {
+   "start": 214.63999938964844,
+   "end": 218.16000366210938,
+   "text": " you get only 19 sample victimization records across those five years."
+  },
+  {
+   "start": 218.16000366210938,
+   "end": 223.67999267578125,
+   "text": " 1 in 2019, 3 in 2020, 5 in 2021, 8 in 2022, and 2 in 2023."
+  },
+  {
+   "start": 223.67999267578125,
+   "end": 228.72000122070312,
+   "text": " After applying the NCVS survey weights, you get approximately 6.8% in 2019,"
+  },
+  {
+   "start": 228.72000122070312,
+   "end": 234.32000732421875,
+   "text": " or about 1,851 estimated victimizations involving black victims and white offenders."
+  },
+  {
+   "start": 234.32000732421875,
+   "end": 237.44000244140625,
+   "text": " 11% in 2020, about 4,106."
+  },
+  {
+   "start": 237.44000244140625,
+   "end": 241.36000061035156,
+   "text": " 32.2% in 2021, about 21,286."
+  },
+  {
+   "start": 241.36000061035156,
+   "end": 245.60000610351562,
+   "text": " 48.7% in 2022, about 25,826."
+  },
+  {
+   "start": 245.60000610351562,
+   "end": 249.1999969482422,
+   "text": " 5.7% in 2023, about 4,320."
+  },
+  {
+   "start": 249.1999969482422,
+   "end": 252.72000122070312,
+   "text": " Now, this isn't a perfect apples-to-apples replication of the 2008 table,"
+  },
+  {
+   "start": 252.72000122070312,
+   "end": 255.36000061035156,
+   "text": " because some of the modern categories and methodology are different."
+  },
+  {
+   "start": 255.36000061035156,
+   "end": 257.3599853515625,
+   "text": " But that's probably as close as you can get."
+  },
+  {
+   "start": 257.3599853515625,
+   "end": 258.7200012207031,
+   "text": " And look at the volatility."
+  },
+  {
+   "start": 258.7200012207031,
+   "end": 263.20001220703125,
+   "text": " You go from 0% of black victim RAPE SA victimizations involving white offenders"
+  },
+  {
+   "start": 263.20001220703125,
+   "end": 270.9599914550781,
+   "text": " in that 2008 table, to 6.8% in 2019, to 11%, then 32.2%, then almost 50% in 2022,"
+  },
+  {
+   "start": 270.9599914550781,
+   "end": 273.760009765625,
+   "text": " and then straight back down to 5.7% the following year."
+  },
+  {
+   "start": 273.760009765625,
+   "end": 277.1199951171875,
+   "text": " Do you really think the actual interracial victimization pattern in the entire US"
+  },
+  {
+   "start": 277.1199951171875,
+   "end": 279.8399963378906,
+   "text": " suddenly changed by that magnitude from one year to another?"
+  },
+  {
+   "start": 279.8399963378906,
+   "end": 283.6000061035156,
+   "text": " This is exactly what people mean when they say that when your sample is this small,"
+  },
+  {
+   "start": 283.6000061035156,
+   "end": 285.6000061035156,
+   "text": " the estimates can be extremely unstable."
+  },
+  {
+   "start": 285.6000061035156,
+   "end": 288.0799865722656,
+   "text": " And this is exactly why that little asterisk matters."
+  },
+  {
+   "start": 288.0799865722656,
+   "end": 290.32000732421875,
+   "text": " So guys, once again, educate yourself."
+  },
+  {
+   "start": 290.32000732421875,
+   "end": 291.20001220703125,
+   "text": " Learn statistics."
+  },
+  {
+   "start": 291.20001220703125,
+   "end": 293.6000061035156,
+   "text": " Learn how to properly read and understand the data"
+  },
+  {
+   "start": 293.6000061035156,
+   "end": 296.3999938964844,
+   "text": " before you use it to make some sensational or controversial claim"
+  },
+  {
+   "start": 296.3999938964844,
+   "end": 297.8399963378906,
+   "text": " about an entire group of people."
+  }
+ ]
+}

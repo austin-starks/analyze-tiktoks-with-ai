@@ -1,0 +1,19 @@
+{
+ "id": "7675002556380155158",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "politics",
+  "claim_answered": "none",
+  "alternate_category": "misc",
+  "borderline": true,
+  "evidence_seconds": 4,
+  "reason": "Explains his stance on abortion, a core political and legal policy issue, without defending either sex."
+ },
+ "usage": {
+  "prompt_tokens": 3888,
+  "completion_tokens": 793,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7632719596910415127",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "claim_answered": "Brenna's criticisms of his previous video",
+  "borderline": true,
+  "evidence_seconds": 11,
+  "alternate_category": "men",
+  "reason": "Direct reply to another creator who posted a video criticizing his earlier critique.",
+  "category": "debate"
+ },
+ "usage": {
+  "prompt_tokens": 4988,
+  "completion_tokens": 634,
+  "cost_usd": null
+ }
+}

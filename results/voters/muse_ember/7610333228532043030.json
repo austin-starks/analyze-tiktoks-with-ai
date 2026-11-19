@@ -1,0 +1,19 @@
+{
+ "id": "7610333228532043030",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "misc",
+  "claim_answered": "none",
+  "evidence_seconds": 0,
+  "reason": "Dating advice listing signs she may cheat; answers no claim about men or women"
+ },
+ "usage": {
+  "prompt_tokens": 3266,
+  "completion_tokens": 2106,
+  "cost_usd": null
+ }
+}

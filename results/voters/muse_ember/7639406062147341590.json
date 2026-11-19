@@ -1,0 +1,19 @@
+{
+ "id": "7639406062147341590",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "debate",
+  "claim_answered": "Nick's response videos to my all men reply dodged my points",
+  "evidence_seconds": 38,
+  "reason": "Reply to creator Nick who responded to his earlier all men video"
+ },
+ "usage": {
+  "prompt_tokens": 3856,
+  "completion_tokens": 1785,
+  "cost_usd": null
+ }
+}

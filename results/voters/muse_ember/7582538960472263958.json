@@ -1,0 +1,19 @@
+{
+ "id": "7582538960472263958",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "men",
+  "claim_answered": "Women have no voice, freedom or safety because of men",
+  "evidence_seconds": 119,
+  "reason": "Pushes back on claim inflating women's disadvantage by blaming men as predators and oppressors"
+ },
+ "usage": {
+  "prompt_tokens": 3343,
+  "completion_tokens": 4596,
+  "cost_usd": null
+ }
+}

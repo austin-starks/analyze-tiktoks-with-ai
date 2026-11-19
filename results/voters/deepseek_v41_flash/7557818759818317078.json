@@ -1,0 +1,19 @@
+{
+ "id": "7557818759818317078",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "No amount of money could make her date an ugly man",
+  "reason": "Pushes back on a claim running down unattractive men, arguing attraction is subjective and traits beyond looks matter",
+  "evidence_seconds": 51
+ },
+ "usage": {
+  "prompt_tokens": 3446,
+  "completion_tokens": 387,
+  "cost_usd": null
+ }
+}

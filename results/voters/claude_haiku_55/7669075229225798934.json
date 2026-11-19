@@ -1,0 +1,19 @@
+{
+ "id": "7669075229225798934",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "debate",
+  "borderline": false,
+  "alternate_category": "women",
+  "claim_answered": "The creator's claim that hypergamy is not real, and his later redefinition of it as only about marriage outcomes",
+  "reason": "Reply to a creator who criticized Ilyas's earlier video and insulted him directly, so it is debate.",
+  "evidence_seconds": 17
+ },
+ "usage": {
+  "prompt_tokens": 6268,
+  "completion_tokens": 221,
+  "cost_usd": null
+ }
+}

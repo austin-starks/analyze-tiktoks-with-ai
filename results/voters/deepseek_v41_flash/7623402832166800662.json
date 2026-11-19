@@ -1,0 +1,19 @@
+{
+ "id": "7623402832166800662",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Women are better drivers, men talk more, and women are better leaders.",
+  "reason": "Pushes back on pro-women claims that run men down; concludes the data is nuanced and neither sex is inherently better.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 3865,
+  "completion_tokens": 1744,
+  "cost_usd": null
+ }
+}

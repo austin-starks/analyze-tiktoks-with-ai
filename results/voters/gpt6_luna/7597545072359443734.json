@@ -1,0 +1,19 @@
+{
+ "id": "7597545072359443734",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Personal dating advice to a subscriber about ending a relationship and moving on; it answers no claim about a sex.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 3763,
+  "completion_tokens": 63,
+  "cost_usd": null
+ }
+}

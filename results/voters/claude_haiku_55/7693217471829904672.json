@@ -1,0 +1,19 @@
+{
+ "id": "7693217471829904672",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "mixed",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "Women see all logic as stupidity; women don't think, they just feel",
+  "reason": "Fact-checks the stereotype of logical men and emotional women; finds differences favoring each sex, so the claim is about both sexes without blaming either.",
+  "evidence_seconds": 26
+ },
+ "usage": {
+  "prompt_tokens": 6208,
+  "completion_tokens": 221,
+  "cost_usd": null
+ }
+}

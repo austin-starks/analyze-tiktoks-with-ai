@@ -1,0 +1,19 @@
+{
+ "id": "7608142563052211478",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Girlfriend's hurtful words and shutdowns are fixable through attachment-style work and mutual apologies",
+  "reason": "Relationship advice responding to a viewer DM about a couple's cycle; answers no claim about men or women as a group.",
+  "evidence_seconds": 98
+ },
+ "usage": {
+  "prompt_tokens": 6150,
+  "completion_tokens": 226,
+  "cost_usd": null
+ }
+}

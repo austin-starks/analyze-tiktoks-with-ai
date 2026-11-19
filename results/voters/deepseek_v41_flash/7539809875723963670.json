@@ -1,0 +1,19 @@
+{
+ "id": "7539809875723963670",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Dating advice on perfectionism and confidence; answers no claim about men or women.",
+  "evidence_seconds": 9
+ },
+ "usage": {
+  "prompt_tokens": 3333,
+  "completion_tokens": 155,
+  "cost_usd": null
+ }
+}

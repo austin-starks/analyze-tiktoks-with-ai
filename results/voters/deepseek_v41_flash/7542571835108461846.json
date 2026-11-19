@@ -1,0 +1,19 @@
+{
+ "id": "7542571835108461846",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Dating advice on the \"seduction funnel\"; answers no claim about a group of people.",
+  "evidence_seconds": 38
+ },
+ "usage": {
+  "prompt_tokens": 3528,
+  "completion_tokens": 158,
+  "cost_usd": null
+ }
+}

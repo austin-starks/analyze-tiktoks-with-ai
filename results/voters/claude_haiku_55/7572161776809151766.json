@@ -1,0 +1,19 @@
+{
+ "id": "7572161776809151766",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "Men who pay OnlyFans creators are the cause of women lacking loyalty and kindness",
+  "reason": "Rejects women's blame-shifting that men are to blame for \"good women\" disappearing; he says men helped build the dynamic, so this frames men as the culprits.",
+  "evidence_seconds": 57
+ },
+ "usage": {
+  "prompt_tokens": 5050,
+  "completion_tokens": 231,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7676916862407413014",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "news",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Multi-part coverage of the ongoing Lindsay Clancy murder trial; no claim about men or women is answered.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 6006,
+  "completion_tokens": 190,
+  "cost_usd": null
+ }
+}

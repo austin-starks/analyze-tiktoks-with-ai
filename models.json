@@ -1,0 +1,13 @@
+{
+  "_comment": "Model ids as OpenRouter names them. Point LLM_BASE_URL at any OpenAI-compatible endpoint and change these ids to match it.",
+  "voters": {
+    "gpt6_luna": "openai/gpt-6-luna",
+    "deepseek_v41_flash": "deepseek/deepseek-v4.1-flash",
+    "muse_ember": "meta/muse-ember",
+    "claude_haiku_55": "anthropic/claude-haiku-5.5",
+    "gemini_38_flash": "google/gemini-3.8-flash"
+  },
+  "adjudicator": "google/gemini-4-hydrogen",
+  "temperature": 0,
+  "agreement_needed": 4
+}

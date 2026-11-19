@@ -1,0 +1,18 @@
+{
+ "id": "7606340379302055190",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "evidence_seconds": 199,
+  "reason": "Under misc, this is general dating and red-flag advice evaluating individual traits, not a claim about women as a group.",
+  "category": "misc",
+  "claim_answered": "Men should immediately cut off women for habits like vaping, going out, or not cooking.",
+  "borderline": true,
+  "alternate_category": "women"
+ },
+ "usage": {
+  "prompt_tokens": 4112,
+  "completion_tokens": 2847,
+  "cost_usd": null
+ }
+}

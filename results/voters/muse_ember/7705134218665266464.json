@@ -1,0 +1,19 @@
+{
+ "id": "7705134218665266464",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "mixed",
+  "borderline": true,
+  "category": "women",
+  "claim_answered": "Women are five times more likely to exhibit in-group bias than men",
+  "evidence_seconds": 40,
+  "reason": "Pushes back on claim that women are more biased and voted for Clinton based on gender"
+ },
+ "usage": {
+  "prompt_tokens": 3975,
+  "completion_tokens": 4842,
+  "cost_usd": null
+ }
+}

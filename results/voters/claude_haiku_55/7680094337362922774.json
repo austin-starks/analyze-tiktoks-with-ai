@@ -1,0 +1,19 @@
+{
+ "id": "7680094337362922774",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "debate",
+  "borderline": false,
+  "alternate_category": "women",
+  "claim_answered": "The creator's claim that women are not hypergamous, with income hypergamy as the main test",
+  "reason": "Reply to Public Offender, a creator who responded to Ilyas's earlier video and is directly called out.",
+  "evidence_seconds": 25
+ },
+ "usage": {
+  "prompt_tokens": 6315,
+  "completion_tokens": 212,
+  "cost_usd": null
+ }
+}

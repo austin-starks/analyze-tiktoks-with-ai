@@ -1,0 +1,19 @@
+{
+ "id": "7623402832166800662",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "mixed",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "Men are worse drivers, talk more, and women are superior leaders",
+  "evidence_seconds": 4,
+  "reason": "Pushes back on pro-women claims that run men down across driving, talking, and leadership"
+ },
+ "usage": {
+  "prompt_tokens": 3515,
+  "completion_tokens": 4017,
+  "cost_usd": null
+ }
+}

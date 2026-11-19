@@ -1,0 +1,19 @@
+{
+ "id": "7654659460018867478",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Men are the \"secondary gender,\" auxiliary and disposable, while women are the base of the species",
+  "reason": "Answers a claim favoring women that runs men down as secondary and experimental; his \"neither is secondary\" verdict suggests mixed",
+  "evidence_seconds": 36
+ },
+ "usage": {
+  "prompt_tokens": 3947,
+  "completion_tokens": 359,
+  "cost_usd": null
+ }
+}

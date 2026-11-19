@@ -1,0 +1,19 @@
+{
+ "id": "7680094337362922774",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "debate",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Public Offender's response disputing evidence for women's hypergamy",
+  "reason": "He replies to a creator's response to his earlier argument.",
+  "evidence_seconds": 6
+ },
+ "usage": {
+  "prompt_tokens": 4103,
+  "completion_tokens": 152,
+  "cost_usd": null
+ }
+}

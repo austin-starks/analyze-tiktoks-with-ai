@@ -1,0 +1,19 @@
+{
+ "id": "7613782911589813526",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "misc",
+  "claim_answered": "none",
+  "evidence_seconds": 0,
+  "reason": "Viewer Q&A giving relationship advice about phone checking and trust; no claim about men or women as groups"
+ },
+ "usage": {
+  "prompt_tokens": 3593,
+  "completion_tokens": 1997,
+  "cost_usd": null
+ }
+}

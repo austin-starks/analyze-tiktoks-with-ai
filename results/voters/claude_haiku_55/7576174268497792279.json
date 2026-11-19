@@ -1,0 +1,19 @@
+{
+ "id": "7576174268497792279",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "A man should stay with a wife who cheats, insults him and refuses to contribute; he is still standing there negotiating",
+  "reason": "Opens with a clip of a woman's marital complaint, then argues the husband should leave and stop being a doormat; a male-focused defense and advice, though the clip itself is a couple dispute.",
+  "evidence_seconds": 56
+ },
+ "usage": {
+  "prompt_tokens": 5351,
+  "completion_tokens": 249,
+  "cost_usd": null
+ }
+}

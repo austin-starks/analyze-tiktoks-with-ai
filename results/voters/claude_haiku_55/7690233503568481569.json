@@ -1,0 +1,19 @@
+{
+ "id": "7690233503568481569",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "Women are way funnier than men, and every man is a version of the funniest woman he knows",
+  "reason": "Fact-checks a claim favoring women; finds men slightly funnier on tests, which is a claim favoring men, not a claim running men down.",
+  "evidence_seconds": 58
+ },
+ "usage": {
+  "prompt_tokens": 5664,
+  "completion_tokens": 221,
+  "cost_usd": null
+ }
+}

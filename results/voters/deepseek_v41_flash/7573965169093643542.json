@@ -1,0 +1,19 @@
+{
+ "id": "7573965169093643542",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Women should keep a roster of many men and keep options open while dating",
+  "reason": "Pushes back on a claim favoring women at men's expense, saying it burns good men",
+  "evidence_seconds": 63
+ },
+ "usage": {
+  "prompt_tokens": 3693,
+  "completion_tokens": 330,
+  "cost_usd": null
+ }
+}

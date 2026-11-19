@@ -1,0 +1,19 @@
+{
+ "id": "7570315294657252630",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "alternate_category": "men",
+  "evidence_seconds": 22,
+  "claim_answered": "none",
+  "reason": "General dating advice on handling catfishing on dating apps, using a clip as an example.",
+  "category": "misc",
+  "borderline": true
+ },
+ "usage": {
+  "prompt_tokens": 3381,
+  "completion_tokens": 788,
+  "cost_usd": null
+ }
+}

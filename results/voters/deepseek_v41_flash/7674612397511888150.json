@@ -1,0 +1,19 @@
+{
+ "id": "7674612397511888150",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "politics",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "A necklace and DNA's complexity prove God exists in two minutes",
+  "reason": "Answers a religious claim about God's existence, which the rules place under politics; no claim about men or women",
+  "evidence_seconds": 151
+ },
+ "usage": {
+  "prompt_tokens": 4206,
+  "completion_tokens": 324,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7578781510262656278",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Men are the problem; women who date women avoid men, and men have it easy in dating",
+  "reason": "Pushes back on a claim that runs men down and says women have it easy, defending men's dating experience against women's framing.",
+  "evidence_seconds": 46
+ },
+ "usage": {
+  "prompt_tokens": 5218,
+  "completion_tokens": 213,
+  "cost_usd": null
+ }
+}

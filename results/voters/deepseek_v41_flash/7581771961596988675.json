@@ -1,0 +1,19 @@
+{
+ "id": "7581771961596988675",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "A man wanting accountability from a woman is a red flag",
+  "reason": "Pushes back on a claim framing men who ask for mutual accountability as controlling or blaming",
+  "evidence_seconds": 5
+ },
+ "usage": {
+  "prompt_tokens": 3482,
+  "completion_tokens": 391,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7698372816525135136",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "debate",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Sex-selective abortion is not wrong; a woman's right to choose means you shouldn't object to aborting a boy",
+  "reason": "Replies to another creator's arguments against his view on a viral post; the creator's video directly answered his earlier stance, so debate applies.",
+  "evidence_seconds": 10
+ },
+ "usage": {
+  "prompt_tokens": 6669,
+  "completion_tokens": 233,
+  "cost_usd": null
+ }
+}

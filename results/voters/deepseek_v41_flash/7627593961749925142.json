@@ -1,0 +1,19 @@
+{
+ "id": "7627593961749925142",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Self-improvement advice to young men; answers no claim about men or women",
+  "evidence_seconds": 11
+ },
+ "usage": {
+  "prompt_tokens": 4162,
+  "completion_tokens": 158,
+  "cost_usd": null
+ }
+}

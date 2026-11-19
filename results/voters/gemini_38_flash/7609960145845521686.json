@@ -1,0 +1,19 @@
+{
+ "id": "7609960145845521686",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "claim_answered": "none",
+  "evidence_seconds": 8,
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "reason": "General dating advice for men on first dates; answers no claim about a group."
+ },
+ "usage": {
+  "prompt_tokens": 3593,
+  "completion_tokens": 364,
+  "cost_usd": null
+ }
+}

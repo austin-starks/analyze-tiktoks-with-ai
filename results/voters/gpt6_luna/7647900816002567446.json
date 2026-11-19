@@ -1,0 +1,19 @@
+{
+ "id": "7647900816002567446",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Viewer relationship Q&A and dating advice; it answers no claim about men or women.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 3701,
+  "completion_tokens": 231,
+  "cost_usd": null
+ }
+}

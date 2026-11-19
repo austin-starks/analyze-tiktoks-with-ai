@@ -1,0 +1,19 @@
+{
+ "id": "7703578512250211616",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "women",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men perceive women as speaking more than their share or as dominating when they do not.",
+  "reason": "Challenges a claim portraying men as biased against women; the claim is not a response to criticism of his work.",
+  "evidence_seconds": 267
+ },
+ "usage": {
+  "prompt_tokens": 4591,
+  "completion_tokens": 78,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7699417604787621153",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Most men are cowards who care more about predatory men's opinions than women's safety",
+  "reason": "Answers a claim that runs men down as cowards, arguing their restraint is safety assessment, not approval-seeking.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 6207,
+  "completion_tokens": 321,
+  "cost_usd": null
+ }
+}

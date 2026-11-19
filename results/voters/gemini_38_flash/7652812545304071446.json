@@ -1,0 +1,19 @@
+{
+ "id": "7652812545304071446",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "claim_answered": "Companies charge women more for identical products due to the pink tax",
+  "reason": "Rebuts a claim that inflates women's disadvantage and pushes back on blaming men for price differences",
+  "category": "men",
+  "evidence_seconds": 174,
+  "borderline": true,
+  "alternate_category": "mixed"
+ },
+ "usage": {
+  "prompt_tokens": 4178,
+  "completion_tokens": 952,
+  "cost_usd": null
+ }
+}

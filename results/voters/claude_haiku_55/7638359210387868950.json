@@ -1,0 +1,19 @@
+{
+ "id": "7638359210387868950",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "debate",
+  "claim_answered": "A viral video claims a violent phrase was Googled 163 million times in 2025",
+  "reason": "Tutorial on fact-checking viral search stats; the claim concerns search volume, not men or women, and he answers no gender claim.",
+  "evidence_seconds": 39
+ },
+ "usage": {
+  "prompt_tokens": 6387,
+  "completion_tokens": 219,
+  "cost_usd": null
+ }
+}

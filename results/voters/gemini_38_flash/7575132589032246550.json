@@ -1,0 +1,19 @@
+{
+ "id": "7575132589032246550",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "borderline": false,
+  "category": "men",
+  "reason": "Pushes back on a claim that runs men down as embarrassing and incompetent partners",
+  "evidence_seconds": 36,
+  "claim_answered": "Having a boyfriend is embarrassing because men are incompetent",
+  "alternate_category": "none"
+ },
+ "usage": {
+  "prompt_tokens": 3352,
+  "completion_tokens": 531,
+  "cost_usd": null
+ }
+}

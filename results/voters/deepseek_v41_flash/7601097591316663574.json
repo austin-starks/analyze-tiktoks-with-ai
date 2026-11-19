@@ -1,0 +1,19 @@
+{
+ "id": "7601097591316663574",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men's biological clock runs out at 30; men without kids by 30 have lost",
+  "reason": "Answers a claim by another man running men down as washed-up losers past 30",
+  "evidence_seconds": 44
+ },
+ "usage": {
+  "prompt_tokens": 3884,
+  "completion_tokens": 287,
+  "cost_usd": null
+ }
+}

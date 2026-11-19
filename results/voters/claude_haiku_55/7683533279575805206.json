@@ -1,0 +1,19 @@
+{
+ "id": "7683533279575805206",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "politics",
+  "borderline": false,
+  "alternate_category": "news",
+  "claim_answered": "none",
+  "reason": "Explains the Saxony-Anhalt election result, coalition math, and the Brandmauer; electoral and government politics, not a claim about men or women.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 6260,
+  "completion_tokens": 200,
+  "cost_usd": null
+ }
+}

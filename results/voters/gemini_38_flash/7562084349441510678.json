@@ -1,0 +1,19 @@
+{
+ "id": "7562084349441510678",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "alternate_category": "men",
+  "borderline": true,
+  "evidence_seconds": 28,
+  "claim_answered": "If you won't do it, another man will replace you",
+  "reason": "General dating and relationship advice advising men to walk away from partners who threaten replacement.",
+  "category": "misc"
+ },
+ "usage": {
+  "prompt_tokens": 3241,
+  "completion_tokens": 1910,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,18 @@
+{
+ "id": "7572161776809151766",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "claim_answered": "Women today expect too much while giving almost nothing back.",
+  "reason": "Rule 2: pushes back on blaming women for modern dating by noting men helped build that dynamic; borderline with misc dating advice.",
+  "borderline": true,
+  "category": "women",
+  "evidence_seconds": 75,
+  "alternate_category": "misc"
+ },
+ "usage": {
+  "prompt_tokens": 3035,
+  "completion_tokens": 4417,
+  "cost_usd": null
+ }
+}

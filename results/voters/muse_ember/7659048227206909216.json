@@ -1,0 +1,19 @@
+{
+ "id": "7659048227206909216",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "debate",
+  "claim_answered": "Berlin rent freeze study was theoretical, small-sample, and pandemic-skewed",
+  "evidence_seconds": 141,
+  "reason": "Reply to creator who responded to his earlier rent freeze video and critiqued his source"
+ },
+ "usage": {
+  "prompt_tokens": 4277,
+  "completion_tokens": 1892,
+  "cost_usd": null
+ }
+}

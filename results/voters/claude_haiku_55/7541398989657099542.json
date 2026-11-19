@@ -1,0 +1,19 @@
+{
+ "id": "7541398989657099542",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "men",
+  "claim_answered": "none",
+  "reason": "General dating and self-improvement advice for men; answers no claim that runs men or women down.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 4979,
+  "completion_tokens": 179,
+  "cost_usd": null
+ }
+}

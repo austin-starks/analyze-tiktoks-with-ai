@@ -1,0 +1,19 @@
+{
+ "id": "7609041344673139990",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Is it okay for him to want personal time at his girlfriend's parents' house?",
+  "reason": "Viewer DM relationship advice about gratitude and boundaries; answers no claim about men or women as groups.",
+  "evidence_seconds": 77
+ },
+ "usage": {
+  "prompt_tokens": 3943,
+  "completion_tokens": 181,
+  "cost_usd": null
+ }
+}

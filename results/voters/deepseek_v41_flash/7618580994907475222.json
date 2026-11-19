@@ -1,0 +1,19 @@
+{
+ "id": "7618580994907475222",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "mixed",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Why a woman with many partners is judged while a man is praised",
+  "reason": "Explains a double standard touching both sexes' reputations without defending either side or judging it right or wrong",
+  "evidence_seconds": 104
+ },
+ "usage": {
+  "prompt_tokens": 3965,
+  "completion_tokens": 536,
+  "cost_usd": null
+ }
+}

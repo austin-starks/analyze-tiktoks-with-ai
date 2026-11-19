@@ -1,0 +1,19 @@
+{
+ "id": "7557303830577302806",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "borderline": true,
+  "evidence_seconds": 20,
+  "claim_answered": "Men who do not have their life figured out by 30 end up broke and alone",
+  "category": "men",
+  "reason": "Pushes back on a video mocking men in their 30s, explaining men hit their stride later.",
+  "alternate_category": "misc"
+ },
+ "usage": {
+  "prompt_tokens": 3440,
+  "completion_tokens": 782,
+  "cost_usd": null
+ }
+}

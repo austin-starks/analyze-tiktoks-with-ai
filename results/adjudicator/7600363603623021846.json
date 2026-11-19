@@ -1,0 +1,18 @@
+{
+ "id": "7600363603623021846",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "reason": "Rule 3: General dating and relationship advice reacting to a toxic couple clip; answers no general claim about either sex.",
+  "alternate_category": "men",
+  "claim_answered": "none",
+  "evidence_seconds": 160
+ },
+ "usage": {
+  "prompt_tokens": 3122,
+  "completion_tokens": 2143,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7586982416992963862",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "A partner asking for a break means the relationship is failing; what should a man do next?",
+  "reason": "Relationship advice responding to a viewer story about a break; answers no claim that runs down or defends either sex.",
+  "evidence_seconds": 6
+ },
+ "usage": {
+  "prompt_tokens": 5647,
+  "completion_tokens": 209,
+  "cost_usd": null
+ }
+}

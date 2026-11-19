@@ -1,0 +1,19 @@
+{
+ "id": "7575910606142819606",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men have nothing to offer women; men are energy vampires women should avoid entirely",
+  "reason": "Rebuts a claim that runs men down as worthless energy vampires; defends men against a negative generalization.",
+  "evidence_seconds": 17
+ },
+ "usage": {
+  "prompt_tokens": 5452,
+  "completion_tokens": 210,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7616013397909343510",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Is it okay for a girlfriend to talk to another guy daily behind his back?",
+  "reason": "Viewer DM dating/boundaries advice; answers no claim about men or women as groups",
+  "evidence_seconds": 50
+ },
+ "usage": {
+  "prompt_tokens": 3445,
+  "completion_tokens": 226,
+  "cost_usd": null
+ }
+}

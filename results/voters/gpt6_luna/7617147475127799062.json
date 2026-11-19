@@ -1,0 +1,19 @@
+{
+ "id": "7617147475127799062",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "women",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Women go on dates mainly to get free meals",
+  "reason": "Rejects the generalization that women use men for meals, while saying foodie calls are uncommon motives.",
+  "evidence_seconds": 59
+ },
+ "usage": {
+  "prompt_tokens": 3582,
+  "completion_tokens": 192,
+  "cost_usd": null
+ }
+}

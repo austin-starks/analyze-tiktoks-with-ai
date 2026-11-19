@@ -1,0 +1,19 @@
+{
+ "id": "7606340379302055190",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "claim_answered": "Men should cut off women who vape, go out, or cannot cook",
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "misc",
+  "evidence_seconds": 34,
+  "reason": "Pushes back on a creator's list of unreasonable red flags that unfairly judges women."
+ },
+ "usage": {
+  "prompt_tokens": 4386,
+  "completion_tokens": 1951,
+  "cost_usd": null
+ }
+}

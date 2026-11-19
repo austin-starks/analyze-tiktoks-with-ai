@@ -1,0 +1,19 @@
+{
+ "id": "7589609548306992406",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Relationship advice answering a subscriber's question about male friends and boundaries in a long-distance relationship; no claim about a sex.",
+  "evidence_seconds": 146
+ },
+ "usage": {
+  "prompt_tokens": 4775,
+  "completion_tokens": 236,
+  "cost_usd": null
+ }
+}

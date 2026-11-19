@@ -1,0 +1,19 @@
+{
+ "id": "7591506454998289686",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "mixed",
+  "borderline": true,
+  "category": "women",
+  "claim_answered": "Girls who want to explore are red flags",
+  "evidence_seconds": 30,
+  "reason": "Pushes back on claim that women who explore are red flags, a double standard favoring men"
+ },
+ "usage": {
+  "prompt_tokens": 3828,
+  "completion_tokens": 6943,
+  "cost_usd": null
+ }
+}

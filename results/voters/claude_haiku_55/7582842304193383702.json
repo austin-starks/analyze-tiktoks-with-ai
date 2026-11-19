@@ -1,0 +1,19 @@
+{
+ "id": "7582842304193383702",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Women's \"boyfriend test\" questions are fair ways to check partnership, but they are really compliance traps that make men sacrifice their path and name",
+  "reason": "Rebuts a woman's test that frames men as needing to sacrifice career and identity; the claim runs men down, so men",
+  "evidence_seconds": 42
+ },
+ "usage": {
+  "prompt_tokens": 5160,
+  "completion_tokens": 235,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7638976870725324054",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "borderline": true,
+  "evidence_seconds": 40,
+  "reason": "Direct reply to another creator who responded to and criticized his previous video.",
+  "alternate_category": "men",
+  "claim_answered": "Nick's claim that Ilyas missed the point of 'all men' and described it himself",
+  "category": "debate"
+ },
+ "usage": {
+  "prompt_tokens": 4153,
+  "completion_tokens": 575,
+  "cost_usd": null
+ }
+}

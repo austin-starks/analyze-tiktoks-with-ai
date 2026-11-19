@@ -1,0 +1,18 @@
+{
+ "id": "7585540965696392470",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "category": "misc",
+  "claim_answered": "none",
+  "reason": "Rule 3 / misc: general relationship advice on boundaries and respect; he agrees with the opening clip rather than answering a claim.",
+  "borderline": true,
+  "alternate_category": "men",
+  "evidence_seconds": 15
+ },
+ "usage": {
+  "prompt_tokens": 3193,
+  "completion_tokens": 2390,
+  "cost_usd": null
+ }
+}

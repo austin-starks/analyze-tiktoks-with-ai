@@ -1,0 +1,19 @@
+{
+ "id": "7563979343958068483",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "none",
+  "reason": "General first-date advice about flowers; opens with a woman's dating story but answers no claim about men or women as a group.",
+  "evidence_seconds": 65
+ },
+ "usage": {
+  "prompt_tokens": 4869,
+  "completion_tokens": 187,
+  "cost_usd": null
+ }
+}

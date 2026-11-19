@@ -1,0 +1,18 @@
+{
+ "id": "7559479526653185302",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "evidence_seconds": 81,
+  "alternate_category": "men",
+  "reason": "Rule 3 (misc): no claim about men or women is answered; he notes dating hypocrisy then gives general dating and self-improvement advice.",
+  "borderline": true,
+  "claim_answered": "none",
+  "category": "misc"
+ },
+ "usage": {
+  "prompt_tokens": 3086,
+  "completion_tokens": 3996,
+  "cost_usd": null
+ }
+}

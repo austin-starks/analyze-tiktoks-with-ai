@@ -1,0 +1,19 @@
+{
+ "id": "7545029351335644438",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "evidence_seconds": 44,
+  "claim_answered": "none",
+  "category": "misc",
+  "alternate_category": "none",
+  "reason": "Relationship advice responding to a situation post; does not answer a generalized claim about men or women.",
+  "borderline": false
+ },
+ "usage": {
+  "prompt_tokens": 3538,
+  "completion_tokens": 856,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7571773477099752726",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men are boring, and any fun in a relationship comes from the woman alone",
+  "reason": "Pushes back on a claim that runs men down as boring and denies their contribution to relationships",
+  "evidence_seconds": 27
+ },
+ "usage": {
+  "prompt_tokens": 3355,
+  "completion_tokens": 289,
+  "cost_usd": null
+ }
+}

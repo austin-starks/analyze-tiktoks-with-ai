@@ -1,0 +1,19 @@
+{
+ "id": "7687593527030582560",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Female animals avoiding males show men are predators, so women need protection from men as a group",
+  "reason": "Rebuts a claim portraying men as predators and collective guilt for male violence; also defends men via collective credit. Mirror of a women-run-down claim absent.",
+  "evidence_seconds": 58
+ },
+ "usage": {
+  "prompt_tokens": 5710,
+  "completion_tokens": 229,
+  "cost_usd": null
+ }
+}

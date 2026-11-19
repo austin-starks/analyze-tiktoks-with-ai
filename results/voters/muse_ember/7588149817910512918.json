@@ -1,0 +1,19 @@
+{
+ "id": "7588149817910512918",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "misc",
+  "borderline": true,
+  "category": "mixed",
+  "claim_answered": "Relationships are hard work and love requires constant effort",
+  "evidence_seconds": 0,
+  "reason": "Pushes back on a couples claim that love requires constant effort, blaming neither sex"
+ },
+ "usage": {
+  "prompt_tokens": 3064,
+  "completion_tokens": 3686,
+  "cost_usd": null
+ }
+}

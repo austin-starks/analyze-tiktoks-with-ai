@@ -1,0 +1,19 @@
+{
+ "id": "7565797638583454998",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "A man doesn't have to buy me things, but I'll choose the one who does",
+  "reason": "Answers a claim that treats men as wallets, telling men to walk away; reviewer could read it as running women down as gold diggers",
+  "evidence_seconds": 26
+ },
+ "usage": {
+  "prompt_tokens": 3405,
+  "completion_tokens": 1477,
+  "cost_usd": null
+ }
+}

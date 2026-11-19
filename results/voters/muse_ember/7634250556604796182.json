@@ -1,0 +1,19 @@
+{
+ "id": "7634250556604796182",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "mixed",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "Immature men are to blame for women not having babies",
+  "evidence_seconds": 0,
+  "reason": "Pushes back on claim blaming immature men for falling birth rates"
+ },
+ "usage": {
+  "prompt_tokens": 3344,
+  "completion_tokens": 3038,
+  "cost_usd": null
+ }
+}

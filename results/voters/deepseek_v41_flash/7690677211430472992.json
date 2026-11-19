@@ -1,0 +1,19 @@
+{
+ "id": "7690677211430472992",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "politics",
+  "borderline": true,
+  "alternate_category": "news",
+  "claim_answered": "Noah's Ark has been 100% confirmed found at a formation in Turkey",
+  "reason": "Fact-checks a religious discovery claim (biblical Ark), which the rules place in politics even when viral news.",
+  "evidence_seconds": 27
+ },
+ "usage": {
+  "prompt_tokens": 4086,
+  "completion_tokens": 609,
+  "cost_usd": null
+ }
+}

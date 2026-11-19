@@ -1,0 +1,19 @@
+{
+ "id": "7685377332705529110",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "mixed",
+  "borderline": true,
+  "category": "women",
+  "claim_answered": "Hiring discrimination is against men, not women",
+  "evidence_seconds": 16,
+  "reason": "Pushes back on claim denying women's hiring disadvantage, while confirming men's in female-typed jobs"
+ },
+ "usage": {
+  "prompt_tokens": 3530,
+  "completion_tokens": 2842,
+  "cost_usd": null
+ }
+}

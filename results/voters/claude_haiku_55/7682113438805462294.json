@@ -1,0 +1,19 @@
+{
+ "id": "7682113438805462294",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "news",
+  "borderline": false,
+  "alternate_category": "misc",
+  "claim_answered": "none",
+  "reason": "Ilyas mainly reports the ongoing Lindsay Clancy mistrial and next steps; no claim about men or women is answered.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 5907,
+  "completion_tokens": 196,
+  "cost_usd": null
+ }
+}

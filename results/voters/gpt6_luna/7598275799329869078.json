@@ -1,0 +1,19 @@
+{
+ "id": "7598275799329869078",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "A man asking a married porn performer on a date was inappropriate and pressuring",
+  "reason": "Pushes back on her accusation that the man acted inappropriately, defending him from blame.",
+  "evidence_seconds": 81
+ },
+ "usage": {
+  "prompt_tokens": 3562,
+  "completion_tokens": 370,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7666031724060495126",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "news",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Ines Garcia dumped her five-year boyfriend Gonzalo after Lamine Yamal sent her a DM",
+  "reason": "Fact-checks a viral celebrity rumor and its spread; the claim is about one woman's relationship, not a claim about men or women generally.",
+  "evidence_seconds": 23
+ },
+ "usage": {
+  "prompt_tokens": 6270,
+  "completion_tokens": 236,
+  "cost_usd": null
+ }
+}

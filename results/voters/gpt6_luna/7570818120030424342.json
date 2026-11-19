@@ -1,0 +1,19 @@
+{
+ "id": "7570818120030424342",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Men must provide a yacht, $20,000 monthly, investment gifts, and other luxuries as the bare minimum.",
+  "reason": "Mocks expectations that place an excessive financial burden on men for women's benefit.",
+  "evidence_seconds": 21
+ },
+ "usage": {
+  "prompt_tokens": 3764,
+  "completion_tokens": 374,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7611180124645428503",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Viewer relationship advice about responding to infidelity; it answers no claim about men or women.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 3487,
+  "completion_tokens": 145,
+  "cost_usd": null
+ }
+}

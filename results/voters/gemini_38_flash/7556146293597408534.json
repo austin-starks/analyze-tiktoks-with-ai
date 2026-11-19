@@ -1,0 +1,19 @@
+{
+ "id": "7556146293597408534",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "misc",
+  "claim_answered": "Healthy relationships involve constant conflict and are naturally boring",
+  "alternate_category": "mixed",
+  "borderline": true,
+  "evidence_seconds": 33,
+  "reason": "General relationship advice offering his view on healthy partnerships without making claims about men or women as a sex."
+ },
+ "usage": {
+  "prompt_tokens": 3336,
+  "completion_tokens": 1460,
+  "cost_usd": null
+ }
+}

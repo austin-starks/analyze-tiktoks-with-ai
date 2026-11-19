@@ -1,0 +1,18 @@
+{
+ "id": "7661962241939442976",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "claim_answered": "The leading cause of workplace fatalities for women is homicide, while for men it is transportation incidents.",
+  "category": "mixed",
+  "reason": "Claim makes comparable assertions about both sexes' leading workplace fatalities and blames neither, so mixed applies rather than men.",
+  "borderline": true,
+  "evidence_seconds": 11,
+  "alternate_category": "men"
+ },
+ "usage": {
+  "prompt_tokens": 3757,
+  "completion_tokens": 7714,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7617480520905100566",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "A girlfriend sexting with AI characters is emotional cheating and grounds for breakup",
+  "reason": "Answers a viewer's relationship question with dating advice; no claim about men or women in general, so not a gender category.",
+  "evidence_seconds": 93
+ },
+ "usage": {
+  "prompt_tokens": 5155,
+  "completion_tokens": 217,
+  "cost_usd": null
+ }
+}

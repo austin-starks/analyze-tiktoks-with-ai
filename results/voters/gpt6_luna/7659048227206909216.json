@@ -1,0 +1,19 @@
+{
+ "id": "7659048227206909216",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "debate",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Simple Black Theory's critique of his Berlin rent-freeze study",
+  "reason": "Replying to a creator who challenged his earlier work and source.",
+  "evidence_seconds": 15
+ },
+ "usage": {
+  "prompt_tokens": 4282,
+  "completion_tokens": 66,
+  "cost_usd": null
+ }
+}

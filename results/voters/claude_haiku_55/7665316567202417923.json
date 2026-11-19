@@ -1,0 +1,19 @@
+{
+ "id": "7665316567202417923",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "politics",
+  "borderline": false,
+  "alternate_category": "news",
+  "claim_answered": "Mamdani's rent freeze will fix New York housing",
+  "reason": "Economic housing policy debate about rent control and supply; no claim about men or women.",
+  "evidence_seconds": 3
+ },
+ "usage": {
+  "prompt_tokens": 6620,
+  "completion_tokens": 194,
+  "cost_usd": null
+ }
+}

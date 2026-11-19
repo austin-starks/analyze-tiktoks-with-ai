@@ -1,0 +1,18 @@
+{
+ "id": "7561020639117659414",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "evidence_seconds": 56,
+  "reason": "Rule 3 (misc): reacts to a relationship clip with general dating advice for men, answering no general claim about men or women.",
+  "borderline": true,
+  "category": "misc",
+  "claim_answered": "none",
+  "alternate_category": "men"
+ },
+ "usage": {
+  "prompt_tokens": 2780,
+  "completion_tokens": 2039,
+  "cost_usd": null
+ }
+}

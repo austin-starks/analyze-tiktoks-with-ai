@@ -1,0 +1,19 @@
+{
+ "id": "7538473681991781654",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Dating/texting advice listing questions to avoid; answers no claim about men or women as groups",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 3458,
+  "completion_tokens": 158,
+  "cost_usd": null
+ }
+}

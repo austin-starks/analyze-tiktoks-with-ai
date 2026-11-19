@@ -1,0 +1,19 @@
+{
+ "id": "7563572833780075798",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "misc",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "It's okay to mock your husband as ugly and marry an ugly man",
+  "evidence_seconds": 57,
+  "reason": "Pushes back on woman mocking husband as ugly, defending men against disrespect and settling"
+ },
+ "usage": {
+  "prompt_tokens": 3286,
+  "completion_tokens": 5100,
+  "cost_usd": null
+ }
+}

@@ -1,0 +1,19 @@
+{
+ "id": "7579177079129017602",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "mixed",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Women always want more / men never look past looks",
+  "reason": "He pairs a joke saying women always want more with a mirror joke that men never climb past the looks floor, then advises both sexes equally.",
+  "evidence_seconds": 83
+ },
+ "usage": {
+  "prompt_tokens": 3541,
+  "completion_tokens": 1276,
+  "cost_usd": null
+ }
+}

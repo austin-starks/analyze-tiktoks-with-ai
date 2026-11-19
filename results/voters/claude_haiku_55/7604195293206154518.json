@@ -1,0 +1,19 @@
+{
+ "id": "7604195293206154518",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "Meeting a woman on dating apps or in clubs makes her a bad relationship choice",
+  "reason": "General dating advice; the claim targets dating venues rather than either sex, with a brief rebuttal to a guy's story and no clear group-defense framing.",
+  "evidence_seconds": 91
+ },
+ "usage": {
+  "prompt_tokens": 5581,
+  "completion_tokens": 227,
+  "cost_usd": null
+ }
+}

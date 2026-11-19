@@ -1,0 +1,19 @@
+{
+ "id": "7629812322822786326",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "borderline": true,
+  "category": "women",
+  "alternate_category": "mixed",
+  "claim_answered": "Women cannot separate logic from emotion",
+  "reason": "He refutes the stereotype that women cannot separate logic from emotion using cognitive and psychological research.",
+  "evidence_seconds": 170
+ },
+ "usage": {
+  "prompt_tokens": 3810,
+  "completion_tokens": 1552,
+  "cost_usd": null
+ }
+}

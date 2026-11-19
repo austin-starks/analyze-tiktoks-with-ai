@@ -1,0 +1,19 @@
+{
+ "id": "7556684299332881686",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "none",
+  "reason": "General first-date advice to men about demanding women; answers no claim defending either sex.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "prompt_tokens": 4902,
+  "completion_tokens": 177,
+  "cost_usd": null
+ }
+}

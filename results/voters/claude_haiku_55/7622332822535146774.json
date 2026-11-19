@@ -1,0 +1,19 @@
+{
+ "id": "7622332822535146774",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Men and women can't be just friends without someone catching feelings",
+  "reason": "Mainly cross-sex friendship dating advice for men; no negative claim about one sex is rebutted, so it reads as general relationship advice.",
+  "evidence_seconds": 57
+ },
+ "usage": {
+  "prompt_tokens": 5444,
+  "completion_tokens": 217,
+  "cost_usd": null
+ }
+}

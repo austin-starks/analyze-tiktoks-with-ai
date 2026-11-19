@@ -1,0 +1,19 @@
+{
+ "id": "7626103692718017814",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Women are dramatic and overreact",
+  "reason": "Answers a stereotype that runs women down, showing bias in how their emotion is judged, though he partly agrees",
+  "evidence_seconds": 4
+ },
+ "usage": {
+  "prompt_tokens": 3566,
+  "completion_tokens": 539,
+  "cost_usd": null
+ }
+}

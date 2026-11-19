@@ -1,0 +1,18 @@
+{
+ "id": "7671241921628540182",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "borderline": true,
+  "evidence_seconds": 41,
+  "alternate_category": "men",
+  "claim_answered": "NCVS data shows zero black women were assaulted by white men while black men assaulted 20,000 white women.",
+  "reason": "Rule 3: he debunks a racial crime statistic using survey methodology, not a claim attacking men or women as a sex, nor politics.",
+  "category": "misc"
+ },
+ "usage": {
+  "prompt_tokens": 4595,
+  "completion_tokens": 5255,
+  "cost_usd": null
+ }
+}

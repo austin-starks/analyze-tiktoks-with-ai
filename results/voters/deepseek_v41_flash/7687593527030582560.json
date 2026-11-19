@@ -1,0 +1,19 @@
+{
+ "id": "7687593527030582560",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Animal behavior shows men are predators who harass women",
+  "reason": "Pushes back on a claim using animal examples to portray men as predators, while conceding the crime statistic",
+  "evidence_seconds": 90
+ },
+ "usage": {
+  "prompt_tokens": 3919,
+  "completion_tokens": 260,
+  "cost_usd": null
+ }
+}

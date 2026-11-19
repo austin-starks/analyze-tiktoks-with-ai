@@ -1,0 +1,19 @@
+{
+ "id": "7582182286829948182",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Dating advice to men about choosing a grateful partner; he makes the critique himself rather than rebutting a claim about a sex.",
+  "evidence_seconds": 45
+ },
+ "usage": {
+  "prompt_tokens": 3457,
+  "completion_tokens": 282,
+  "cost_usd": null
+ }
+}
