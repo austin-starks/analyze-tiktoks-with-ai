@@ -1,0 +1,42 @@
+{
+ "id": "7624259413716618518",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Answers a viewer DM to give relationship, boundary, and dating advice without answering a claim about either sex.",
+  "evidence_seconds": 37
+ },
+ "usage": {
+  "completion_tokens": 449,
+  "prompt_tokens": 4003,
+  "total_tokens": 4452,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 373,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.009372,
+   "upstream_inference_prompt_cost": 0.0060045,
+   "upstream_inference_completions_cost": 0.0033675
+  }
+ }
+}

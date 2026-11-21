@@ -1,0 +1,42 @@
+{
+ "id": "7622712783536180502",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Dating in 2026 is cooked, so it is better to stay single",
+  "reason": "Dating and self-improvement advice; he answers no claim that runs down men or women",
+  "evidence_seconds": 10
+ },
+ "usage": {
+  "completion_tokens": 1102,
+  "prompt_tokens": 3565,
+  "total_tokens": 4667,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 1025,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 2688,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.001279092,
+   "upstream_inference_prompt_cost": 0.000287292,
+   "upstream_inference_completions_cost": 0.0009918
+  }
+ }
+}

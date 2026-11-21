@@ -1,0 +1,42 @@
+{
+ "id": "7616326290953555222",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "women",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Every idea from a woman is lunacy, so men should ignore what women say",
+  "reason": "Rejects a claim that portrays women as irrational and argues their thoughts deserve respect.",
+  "evidence_seconds": 41
+ },
+ "usage": {
+  "completion_tokens": 167,
+  "prompt_tokens": 3681,
+  "total_tokens": 3848,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 98,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 863,
+   "cached_tokens": 2815,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.000219825,
+   "upstream_inference_prompt_cost": 0.000136325,
+   "upstream_inference_completions_cost": 8.35e-05
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": "7577335530967420182",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men have no excuse for not handling everything and showing up for their partners",
+  "reason": "Rebuts a creator claiming men have no excuse for struggling and projecting her frustration onto men.",
+  "evidence_seconds": 32
+ },
+ "usage": {
+  "completion_tokens": 583,
+  "prompt_tokens": 3668,
+  "total_tokens": 4251,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 496,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0098745,
+   "upstream_inference_prompt_cost": 0.005502,
+   "upstream_inference_completions_cost": 0.0043725
+  }
+ }
+}

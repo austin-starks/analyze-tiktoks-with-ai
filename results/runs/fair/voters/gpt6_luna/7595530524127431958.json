@@ -1,0 +1,42 @@
+{
+ "id": "7595530524127431958",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "mixed",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men cheat more than women, or women cheat more and hide it.",
+  "reason": "Compares claims blaming either sex and weighs data about both men’s and women’s cheating rates.",
+  "evidence_seconds": 122
+ },
+ "usage": {
+  "completion_tokens": 367,
+  "prompt_tokens": 3780,
+  "total_tokens": 4147,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 298,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 962,
+   "cached_tokens": 2815,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0003322,
+   "upstream_inference_prompt_cost": 0.0001487,
+   "upstream_inference_completions_cost": 0.0001835
+  }
+ }
+}

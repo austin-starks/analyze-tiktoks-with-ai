@@ -1,0 +1,42 @@
+{
+ "id": "7673133705862401302",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "politics",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Socialism works better than capitalism because powerful people oppose it and China and Vietnam demonstrate its success",
+  "reason": "Evaluates arguments about socialism, capitalism, sanctions, and economic reforms; this is political-economic commentary.",
+  "evidence_seconds": 180
+ },
+ "usage": {
+  "completion_tokens": 308,
+  "prompt_tokens": 4021,
+  "total_tokens": 4329,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 232,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 1203,
+   "cached_tokens": 2815,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.000332825,
+   "upstream_inference_prompt_cost": 0.000178825,
+   "upstream_inference_completions_cost": 0.000154
+  }
+ }
+}

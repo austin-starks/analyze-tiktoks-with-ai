@@ -1,0 +1,42 @@
+{
+ "id": "7646034836125224214",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men over-sexualize dancing while women keep it modest",
+  "reason": "Rejects a claim blaming men for sexualized dancing, arguing women sexualize it more in dance settings.",
+  "evidence_seconds": 80
+ },
+ "usage": {
+  "completion_tokens": 243,
+  "prompt_tokens": 3403,
+  "total_tokens": 3646,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 174,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 585,
+   "cached_tokens": 2815,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.000223075,
+   "upstream_inference_prompt_cost": 0.000101575,
+   "upstream_inference_completions_cost": 0.0001215
+  }
+ }
+}

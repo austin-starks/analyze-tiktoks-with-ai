@@ -1,0 +1,42 @@
+{
+ "id": "7677230313277295894",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "news",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Lindsay Clancy was suffering from psychosis during the killings",
+  "reason": "Mainly reports and explains the Lindsay Clancy trial and disputed psychosis diagnosis; neutral true-crime coverage, not a claim about men or women.",
+  "evidence_seconds": 100
+ },
+ "usage": {
+  "completion_tokens": 1092,
+  "prompt_tokens": 4324,
+  "total_tokens": 5416,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 1011,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 2828,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.000888084,
+   "upstream_inference_prompt_cost": 0.000232884,
+   "upstream_inference_completions_cost": 0.0006552
+  }
+ }
+}

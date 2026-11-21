@@ -1,0 +1,78 @@
+{
+ "id": "7668724269005802784",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "category": "mixed",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "Women are not hypergamous and there is little to no data supporting it.",
+  "reason": "Direction rule: he isolates and fact-checks a claim favoring women without defending men, though the clip also criticizes men.",
+  "evidence_seconds": 32
+ },
+ "reviewers": [
+  {
+   "reviewer": 1,
+   "category": "mixed",
+   "close_second": "none",
+   "claim_answered": "Women are not hypergamous, and there is little to no evidence supporting the idea",
+   "reason": "Checks a claim about women’s partner preferences and compares those preferences with men’s; it does not attack either sex."
+  },
+  {
+   "reviewer": 2,
+   "category": "men",
+   "close_second": "mixed",
+   "claim_answered": "Women are not hypergamous; little to no data supports it",
+   "reason": "Pushes back on a pro-women claim that also blames men for inventing hypergamy to manipulate women"
+  },
+  {
+   "reviewer": 3,
+   "category": "mixed",
+   "close_second": "men",
+   "claim_answered": "Women are not hypergamous; there is little to no data supporting it",
+   "reason": "Fact-checks pro-women claim women are not hypergamous using comparative data on both sexes' preferences"
+  },
+  {
+   "reviewer": 4,
+   "category": "mixed",
+   "close_second": "women",
+   "claim_answered": "Women are not hypergamous; there is little to no data that they are",
+   "reason": "Rebuts a claim that defends women, showing both sexes' mate preferences follow measurable patterns; the claim concerns both sexes' preferences, not one sex blamed."
+  },
+  {
+   "reviewer": 5,
+   "category": "men",
+   "close_second": "mixed",
+   "claim_answered": "There is little to no data supporting the idea that women are hypergamous",
+   "reason": "Rebuts a claim denying hypergamy and pushing back against the narrative that men invented the concept to manipulate women."
+  }
+ ],
+ "usage": {
+  "completion_tokens": 2615,
+  "prompt_tokens": 3923,
+  "total_tokens": 6538,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 2505,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.025497,
+   "upstream_inference_prompt_cost": 0.0058845,
+   "upstream_inference_completions_cost": 0.0196125
+  }
+ }
+}

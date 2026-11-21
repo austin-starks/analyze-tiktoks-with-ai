@@ -1,0 +1,42 @@
+{
+ "id": "7677230313277295894",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "news",
+  "claim_answered": "Lindsay Clancy was suffering from psychosis when she killed her children",
+  "evidence_seconds": 100,
+  "reason": "Mainly reports trial evidence on whether Clancy was psychotic, laying out both sides without defending a sex"
+ },
+ "usage": {
+  "completion_tokens": 2825,
+  "prompt_tokens": 4261,
+  "total_tokens": 7086,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 2668,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 2804,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.001569416,
+   "upstream_inference_prompt_cost": 0.000156916,
+   "upstream_inference_completions_cost": 0.0014125
+  }
+ }
+}

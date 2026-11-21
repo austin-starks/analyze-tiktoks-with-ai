@@ -1,0 +1,42 @@
+{
+ "id": "7595972697180458243",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Men are lonely because women aren't financially dependent anymore",
+  "reason": "Pushes back on claim blaming women's financial independence for male loneliness; says technology and women's pickiness are the real causes.",
+  "evidence_seconds": 34
+ },
+ "usage": {
+  "completion_tokens": 6871,
+  "prompt_tokens": 4102,
+  "total_tokens": 10973,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 6794,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 2828,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.004322184,
+   "upstream_inference_prompt_cost": 0.000199584,
+   "upstream_inference_completions_cost": 0.0041226
+  }
+ }
+}

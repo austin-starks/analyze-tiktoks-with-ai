@@ -1,0 +1,42 @@
+{
+ "id": "7676485029278518550",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "politics",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "Charlie Kirk said young men should not take orders from women",
+  "evidence_seconds": 92,
+  "reason": "Debunks mother's misinterpretation of Charlie Kirk, defending a specific man against unfair sexist accusation"
+ },
+ "usage": {
+  "completion_tokens": 9964,
+  "prompt_tokens": 4375,
+  "total_tokens": 14339,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 9668,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0054195,
+   "upstream_inference_prompt_cost": 0.0004375,
+   "upstream_inference_completions_cost": 0.004982
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": "7578511626291252502",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "misc",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "Men are useless except for trash day",
+  "evidence_seconds": 38,
+  "reason": "Pushes back on stand-up jokes claiming men are useless and bad"
+ },
+ "usage": {
+  "completion_tokens": 1886,
+  "prompt_tokens": 3521,
+  "total_tokens": 5407,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 1758,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0012951,
+   "upstream_inference_prompt_cost": 0.0003521,
+   "upstream_inference_completions_cost": 0.000943
+  }
+ }
+}

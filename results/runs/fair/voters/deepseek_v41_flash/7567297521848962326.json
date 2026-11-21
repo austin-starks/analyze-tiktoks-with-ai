@@ -1,0 +1,42 @@
+{
+ "id": "7567297521848962326",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "A healthy relationship requires the man to do everything while she just exists",
+  "reason": "Pushes back on a claim that men must carry all emotional labor while women just exist; defends men",
+  "evidence_seconds": 30
+ },
+ "usage": {
+  "completion_tokens": 1318,
+  "prompt_tokens": 3500,
+  "total_tokens": 4818,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 1243,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 2828,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.000900084,
+   "upstream_inference_prompt_cost": 0.000109284,
+   "upstream_inference_completions_cost": 0.0007908
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": "7623884936394722582",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Women are too emotional, men are more emotional, and women are gold diggers",
+  "reason": "Pushes back on stereotypes running women down, saying men are emotional too and most women are not gold diggers; also weighs both sexes.",
+  "evidence_seconds": 16
+ },
+ "usage": {
+  "completion_tokens": 703,
+  "prompt_tokens": 5795,
+  "total_tokens": 6498,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 582,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.000931,
+   "upstream_inference_prompt_cost": 0.0005795,
+   "upstream_inference_completions_cost": 0.0003515
+  }
+ }
+}

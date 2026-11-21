@@ -1,0 +1,78 @@
+{
+ "id": "7676485029278518550",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "politics",
+  "claim_answered": "Charlie Kirk argued that young men should not take orders from women.",
+  "reason": "Rule 2: debunks a misleading accusation aimed at one specific man, Charlie Kirk, defending his actual argument.",
+  "evidence_seconds": 117
+ },
+ "reviewers": [
+  {
+   "reviewer": 1,
+   "category": "men",
+   "close_second": "politics",
+   "claim_answered": "Charlie Kirk said boys should not take orders from women",
+   "reason": "Corrects a misleading interpretation that unfairly attributes this claim to a specific man; the subject also has a political context."
+  },
+  {
+   "reviewer": 2,
+   "category": "men",
+   "close_second": "politics",
+   "claim_answered": "Charlie Kirk said boys should not take orders from women",
+   "reason": "Debunks a misrepresentation of a specific man's argument, defending him from an unfair sexism charge."
+  },
+  {
+   "reviewer": 3,
+   "category": "men",
+   "close_second": "politics",
+   "claim_answered": "Charlie Kirk said young men should not take orders from women",
+   "reason": "Debunks mother's misinterpretation of Charlie Kirk, defending a specific man against unfair sexist accusation"
+  },
+  {
+   "reviewer": 4,
+   "category": "women",
+   "close_second": "politics",
+   "claim_answered": "Mother's clip implies Charlie Kirk said young men shouldn't take orders from women",
+   "reason": "Rebuts a reading that treats Kirk's remark as saying men shouldn't take orders from women, a claim favoring men at women's expense; also political commentary."
+  },
+  {
+   "reviewer": 5,
+   "category": "politics",
+   "close_second": "men",
+   "claim_answered": "Charlie Kirk argued that young men should not take orders from women",
+   "reason": "Refutes a mother misrepresenting a conservative commentator's argument regarding male role models in education"
+  }
+ ],
+ "usage": {
+  "completion_tokens": 3197,
+  "prompt_tokens": 4490,
+  "total_tokens": 7687,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 3105,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0307125,
+   "upstream_inference_prompt_cost": 0.006735,
+   "upstream_inference_completions_cost": 0.0239775
+  }
+ }
+}

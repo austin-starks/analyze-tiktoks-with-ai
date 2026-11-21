@@ -1,0 +1,42 @@
+{
+ "id": "7580019788265704726",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "news",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Flagrant’s framing that Akaash’s wife was innocent of the behavior shown in viral clips",
+  "reason": "Comments on a celebrity relationship story and rejects the podcast’s framing, then gives Akaash relationship advice.",
+  "evidence_seconds": 76
+ },
+ "usage": {
+  "completion_tokens": 885,
+  "prompt_tokens": 3538,
+  "total_tokens": 4423,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 810,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 720,
+   "cached_tokens": 2815,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.00056095,
+   "upstream_inference_prompt_cost": 0.00011845,
+   "upstream_inference_completions_cost": 0.0004425
+  }
+ }
+}

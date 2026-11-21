@@ -1,0 +1,42 @@
+{
+ "id": "7568768145624812822",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "men",
+  "claim_answered": "Men laughing together must have done something wrong, probably hit a woman",
+  "evidence_seconds": 40,
+  "reason": "Pushes back on women claiming laughing men probably hit a woman, defending men as normal and peaceful"
+ },
+ "usage": {
+  "completion_tokens": 2500,
+  "prompt_tokens": 3744,
+  "total_tokens": 6244,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 2363,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0016244,
+   "upstream_inference_prompt_cost": 0.0003744,
+   "upstream_inference_completions_cost": 0.00125
+  }
+ }
+}

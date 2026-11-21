@@ -1,0 +1,42 @@
+{
+ "id": "7663131126491385121",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "Looks are all that matter in dating and men cannot change their outcomes",
+  "reason": "General dating advice, motivation, and self-improvement critique of the Black Pill mindset rather than defending men against anti-male attacks.",
+  "evidence_seconds": 36
+ },
+ "usage": {
+  "completion_tokens": 617,
+  "prompt_tokens": 4251,
+  "total_tokens": 4868,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 524,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.011004,
+   "upstream_inference_prompt_cost": 0.0063765,
+   "upstream_inference_completions_cost": 0.0046275
+  }
+ }
+}

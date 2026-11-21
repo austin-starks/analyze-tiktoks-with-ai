@@ -1,0 +1,78 @@
+{
+ "id": "7698372816525135136",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Aborting a baby simply because he is a boy is acceptable under a right to choose",
+  "reason": "Rule 2: pushes back on defending sex-selective abortion targeting boys, even though he condemns sex-selective abortion for either sex.",
+  "evidence_seconds": 114
+ },
+ "reviewers": [
+  {
+   "reviewer": 1,
+   "category": "mixed",
+   "close_second": "politics",
+   "claim_answered": "Aborting a child because of its sex is acceptable as an exercise of a woman's right to choose",
+   "reason": "Rejects sex-selective abortion equally whether the child is a boy or a girl; the abortion-rights framing could also suggest politics."
+  },
+  {
+   "reviewer": 2,
+   "category": "men",
+   "close_second": "politics",
+   "claim_answered": "Aborting a baby just because it's a boy is acceptable or not cruel",
+   "reason": "Pushes back on a claim that aborting boys for being boys is acceptable; defends boys against sex-selective abortion"
+  },
+  {
+   "reviewer": 3,
+   "category": "men",
+   "close_second": "mixed",
+   "claim_answered": "Aborting a baby simply because it is a boy is acceptable",
+   "reason": "Rebuts defense of aborting boys, arguing sex-selective abortion devalues male children"
+  },
+  {
+   "reviewer": 4,
+   "category": "mixed",
+   "close_second": "women",
+   "claim_answered": "Aborting a baby because it is a boy is acceptable, and a woman's right to choose justifies it",
+   "reason": "Rejects sex-selective abortion for either sex, saying men wanting to abort girls would be equally disturbing; the viral claim centers on women."
+  },
+  {
+   "reviewer": 5,
+   "category": "men",
+   "close_second": "mixed",
+   "claim_answered": "Aborting a baby simply because it is a boy is acceptable under the right to choose",
+   "reason": "Pushes back against defending sex-selective abortion targeting male fetuses"
+  }
+ ],
+ "usage": {
+  "completion_tokens": 2552,
+  "prompt_tokens": 4944,
+  "total_tokens": 7496,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 2451,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.026556,
+   "upstream_inference_prompt_cost": 0.007416,
+   "upstream_inference_completions_cost": 0.01914
+  }
+ }
+}

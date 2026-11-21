@@ -1,0 +1,42 @@
+{
+ "id": "7604774069363281174",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Men should spoil and worship women from the start; then every woman would want them",
+  "reason": "Rebuts a woman's dating advice that he says makes men needy and used, defending men's self-respect and attractiveness",
+  "evidence_seconds": 49
+ },
+ "usage": {
+  "completion_tokens": 2623,
+  "prompt_tokens": 3805,
+  "total_tokens": 6428,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 2540,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 2688,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.001813328,
+   "upstream_inference_prompt_cost": 0.000239528,
+   "upstream_inference_completions_cost": 0.0015738
+  }
+ }
+}

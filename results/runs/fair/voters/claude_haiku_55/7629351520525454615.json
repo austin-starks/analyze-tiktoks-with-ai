@@ -1,0 +1,42 @@
+{
+ "id": "7629351520525454615",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Women are 80% of organ donors and men are 80% of recipients, so men are hypocrites",
+  "reason": "Rebuts a claim that paints men as selfish hypocrites by showing global data has men at about 60-65% of both donors and recipients",
+  "evidence_seconds": 19
+ },
+ "usage": {
+  "completion_tokens": 486,
+  "prompt_tokens": 5323,
+  "total_tokens": 5809,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 358,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0007753,
+   "upstream_inference_prompt_cost": 0.0005323,
+   "upstream_inference_completions_cost": 0.000243
+  }
+ }
+}

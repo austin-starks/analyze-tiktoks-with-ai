@@ -1,0 +1,42 @@
+{
+ "id": "7556146293597408534",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "mixed",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "A healthy relationship means constant conflict, triggers and repair",
+  "reason": "Rebuts a claim about couples in general without blaming either sex; mostly relationship advice, so misc is close",
+  "evidence_seconds": 32
+ },
+ "usage": {
+  "completion_tokens": 663,
+  "prompt_tokens": 5308,
+  "total_tokens": 5971,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 557,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0008623,
+   "upstream_inference_prompt_cost": 0.0005308,
+   "upstream_inference_completions_cost": 0.0003315
+  }
+ }
+}

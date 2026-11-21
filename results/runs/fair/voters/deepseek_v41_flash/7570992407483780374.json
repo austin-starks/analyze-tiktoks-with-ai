@@ -1,0 +1,42 @@
+{
+ "id": "7570992407483780374",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "mixed",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "Women who hate men end up with the best men",
+  "reason": "He answers a claim about both sexes: man-hating women and the men they attract; he rejects it and contrasts real men with doormats.",
+  "evidence_seconds": 24
+ },
+ "usage": {
+  "completion_tokens": 7549,
+  "prompt_tokens": 3264,
+  "total_tokens": 10813,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 7468,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 2688,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.004660728,
+   "upstream_inference_prompt_cost": 0.000131328,
+   "upstream_inference_completions_cost": 0.0045294
+  }
+ }
+}

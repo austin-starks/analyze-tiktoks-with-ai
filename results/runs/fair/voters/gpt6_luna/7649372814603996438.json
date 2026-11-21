@@ -1,0 +1,42 @@
+{
+ "id": "7649372814603996438",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "politics",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Why did feminism take 56 years to develop into a movement after its early writings?",
+  "reason": "Explains political and legal history around the women’s movement; it does not push back on a claim about either sex.",
+  "evidence_seconds": 40
+ },
+ "usage": {
+  "completion_tokens": 939,
+  "prompt_tokens": 4144,
+  "total_tokens": 5083,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 860,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 1326,
+   "cached_tokens": 2815,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0006637,
+   "upstream_inference_prompt_cost": 0.0001942,
+   "upstream_inference_completions_cost": 0.0004695
+  }
+ }
+}

@@ -1,0 +1,78 @@
+{
+ "id": "7639732222035004694",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "category": "debate",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Professor Neil criticizes Ilyas's Whopper analogy response and claims 1 in 7 men attempted or completed rape.",
+  "reason": "Rule 1 (debate): Professor Neil stitched and criticized Ilyas's earlier video, and this is Ilyas's direct reply, beating men.",
+  "evidence_seconds": 23
+ },
+ "reviewers": [
+  {
+   "reviewer": 1,
+   "category": "men",
+   "close_second": "none",
+   "claim_answered": "1 in 7 men have attempted or completed rape, and most men have committed other forms of sexual coercion",
+   "reason": "Pushes back on claims portraying men generally as sexual predators; no clear evidence the professor was replying to Ilyas."
+  },
+  {
+   "reviewer": 2,
+   "category": "debate",
+   "close_second": "none",
+   "claim_answered": "1 in 7 men have attempted or completed rape; more than 1 in 3 sexually assaulted a woman",
+   "reason": "Reply to Professor Neil who stitched Ilyas's video; debate beats men"
+  },
+  {
+   "reviewer": 3,
+   "category": "debate",
+   "close_second": "men",
+   "claim_answered": "1 in 7 men attempted rape and most men sexually assault women",
+   "reason": "Professor Neil reacted to Ilyas's earlier video; Ilyas replies to his claims about men"
+  },
+  {
+   "reviewer": 4,
+   "category": "men",
+   "close_second": "debate",
+   "claim_answered": "Professor Neil claims 1 in 7 men have attempted or completed rape and most men commit sexual misconduct",
+   "reason": "Rebuts Professor Neil's sweeping statistics that portray men as sexual predators; a claim running men down, though framed as a response to a creator"
+  },
+  {
+   "reviewer": 5,
+   "category": "debate",
+   "close_second": "men",
+   "claim_answered": "1 in 7 men have attempted or completed the rape of a woman",
+   "reason": "Replies to a creator who stitched and criticized his earlier video on the Whopper analogy"
+  }
+ ],
+ "usage": {
+  "completion_tokens": 1956,
+  "prompt_tokens": 3886,
+  "total_tokens": 5842,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 1855,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.020499,
+   "upstream_inference_prompt_cost": 0.005829,
+   "upstream_inference_completions_cost": 0.01467
+  }
+ }
+}

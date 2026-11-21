@@ -1,0 +1,42 @@
+{
+ "id": "7626103692718017814",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "mixed",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "Women are more dramatic and emotional than men",
+  "reason": "Addresses whether men or women are more dramatic, concluding both sexes express emotion and overreact differently",
+  "evidence_seconds": 107
+ },
+ "usage": {
+  "completion_tokens": 7222,
+  "prompt_tokens": 3586,
+  "total_tokens": 10808,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 7140,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.059544,
+   "upstream_inference_prompt_cost": 0.005379,
+   "upstream_inference_completions_cost": 0.054165
+  }
+ }
+}

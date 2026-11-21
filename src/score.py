@@ -11,17 +11,18 @@ import csv
 import json
 from collections import Counter
 
-from common import CONFIG, DATA, RESULTS
+from common import CONFIG, DATA, add_run_arg, results_dir
 
 
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--set", choices=["tune", "holdout", "all"], default="holdout")
+    add_run_arg(ap)
     a = ap.parse_args()
     his = {r["id"]: r["his"] for r in json.loads((DATA / "his-labels.json").read_text())}
     split = json.loads((DATA / "split.json").read_text())
     ids = split["tune"] + split["holdout"] if a.set == "all" else split[a.set]
-    rows = {r["id"]: r for r in csv.DictReader((RESULTS / "labels.csv").open(encoding="utf-8"))}
+    rows = {r["id"]: r for r in csv.DictReader((results_dir(a.run) / "labels.csv").open(encoding="utf-8"))}
     score = Counter()
     for vid in ids:
         r, truth = rows[vid], his[vid]

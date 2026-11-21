@@ -1,0 +1,42 @@
+{
+ "id": "7613045239393094934",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "none",
+  "reason": "Self-improvement dating advice to men about settling out of fear and laziness; it rebuts no claim about either sex.",
+  "evidence_seconds": 32
+ },
+ "usage": {
+  "completion_tokens": 540,
+  "prompt_tokens": 6044,
+  "total_tokens": 6584,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 448,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0008744,
+   "upstream_inference_prompt_cost": 0.0006044,
+   "upstream_inference_completions_cost": 0.00027
+  }
+ }
+}

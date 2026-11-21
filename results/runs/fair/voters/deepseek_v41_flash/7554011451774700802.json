@@ -1,0 +1,42 @@
+{
+ "id": "7554011451774700802",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Men are atrocious at dating and can't meet women's relational needs",
+  "reason": "Pushes back on a woman's rant that men are assholes, explaining the 80/20 dynamic; partly dating advice",
+  "evidence_seconds": 39
+ },
+ "usage": {
+  "completion_tokens": 807,
+  "prompt_tokens": 3689,
+  "total_tokens": 4496,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 724,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 2828,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.001865502,
+   "upstream_inference_prompt_cost": 0.000412902,
+   "upstream_inference_completions_cost": 0.0014526
+  }
+ }
+}

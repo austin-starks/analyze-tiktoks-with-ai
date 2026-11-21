@@ -6,20 +6,24 @@ The file also keeps every voter's first and close-second choice, so any other ru
 
   python3 src/labels.py
 """
+import argparse
 import csv
 import json
 from collections import Counter
 from datetime import datetime, timezone
 
-from common import CONFIG, RESULTS, posts, second_choice
+from common import CONFIG, add_run_arg, posts, results_dir, second_choice
 
 
 def main():
+    ap = argparse.ArgumentParser()
+    add_run_arg(ap)
+    R = results_dir(ap.parse_args().run)
     rows = []
     for vid, p in posts().items():
-        votes = {v: json.loads((RESULTS / "voters" / v / f"{vid}.json").read_text())["label"] for v in CONFIG["voters"]}
+        votes = {v: json.loads((R / "voters" / v / f"{vid}.json").read_text())["label"] for v in CONFIG["voters"]}
         top, n = Counter(l["category"] for l in votes.values()).most_common(1)[0]
-        adj = RESULTS / "adjudicator" / f"{vid}.json"
+        adj = R / "adjudicator" / f"{vid}.json"
         if n >= CONFIG["agreement_needed"]:
             final, source, adj_label = top, f"{n} of 5 voters", None
         else:
@@ -34,7 +38,7 @@ def main():
         row["url"] = p["url"]
         rows.append(row)
     rows.sort(key=lambda r: (r["date"], r["id"]))
-    with (RESULTS / "labels.csv").open("w", newline="", encoding="utf-8") as fh:
+    with (R / "labels.csv").open("w", newline="", encoding="utf-8") as fh:
         w = csv.DictWriter(fh, fieldnames=list(rows[0]))
         w.writeheader()
         w.writerows(rows)

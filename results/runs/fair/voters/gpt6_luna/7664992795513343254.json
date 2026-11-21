@@ -1,0 +1,42 @@
+{
+ "id": "7664992795513343254",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "politics",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Mamdani’s rent freeze applies to all rents and will solve New York City’s housing shortage",
+  "reason": "Explains and evaluates a housing policy, emphasizing its limited coverage and inability to create more apartments.",
+  "evidence_seconds": 193
+ },
+ "usage": {
+  "completion_tokens": 226,
+  "prompt_tokens": 4303,
+  "total_tokens": 4529,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 150,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 1485,
+   "cached_tokens": 2815,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.000327075,
+   "upstream_inference_prompt_cost": 0.000214075,
+   "upstream_inference_completions_cost": 0.000113
+  }
+ }
+}

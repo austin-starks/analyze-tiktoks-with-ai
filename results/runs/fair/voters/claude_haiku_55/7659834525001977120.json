@@ -1,0 +1,42 @@
+{
+ "id": "7659834525001977120",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "mixed",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "Hating men lowers expectations for men, which perpetuates misogyny; the same logic runs in reverse",
+  "reason": "Her chain blames both sexes' treatment; he runs it both ways to show it loops endlessly, answering both sides equally",
+  "evidence_seconds": 44
+ },
+ "usage": {
+  "completion_tokens": 781,
+  "prompt_tokens": 5797,
+  "total_tokens": 6578,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 653,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0009702,
+   "upstream_inference_prompt_cost": 0.0005797,
+   "upstream_inference_completions_cost": 0.0003905
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": "7585192383201971458",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "mixed",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "A loyal partner will remain loyal regardless of circumstances, so setting boundaries is controlling.",
+  "reason": "Challenges a claim about fidelity and boundaries that he explicitly applies to both men and women; the girlfriend framing could suggest men.",
+  "evidence_seconds": 110
+ },
+ "usage": {
+  "completion_tokens": 638,
+  "prompt_tokens": 3628,
+  "total_tokens": 4266,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 562,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 810,
+   "cached_tokens": 2815,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0004487,
+   "upstream_inference_prompt_cost": 0.0001297,
+   "upstream_inference_completions_cost": 0.000319
+  }
+ }
+}

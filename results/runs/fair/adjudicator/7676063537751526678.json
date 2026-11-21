@@ -1,0 +1,78 @@
+{
+ "id": "7676063537751526678",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "category": "politics",
+  "borderline": true,
+  "alternate_category": "news",
+  "claim_answered": "Whether left and right political reactions and hypocrisy claims around Dean Withers hold up",
+  "reason": "Rule 3: mainly analyzes left-versus-right political reactions and hypocrisy around a viral case, rather than mainly debunking the accusation.",
+  "evidence_seconds": 0
+ },
+ "reviewers": [
+  {
+   "reviewer": 1,
+   "category": "men",
+   "close_second": "news",
+   "claim_answered": "Dean Withers is guilty of the accusation, and people can treat it as established without credible evidence.",
+   "reason": "He says the accusation against a specific man is not established by credible evidence, while examining the surrounding political reactions."
+  },
+  {
+   "reviewer": 2,
+   "category": "politics",
+   "close_second": "news",
+   "claim_answered": "Dean Withers is a hypocrite over rape allegations and 'Believe Women' standards",
+   "reason": "Analyzes left vs right political reactions and hypocrisy around a viral case; political commentary, not primarily defending a sex"
+  },
+  {
+   "reviewer": 3,
+   "category": "men",
+   "close_second": "politics",
+   "claim_answered": "Dean Withers committed rape and should be automatically believed",
+   "reason": "Debunks rape accusation against specific man Dean Withers, citing no credible evidence and innocent until proven guilty"
+  },
+  {
+   "reviewer": 4,
+   "category": "men",
+   "close_second": "news",
+   "claim_answered": "Dean Withers is a hypocrite: he is now being judged by the believe-women standard he promoted",
+   "reason": "Mainly rebuts the hypocrisy attack on one accused man and concludes no credible evidence shows he committed the accusation."
+  },
+  {
+   "reviewer": 5,
+   "category": "news",
+   "close_second": "politics",
+   "claim_answered": "Dean Withers promoted 'believe all women' and is getting a taste of his own medicine",
+   "reason": "Neutral reporting analyzing both political sides of the Dean Withers allegations in multi-part coverage of the viral case."
+  }
+ ],
+ "usage": {
+  "completion_tokens": 6070,
+  "prompt_tokens": 4083,
+  "total_tokens": 10153,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 5973,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0516495,
+   "upstream_inference_prompt_cost": 0.0061245,
+   "upstream_inference_completions_cost": 0.045525
+  }
+ }
+}

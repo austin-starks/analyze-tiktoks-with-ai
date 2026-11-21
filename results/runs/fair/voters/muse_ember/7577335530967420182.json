@@ -1,0 +1,42 @@
+{
+ "id": "7577335530967420182",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "mixed",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "Men have no excuse for not showing up for people",
+  "evidence_seconds": 114,
+  "reason": "Pushes back on claim downplaying men's struggles; men also carry jobs, school and fatherhood"
+ },
+ "usage": {
+  "completion_tokens": 3981,
+  "prompt_tokens": 3681,
+  "total_tokens": 7662,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 3782,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0023586,
+   "upstream_inference_prompt_cost": 0.0003681,
+   "upstream_inference_completions_cost": 0.0019905
+  }
+ }
+}

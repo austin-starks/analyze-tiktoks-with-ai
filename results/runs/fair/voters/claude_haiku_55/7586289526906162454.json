@@ -1,0 +1,42 @@
+{
+ "id": "7586289526906162454",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Your money is our money but my money is my money: a partner who keeps her money separate is taking advantage.",
+  "reason": "Rejects a narrative favoring women's financial advantage at men's expense, and says a partner who takes without giving lacks empathy.",
+  "evidence_seconds": 66
+ },
+ "usage": {
+  "completion_tokens": 653,
+  "prompt_tokens": 5473,
+  "total_tokens": 6126,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 525,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0008738,
+   "upstream_inference_prompt_cost": 0.0005473,
+   "upstream_inference_completions_cost": 0.0003265
+  }
+ }
+}

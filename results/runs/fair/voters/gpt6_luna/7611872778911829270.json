@@ -1,0 +1,42 @@
+{
+ "id": "7611872778911829270",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men should be excluded from business, conversations, and society altogether",
+  "reason": "Rejects a gender-wide boycott that targets men and calls it discrimination.",
+  "evidence_seconds": 71
+ },
+ "usage": {
+  "completion_tokens": 227,
+  "prompt_tokens": 3449,
+  "total_tokens": 3676,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 164,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 631,
+   "cached_tokens": 2815,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.000220825,
+   "upstream_inference_prompt_cost": 0.000107325,
+   "upstream_inference_completions_cost": 0.0001135
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": "7618580994907475222",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "mixed",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "Women are unfairly judged for many partners while men are praised",
+  "evidence_seconds": 106,
+  "reason": "Rebuts unfair double-standard claim by showing men's partners are harder to get, defending men's praise"
+ },
+ "usage": {
+  "completion_tokens": 7861,
+  "prompt_tokens": 3996,
+  "total_tokens": 11857,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 7591,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 2804,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.004060916,
+   "upstream_inference_prompt_cost": 0.000130416,
+   "upstream_inference_completions_cost": 0.0039305
+  }
+ }
+}

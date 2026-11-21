@@ -1,0 +1,42 @@
+{
+ "id": "7638618782235135234",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Having a skin-tone or color preference in dating is weird or racist",
+  "reason": "Answers a general dating question about attraction; he does not push back on a claim attacking men or women.",
+  "evidence_seconds": 118
+ },
+ "usage": {
+  "completion_tokens": 276,
+  "prompt_tokens": 3816,
+  "total_tokens": 4092,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 205,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 998,
+   "cached_tokens": 2815,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0002912,
+   "upstream_inference_prompt_cost": 0.0001532,
+   "upstream_inference_completions_cost": 0.000138
+  }
+ }
+}

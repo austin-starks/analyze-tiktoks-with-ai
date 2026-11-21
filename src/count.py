@@ -12,7 +12,7 @@ import argparse
 import csv
 import json
 
-from common import CATEGORIES, CONFIG, RESULTS
+from common import CATEGORIES, CONFIG, add_run_arg, results_dir
 
 MILLION = 1_000_000
 
@@ -33,14 +33,16 @@ def table(rows, has):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--since", default="2026-04-01")
+    add_run_arg(ap)
     a = ap.parse_args()
-    rows = [r for r in csv.DictReader((RESULTS / "labels.csv").open(encoding="utf-8")) if r["date"] >= a.since]
+    R = results_dir(a.run)
+    rows = [r for r in csv.DictReader((R / "labels.csv").open(encoding="utf-8")) if r["date"] >= a.since]
     voters = list(CONFIG["voters"])
     one = table(rows, lambda r, c: r["final"] == c)
     multi = table(rows, lambda r, c: sum(c in (r[f"{v}_first"], r[f"{v}_second"]) for v in voters) >= 3)
     summary = {"since": a.since, "videos": len(rows), "views": sum(int(r["views"]) for r in rows),
                "million_view_videos": sum(int(r["views"]) >= MILLION for r in rows), "one_label": one, "multi_label_check": multi}
-    (RESULTS / f"summary-since-{a.since}.json").write_text(json.dumps(summary, indent=1))
+    (R / f"summary-since-{a.since}.json").write_text(json.dumps(summary, indent=1))
     print(f"Since {a.since}: {len(rows)} videos, {summary['views'] / 1e6:.1f}M views, {summary['million_view_videos']} with 1M+")
     print(f"{'category':10}{'videos':>8}{'share':>8}{'views':>9}{'of views':>10}{'1M+':>6}{'rank':>6}   multi-label videos / rank")
     for c in sorted(CATEGORIES, key=lambda c: one[c]["rank"]):

@@ -1,0 +1,42 @@
+{
+ "id": "7688004075350134049",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men get 2-6 years for killing partners while women get 12-15, and 90% of women acted in self-defense",
+  "reason": "Rebuts a claim that women are sentenced more harshly than men, showing data that men receive longer sentences; claim inflates women's disadvantage at men's expense",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "completion_tokens": 1581,
+  "prompt_tokens": 4252,
+  "total_tokens": 5833,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 1479,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 2828,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.002341368,
+   "upstream_inference_prompt_cost": 0.000444168,
+   "upstream_inference_completions_cost": 0.0018972
+  }
+ }
+}

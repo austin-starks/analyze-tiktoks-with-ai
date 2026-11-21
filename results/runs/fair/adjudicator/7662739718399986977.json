@@ -1,0 +1,78 @@
+{
+ "id": "7662739718399986977",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "category": "mixed",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Women are attracted to Haaland's energy rather than his looks, wealth, and status.",
+  "reason": "Rule 2 and direction rule: he pushes back on a claim favoring women about attraction without attacking either sex, making it mixed.",
+  "evidence_seconds": 62
+ },
+ "reviewers": [
+  {
+   "reviewer": 1,
+   "category": "mixed",
+   "close_second": "none",
+   "claim_answered": "Women are attracted to Haaland mainly for his energy rather than his looks, wealth, and status",
+   "reason": "He argues that personality and status both matter, without answering a claim that unfairly attacks either sex."
+  },
+  {
+   "reviewer": 2,
+   "category": "mixed",
+   "close_second": "misc",
+   "claim_answered": "Women are attracted to Haaland's energy, not his looks and status",
+   "reason": "Fact-checks a creator's pro-women claim about attraction; says looks, status, and energy all matter together, so it answers a claim about both sexes"
+  },
+  {
+   "reviewer": 3,
+   "category": "mixed",
+   "close_second": "misc",
+   "claim_answered": "Women pine for Haaland for his energy, not his looks or status",
+   "reason": "He mostly agrees but critiques logic; claim about attraction involves both sexes without blaming either"
+  },
+  {
+   "reviewer": 4,
+   "category": "misc",
+   "close_second": "mixed",
+   "claim_answered": "Women pine over Haaland because of his energy and how he comes across, not his height, wealth or fame",
+   "reason": "A logic exercise on a dating-attraction claim by a non-responding creator; it runs neither sex down, so it is general dating content"
+  },
+  {
+   "reviewer": 5,
+   "category": "misc",
+   "close_second": "mixed",
+   "claim_answered": "Women pine over Haaland because of his energy rather than wealth, fame, and looks",
+   "reason": "Uses a claim about attraction as a logic exercise to offer general dating and self-improvement advice."
+  }
+ ],
+ "usage": {
+  "completion_tokens": 3427,
+  "prompt_tokens": 4118,
+  "total_tokens": 7545,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 3338,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0318795,
+   "upstream_inference_prompt_cost": 0.006177,
+   "upstream_inference_completions_cost": 0.0257025
+  }
+ }
+}

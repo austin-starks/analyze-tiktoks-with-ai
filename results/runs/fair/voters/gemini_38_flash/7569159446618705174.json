@@ -1,0 +1,42 @@
+{
+ "id": "7569159446618705174",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "A man waving and saying hi on a date is a valid ick",
+  "reason": "Defends men against unfair judgment and trivial icks in modern dating culture",
+  "evidence_seconds": 38
+ },
+ "usage": {
+  "completion_tokens": 1046,
+  "prompt_tokens": 3310,
+  "total_tokens": 4356,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 964,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.01281,
+   "upstream_inference_prompt_cost": 0.004965,
+   "upstream_inference_completions_cost": 0.007845
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": "7589609548306992406",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "Is it normal for a girlfriend in a long-distance relationship to want male friends?",
+  "reason": "Answers a viewer DM with relationship advice about boundaries; he makes no general claim that runs women down.",
+  "evidence_seconds": 127
+ },
+ "usage": {
+  "completion_tokens": 490,
+  "prompt_tokens": 6998,
+  "total_tokens": 7488,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 375,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0009448,
+   "upstream_inference_prompt_cost": 0.0006998,
+   "upstream_inference_completions_cost": 0.000245
+  }
+ }
+}

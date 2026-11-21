@@ -1,0 +1,42 @@
+{
+ "id": "7704328708034661664",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "debate",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Reply to GoodTrouble, a creator who responded to his earlier video; mainly about his own disqualification and appeal.",
+  "evidence_seconds": 6
+ },
+ "usage": {
+  "completion_tokens": 95,
+  "prompt_tokens": 6440,
+  "total_tokens": 6535,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 0,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0006915,
+   "upstream_inference_prompt_cost": 0.000644,
+   "upstream_inference_completions_cost": 4.75e-05
+  }
+ }
+}

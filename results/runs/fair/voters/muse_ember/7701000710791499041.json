@@ -1,0 +1,42 @@
+{
+ "id": "7701000710791499041",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "politics",
+  "borderline": true,
+  "category": "news",
+  "claim_answered": "Islamists, radical left, or immigrants are behind France's riots",
+  "evidence_seconds": 25,
+  "reason": "Neutral multi-part reporting on who committed France riots, assessing Islamist and radical-left claims"
+ },
+ "usage": {
+  "completion_tokens": 4511,
+  "prompt_tokens": 7003,
+  "total_tokens": 11514,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 4316,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 2804,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.002686616,
+   "upstream_inference_prompt_cost": 0.000431116,
+   "upstream_inference_completions_cost": 0.0022555
+  }
+ }
+}

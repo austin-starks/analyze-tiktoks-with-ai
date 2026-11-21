@@ -1,0 +1,42 @@
+{
+ "id": "7570818120030424342",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "A yacht, 20K a month, a degree and property gifts are the bare minimum a man owes a woman",
+  "reason": "Mocks a viral claim that men must fund luxury and gifts for women, defending men's interests against that expectation",
+  "evidence_seconds": 7
+ },
+ "usage": {
+  "completion_tokens": 531,
+  "prompt_tokens": 6170,
+  "total_tokens": 6701,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 410,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0008825,
+   "upstream_inference_prompt_cost": 0.000617,
+   "upstream_inference_completions_cost": 0.0002655
+  }
+ }
+}

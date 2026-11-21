@@ -1,0 +1,42 @@
+{
+ "id": "7554011451774700802",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "All men in dating are atrocious assholes who just use women",
+  "reason": "Pushes back on rants blaming men for dating issues by explaining that women ignore 80% of men.",
+  "evidence_seconds": 39
+ },
+ "usage": {
+  "completion_tokens": 997,
+  "prompt_tokens": 3618,
+  "total_tokens": 4615,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 908,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0129045,
+   "upstream_inference_prompt_cost": 0.005427,
+   "upstream_inference_completions_cost": 0.0074775
+  }
+ }
+}

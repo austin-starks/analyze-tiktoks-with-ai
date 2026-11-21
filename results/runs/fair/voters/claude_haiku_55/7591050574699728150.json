@@ -1,0 +1,42 @@
+{
+ "id": "7591050574699728150",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "Is my girlfriend mocking my boundaries and going clubbing alone a reason to end the relationship?",
+  "reason": "Viewer relationship Q&A giving his advice on one couple; he criticizes the girlfriend but defends no claim about women.",
+  "evidence_seconds": 143
+ },
+ "usage": {
+  "completion_tokens": 745,
+  "prompt_tokens": 6790,
+  "total_tokens": 7535,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 616,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0010515,
+   "upstream_inference_prompt_cost": 0.000679,
+   "upstream_inference_completions_cost": 0.0003725
+  }
+ }
+}

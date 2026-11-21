@@ -1,0 +1,42 @@
+{
+ "id": "7585192383201971458",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "misc",
+  "borderline": true,
+  "category": "mixed",
+  "claim_answered": "Loyal partners stay loyal regardless of environment; boundaries show insecurity",
+  "evidence_seconds": 40,
+  "reason": "Answers a loyalty claim about both sexes, arguing environment matters for men and women alike"
+ },
+ "usage": {
+  "completion_tokens": 5612,
+  "prompt_tokens": 3675,
+  "total_tokens": 9287,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 5371,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0031735,
+   "upstream_inference_prompt_cost": 0.0003675,
+   "upstream_inference_completions_cost": 0.002806
+  }
+ }
+}

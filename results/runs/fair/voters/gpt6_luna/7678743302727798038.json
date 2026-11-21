@@ -1,0 +1,42 @@
+{
+ "id": "7678743302727798038",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men are 624% more likely to leave a woman who becomes seriously ill",
+  "reason": "Challenges an exaggerated statistic that portrays men as abandoning sick wives, using larger population studies to show the claim is not generalizable.",
+  "evidence_seconds": 198
+ },
+ "usage": {
+  "completion_tokens": 282,
+  "prompt_tokens": 4078,
+  "total_tokens": 4360,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 205,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 1260,
+   "cached_tokens": 2815,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.00032695,
+   "upstream_inference_prompt_cost": 0.00018595,
+   "upstream_inference_completions_cost": 0.000141
+  }
+ }
+}

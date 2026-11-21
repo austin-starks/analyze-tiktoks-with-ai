@@ -1,0 +1,42 @@
+{
+ "id": "7597904910398639382",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "misc",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "Many high-status men dangle trips to get sex without investing",
+  "evidence_seconds": 21,
+  "reason": "Rebuts claim men use expensive trips to get sex cheaply; argues trips cost 300-400 euros"
+ },
+ "usage": {
+  "completion_tokens": 3241,
+  "prompt_tokens": 3919,
+  "total_tokens": 7160,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 3086,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 2804,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.001743216,
+   "upstream_inference_prompt_cost": 0.000122716,
+   "upstream_inference_completions_cost": 0.0016205
+  }
+ }
+}

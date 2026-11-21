@@ -1,0 +1,42 @@
+{
+ "id": "7701000710791499041",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "news",
+  "borderline": true,
+  "alternate_category": "politics",
+  "claim_answered": "France's riots are an organized Islamist uprising",
+  "reason": "Examines evidence and statistics surrounding an ongoing riot and unrest, debunking claims of an organized Islamist uprising.",
+  "evidence_seconds": 673
+ },
+ "usage": {
+  "completion_tokens": 660,
+  "prompt_tokens": 7558,
+  "total_tokens": 8218,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 575,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.016287,
+   "upstream_inference_prompt_cost": 0.011337,
+   "upstream_inference_completions_cost": 0.00495
+  }
+ }
+}

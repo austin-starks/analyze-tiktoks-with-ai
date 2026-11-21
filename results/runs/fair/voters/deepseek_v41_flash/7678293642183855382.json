@@ -1,0 +1,42 @@
+{
+ "id": "7678293642183855382",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "debate",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Ilyas said there was absolutely no evidence Trump is a pedophile",
+  "reason": "His reply to a creator who reacted to and misquoted his own earlier video",
+  "evidence_seconds": 41
+ },
+ "usage": {
+  "completion_tokens": 352,
+  "prompt_tokens": 4017,
+  "total_tokens": 4369,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 279,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 2830,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.00039774,
+   "upstream_inference_prompt_cost": 0.00018654,
+   "upstream_inference_completions_cost": 0.0002112
+  }
+ }
+}

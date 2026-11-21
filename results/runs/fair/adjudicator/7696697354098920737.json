@@ -1,0 +1,78 @@
+{
+ "id": "7696697354098920737",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "Interacting with women impairs men's cognitive performance and makes men worse at thinking.",
+  "reason": "Per the claim-reading rule, claims that being around women makes men worse at thinking work against women, not men.",
+  "evidence_seconds": 30
+ },
+ "reviewers": [
+  {
+   "reviewer": 1,
+   "category": "men",
+   "close_second": "none",
+   "claim_answered": "Interacting with women impairs men's cognitive functioning",
+   "reason": "Challenges a broad negative claim about men’s cognitive ability around women, noting the evidence is limited and preliminary."
+  },
+  {
+   "reviewer": 2,
+   "category": "men",
+   "close_second": "women",
+   "claim_answered": "Interacting with women impairs men's cognitive functioning",
+   "reason": "Pushes back on a claim that men's cognitive performance declines around women, defending men against a negative generalization"
+  },
+  {
+   "reviewer": 3,
+   "category": "women",
+   "close_second": "men",
+   "claim_answered": "Women make men dumber by impairing men's cognitive functioning",
+   "reason": "Pushes back on claim women make men dumber, limiting generalization from small studies"
+  },
+  {
+   "reviewer": 4,
+   "category": "women",
+   "close_second": "misc",
+   "claim_answered": "Interacting with women impairs men's cognitive functioning, so women make men dumber",
+   "reason": "Fact-checks a viral claim that blames women for men's cognitive decline, arguing the small studies do not support it as general fact"
+  },
+  {
+   "reviewer": 5,
+   "category": "men",
+   "close_second": "misc",
+   "claim_answered": "Interacting with women impairs men's cognitive functioning",
+   "reason": "Pushes back on an exaggerated scientific claim that men suffer cognitive impairment around women."
+  }
+ ],
+ "usage": {
+  "completion_tokens": 1982,
+  "prompt_tokens": 4588,
+  "total_tokens": 6570,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 1886,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.021747,
+   "upstream_inference_prompt_cost": 0.006882,
+   "upstream_inference_completions_cost": 0.014865
+  }
+ }
+}

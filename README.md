@@ -44,6 +44,8 @@
 - [How well it matches the creator](#how-well-it-matches-the-creator)
 - [What I fixed along the way](#what-i-fixed-along-the-way)
 - [Known disagreements](#known-disagreements)
+- [Re-run with rules in his favor](#re-run-with-rules-in-his-favor)
+- [How to audit a label](#how-to-audit-a-label)
 - [Reproduce it](#reproduce-it)
 - [Analyze any creator](#analyze-any-creator)
 - [What's inside](#whats-inside)
@@ -85,6 +87,13 @@ So this repo checks it three ways: on **his own 60 videos**, on **all 464 of his
 ---
 
 ## Results
+
+There are two labeling runs. The tables below are the **published run**. The **fair run** re-labels all 464 videos with rules written in his favor ([details](#re-run-with-rules-in-his-favor)); it changes 28 labels and not the conclusion.
+
+| Run | Prompts | Labels | Defending women, all 464 | Since April 1 | Agreement with his own labels (tuning / held-out) |
+| --- | --- | --- | ---: | ---: | ---: |
+| Published | [`prompts/`](prompts/) | [`results/labels.csv`](results/labels.csv) | 18 (6th of 7) | 13 (7th of 7) | 29/30 · 25/30 |
+| Fair, in his favor | [`prompts/runs/fair/`](prompts/runs/fair/) | [`results/runs/fair/labels.csv`](results/runs/fair/labels.csv) | 21 (6th of 7) | 16 (6th of 7) | 29/30 · 25/30 |
 
 ### In his own example, he's right
 
@@ -221,6 +230,45 @@ If you find another one, open an issue with the video id and the second of the t
 
 ---
 
+## Re-run with rules in his favor
+
+His strongest example, the [Lamine Yamal video](https://www.tiktok.com/@ilyas.abdulin/video/7666031724060495126), debunks a fake rumor about one specific woman. The published rules labeled it news, because "defending women" meant answering a claim about women as a group. That is a defensible line, but it is a line I drew, so I re-ran everything with rules that count it, and wrote real edge cases from his channel into the examples. Every change applies to men identically. The exact changes, and why none of the example videos can affect the score against his labels, are in [`prompts/runs/fair/CHANGES.md`](prompts/runs/fair/CHANGES.md).
+
+| Category | All 464, published | All 464, fair | Since April 1, published | Since April 1, fair |
+| --- | ---: | ---: | ---: | ---: |
+| Miscellaneous | 242 (#1) | 233 (#1) | 55 (#2) | 48 (#2) |
+| Defending men | 122 (#2) | 126 (#2) | 60 (#1) | 64 (#1) |
+| Mixed | 22 (#3) | 26 (#3) | 17 (#5) | 18 (#5) |
+| Politics | 21 (#5) | 23 (#4) | 21 (#4) | 23 (#3) |
+| Debates | 22 (#3) | 22 (#5) | 22 (#3) | 22 (#4) |
+| **Defending women** | **18 (#6)** | **21 (#6)** | **13 (#7)** | **16 (#6)** |
+| News | 17 (#7) | 13 (#7) | 14 (#6) | 11 (#7) |
+
+- **28 of 464 labels changed**, in both directions: defending women gained 4 videos and lost 1; defending men gained 10 and lost 6. Every change, with all ten votes and both referee reasons, is in [`results/runs/fair/changes.csv`](results/runs/fair/changes.csv).
+- **Defending women is still 6th of 7** across all his videos, and 6th since April 1. Its share of views goes from 2.5% to 3.8%; defending men's goes from 47.1% to 48.1%.
+- **Agreement with his own labels is unchanged**: 29 of 30 on the tuning videos and 25 of 30 held out.
+- **What it cost:** $6.98 in model calls, itemized per model in [`results/runs/fair/cost.json`](results/runs/fair/cost.json).
+
+```bash
+python3 src/classify.py --run fair && python3 src/adjudicate.py --run fair && python3 src/labels.py --run fair
+python3 src/count.py --run fair --since 2025-01-01 && python3 src/count.py --run fair
+python3 src/changes.py --run fair          # every label that differs from the published run
+```
+
+`--run NAME` reads prompts from `prompts/runs/NAME/` (any file it does not override comes from `prompts/`) and writes to `results/runs/NAME/`, so the published results are never touched. Leave it out for the published run.
+
+---
+
+## How to audit a label
+
+1. Find the video in [`results/labels.csv`](results/labels.csv) (or the fair run's). Each row has the final label, who decided it, and every model's first and second choice.
+2. Read why in [`results/reasons.csv`](results/reasons.csv): one row per model per video with the claim it identified, its reason, and the second of the video where the claim is made.
+3. Open the transcript at that second: `data/transcripts/<id>.json` has every line with its timestamp. The link to the video is in both CSVs.
+4. Check it against the rules: [`prompts/voter.md`](prompts/voter.md) for the published run, [`prompts/runs/fair/voter.md`](prompts/runs/fair/voter.md) for the fair one.
+5. Disagree? [Open a label dispute](../../issues/new?template=dispute-a-label.md) with the video id and the transcript second that shows it.
+
+---
+
 ## Reproduce it
 
 Everything you need is already in this repo, so you can recount without calling any model:
@@ -234,6 +282,8 @@ python3 src/labels.py                  # one final label per video -> results/la
 python3 src/count.py                   # videos and views per category since April 1
 python3 src/score.py --set holdout     # agreement with his own labels
 python3 src/close_calls.py             # the videos worth watching yourself
+python3 src/reasons.py                 # every model's reason, one row per video per model
+python3 src/cost.py                    # what the run cost at today's prices
 python3 src/charts.py                  # redraw the charts in assets/
 ```
 
@@ -273,14 +323,20 @@ data/
 prompts/
   voter.md             the prompt every voter receives
   adjudicator.md       the referee's prompt
+  runs/fair/           the fair run's prompts and CHANGES.md, the exact diff
   schema.json          the JSON every model must return
 results/
   voters/<model>/      every answer from every voter, one file per video
   adjudicator/         the referee's call on each disputed video
   labels.csv           the final label for every video, with all five votes
   close-calls.csv      the videos where the models disagree about defending women
+  reasons.csv          every model's claim, reason and timestamp, one row per video per model
+  cost.json            tokens and price per model for this run
   summary-*.json       the counts behind the tables above
-src/                   collect, transcribe, classify, adjudicate, labels, count, score, close_calls, charts
+  runs/fair/           the fair run: the same files, plus changes.csv
+src/                   collect, transcribe, classify, adjudicate, labels, count, score, close_calls, charts,
+                       reasons, changes, cost
+.github/ISSUE_TEMPLATE the label-dispute form
 models.json            which models vote and which one referees
 ```
 
@@ -288,7 +344,7 @@ models.json            which models vote and which one referees
 
 ## Cost
 
-One full run (five voters on 464 videos plus the referee on the disputed ones) costs about **$5** in model calls. Transcribing 464 videos with Whisper cost about **$7**. All the tuning and re-runs described above came to about **$17** in total. Recounting from the data in this repo is free.
+One full run (five voters on 464 videos plus the referee on the disputed ones) costs about **$7** in model calls at November 20, 2026 prices: **$6.80** for the published run and **$6.98** for the fair run, itemized per model in each run's `cost.json`. Transcribing 464 videos with Whisper cost about **$7**. All the tuning and re-runs described above came to about **$17** in total. Recounting from the data in this repo is free.
 
 ---
 

@@ -1,0 +1,42 @@
+{
+ "id": "7596671213645253910",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "news",
+  "claim_answered": "Ne-Yo’s arrangement is fair and radically honest because the women chose to be exclusive",
+  "reason": "Rejects Ne-Yo’s justification of a one-sided arrangement that gives him options the women don’t have.",
+  "evidence_seconds": 116
+ },
+ "usage": {
+  "completion_tokens": 735,
+  "prompt_tokens": 3940,
+  "total_tokens": 4675,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 659,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 1122,
+   "cached_tokens": 2815,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0005362,
+   "upstream_inference_prompt_cost": 0.0001687,
+   "upstream_inference_completions_cost": 0.0003675
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": "7682113438805462294",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "news",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "none",
+  "reason": "Mainly reports and explains the Lindsay Clancy mistrial and next steps; no claim about men or women is answered.",
+  "evidence_seconds": 13
+ },
+ "usage": {
+  "completion_tokens": 326,
+  "prompt_tokens": 6155,
+  "total_tokens": 6481,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 232,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0007785,
+   "upstream_inference_prompt_cost": 0.0006155,
+   "upstream_inference_completions_cost": 0.000163
+  }
+ }
+}

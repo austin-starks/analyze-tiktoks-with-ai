@@ -1,0 +1,78 @@
+{
+ "id": "7633326089485536534",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "category": "politics",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "none",
+  "reason": "Answers no claim about men or women; Rule 3 puts political history of rights, revolutions, and voting laws in politics.",
+  "evidence_seconds": 170
+ },
+ "reviewers": [
+  {
+   "reviewer": 1,
+   "category": "politics",
+   "close_second": "women",
+   "claim_answered": "none",
+   "reason": "Explains feminism’s historical and political origins; recounting arguments against women’s inferiority could also be read as defending women."
+  },
+  {
+   "reviewer": 2,
+   "category": "politics",
+   "close_second": "misc",
+   "claim_answered": "none",
+   "reason": "Historical explainer on feminism's origins; political movement history, not a rebuttal to a claim about men or women"
+  },
+  {
+   "reviewer": 3,
+   "category": "women",
+   "close_second": "misc",
+   "claim_answered": "Women are naturally inferior to men",
+   "reason": "Rebuts historical claim women are naturally inferior, arguing exclusion from education caused apparent inferiority"
+  },
+  {
+   "reviewer": 4,
+   "category": "misc",
+   "close_second": "women",
+   "claim_answered": "none",
+   "reason": "Historical overview of feminism's origins; it answers no current claim about either sex, though it notes women were treated as inferior."
+  },
+  {
+   "reviewer": 5,
+   "category": "misc",
+   "close_second": "politics",
+   "claim_answered": "none",
+   "reason": "Educational history video explaining the origins of feminism; answers no specific claim about men or women."
+  }
+ ],
+ "usage": {
+  "completion_tokens": 2133,
+  "prompt_tokens": 3882,
+  "total_tokens": 6015,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 2060,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0218205,
+   "upstream_inference_prompt_cost": 0.005823,
+   "upstream_inference_completions_cost": 0.0159975
+  }
+ }
+}

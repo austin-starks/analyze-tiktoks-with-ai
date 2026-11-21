@@ -1,0 +1,42 @@
+{
+ "id": "7569287321858608406",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "A wife's list of husband's chores and gifts is called bare minimum, so he is not doing enough",
+  "reason": "Mocks a wife's entitlement and sides with the husband, pushing back on a claim that runs men down; could be read as light relationship commentary",
+  "evidence_seconds": 63
+ },
+ "usage": {
+  "completion_tokens": 607,
+  "prompt_tokens": 5326,
+  "total_tokens": 5933,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 482,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0008361,
+   "upstream_inference_prompt_cost": 0.0005326,
+   "upstream_inference_completions_cost": 0.0003035
+  }
+ }
+}

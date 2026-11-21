@@ -1,0 +1,42 @@
+{
+ "id": "7609645328962161942",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Women don't choose bad men; men hide who they are until comfortable",
+  "reason": "Pushes back on a claim that blames men for women's bad relationship choices instead of personal accountability.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "completion_tokens": 761,
+  "prompt_tokens": 3320,
+  "total_tokens": 4081,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 672,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0106875,
+   "upstream_inference_prompt_cost": 0.00498,
+   "upstream_inference_completions_cost": 0.0057075
+  }
+ }
+}

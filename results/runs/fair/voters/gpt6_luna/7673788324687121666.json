@@ -1,0 +1,42 @@
+{
+ "id": "7673788324687121666",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "debate",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "There is little to no evidence that women are hypergamous.",
+  "reason": "Replies to a creator who challenged his earlier video, rebutting the creator’s claims with relationship and income data.",
+  "evidence_seconds": 481
+ },
+ "usage": {
+  "completion_tokens": 180,
+  "prompt_tokens": 6059,
+  "total_tokens": 6239,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 108,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 3241,
+   "cached_tokens": 2815,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.000523575,
+   "upstream_inference_prompt_cost": 0.000433575,
+   "upstream_inference_completions_cost": 9e-05
+  }
+ }
+}

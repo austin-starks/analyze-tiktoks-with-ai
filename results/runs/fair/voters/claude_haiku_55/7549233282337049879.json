@@ -1,0 +1,42 @@
+{
+ "id": "7549233282337049879",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "none",
+  "reason": "Relationship advice to a Reddit poster about a dead bedroom; he answers no claim about men or women in general.",
+  "evidence_seconds": 155
+ },
+ "usage": {
+  "completion_tokens": 371,
+  "prompt_tokens": 6045,
+  "total_tokens": 6416,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 280,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.00079,
+   "upstream_inference_prompt_cost": 0.0006045,
+   "upstream_inference_completions_cost": 0.0001855
+  }
+ }
+}

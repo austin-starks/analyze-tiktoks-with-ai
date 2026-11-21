@@ -1,0 +1,42 @@
+{
+ "id": "7613782911589813526",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "Is it normal for a boyfriend to constantly check his girlfriend's phone?",
+  "reason": "Viewer relationship Q&A giving personal dating advice; it pushes back on no claim that runs either sex down.",
+  "evidence_seconds": 158
+ },
+ "usage": {
+  "completion_tokens": 498,
+  "prompt_tokens": 5934,
+  "total_tokens": 6432,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 380,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0008424,
+   "upstream_inference_prompt_cost": 0.0005934,
+   "upstream_inference_completions_cost": 0.000249
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": "7660193138450910497",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "mixed",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "A 20-year study shows divorce made women happier than at any point in their adult lives",
+  "reason": "Fact-checks a pro-women claim, but the study covers both sexes and his verdict addresses both men's and women's well-being, like Example 6.",
+  "evidence_seconds": 173
+ },
+ "usage": {
+  "completion_tokens": 572,
+  "prompt_tokens": 6248,
+  "total_tokens": 6820,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 445,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0009108,
+   "upstream_inference_prompt_cost": 0.0006248,
+   "upstream_inference_completions_cost": 0.000286
+  }
+ }
+}

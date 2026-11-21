@@ -1,0 +1,42 @@
+{
+ "id": "7556684299332881686",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "Men asking women out on coffee dates is unacceptable",
+  "reason": "General dating advice for men; his primary focus is advising men to keep first dates simple and avoid high-maintenance demands.",
+  "evidence_seconds": 31
+ },
+ "usage": {
+  "completion_tokens": 3381,
+  "prompt_tokens": 3422,
+  "total_tokens": 6803,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 3294,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0304905,
+   "upstream_inference_prompt_cost": 0.005133,
+   "upstream_inference_completions_cost": 0.0253575
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": "7642336810609233174",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "5 in 10 men badgered a woman until she changed her answer",
+  "reason": "Rebuts a claim that paints men as sexual harassers by arguing the study item was broader than that paraphrase.",
+  "evidence_seconds": 251
+ },
+ "usage": {
+  "completion_tokens": 366,
+  "prompt_tokens": 4922,
+  "total_tokens": 5288,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 289,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 2104,
+   "cached_tokens": 2815,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.00047445,
+   "upstream_inference_prompt_cost": 0.00029145,
+   "upstream_inference_completions_cost": 0.000183
+  }
+ }
+}

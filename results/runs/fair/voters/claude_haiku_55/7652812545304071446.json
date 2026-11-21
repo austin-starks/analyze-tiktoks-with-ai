@@ -1,0 +1,42 @@
+{
+ "id": "7652812545304071446",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Companies charge women more for identical products just because they are marketed to women",
+  "reason": "Rebuts the pink tax claim that women face a price disadvantage, downplaying women's disadvantage and noting men also pay more elsewhere",
+  "evidence_seconds": 70
+ },
+ "usage": {
+  "completion_tokens": 695,
+  "prompt_tokens": 6264,
+  "total_tokens": 6959,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 573,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0009739,
+   "upstream_inference_prompt_cost": 0.0006264,
+   "upstream_inference_completions_cost": 0.0003475
+  }
+ }
+}

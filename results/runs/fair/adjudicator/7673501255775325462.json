@@ -1,0 +1,78 @@
+{
+ "id": "7673501255775325462",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Requiring an all-female chess team to include a male player under the mixed-team rule is unfair.",
+  "reason": "Decision Rule 2: pushes back on a claim favoring women at men's expense by exposing a double standard against men.",
+  "evidence_seconds": 151
+ },
+ "reviewers": [
+  {
+   "reviewer": 1,
+   "category": "mixed",
+   "close_second": "women",
+   "claim_answered": "Requiring an all-female team to include a man is unfair, even though the same rule requires all-male teams to include a woman",
+   "reason": "Addresses the fairness of a rule governing both sexes and rejects the complaint as a double standard; could also be read as rebutting a claim of unfairness to women."
+  },
+  {
+   "reviewer": 2,
+   "category": "mixed",
+   "close_second": "news",
+   "claim_answered": "The mixed-team rule is unfair because it forces an all-female team to include a man",
+   "reason": "Answers a claim about a rule affecting both sexes, comparing men's and women's obligations; not defending one sex"
+  },
+  {
+   "reviewer": 3,
+   "category": "men",
+   "close_second": "women",
+   "claim_answered": "The mixed-team rule is unfair because it forces an all-female team to include a man",
+   "reason": "Pushes back on women's fairness claim, defending men's equal obligation to make room for women"
+  },
+  {
+   "reviewer": 4,
+   "category": "mixed",
+   "close_second": "women",
+   "claim_answered": "An all-female team says the mixed-team rule requiring a male player is unfair to women",
+   "reason": "Rebuts the complaint about a sex-mixing rule by arguing the double standard cuts both ways; the claim concerns both sexes, not one."
+  },
+  {
+   "reviewer": 5,
+   "category": "men",
+   "close_second": "mixed",
+   "claim_answered": "The rule requiring an all-female chess team to include at least one male player is unfair",
+   "reason": "Pushes back on the complaint that including a man is unfair, exposing a double standard that favors women at men's expense."
+  }
+ ],
+ "usage": {
+  "completion_tokens": 3690,
+  "prompt_tokens": 3899,
+  "total_tokens": 7589,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 3587,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0335235,
+   "upstream_inference_prompt_cost": 0.0058485,
+   "upstream_inference_completions_cost": 0.027675
+  }
+ }
+}

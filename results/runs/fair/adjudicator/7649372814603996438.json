@@ -1,0 +1,78 @@
+{
+ "id": "7649372814603996438",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "politics",
+  "claim_answered": "none",
+  "reason": "Rule 3 misc: educational history explainer on feminism's 1792-1848 gap answering no claim about men or women; political context is historical background.",
+  "evidence_seconds": 40
+ },
+ "reviewers": [
+  {
+   "reviewer": 1,
+   "category": "politics",
+   "close_second": "misc",
+   "claim_answered": "Why did feminism take 56 years to develop into a movement after its early writings?",
+   "reason": "Explains political and legal history around the women’s movement; it does not push back on a claim about either sex."
+  },
+  {
+   "reviewer": 2,
+   "category": "politics",
+   "close_second": "misc",
+   "claim_answered": "Feminism went straight from 1792 to the 1848 Seneca Falls Convention",
+   "reason": "Political history of feminism; no claim about men or women"
+  },
+  {
+   "reviewer": 3,
+   "category": "misc",
+   "close_second": "none",
+   "claim_answered": "none",
+   "reason": "History explainer on feminism's 56-year gap; answers no claim attacking women"
+  },
+  {
+   "reviewer": 4,
+   "category": "misc",
+   "close_second": "politics",
+   "claim_answered": "none",
+   "reason": "Educational history of feminism's first-wave gap, answering no claim about men or women; legal and political context is background."
+  },
+  {
+   "reviewer": 5,
+   "category": "misc",
+   "close_second": "politics",
+   "claim_answered": "none",
+   "reason": "An educational history video explaining the gap in early feminist history; it answers no specific claim about either sex."
+  }
+ ],
+ "usage": {
+  "completion_tokens": 3480,
+  "prompt_tokens": 4165,
+  "total_tokens": 7645,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 3396,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0323475,
+   "upstream_inference_prompt_cost": 0.0062475,
+   "upstream_inference_completions_cost": 0.0261
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": "7556684299332881686",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Men should offer more than a coffee or workout date to earn a woman’s time",
+  "reason": "Pushes back on expectations for men’s first dates; it could also be read as his own dating advice.",
+  "evidence_seconds": 12
+ },
+ "usage": {
+  "completion_tokens": 591,
+  "prompt_tokens": 3387,
+  "total_tokens": 3978,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 516,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 569,
+   "cached_tokens": 2815,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.000395075,
+   "upstream_inference_prompt_cost": 9.9575e-05,
+   "upstream_inference_completions_cost": 0.0002955
+  }
+ }
+}

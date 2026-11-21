@@ -1,0 +1,42 @@
+{
+ "id": "7652812545304071446",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Pink tax: companies charge women more because products are marketed to women",
+  "reason": "Debunks pink tax claim; says controlled prices show no systematic gap and men are unfairly blamed",
+  "evidence_seconds": 174
+ },
+ "usage": {
+  "completion_tokens": 5011,
+  "prompt_tokens": 4186,
+  "total_tokens": 9197,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 4937,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 2688,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.003322328,
+   "upstream_inference_prompt_cost": 0.000315728,
+   "upstream_inference_completions_cost": 0.0030066
+  }
+ }
+}

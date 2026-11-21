@@ -1,0 +1,78 @@
+{
+ "id": "7685377332705529110",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Hiring bias in society is actually against men, not women",
+  "reason": "Rule 2: He rebuts a claim denying women's hiring disadvantage ('not women'), even while confirming bias against men in female-typed jobs.",
+  "evidence_seconds": 16
+ },
+ "reviewers": [
+  {
+   "reviewer": 1,
+   "category": "women",
+   "close_second": "mixed",
+   "claim_answered": "Hiring bias is against men, not women",
+   "reason": "Challenges the claim’s denial of women’s hiring disadvantage while also reporting discrimination against men in female-typed jobs."
+  },
+  {
+   "reviewer": 2,
+   "category": "mixed",
+   "close_second": "women",
+   "claim_answered": "Hiring discrimination is against men, not women",
+   "reason": "Rejects claim bias is against men not women, but acknowledges discrimination against men in female-type jobs; answers both sides"
+  },
+  {
+   "reviewer": 3,
+   "category": "women",
+   "close_second": "none",
+   "claim_answered": "Hiring bias in society is against men and not women",
+   "reason": "Pushes back on claim denying women's disadvantage; confirms men's only in female-typed jobs"
+  },
+  {
+   "reviewer": 4,
+   "category": "mixed",
+   "close_second": "women",
+   "claim_answered": "Hiring discrimination is against men, not women, according to a 2023 meta-analysis",
+   "reason": "Rebuts an overbroad claim by showing bias against each sex depends on job type, answering both sides rather than defending one sex"
+  },
+  {
+   "reviewer": 5,
+   "category": "women",
+   "close_second": "mixed",
+   "claim_answered": "Hiring bias in society is actually against men and not women",
+   "reason": "Pushes back on a claim downplaying discrimination against women by asserting hiring bias only affects men"
+  }
+ ],
+ "usage": {
+  "completion_tokens": 1682,
+  "prompt_tokens": 3921,
+  "total_tokens": 5603,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 1584,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0184965,
+   "upstream_inference_prompt_cost": 0.0058815,
+   "upstream_inference_completions_cost": 0.012615
+  }
+ }
+}

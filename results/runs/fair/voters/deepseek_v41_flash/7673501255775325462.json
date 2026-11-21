@@ -1,0 +1,42 @@
+{
+ "id": "7673501255775325462",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "mixed",
+  "borderline": true,
+  "alternate_category": "news",
+  "claim_answered": "The mixed-team rule is unfair because it forces an all-female team to include a man",
+  "reason": "Answers a claim about a rule affecting both sexes, comparing men's and women's obligations; not defending one sex",
+  "evidence_seconds": 100
+ },
+ "usage": {
+  "completion_tokens": 5236,
+  "prompt_tokens": 3965,
+  "total_tokens": 9201,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 5154,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 2828,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.003320634,
+   "upstream_inference_prompt_cost": 0.000179034,
+   "upstream_inference_completions_cost": 0.0031416
+  }
+ }
+}

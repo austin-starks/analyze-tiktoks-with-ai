@@ -1,0 +1,42 @@
+{
+ "id": "7562552036705848598",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "A woman who talks feminism or privilege on a date is a buzzkill, and that's who she is",
+  "reason": "Quoted viral claim runs women down as buzzkills for discussing gender politics; reply framed as rebuttal, though his own stance is unclear.",
+  "evidence_seconds": 34
+ },
+ "usage": {
+  "completion_tokens": 628,
+  "prompt_tokens": 5199,
+  "total_tokens": 5827,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 496,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0008339,
+   "upstream_inference_prompt_cost": 0.0005199,
+   "upstream_inference_completions_cost": 0.000314
+  }
+ }
+}

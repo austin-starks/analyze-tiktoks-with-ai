@@ -1,0 +1,42 @@
+{
+ "id": "7694695354238766369",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "news",
+  "claim_answered": "Seven men got away with gang rape by writing essays, and 975 perpetrators walk free.",
+  "reason": "Corrects a misleading account that presents allegations against specific men as established crimes and estimated incidents as guilty perpetrators.",
+  "evidence_seconds": 98
+ },
+ "usage": {
+  "completion_tokens": 533,
+  "prompt_tokens": 4688,
+  "total_tokens": 5221,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 458,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 1870,
+   "cached_tokens": 2815,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0005287,
+   "upstream_inference_prompt_cost": 0.0002622,
+   "upstream_inference_completions_cost": 0.0002665
+  }
+ }
+}

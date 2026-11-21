@@ -1,0 +1,42 @@
+{
+ "id": "7628495397496818966",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "mixed",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "Competition between women is manufactured by the system, and women naturally collaborate more than men",
+  "reason": "Pushes back on a claim favoring women over men; he says competition is natural for everyone but also grants women's higher agreeableness, so both sexes are addressed, as in the women-and-money example",
+  "evidence_seconds": 35
+ },
+ "usage": {
+  "completion_tokens": 1040,
+  "prompt_tokens": 5815,
+  "total_tokens": 6855,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 904,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0011015,
+   "upstream_inference_prompt_cost": 0.0005815,
+   "upstream_inference_completions_cost": 0.00052
+  }
+ }
+}

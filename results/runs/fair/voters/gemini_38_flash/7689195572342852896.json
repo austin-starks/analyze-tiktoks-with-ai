@@ -1,0 +1,42 @@
+{
+ "id": "7689195572342852896",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "news",
+  "borderline": true,
+  "alternate_category": "politics",
+  "claim_answered": "Converse intentionally published an ad with KKK and lynching imagery",
+  "reason": "Reports on and investigates a viral corporate advertising controversy, finding no evidence of deliberate racism",
+  "evidence_seconds": 110
+ },
+ "usage": {
+  "completion_tokens": 900,
+  "prompt_tokens": 4011,
+  "total_tokens": 4911,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 815,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 798,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0116892,
+   "upstream_inference_prompt_cost": 0.0049392,
+   "upstream_inference_completions_cost": 0.00675
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": "7604195293206154518",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Women who use dating apps or go to clubs are bad choices for relationships",
+  "reason": "Rejects a generalization that treats women’s dating-app use or occasional clubbing as a red flag; the dating-advice framing makes misc a plausible alternative.",
+  "evidence_seconds": 142
+ },
+ "usage": {
+  "completion_tokens": 374,
+  "prompt_tokens": 3900,
+  "total_tokens": 4274,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 291,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 1082,
+   "cached_tokens": 2815,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0003507,
+   "upstream_inference_prompt_cost": 0.0001637,
+   "upstream_inference_completions_cost": 0.000187
+  }
+ }
+}

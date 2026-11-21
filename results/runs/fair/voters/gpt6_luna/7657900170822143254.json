@@ -1,0 +1,42 @@
+{
+ "id": "7657900170822143254",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "politics",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Rent control often does more harm than good.",
+  "reason": "Explains the economic effects of rent control, a housing policy, without making a claim about men or women.",
+  "evidence_seconds": 8
+ },
+ "usage": {
+  "completion_tokens": 161,
+  "prompt_tokens": 4122,
+  "total_tokens": 4283,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 93,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 1304,
+   "cached_tokens": 2815,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.00027195,
+   "upstream_inference_prompt_cost": 0.00019145,
+   "upstream_inference_completions_cost": 8.05e-05
+  }
+ }
+}

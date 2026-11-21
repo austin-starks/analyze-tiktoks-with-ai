@@ -1,0 +1,42 @@
+{
+ "id": "7625272494852672790",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "mixed",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "Women earn 82 cents for every dollar men earn, indicating a substantial gender pay gap.",
+  "reason": "Answers a comparison between men’s and women’s earnings, arguing the raw figure is misleading while acknowledging a smaller unexplained gap.",
+  "evidence_seconds": 156
+ },
+ "usage": {
+  "completion_tokens": 1327,
+  "prompt_tokens": 3802,
+  "total_tokens": 5129,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 1248,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 984,
+   "cached_tokens": 2815,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.00081495,
+   "upstream_inference_prompt_cost": 0.00015145,
+   "upstream_inference_completions_cost": 0.0006635
+  }
+ }
+}

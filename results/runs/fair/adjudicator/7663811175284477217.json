@@ -1,0 +1,78 @@
+{
+ "id": "7663811175284477217",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "category": "politics",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Being a public-school student is more dangerous than being a police officer",
+  "reason": "No sex claim; Rule 3 puts debates over policing and gun fatalities in politics, though the statistical focus makes misc plausible.",
+  "evidence_seconds": 132
+ },
+ "reviewers": [
+  {
+   "reviewer": 1,
+   "category": "misc",
+   "close_second": "politics",
+   "claim_answered": "Being a public-school student is more dangerous than being a police officer",
+   "reason": "Fact-checks an occupational-risk comparison using per-capita rates; it is not about gender or a specific political issue."
+  },
+  {
+   "reviewer": 2,
+   "category": "misc",
+   "close_second": "none",
+   "claim_answered": "Being a public school student is more dangerous than being a police officer",
+   "reason": "Fact-checks a statistical claim about students versus police; no claim about men or women, and not politics or news."
+  },
+  {
+   "reviewer": 3,
+   "category": "misc",
+   "close_second": "none",
+   "claim_answered": "Being a public school student is more dangerous than being a police officer",
+   "reason": "Fact-checks per-capita rates for students versus police; no claim about men or women"
+  },
+  {
+   "reviewer": 4,
+   "category": "politics",
+   "close_second": "misc",
+   "claim_answered": "Being a public-school student is more dangerous than being a police officer, based on raw incident numbers",
+   "reason": "Rebuts a creator's police-danger comparison on gun violence and policing, a contested social-policy debate with no claim about men or women"
+  },
+  {
+   "reviewer": 5,
+   "category": "politics",
+   "close_second": "misc",
+   "claim_answered": "Being a public school student is more dangerous than being a police officer",
+   "reason": "Debunks a political claim comparing police fatality rates with school shooting statistics"
+  }
+ ],
+ "usage": {
+  "completion_tokens": 3116,
+  "prompt_tokens": 3811,
+  "total_tokens": 6927,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 3020,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0290865,
+   "upstream_inference_prompt_cost": 0.0057165,
+   "upstream_inference_completions_cost": 0.02337
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": "7663811175284477217",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "politics",
+  "claim_answered": "Being a public-school student is more dangerous than being a police officer",
+  "reason": "Fact-checks an occupational-risk comparison using per-capita rates; it is not about gender or a specific political issue.",
+  "evidence_seconds": 8
+ },
+ "usage": {
+  "completion_tokens": 267,
+  "prompt_tokens": 3759,
+  "total_tokens": 4026,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 192,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 941,
+   "cached_tokens": 2815,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.000279575,
+   "upstream_inference_prompt_cost": 0.000146075,
+   "upstream_inference_completions_cost": 0.0001335
+  }
+ }
+}

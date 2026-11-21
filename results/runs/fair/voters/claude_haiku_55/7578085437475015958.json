@@ -1,0 +1,42 @@
+{
+ "id": "7578085437475015958",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "A woman says the wrong man just appears in her life and she has no say in who she dates",
+  "reason": "Mainly general dating advice on red flags and choosing partners; the pushback on her fatalism is not a defense of either sex",
+  "evidence_seconds": 20
+ },
+ "usage": {
+  "completion_tokens": 592,
+  "prompt_tokens": 5320,
+  "total_tokens": 5912,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 479,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.000828,
+   "upstream_inference_prompt_cost": 0.000532,
+   "upstream_inference_completions_cost": 0.000296
+  }
+ }
+}

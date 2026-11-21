@@ -1,0 +1,42 @@
+{
+ "id": "7548829005240143126",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "misc",
+  "claim_answered": "none",
+  "evidence_seconds": 62,
+  "reason": "His own dating advice for men about intimacy; he answers no claim about men or women"
+ },
+ "usage": {
+  "completion_tokens": 3828,
+  "prompt_tokens": 3450,
+  "total_tokens": 7278,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 3650,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.002259,
+   "upstream_inference_prompt_cost": 0.000345,
+   "upstream_inference_completions_cost": 0.001914
+  }
+ }
+}

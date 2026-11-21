@@ -1,0 +1,42 @@
+{
+ "id": "7643127043843968278",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Eight in ten men have lied to convince a woman to sleep with them",
+  "reason": "Challenges a misleading statistic that portrays men generally as sexual manipulators.",
+  "evidence_seconds": 175
+ },
+ "usage": {
+  "completion_tokens": 478,
+  "prompt_tokens": 4219,
+  "total_tokens": 4697,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 414,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 1401,
+   "cached_tokens": 2815,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.000442575,
+   "upstream_inference_prompt_cost": 0.000203575,
+   "upstream_inference_completions_cost": 0.000239
+  }
+ }
+}

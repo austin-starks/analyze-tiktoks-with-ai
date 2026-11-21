@@ -1,0 +1,42 @@
+{
+ "id": "7662739718399986977",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "mixed",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Women are attracted to Haaland's energy, not his looks and status",
+  "reason": "Fact-checks a creator's pro-women claim about attraction; says looks, status, and energy all matter together, so it answers a claim about both sexes",
+  "evidence_seconds": 54
+ },
+ "usage": {
+  "completion_tokens": 5710,
+  "prompt_tokens": 4036,
+  "total_tokens": 9746,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 5621,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 2688,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.003711728,
+   "upstream_inference_prompt_cost": 0.000285728,
+   "upstream_inference_completions_cost": 0.003426
+  }
+ }
+}

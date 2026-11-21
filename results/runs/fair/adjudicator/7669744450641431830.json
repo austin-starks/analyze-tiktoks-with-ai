@@ -1,0 +1,78 @@
+{
+ "id": "7669744450641431830",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Men are twice as likely as women not to wash hands, and half who wash skip soap.",
+  "reason": "Rule 2: the claim runs men down on hygiene; his partial concession and verdict do not change the category.",
+  "evidence_seconds": 8
+ },
+ "reviewers": [
+  {
+   "reviewer": 1,
+   "category": "misc",
+   "close_second": "men",
+   "claim_answered": "Men are twice as likely as women not to wash their hands, and half skip soap",
+   "reason": "He fact-checks the claim and largely confirms it, rather than pushing back on a claim that runs men down."
+  },
+  {
+   "reviewer": 2,
+   "category": "men",
+   "close_second": "mixed",
+   "claim_answered": "Men are twice as likely as women not to wash hands, and half who wash don't use soap",
+   "reason": "Fact-checks a negative claim about men's hygiene; he concedes it is mostly true, so not a defense, but claim attacks men."
+  },
+  {
+   "reviewer": 3,
+   "category": "mixed",
+   "close_second": "men",
+   "claim_answered": "Men are twice as likely as women not to wash hands after restroom",
+   "reason": "Fact-checks comparative claim about both sexes and confirms men wash less; he defends neither sex"
+  },
+  {
+   "reviewer": 4,
+   "category": "men",
+   "close_second": "misc",
+   "claim_answered": "Men are twice as likely as women to skip handwashing, and half don't use soap",
+   "reason": "Claim runs men down on hygiene; he mostly concedes it but disputes precise numbers, and his verdict does not change the category"
+  },
+  {
+   "reviewer": 5,
+   "category": "men",
+   "close_second": "misc",
+   "claim_answered": "Men are twice as likely as women not to wash hands after using the restroom",
+   "reason": "Evaluates a claim attacking men's hygiene; under his system, the target of the answered claim determines the category regardless of verdict."
+  }
+ ],
+ "usage": {
+  "completion_tokens": 2261,
+  "prompt_tokens": 3765,
+  "total_tokens": 6026,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 2165,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.022605,
+   "upstream_inference_prompt_cost": 0.0056475,
+   "upstream_inference_completions_cost": 0.0169575
+  }
+ }
+}

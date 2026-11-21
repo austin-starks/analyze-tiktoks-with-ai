@@ -1,0 +1,42 @@
+{
+ "id": "7630453544813972758",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "misc",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "Men who ask to define feminism are dismissive and should wrap it up",
+  "evidence_seconds": 14,
+  "reason": "He defends men mocked for asking to define feminism, arguing definition matters"
+ },
+ "usage": {
+  "completion_tokens": 8551,
+  "prompt_tokens": 3614,
+  "total_tokens": 12165,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 8298,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0046369,
+   "upstream_inference_prompt_cost": 0.0003614,
+   "upstream_inference_completions_cost": 0.0042755
+  }
+ }
+}

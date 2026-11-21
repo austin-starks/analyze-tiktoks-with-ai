@@ -1,0 +1,42 @@
+{
+ "id": "7705134218665266464",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "politics",
+  "claim_answered": "Women are five times more likely than men to show in-group bias and voted for Clinton because she was a woman.",
+  "reason": "Clarifies the study does not show women were more likely to discriminate or that gender was the main reason they supported Clinton.",
+  "evidence_seconds": 199
+ },
+ "usage": {
+  "completion_tokens": 333,
+  "prompt_tokens": 4316,
+  "total_tokens": 4649,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 249,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 1498,
+   "cached_tokens": 2815,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0003822,
+   "upstream_inference_prompt_cost": 0.0002157,
+   "upstream_inference_completions_cost": 0.0001665
+  }
+ }
+}

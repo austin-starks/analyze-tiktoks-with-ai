@@ -1,0 +1,42 @@
+{
+ "id": "7567297521848962326",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "men",
+  "claim_answered": "Healthy relationships require men to be more patient, tolerant and obsessed",
+  "evidence_seconds": 8,
+  "reason": "Rebuts claim that men must carry relationship while women just exist"
+ },
+ "usage": {
+  "completion_tokens": 4983,
+  "prompt_tokens": 3396,
+  "total_tokens": 8379,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 4757,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0028311,
+   "upstream_inference_prompt_cost": 0.0003396,
+   "upstream_inference_completions_cost": 0.0024915
+  }
+ }
+}

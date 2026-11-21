@@ -1,0 +1,42 @@
+{
+ "id": "7694695354238766369",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "news",
+  "claim_answered": "975 of 1,000 sexual assault perpetrators walk free and seven Cornell men only wrote essays",
+  "reason": "Debunks misleading claims about the Cornell assault case and statistics portraying men as evading accountability for sexual violence.",
+  "evidence_seconds": 101
+ },
+ "usage": {
+  "completion_tokens": 1999,
+  "prompt_tokens": 4957,
+  "total_tokens": 6956,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 1901,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 2718,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0187587,
+   "upstream_inference_prompt_cost": 0.0037662,
+   "upstream_inference_completions_cost": 0.0149925
+  }
+ }
+}

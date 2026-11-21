@@ -1,0 +1,42 @@
+{
+ "id": "7605147335127076118",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "The subscriber's story implies men choose to be single because women are toxic and damaging",
+  "reason": "Pushes back on the generalization that women are bad after a toxic relationship; much of the video is dating advice, so misc is plausible",
+  "evidence_seconds": 492
+ },
+ "usage": {
+  "completion_tokens": 546,
+  "prompt_tokens": 9274,
+  "total_tokens": 9820,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 431,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0012004,
+   "upstream_inference_prompt_cost": 0.0009274,
+   "upstream_inference_completions_cost": 0.000273
+  }
+ }
+}

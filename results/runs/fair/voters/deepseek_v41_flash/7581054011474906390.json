@@ -1,0 +1,42 @@
+{
+ "id": "7581054011474906390",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men should want a successful, rich, hardcore woman like her; if not, they can't handle it",
+  "reason": "Pushes back on a woman's claim that men can't handle a strong woman, defending men's preference for peace and warmth",
+  "evidence_seconds": 17
+ },
+ "usage": {
+  "completion_tokens": 1713,
+  "prompt_tokens": 3699,
+  "total_tokens": 5412,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 1624,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 2830,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.00233328,
+   "upstream_inference_prompt_cost": 0.00027768,
+   "upstream_inference_completions_cost": 0.0020556
+  }
+ }
+}

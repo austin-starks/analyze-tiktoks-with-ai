@@ -1,0 +1,42 @@
+{
+ "id": "7657605966581599510",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Less than 1% of reported rape allegations by women are false",
+  "reason": "Rebuts the under-1% claim, which makes accusations look reliable and runs accused men down; argues false-report rates are higher",
+  "evidence_seconds": 52
+ },
+ "usage": {
+  "completion_tokens": 999,
+  "prompt_tokens": 6204,
+  "total_tokens": 7203,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 890,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0011199,
+   "upstream_inference_prompt_cost": 0.0006204,
+   "upstream_inference_completions_cost": 0.0004995
+  }
+ }
+}

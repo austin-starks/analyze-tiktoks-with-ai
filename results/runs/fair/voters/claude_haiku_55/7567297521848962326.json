@@ -1,0 +1,42 @@
+{
+ "id": "7567297521848962326",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "A healthy straight relationship requires the man to be more patient, tolerant and obsessed while the woman just exists",
+  "reason": "Pushes back on a claim that puts all emotional labor on men and favors women at men's expense; also framed as relationship advice",
+  "evidence_seconds": 30
+ },
+ "usage": {
+  "completion_tokens": 631,
+  "prompt_tokens": 5144,
+  "total_tokens": 5775,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 502,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0008299,
+   "upstream_inference_prompt_cost": 0.0005144,
+   "upstream_inference_completions_cost": 0.0003155
+  }
+ }
+}

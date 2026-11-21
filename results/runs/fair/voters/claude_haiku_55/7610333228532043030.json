@@ -1,0 +1,42 @@
+{
+ "id": "7610333228532043030",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "none",
+  "reason": "Presents its own dating advice listing signs women will cheat; no pushback on a claim, so it is not a women-defense video.",
+  "evidence_seconds": 5
+ },
+ "usage": {
+  "completion_tokens": 607,
+  "prompt_tokens": 5519,
+  "total_tokens": 6126,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 513,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0008554,
+   "upstream_inference_prompt_cost": 0.0005519,
+   "upstream_inference_completions_cost": 0.0003035
+  }
+ }
+}

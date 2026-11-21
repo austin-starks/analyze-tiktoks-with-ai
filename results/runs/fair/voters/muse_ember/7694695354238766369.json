@@ -1,0 +1,42 @@
+{
+ "id": "7694695354238766369",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "news",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "Seven Cornell men gang-raped a woman, got essays; 975 of 1,000 perpetrators walk free",
+  "evidence_seconds": 53,
+  "reason": "Debunks claims painting accused Cornell men and perpetrators as proven guilty men let walk free"
+ },
+ "usage": {
+  "completion_tokens": 5361,
+  "prompt_tokens": 4748,
+  "total_tokens": 10109,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 5105,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0031553,
+   "upstream_inference_prompt_cost": 0.0004748,
+   "upstream_inference_completions_cost": 0.0026805
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": "7684348410228378902",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "98% of job growth went to women, so matriarchy has arrived and men are being pushed out",
+  "reason": "Debunks the claim that women's job gains mean matriarchy; shows women's share barely moved and men are not shut out.",
+  "evidence_seconds": 254
+ },
+ "usage": {
+  "completion_tokens": 9658,
+  "prompt_tokens": 4645,
+  "total_tokens": 14303,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 9569,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 2688,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.006202328,
+   "upstream_inference_prompt_cost": 0.000407528,
+   "upstream_inference_completions_cost": 0.0057948
+  }
+ }
+}

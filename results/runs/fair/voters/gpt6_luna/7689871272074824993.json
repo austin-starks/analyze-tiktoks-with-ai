@@ -1,0 +1,42 @@
+{
+ "id": "7689871272074824993",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "women",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Mongolian society was a matriarchy where women kept multiple husbands as slaves",
+  "reason": "Debunks an unsupported claim portraying women as naturally dominating and enslaving men.",
+  "evidence_seconds": 169
+ },
+ "usage": {
+  "completion_tokens": 630,
+  "prompt_tokens": 3885,
+  "total_tokens": 4515,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 562,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 1067,
+   "cached_tokens": 2815,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.000476825,
+   "upstream_inference_prompt_cost": 0.000161825,
+   "upstream_inference_completions_cost": 0.000315
+  }
+ }
+}

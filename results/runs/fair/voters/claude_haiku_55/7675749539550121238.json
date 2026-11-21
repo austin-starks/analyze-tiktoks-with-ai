@@ -1,0 +1,42 @@
+{
+ "id": "7675749539550121238",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "news",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "Dean Withers' rape allegations from the Emily account are credible evidence, or the screenshots prove fabrication",
+  "reason": "Explains an ongoing viral case with timeline and evidence; leans toward doubting the accusation, which could be debunking a rumor against one man",
+  "evidence_seconds": 115
+ },
+ "usage": {
+  "completion_tokens": 438,
+  "prompt_tokens": 6054,
+  "total_tokens": 6492,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 303,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0008244,
+   "upstream_inference_prompt_cost": 0.0006054,
+   "upstream_inference_completions_cost": 0.000219
+  }
+ }
+}

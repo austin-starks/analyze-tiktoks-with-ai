@@ -1,0 +1,78 @@
+{
+ "id": "7561020639117659414",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "none",
+  "reason": "Rule 3 (misc): mainly gives men general dating advice against chasing games rather than rebutting a claim running men down.",
+  "evidence_seconds": 26
+ },
+ "reviewers": [
+  {
+   "reviewer": 1,
+   "category": "men",
+   "close_second": "none",
+   "claim_answered": "A man who leaves a woman alone when she asks is dead to her.",
+   "reason": "Pushes back on a claim that faults men for respecting a woman's request for space."
+  },
+  {
+   "reviewer": 2,
+   "category": "men",
+   "close_second": "misc",
+   "claim_answered": "If I tell you to leave me alone and you do, you're dead to me",
+   "reason": "Pushes back on a woman's demand that men ignore her stated boundary and chase her, defending men from a manipulative trap"
+  },
+  {
+   "reviewer": 3,
+   "category": "misc",
+   "close_second": "men",
+   "claim_answered": "none",
+   "reason": "Mainly his own dating advice to men not to chase; opening clip is not a claim running men down"
+  },
+  {
+   "reviewer": 4,
+   "category": "misc",
+   "close_second": "women",
+   "claim_answered": "none",
+   "reason": "General dating advice to men; it quotes a woman's remark but mainly advises men rather than rebutting a claim about women."
+  },
+  {
+   "reviewer": 5,
+   "category": "misc",
+   "close_second": "men",
+   "claim_answered": "Men should keep chasing a woman after she says to leave her alone",
+   "reason": "Primarily relationship and dating advice advising men not to play mind games, rather than rebutting an anti-male claim."
+  }
+ ],
+ "usage": {
+  "completion_tokens": 1861,
+  "prompt_tokens": 3195,
+  "total_tokens": 5056,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 1789,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.01875,
+   "upstream_inference_prompt_cost": 0.0047925,
+   "upstream_inference_completions_cost": 0.0139575
+  }
+ }
+}

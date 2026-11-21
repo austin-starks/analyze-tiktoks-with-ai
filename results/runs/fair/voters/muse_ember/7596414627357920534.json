@@ -1,0 +1,42 @@
+{
+ "id": "7596414627357920534",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "misc",
+  "claim_answered": "none",
+  "evidence_seconds": 98,
+  "reason": "Viewer DM relationship advice: tells subscriber to break up and prioritize self-respect"
+ },
+ "usage": {
+  "completion_tokens": 1850,
+  "prompt_tokens": 3879,
+  "total_tokens": 5729,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 1741,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0013129,
+   "upstream_inference_prompt_cost": 0.0003879,
+   "upstream_inference_completions_cost": 0.000925
+  }
+ }
+}

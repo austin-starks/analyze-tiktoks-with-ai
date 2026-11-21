@@ -1,0 +1,42 @@
+{
+ "id": "7576174268497792279",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Mainly dating advice for men using a viral clip; he criticizes the man and tells men to leave toxic partners.",
+  "evidence_seconds": 149
+ },
+ "usage": {
+  "completion_tokens": 5718,
+  "prompt_tokens": 3662,
+  "total_tokens": 9380,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 5651,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 2688,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.003641728,
+   "upstream_inference_prompt_cost": 0.000210928,
+   "upstream_inference_completions_cost": 0.0034308
+  }
+ }
+}

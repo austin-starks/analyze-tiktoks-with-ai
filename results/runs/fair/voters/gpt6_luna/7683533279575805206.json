@@ -1,0 +1,42 @@
+{
+ "id": "7683533279575805206",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "politics",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "AfD’s Saxony-Anhalt election victory means it has taken over Germany",
+  "reason": "Explains a state election result and its political implications, correcting the claim that AfD took over Germany.",
+  "evidence_seconds": 165
+ },
+ "usage": {
+  "completion_tokens": 195,
+  "prompt_tokens": 4328,
+  "total_tokens": 4523,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 121,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 1510,
+   "cached_tokens": 2815,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0003147,
+   "upstream_inference_prompt_cost": 0.0002172,
+   "upstream_inference_completions_cost": 9.75e-05
+  }
+ }
+}

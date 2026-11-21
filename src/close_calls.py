@@ -7,23 +7,27 @@ the referee's reason, and where to watch: the median of the five voters' timesta
 
   python3 src/close_calls.py
 """
+import argparse
 import csv
 import json
 
-from common import CONFIG, RESULTS, posts
+from common import CONFIG, add_run_arg, posts, results_dir
 
 
 def main():
+    ap = argparse.ArgumentParser()
+    add_run_arg(ap)
+    R = results_dir(ap.parse_args().run)
     p = posts()
     voters = list(CONFIG["voters"])
     out = []
-    for r in csv.DictReader((RESULTS / "labels.csv").open(encoding="utf-8")):
+    for r in csv.DictReader((R / "labels.csv").open(encoding="utf-8")):
         listed = sum("women" in (r[f"{v}_first"], r[f"{v}_second"]) for v in voters)
         first = sum(r[f"{v}_first"] == "women" for v in voters)
         if listed < 2 or first >= 4:
             continue
-        answers = [json.loads((RESULTS / "voters" / v / f"{r['id']}.json").read_text())["label"] for v in voters]
-        adj = RESULTS / "adjudicator" / f"{r['id']}.json"
+        answers = [json.loads((R / "voters" / v / f"{r['id']}.json").read_text())["label"] for v in voters]
+        adj = R / "adjudicator" / f"{r['id']}.json"
         lab = json.loads(adj.read_text())["label"] if adj.exists() else answers[-1]
         # Where to watch: the median of the five voters' timestamps, ignoring 0 (a model's "no single moment").
         seconds = sorted(a["evidence_seconds"] for a in answers if a.get("evidence_seconds"))
@@ -34,7 +38,7 @@ def main():
                     **{v: r[f"{v}_first"] + (f" / {r[f'{v}_second']}" if r[f"{v}_second"] else "") for v in voters},
                     "referee_reason": r["adjudicator_reason"]})
     out.sort(key=lambda x: x["date"])
-    with (RESULTS / "close-calls.csv").open("w", newline="", encoding="utf-8") as fh:
+    with (R / "close-calls.csv").open("w", newline="", encoding="utf-8") as fh:
         w = csv.DictWriter(fh, fieldnames=list(out[0]))
         w.writeheader()
         w.writerows(out)

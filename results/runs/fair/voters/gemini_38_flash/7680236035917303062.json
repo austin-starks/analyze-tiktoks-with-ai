@@ -1,0 +1,42 @@
+{
+ "id": "7680236035917303062",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "debate",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Heart disease and other issues predominantly affecting men are self-inflicted",
+  "reason": "His direct response to another creator who made a 24-minute video criticizing his earlier video",
+  "evidence_seconds": 38
+ },
+ "usage": {
+  "completion_tokens": 991,
+  "prompt_tokens": 4150,
+  "total_tokens": 5141,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 904,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0136575,
+   "upstream_inference_prompt_cost": 0.006225,
+   "upstream_inference_completions_cost": 0.0074325
+  }
+ }
+}

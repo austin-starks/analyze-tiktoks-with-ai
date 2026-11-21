@@ -1,0 +1,42 @@
+{
+ "id": "7690677211430472992",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "politics",
+  "borderline": true,
+  "alternate_category": "news",
+  "claim_answered": "Noah’s Ark has been confirmed at a boat-shaped formation in Turkey",
+  "reason": "Fact-checks a religious discovery claim; the viral coverage could make news a plausible alternative.",
+  "evidence_seconds": 27
+ },
+ "usage": {
+  "completion_tokens": 201,
+  "prompt_tokens": 4068,
+  "total_tokens": 4269,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 131,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 1250,
+   "cached_tokens": 2815,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0002852,
+   "upstream_inference_prompt_cost": 0.0001847,
+   "upstream_inference_completions_cost": 0.0001005
+  }
+ }
+}

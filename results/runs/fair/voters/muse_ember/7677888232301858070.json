@@ -1,0 +1,42 @@
+{
+ "id": "7677888232301858070",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "news",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "Patrick Clancy killed his children, drugged Lindsay and framed her",
+  "evidence_seconds": 113,
+  "reason": "Debunks false accusations against specific man Patrick Clancy that he killed children or framed his wife"
+ },
+ "usage": {
+  "completion_tokens": 2752,
+  "prompt_tokens": 4057,
+  "total_tokens": 6809,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 2594,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 2804,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.001512516,
+   "upstream_inference_prompt_cost": 0.000136516,
+   "upstream_inference_completions_cost": 0.001376
+  }
+ }
+}

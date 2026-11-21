@@ -1,0 +1,78 @@
+{
+ "id": "7689871272074824993",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "Mongolian society was a matriarchy where women kept multiple husbands as slaves.",
+  "reason": "Rule 2: rebuts gender-war fanfiction favoring women at men's expense, portraying men as enslaved in a Mongolian matriarchy.",
+  "evidence_seconds": 14
+ },
+ "reviewers": [
+  {
+   "reviewer": 1,
+   "category": "women",
+   "close_second": "none",
+   "claim_answered": "Mongolian society was a matriarchy where women kept multiple husbands as slaves",
+   "reason": "Debunks an unsupported claim portraying women as naturally dominating and enslaving men."
+  },
+  {
+   "reviewer": 2,
+   "category": "women",
+   "close_second": "men",
+   "claim_answered": "Mongolian matriarchy was polygamous and women kept multiple husbands as slaves",
+   "reason": "Debunks a historical claim that women naturally kept men as slaves; defends women from the accusation of being oppressive"
+  },
+  {
+   "reviewer": 3,
+   "category": "men",
+   "close_second": "mixed",
+   "claim_answered": "Mongolian matriarchy was polygamous with women keeping multiple husbands as slaves",
+   "reason": "Fact-checks pro-women claim that men were enslaved husbands; pushes back on claim running men down"
+  },
+  {
+   "reviewer": 4,
+   "category": "men",
+   "close_second": "misc",
+   "claim_answered": "Mongol society was a matriarchy where women kept multiple husbands as slaves",
+   "reason": "Rebuts a claim that portrays men as enslaved by women and treats one unidentified tribe as proof of how women treat men; history content."
+  },
+  {
+   "reviewer": 5,
+   "category": "misc",
+   "close_second": "mixed",
+   "claim_answered": "Mongol society was a matriarchy where women kept multiple husbands as slaves",
+   "reason": "Historical fact-check debunking a viral claim about ancient Mongolian society rather than an attack on a sex."
+  }
+ ],
+ "usage": {
+  "completion_tokens": 3731,
+  "prompt_tokens": 3892,
+  "total_tokens": 7623,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 3631,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0338205,
+   "upstream_inference_prompt_cost": 0.005838,
+   "upstream_inference_completions_cost": 0.0279825
+  }
+ }
+}

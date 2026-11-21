@@ -1,0 +1,42 @@
+{
+ "id": "7666818776486153494",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "mixed",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "Only men hunted and only women gathered, invented by men in 1966",
+  "evidence_seconds": 64,
+  "reason": "Rebuts claim blaming male anthropologists for inventing absolute sex division and painting men badly"
+ },
+ "usage": {
+  "completion_tokens": 6133,
+  "prompt_tokens": 4384,
+  "total_tokens": 10517,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 5879,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 2804,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.003235716,
+   "upstream_inference_prompt_cost": 0.000169216,
+   "upstream_inference_completions_cost": 0.0030665
+  }
+ }
+}

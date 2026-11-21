@@ -1,0 +1,78 @@
+{
+ "id": "7581054011474906390",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Men cannot handle a successful, tough woman and are wrong to walk away",
+  "reason": "Rule 2: He pushes back on a rant blaming men for walking away, defending men's preferences; dating-advice framing makes misc plausible.",
+  "evidence_seconds": 17
+ },
+ "reviewers": [
+  {
+   "reviewer": 1,
+   "category": "men",
+   "close_second": "misc",
+   "claim_answered": "Men should want a successful, rich, tough woman like her",
+   "reason": "Defends men’s preference to walk away from this woman; the video also resembles general dating advice."
+  },
+  {
+   "reviewer": 2,
+   "category": "men",
+   "close_second": "none",
+   "claim_answered": "Men should want a successful, rich, hardcore woman like her; if not, they can't handle it",
+   "reason": "Pushes back on a woman's claim that men can't handle a strong woman, defending men's preference for peace and warmth"
+  },
+  {
+   "reviewer": 3,
+   "category": "misc",
+   "close_second": "men",
+   "claim_answered": "none",
+   "reason": "His own dating advice on what men want in a partner; he answers no claim that runs men down"
+  },
+  {
+   "reviewer": 4,
+   "category": "misc",
+   "close_second": "women",
+   "claim_answered": "A woman listing success, money and toughness as her selling points will not attract men who want warmth",
+   "reason": "Dating advice about what men want, not a rebuttal of a claim unfair to women; a sex-blaming reading is possible"
+  },
+  {
+   "reviewer": 5,
+   "category": "men",
+   "close_second": "misc",
+   "claim_answered": "Men do not want strong women because they cannot handle them",
+   "reason": "Pushes back on a rant criticizing men, defending men's dating preferences for peace, warmth, and respect"
+  }
+ ],
+ "usage": {
+  "completion_tokens": 3145,
+  "prompt_tokens": 3538,
+  "total_tokens": 6683,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 3055,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0288945,
+   "upstream_inference_prompt_cost": 0.005307,
+   "upstream_inference_completions_cost": 0.0235875
+  }
+ }
+}

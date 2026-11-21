@@ -1,0 +1,42 @@
+{
+ "id": "7705134218665266464",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "politics",
+  "claim_answered": "Women are five times more likely to exhibit own-group bias and voted for Hillary Clinton because of it",
+  "reason": "Pushes back on a claim that paints women as heavily in-group biased and voting primarily based on gender",
+  "evidence_seconds": 40
+ },
+ "usage": {
+  "completion_tokens": 1305,
+  "prompt_tokens": 4497,
+  "total_tokens": 5802,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 1209,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.016533,
+   "upstream_inference_prompt_cost": 0.0067455,
+   "upstream_inference_completions_cost": 0.0097875
+  }
+ }
+}

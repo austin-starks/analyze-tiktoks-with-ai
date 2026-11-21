@@ -1,0 +1,42 @@
+{
+ "id": "7560257735502155030",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Every guy should start in jail and have to earn his way out",
+  "reason": "Reframes the punitive claim as reflecting men’s dating disadvantage, then encourages men to improve themselves.",
+  "evidence_seconds": 23
+ },
+ "usage": {
+  "completion_tokens": 585,
+  "prompt_tokens": 3328,
+  "total_tokens": 3913,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 516,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 510,
+   "cached_tokens": 2815,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0003847,
+   "upstream_inference_prompt_cost": 9.22e-05,
+   "upstream_inference_completions_cost": 0.0002925
+  }
+ }
+}

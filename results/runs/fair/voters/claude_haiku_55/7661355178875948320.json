@@ -1,0 +1,42 @@
+{
+ "id": "7661355178875948320",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "A hand-picked index shows women-founded and women-led IPO companies are a bad investment, so women-led firms underperform",
+  "reason": "Debunks a biased index that runs women-led companies down; notes male-led IPOs also performed badly, so the result blames gender unfairly",
+  "evidence_seconds": 138
+ },
+ "usage": {
+  "completion_tokens": 462,
+  "prompt_tokens": 5969,
+  "total_tokens": 6431,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 325,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0008279,
+   "upstream_inference_prompt_cost": 0.0005969,
+   "upstream_inference_completions_cost": 0.000231
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": "7575541815697313046",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "For a relationship to work, the man must love the woman more",
+  "reason": "Rejects a dating rule that places a greater burden on men, arguing both partners should bring equal effort and maturity.",
+  "evidence_seconds": 7
+ },
+ "usage": {
+  "completion_tokens": 411,
+  "prompt_tokens": 3329,
+  "total_tokens": 3740,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 338,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 511,
+   "cached_tokens": 2815,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.000297825,
+   "upstream_inference_prompt_cost": 9.2325e-05,
+   "upstream_inference_completions_cost": 0.0002055
+  }
+ }
+}

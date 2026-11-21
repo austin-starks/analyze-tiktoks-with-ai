@@ -1,0 +1,78 @@
+{
+ "id": "7600363603623021846",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "none",
+  "reason": "Mainly dating and relationship advice on boundaries and leaving abusive partners, answering no broader claim about men or women (rule 3).",
+  "evidence_seconds": 160
+ },
+ "reviewers": [
+  {
+   "reviewer": 1,
+   "category": "men",
+   "close_second": "misc",
+   "claim_answered": "He is fragile and insecure for objecting to his girlfriend talking to other men",
+   "reason": "Rejects an unfair accusation against a specific man and defends him from his girlfriend’s degrading treatment; it also gives relationship advice."
+  },
+  {
+   "reviewer": 2,
+   "category": "men",
+   "close_second": "misc",
+   "claim_answered": "You are fragile and insecure if your girl talks to other men",
+   "reason": "Pushes back on the claim that a man is insecure for objecting to his girlfriend talking to other men; defends men"
+  },
+  {
+   "reviewer": 3,
+   "category": "misc",
+   "close_second": "men",
+   "claim_answered": "none",
+   "reason": "Mainly dating advice to leave a toxic girlfriend; he answers no claim about men or women in general"
+  },
+  {
+   "reviewer": 4,
+   "category": "misc",
+   "close_second": "men",
+   "claim_answered": "none",
+   "reason": "Relationship advice to leave a verbally abusive partner; it rebuts no claim about men or women, though the men's-advice framing and clip sit close to men."
+  },
+  {
+   "reviewer": 5,
+   "category": "misc",
+   "close_second": "men",
+   "claim_answered": "none",
+   "reason": "Relationship advice reacting to a viral clip of an abusive girlfriend; answers no broader claim about the sexes."
+  }
+ ],
+ "usage": {
+  "completion_tokens": 1974,
+  "prompt_tokens": 3496,
+  "total_tokens": 5470,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 1899,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.020049,
+   "upstream_inference_prompt_cost": 0.005244,
+   "upstream_inference_completions_cost": 0.014805
+  }
+ }
+}

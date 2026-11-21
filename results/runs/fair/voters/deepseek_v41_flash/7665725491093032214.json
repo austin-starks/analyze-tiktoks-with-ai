@@ -1,0 +1,42 @@
+{
+ "id": "7665725491093032214",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "debate",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Mamdani's rent freeze proved your example wrong and won't hurt housing",
+  "reason": "Reply to SimpleBlackTheory, who responded to his earlier rent control video.",
+  "evidence_seconds": 2
+ },
+ "usage": {
+  "completion_tokens": 585,
+  "prompt_tokens": 4491,
+  "total_tokens": 5076,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 522,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 2828,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.000608934,
+   "upstream_inference_prompt_cost": 0.000257934,
+   "upstream_inference_completions_cost": 0.000351
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": "7650938606483213590",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "mixed",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Men and women can be just friends without romantic feelings, and such friendships are common.",
+  "reason": "He answers a claim about cross-sex friendships, arguing they are possible but uncommon; the discussion also includes dating advice.",
+  "evidence_seconds": 56
+ },
+ "usage": {
+  "completion_tokens": 495,
+  "prompt_tokens": 4007,
+  "total_tokens": 4502,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 419,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 1189,
+   "cached_tokens": 2815,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.000424575,
+   "upstream_inference_prompt_cost": 0.000177075,
+   "upstream_inference_completions_cost": 0.0002475
+  }
+ }
+}

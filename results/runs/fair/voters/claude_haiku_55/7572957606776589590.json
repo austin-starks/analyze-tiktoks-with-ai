@@ -1,0 +1,42 @@
+{
+ "id": "7572957606776589590",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "Akaash Singh's wife's sexual past shows women deceive men, so men need experience and suspicion",
+  "reason": "Viral-story rant with dating advice; it runs women down rather than pushing back on a claim, so it fits no defend category cleanly",
+  "evidence_seconds": 102
+ },
+ "usage": {
+  "completion_tokens": 1224,
+  "prompt_tokens": 5540,
+  "total_tokens": 6764,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 1100,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.001166,
+   "upstream_inference_prompt_cost": 0.000554,
+   "upstream_inference_completions_cost": 0.000612
+  }
+ }
+}

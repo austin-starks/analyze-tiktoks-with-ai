@@ -1,0 +1,42 @@
+{
+ "id": "7690233503568481569",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Women are way funnier than men; every man is a version of the funniest woman he knows",
+  "reason": "Rebuts a pro-women claim that runs men down as less funny and derivative; also notes women aren't unfunny",
+  "evidence_seconds": 77
+ },
+ "usage": {
+  "completion_tokens": 9354,
+  "prompt_tokens": 3928,
+  "total_tokens": 13282,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 9266,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 2688,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.008814792,
+   "upstream_inference_prompt_cost": 0.000396192,
+   "upstream_inference_completions_cost": 0.0084186
+  }
+ }
+}

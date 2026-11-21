@@ -1,0 +1,78 @@
+{
+ "id": "7630453544813972758",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "category": "politics",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "Feminism is one simple idea and asking to define it should be dismissed",
+  "reason": "Under Rule 3, introduces feminism's political waves and history rather than mainly defending men as a sex.",
+  "evidence_seconds": 14
+ },
+ "reviewers": [
+  {
+   "reviewer": 1,
+   "category": "politics",
+   "close_second": "none",
+   "claim_answered": "Feminism is one single idea, or can be dismissed without understanding its different waves",
+   "reason": "Explains feminism as a political and social movement; he is introducing its history and ideas, not defending a sex against a claim."
+  },
+  {
+   "reviewer": 2,
+   "category": "politics",
+   "close_second": "misc",
+   "claim_answered": "Feminism is one single idea or just radical extremism",
+   "reason": "Explains feminist waves and history; ideological subject, not defending men or women"
+  },
+  {
+   "reviewer": 3,
+   "category": "men",
+   "close_second": "misc",
+   "claim_answered": "Men who ask to define feminism are dismissive and should wrap it up",
+   "reason": "He defends men mocked for asking to define feminism, arguing definition matters"
+  },
+  {
+   "reviewer": 4,
+   "category": "misc",
+   "close_second": "politics",
+   "claim_answered": "none",
+   "reason": "Series intro explaining feminism's history and waves; answers no claim that runs men or women down."
+  },
+  {
+   "reviewer": 5,
+   "category": "men",
+   "close_second": "politics",
+   "claim_answered": "Men who ask to define feminism should be dismissed or cut off",
+   "reason": "Defends men who ask to define feminism before agreeing, arguing that distinguishing between different waves is legitimate and necessary."
+  }
+ ],
+ "usage": {
+  "completion_tokens": 3775,
+  "prompt_tokens": 3539,
+  "total_tokens": 7314,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 3693,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.033621,
+   "upstream_inference_prompt_cost": 0.0053085,
+   "upstream_inference_completions_cost": 0.0283125
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": "7675749539550121238",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "news",
+  "claim_answered": "Dean raped Emily and sexually abused multiple underage boys",
+  "reason": "Examines the evidence and finds serious credibility problems with accusations against one specific man; mainly an internet news story.",
+  "evidence_seconds": 115
+ },
+ "usage": {
+  "completion_tokens": 296,
+  "prompt_tokens": 3924,
+  "total_tokens": 4220,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 227,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 1106,
+   "cached_tokens": 2815,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0003147,
+   "upstream_inference_prompt_cost": 0.0001667,
+   "upstream_inference_completions_cost": 0.000148
+  }
+ }
+}

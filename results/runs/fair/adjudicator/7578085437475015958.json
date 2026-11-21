@@ -1,0 +1,78 @@
+{
+ "id": "7578085437475015958",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "Ending up with a nonchalant man who changes after six months just happens without your choice",
+  "reason": "Misc rule: general dating advice on red flags and agency; he answers her fatalism rather than defending men from a stereotype.",
+  "evidence_seconds": 20
+ },
+ "reviewers": [
+  {
+   "reviewer": 1,
+   "category": "men",
+   "close_second": "misc",
+   "claim_answered": "Men can seem expressive at first, then become emotionally negligent and change after six months",
+   "reason": "Pushes back on a claim portraying men as suddenly emotionally negligent, arguing that partners often overlook earlier signs."
+  },
+  {
+   "reviewer": 2,
+   "category": "men",
+   "close_second": "misc",
+   "claim_answered": "Men act loving then suddenly become nonchalant and emotionally negligent after six months",
+   "reason": "Pushes back on a claim that men fake affection then change; says women ignore red flags and choose poorly"
+  },
+  {
+   "reviewer": 3,
+   "category": "men",
+   "close_second": "misc",
+   "claim_answered": "Men suddenly become nonchalant and emotionally negligent after six months",
+   "reason": "Pushes back on claim men suddenly become emotionally negligent, saying women choose and ignore red flags"
+  },
+  {
+   "reviewer": 4,
+   "category": "misc",
+   "close_second": "women",
+   "claim_answered": "A woman says the wrong man just appears in her life and she has no say in who she dates",
+   "reason": "Mainly general dating advice on red flags and choosing partners; the pushback on her fatalism is not a defense of either sex"
+  },
+  {
+   "reviewer": 5,
+   "category": "misc",
+   "close_second": "men",
+   "claim_answered": "none",
+   "reason": "General dating advice about accountability and red flags; declining to blame men is not the main job of the video."
+  }
+ ],
+ "usage": {
+  "completion_tokens": 1943,
+  "prompt_tokens": 3474,
+  "total_tokens": 5417,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 1854,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0197835,
+   "upstream_inference_prompt_cost": 0.005211,
+   "upstream_inference_completions_cost": 0.0145725
+  }
+ }
+}

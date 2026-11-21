@@ -1,0 +1,42 @@
+{
+ "id": "7571773477099752726",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "All men are boring; the fun in a relationship comes only from the woman's energy",
+  "reason": "Pushes back on a claim that runs men down as boring, arguing it reflects her need for attention and chaos",
+  "evidence_seconds": 27
+ },
+ "usage": {
+  "completion_tokens": 716,
+  "prompt_tokens": 3308,
+  "total_tokens": 4024,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 635,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 2688,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.000569728,
+   "upstream_inference_prompt_cost": 0.000140128,
+   "upstream_inference_completions_cost": 0.0004296
+  }
+ }
+}

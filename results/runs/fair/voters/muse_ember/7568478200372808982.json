@@ -1,0 +1,42 @@
+{
+ "id": "7568478200372808982",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "misc",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "If he wanted to, he would; men who don't act simply don't want to",
+  "evidence_seconds": 23,
+  "reason": "Rebuts 'if he wanted to he would' claim that men who don't act just don't care"
+ },
+ "usage": {
+  "completion_tokens": 3998,
+  "prompt_tokens": 3512,
+  "total_tokens": 7510,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 3811,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0023502,
+   "upstream_inference_prompt_cost": 0.0003512,
+   "upstream_inference_completions_cost": 0.001999
+  }
+ }
+}

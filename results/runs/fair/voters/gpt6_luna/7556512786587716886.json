@@ -1,0 +1,42 @@
+{
+ "id": "7556512786587716886",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men today aren’t real men because they can’t change a tire or change their oil",
+  "reason": "Pushes back on a claim that men today are less masculine for lacking traditional repair skills.",
+  "evidence_seconds": 19
+ },
+ "usage": {
+  "completion_tokens": 176,
+  "prompt_tokens": 3444,
+  "total_tokens": 3620,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 104,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 626,
+   "cached_tokens": 2815,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0001947,
+   "upstream_inference_prompt_cost": 0.0001067,
+   "upstream_inference_completions_cost": 8.8e-05
+  }
+ }
+}

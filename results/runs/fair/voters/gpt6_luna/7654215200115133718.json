@@ -1,0 +1,42 @@
+{
+ "id": "7654215200115133718",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Every problem predominantly affecting men is self-inflicted",
+  "reason": "Rebuts the claim that men are to blame for problems that disproportionately affect them.",
+  "evidence_seconds": 51
+ },
+ "usage": {
+  "completion_tokens": 501,
+  "prompt_tokens": 4151,
+  "total_tokens": 4652,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 438,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 1333,
+   "cached_tokens": 2815,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.000445575,
+   "upstream_inference_prompt_cost": 0.000195075,
+   "upstream_inference_completions_cost": 0.0002505
+  }
+ }
+}

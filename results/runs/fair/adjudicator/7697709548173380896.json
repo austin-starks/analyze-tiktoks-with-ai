@@ -1,0 +1,78 @@
+{
+ "id": "7697709548173380896",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "category": "mixed",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "Women are better drivers than men",
+  "reason": "Direction rule: he fact-checks a claim favoring women ('women are better drivers than men') without running men down, making it mixed.",
+  "evidence_seconds": 26
+ },
+ "reviewers": [
+  {
+   "reviewer": 1,
+   "category": "men",
+   "close_second": "none",
+   "claim_answered": "Women are better drivers than men",
+   "reason": "Pushes back on a claim that favors women over men, while concluding the data does not establish which sex is better."
+  },
+  {
+   "reviewer": 2,
+   "category": "men",
+   "close_second": "mixed",
+   "claim_answered": "Women are better drivers than men",
+   "reason": "Rebuts pro-women driving claim that implies men are worse; shows women have higher non-fatal crash rates per mile."
+  },
+  {
+   "reviewer": 3,
+   "category": "mixed",
+   "close_second": "men",
+   "claim_answered": "Women are better drivers than men",
+   "reason": "Fact-checks claim women are better drivers, shows omitted non-fatal data, but also confirms women's lower fatal rates and refuses to call women worse drivers"
+  },
+  {
+   "reviewer": 4,
+   "category": "men",
+   "close_second": "mixed",
+   "claim_answered": "Women are better drivers than men, shown by fatality rates and insurance premiums",
+   "reason": "Rebuts a claim that men are worse drivers, adding non-fatal crash data showing women's per-mile crash involvement is higher"
+  },
+  {
+   "reviewer": 5,
+   "category": "mixed",
+   "close_second": "men",
+   "claim_answered": "Women are better drivers than men",
+   "reason": "Fact-checks a claim that favors women over men without running men down, making the comparison mixed."
+  }
+ ],
+ "usage": {
+  "completion_tokens": 4414,
+  "prompt_tokens": 5615,
+  "total_tokens": 10029,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 4324,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0415275,
+   "upstream_inference_prompt_cost": 0.0084225,
+   "upstream_inference_completions_cost": 0.033105
+  }
+ }
+}

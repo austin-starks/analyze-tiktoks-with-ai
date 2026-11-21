@@ -1,0 +1,78 @@
+{
+ "id": "7605147335127076118",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "none",
+  "reason": "Viewer DM about a relationship with dating advice; the brief defense of women is incidental, not his main job, so misc applies.",
+  "evidence_seconds": 559
+ },
+ "reviewers": [
+  {
+   "reviewer": 1,
+   "category": "women",
+   "close_second": "misc",
+   "claim_answered": "This experience shows why men choose to stay single.",
+   "reason": "Rejects the implication that one bad relationship shows women are generally bad; the video also gives personal dating advice."
+  },
+  {
+   "reviewer": 2,
+   "category": "misc",
+   "close_second": "women",
+   "claim_answered": "Men choose to be single because women are bad",
+   "reason": "Mainly dating advice for men from a subscriber's toxic relationship story; brief rebuttal that not all women are bad is not the main job."
+  },
+  {
+   "reviewer": 3,
+   "category": "misc",
+   "close_second": "women",
+   "claim_answered": "none",
+   "reason": "Mainly a subscriber DM with dating advice; saying not all women are bad is incidental, not main rebuttal"
+  },
+  {
+   "reviewer": 4,
+   "category": "women",
+   "close_second": "misc",
+   "claim_answered": "The subscriber's story implies men choose to be single because women are toxic and damaging",
+   "reason": "Pushes back on the generalization that women are bad after a toxic relationship; much of the video is dating advice, so misc is plausible"
+  },
+  {
+   "reviewer": 5,
+   "category": "misc",
+   "close_second": "none",
+   "claim_answered": "none",
+   "reason": "Reads a subscriber's relationship DM and provides general dating advice and lessons without answering a claim."
+  }
+ ],
+ "usage": {
+  "completion_tokens": 1720,
+  "prompt_tokens": 6897,
+  "total_tokens": 8617,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 1636,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0232455,
+   "upstream_inference_prompt_cost": 0.0103455,
+   "upstream_inference_completions_cost": 0.0129
+  }
+ }
+}

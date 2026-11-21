@@ -1,0 +1,42 @@
+{
+ "id": "7687593527030582560",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Animal behavior proves men are an inherently predatory class toward women",
+  "reason": "Rebuts a video using animal examples to imply men are naturally predatory and assign collective guilt to men",
+  "evidence_seconds": 90
+ },
+ "usage": {
+  "completion_tokens": 864,
+  "prompt_tokens": 3986,
+  "total_tokens": 4850,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 778,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.012459,
+   "upstream_inference_prompt_cost": 0.005979,
+   "upstream_inference_completions_cost": 0.00648
+  }
+ }
+}

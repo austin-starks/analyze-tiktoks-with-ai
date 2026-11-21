@@ -1,0 +1,42 @@
+{
+ "id": "7554342730105670934",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "A man who cooks, cleans, works, and communicates is extraordinary, while those qualities are average in women",
+  "reason": "Pushes back on a comparison that elevates women’s baseline while portraying ordinary men as exceptional; he also counters with a comparison about women.",
+  "evidence_seconds": 46
+ },
+ "usage": {
+  "completion_tokens": 719,
+  "prompt_tokens": 3377,
+  "total_tokens": 4096,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 633,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 559,
+   "cached_tokens": 2815,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.000457825,
+   "upstream_inference_prompt_cost": 9.8325e-05,
+   "upstream_inference_completions_cost": 0.0003595
+  }
+ }
+}

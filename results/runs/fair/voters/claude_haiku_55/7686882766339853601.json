@@ -1,0 +1,42 @@
+{
+ "id": "7686882766339853601",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "A supposed Penn State study found 97.4% of women would rather serve 48 hours in jail than admit fault",
+  "reason": "Debunks a fabricated statistic that runs all women down as dishonest, and rejects misogyny alongside misandry.",
+  "evidence_seconds": 28
+ },
+ "usage": {
+  "completion_tokens": 425,
+  "prompt_tokens": 6127,
+  "total_tokens": 6552,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 298,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0008252,
+   "upstream_inference_prompt_cost": 0.0006127,
+   "upstream_inference_completions_cost": 0.0002125
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": "7632719596910415127",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "debate",
+  "claim_answered": "Brenna did not use the 32% study to generalize to 62 million men",
+  "evidence_seconds": 11,
+  "reason": "Brenna responded to his earlier video criticizing his study analysis, and this is his step-by-step reply to her"
+ },
+ "usage": {
+  "completion_tokens": 2252,
+  "prompt_tokens": 4971,
+  "total_tokens": 7223,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 2100,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0016231,
+   "upstream_inference_prompt_cost": 0.0004971,
+   "upstream_inference_completions_cost": 0.001126
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": "7564390666965372182",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "She wants to be passed around while having a boyfriend; monogamy is unreasonable",
+  "reason": "Mainly dating advice warning men to avoid women who say loyalty is outdated; no general claim about men or women is answered.",
+  "evidence_seconds": 49
+ },
+ "usage": {
+  "completion_tokens": 4598,
+  "prompt_tokens": 3298,
+  "total_tokens": 7896,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 4515,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 2688,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.004345392,
+   "upstream_inference_prompt_cost": 0.000207192,
+   "upstream_inference_completions_cost": 0.0041382
+  }
+ }
+}

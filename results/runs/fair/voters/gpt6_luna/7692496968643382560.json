@@ -1,0 +1,42 @@
+{
+ "id": "7692496968643382560",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "politics",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Socialism means government provides everyone what they need for a dignified life",
+  "reason": "Political and economic commentary distinguishing socialism’s goals from its definition and comparing economic systems.",
+  "evidence_seconds": 47
+ },
+ "usage": {
+  "completion_tokens": 174,
+  "prompt_tokens": 3768,
+  "total_tokens": 3942,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 106,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 950,
+   "cached_tokens": 2815,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0002342,
+   "upstream_inference_prompt_cost": 0.0001472,
+   "upstream_inference_completions_cost": 8.7e-05
+  }
+ }
+}

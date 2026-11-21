@@ -1,0 +1,42 @@
+{
+ "id": "7699417604787621153",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men avoid intervening in harassment because they care more about predatory men's opinions than women's safety",
+  "reason": "Rejects a broad accusation that men are cowards and prioritize other men's approval, explaining that safety concerns can motivate caution.",
+  "evidence_seconds": 420
+ },
+ "usage": {
+  "completion_tokens": 184,
+  "prompt_tokens": 6137,
+  "total_tokens": 6321,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 105,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 3319,
+   "cached_tokens": 2815,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.000535325,
+   "upstream_inference_prompt_cost": 0.000443325,
+   "upstream_inference_completions_cost": 9.2e-05
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": "7703578512250211616",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Men perceive women who speak 15 to 30 percent of the time as speaking half the time",
+  "reason": "Pushes back on unverified statistics depicting men as biased against women speaking or being present in rooms.",
+  "evidence_seconds": 278
+ },
+ "usage": {
+  "completion_tokens": 1188,
+  "prompt_tokens": 5307,
+  "total_tokens": 6495,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 1092,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0168705,
+   "upstream_inference_prompt_cost": 0.0079605,
+   "upstream_inference_completions_cost": 0.00891
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": "7664992795513343254",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "politics",
+  "borderline": true,
+  "alternate_category": "news",
+  "claim_answered": "Mamdani's rent freeze freezes all NYC rents, or fixes the housing shortage",
+  "reason": "Explains a rent-control policy and the Rent Guidelines Board vote; economics and policy content, not a claim about men or women",
+  "evidence_seconds": 16
+ },
+ "usage": {
+  "completion_tokens": 401,
+  "prompt_tokens": 6502,
+  "total_tokens": 6903,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 281,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0008507,
+   "upstream_inference_prompt_cost": 0.0006502,
+   "upstream_inference_completions_cost": 0.0002005
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": "7569159446618705174",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Getting the ick from harmless male behavior like saying hi or a peace sign is valid.",
+  "reason": "Defends men by rejecting ick culture that treats harmless male behavior as a red flag; criticizes women who do it.",
+  "evidence_seconds": 31
+ },
+ "usage": {
+  "completion_tokens": 3504,
+  "prompt_tokens": 3248,
+  "total_tokens": 6752,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 3420,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 2688,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.003345792,
+   "upstream_inference_prompt_cost": 0.000192192,
+   "upstream_inference_completions_cost": 0.0031536
+  }
+ }
+}

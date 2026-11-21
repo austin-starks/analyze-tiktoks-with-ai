@@ -1,0 +1,42 @@
+{
+ "id": "7623402832166800662",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "mixed",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "Men are worse drivers, talk more, and women are biologically superior leaders",
+  "reason": "Rejects stereotypes and superior claims about both sexes across driving, talking, and leadership",
+  "evidence_seconds": 189
+ },
+ "usage": {
+  "completion_tokens": 2625,
+  "prompt_tokens": 3938,
+  "total_tokens": 6563,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 2539,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0255945,
+   "upstream_inference_prompt_cost": 0.005907,
+   "upstream_inference_completions_cost": 0.0196875
+  }
+ }
+}

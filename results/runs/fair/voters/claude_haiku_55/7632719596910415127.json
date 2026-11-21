@@ -1,0 +1,42 @@
+{
+ "id": "7632719596910415127",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "debate",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "Brenna Parris's reply says Ilyas misrepresented her 62 million men sexual assault claim and her study use",
+  "reason": "Reply to a creator who responded to his own video; beats the women claim underneath since he is answering her criticism",
+  "evidence_seconds": 2
+ },
+ "usage": {
+  "completion_tokens": 125,
+  "prompt_tokens": 7107,
+  "total_tokens": 7232,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 0,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0007732,
+   "upstream_inference_prompt_cost": 0.0007107,
+   "upstream_inference_completions_cost": 6.25e-05
+  }
+ }
+}

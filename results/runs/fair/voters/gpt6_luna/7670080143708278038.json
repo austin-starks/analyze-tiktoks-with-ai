@@ -1,0 +1,42 @@
+{
+ "id": "7670080143708278038",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Marrying a man makes women live shorter, earn less, and be less happy",
+  "reason": "Rebuts a claim that portrays men as harming women's lives and explicitly calls it anti-male rhetoric.",
+  "evidence_seconds": 183
+ },
+ "usage": {
+  "completion_tokens": 262,
+  "prompt_tokens": 3905,
+  "total_tokens": 4167,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 188,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 1087,
+   "cached_tokens": 2815,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.000295325,
+   "upstream_inference_prompt_cost": 0.000164325,
+   "upstream_inference_completions_cost": 0.000131
+  }
+ }
+}

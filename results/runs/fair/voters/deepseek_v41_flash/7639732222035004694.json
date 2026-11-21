@@ -1,0 +1,42 @@
+{
+ "id": "7639732222035004694",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "debate",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "1 in 7 men have attempted or completed rape; more than 1 in 3 sexually assaulted a woman",
+  "reason": "Reply to Professor Neil who stitched Ilyas's video; debate beats men",
+  "evidence_seconds": 89
+ },
+ "usage": {
+  "completion_tokens": 9770,
+  "prompt_tokens": 4004,
+  "total_tokens": 13774,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 9689,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 2832,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.006046296,
+   "upstream_inference_prompt_cost": 0.000184296,
+   "upstream_inference_completions_cost": 0.005862
+  }
+ }
+}

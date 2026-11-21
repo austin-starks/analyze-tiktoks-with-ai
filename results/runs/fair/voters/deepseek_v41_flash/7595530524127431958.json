@@ -1,0 +1,42 @@
+{
+ "id": "7595530524127431958",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "mixed",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "Men cheat all the time, or women cheat more and hide it",
+  "reason": "Answers two opposing claims, one blaming each sex; data shows both cheat, men slightly more overall",
+  "evidence_seconds": 122
+ },
+ "usage": {
+  "completion_tokens": 3876,
+  "prompt_tokens": 3746,
+  "total_tokens": 7622,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 3802,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 2688,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.002553328,
+   "upstream_inference_prompt_cost": 0.000227728,
+   "upstream_inference_completions_cost": 0.0023256
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": "7582842304193383702",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Women should test boyfriends with three questions requiring them to sacrifice career, identity, name",
+  "reason": "Rebuts a viral test that frames boyfriends as selfish/sexist unless they sacrifice career and name; dating content but runs men down",
+  "evidence_seconds": 32
+ },
+ "usage": {
+  "completion_tokens": 1227,
+  "prompt_tokens": 3504,
+  "total_tokens": 4731,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 1140,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 2688,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.000915528,
+   "upstream_inference_prompt_cost": 0.000179328,
+   "upstream_inference_completions_cost": 0.0007362
+  }
+ }
+}

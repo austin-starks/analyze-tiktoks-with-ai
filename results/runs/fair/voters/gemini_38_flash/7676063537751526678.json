@@ -1,0 +1,42 @@
+{
+ "id": "7676063537751526678",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "news",
+  "borderline": true,
+  "alternate_category": "politics",
+  "claim_answered": "Dean Withers promoted 'believe all women' and is getting a taste of his own medicine",
+  "reason": "Neutral reporting analyzing both political sides of the Dean Withers allegations in multi-part coverage of the viral case.",
+  "evidence_seconds": 34
+ },
+ "usage": {
+  "completion_tokens": 1869,
+  "prompt_tokens": 4126,
+  "total_tokens": 5995,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 1777,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0202065,
+   "upstream_inference_prompt_cost": 0.006189,
+   "upstream_inference_completions_cost": 0.0140175
+  }
+ }
+}

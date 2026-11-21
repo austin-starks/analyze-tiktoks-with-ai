@@ -1,0 +1,42 @@
+{
+ "id": "7686119749624925472",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "news",
+  "claim_answered": "Sydney Sweeney's revealing ad sets women's sports backwards and sexualizes female athletes",
+  "reason": "Argues critics of Sweeney's ad apply a double standard, defending a specific woman against an attack and women's bodily choices generally",
+  "evidence_seconds": 147
+ },
+ "usage": {
+  "completion_tokens": 651,
+  "prompt_tokens": 6447,
+  "total_tokens": 7098,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 527,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0009702,
+   "upstream_inference_prompt_cost": 0.0006447,
+   "upstream_inference_completions_cost": 0.0003255
+  }
+ }
+}

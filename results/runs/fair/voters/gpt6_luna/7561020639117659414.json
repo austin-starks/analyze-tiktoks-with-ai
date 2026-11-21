@@ -1,0 +1,42 @@
+{
+ "id": "7561020639117659414",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "A man who leaves a woman alone when she asks is dead to her.",
+  "reason": "Pushes back on a claim that faults men for respecting a woman's request for space.",
+  "evidence_seconds": 12
+ },
+ "usage": {
+  "completion_tokens": 337,
+  "prompt_tokens": 3238,
+  "total_tokens": 3575,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 269,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 420,
+   "cached_tokens": 2815,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.00024945,
+   "upstream_inference_prompt_cost": 8.095e-05,
+   "upstream_inference_completions_cost": 0.0001685
+  }
+ }
+}

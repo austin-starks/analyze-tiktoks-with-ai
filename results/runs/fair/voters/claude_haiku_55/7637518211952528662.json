@@ -1,0 +1,42 @@
+{
+ "id": "7637518211952528662",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "debate",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "SimpleBlackTheory claims maternal deaths (649) exceed police line-of-duty deaths (149), so pregnancy is more dangerous than being a cop",
+  "reason": "His reply to a creator who came back at him and criticized his earlier video; debate beats men and women",
+  "evidence_seconds": 76
+ },
+ "usage": {
+  "completion_tokens": 669,
+  "prompt_tokens": 6228,
+  "total_tokens": 6897,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 532,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0009573,
+   "upstream_inference_prompt_cost": 0.0006228,
+   "upstream_inference_completions_cost": 0.0003345
+  }
+ }
+}

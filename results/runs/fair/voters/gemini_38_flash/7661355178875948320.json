@@ -1,0 +1,42 @@
+{
+ "id": "7661355178875948320",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "An index shows women-led companies perform worse and are bad investments",
+  "reason": "Pushes back on a cherry-picked index used to paint female corporate leadership in a bad light.",
+  "evidence_seconds": 34
+ },
+ "usage": {
+  "completion_tokens": 928,
+  "prompt_tokens": 4079,
+  "total_tokens": 5007,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 841,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0130785,
+   "upstream_inference_prompt_cost": 0.0061185,
+   "upstream_inference_completions_cost": 0.00696
+  }
+ }
+}

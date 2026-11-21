@@ -1,0 +1,42 @@
+{
+ "id": "7642336810609233174",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "debate",
+  "claim_answered": "5 in 10 men badgered a woman until she changed her answer",
+  "reason": "Debunks a creator's misleading interpretation of a study that portrays half of all men as harassing women.",
+  "evidence_seconds": 249
+ },
+ "usage": {
+  "completion_tokens": 847,
+  "prompt_tokens": 5177,
+  "total_tokens": 6024,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 756,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 2726,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0104379,
+   "upstream_inference_prompt_cost": 0.0040854,
+   "upstream_inference_completions_cost": 0.0063525
+  }
+ }
+}

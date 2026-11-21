@@ -1,0 +1,42 @@
+{
+ "id": "7632719596910415127",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "debate",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Ilyas misrepresented her argument and her study supports that 62 million men commit sexual assault",
+  "reason": "His direct response to creator Brenna Parris after she posted a video criticizing his previous video.",
+  "evidence_seconds": 11
+ },
+ "usage": {
+  "completion_tokens": 3529,
+  "prompt_tokens": 5157,
+  "total_tokens": 8686,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 3437,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.034203,
+   "upstream_inference_prompt_cost": 0.0077355,
+   "upstream_inference_completions_cost": 0.0264675
+  }
+ }
+}

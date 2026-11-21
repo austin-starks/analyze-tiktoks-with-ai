@@ -1,0 +1,42 @@
+{
+ "id": "7666818776486153494",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "The myth that only men hunted was invented in 1966 by male anthropologists",
+  "reason": "Pushes back on a claim that male researchers invented a sexist myth, which he says paints men in a bad light",
+  "evidence_seconds": 25
+ },
+ "usage": {
+  "completion_tokens": 2091,
+  "prompt_tokens": 4485,
+  "total_tokens": 6576,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 1996,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.02241,
+   "upstream_inference_prompt_cost": 0.0067275,
+   "upstream_inference_completions_cost": 0.0156825
+  }
+ }
+}

@@ -1,0 +1,78 @@
+{
+ "id": "7595166544020163862",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "He gives his own dating advice warning men against women with toxic exes, answering no claim about either sex (Rule 3, misc).",
+  "evidence_seconds": 30
+ },
+ "reviewers": [
+  {
+   "reviewer": 1,
+   "category": "men",
+   "close_second": "women",
+   "claim_answered": "Men should rescue and heal a woman whose past relationships were toxic",
+   "reason": "Pushes back on the expectation that men must save her, while also making negative generalizations about women."
+  },
+  {
+   "reviewer": 2,
+   "category": "misc",
+   "close_second": "none",
+   "claim_answered": "none",
+   "reason": "His own dating advice warning men about women with toxic exes; answers no claim about men or women"
+  },
+  {
+   "reviewer": 3,
+   "category": "misc",
+   "close_second": "men",
+   "claim_answered": "none",
+   "reason": "His own dating advice warning men about her toxic history; he answers no claim about men or women"
+  },
+  {
+   "reviewer": 4,
+   "category": "women",
+   "close_second": "misc",
+   "claim_answered": "Women who dated toxic men are addicted to chaos and will create drama in healthy relationships.",
+   "reason": "Opening clip runs women down by claiming women who chose toxic exes crave chaos; dating advice framing makes misc plausible."
+  },
+  {
+   "reviewer": 5,
+   "category": "misc",
+   "close_second": "men",
+   "claim_answered": "none",
+   "reason": "Dating and relationship advice warning men against dating partners addicted to toxic relationship dynamics."
+  }
+ ],
+ "usage": {
+  "completion_tokens": 1655,
+  "prompt_tokens": 3549,
+  "total_tokens": 5204,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 1579,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.017736,
+   "upstream_inference_prompt_cost": 0.0053235,
+   "upstream_inference_completions_cost": 0.0124125
+  }
+ }
+}

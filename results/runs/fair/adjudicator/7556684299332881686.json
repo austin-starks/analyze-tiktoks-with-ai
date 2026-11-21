@@ -1,0 +1,78 @@
+{
+ "id": "7556684299332881686",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "Asking women on a coffee or workout date is not enough",
+  "reason": "Mainly general dating advice to men on avoiding demanding dates, rather than rebutting a claim attacking men (misc rule).",
+  "evidence_seconds": 12
+ },
+ "reviewers": [
+  {
+   "reviewer": 1,
+   "category": "men",
+   "close_second": "misc",
+   "claim_answered": "Men should offer more than a coffee or workout date to earn a woman’s time",
+   "reason": "Pushes back on expectations for men’s first dates; it could also be read as his own dating advice."
+  },
+  {
+   "reviewer": 2,
+   "category": "men",
+   "close_second": "misc",
+   "claim_answered": "Men asking for coffee dates are cheap; women deserve expensive dates and gifts",
+   "reason": "Pushes back on a woman's rant that men who ask for coffee dates are cheap, defending men against demands for expensive dates"
+  },
+  {
+   "reviewer": 3,
+   "category": "misc",
+   "close_second": "men",
+   "claim_answered": "none",
+   "reason": "His own dating advice to men to avoid demanding dates; he answers no claim running men down"
+  },
+  {
+   "reviewer": 4,
+   "category": "misc",
+   "close_second": "women",
+   "claim_answered": "Women who demand gifts, taxis or fancy restaurants on a first date are red flags to avoid",
+   "reason": "Dating advice for men; the opening rant runs women down, but the video's main job is his own first-date advice, not rebutting a claim"
+  },
+  {
+   "reviewer": 5,
+   "category": "misc",
+   "close_second": "men",
+   "claim_answered": "Men asking women out on coffee dates is unacceptable",
+   "reason": "General dating advice for men; his primary focus is advising men to keep first dates simple and avoid high-maintenance demands."
+  }
+ ],
+ "usage": {
+  "completion_tokens": 1865,
+  "prompt_tokens": 3377,
+  "total_tokens": 5242,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 1774,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.019053,
+   "upstream_inference_prompt_cost": 0.0050655,
+   "upstream_inference_completions_cost": 0.0139875
+  }
+ }
+}

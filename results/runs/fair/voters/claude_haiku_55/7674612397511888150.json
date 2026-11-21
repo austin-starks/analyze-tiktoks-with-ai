@@ -1,0 +1,42 @@
+{
+ "id": "7674612397511888150",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "politics",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Biological complexity and DNA information prove a designer, so God exists",
+  "reason": "Religious claim about God's existence and design arguments; religion counts as politics, not about either sex",
+  "evidence_seconds": 2
+ },
+ "usage": {
+  "completion_tokens": 104,
+  "prompt_tokens": 6297,
+  "total_tokens": 6401,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 0,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0006817,
+   "upstream_inference_prompt_cost": 0.0006297,
+   "upstream_inference_completions_cost": 5.2e-05
+  }
+ }
+}

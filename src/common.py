@@ -18,6 +18,21 @@ CATEGORIES = ["men", "women", "mixed", "debate", "news", "politics", "misc"]
 SCHEMA = json.loads((PROMPTS / "schema.json").read_text())
 
 
+def add_run_arg(ap):
+    ap.add_argument("--run", help="a separate labeling run: reads prompts/runs/RUN/ (falling back to prompts/ for any file "
+                    "it does not override) and writes results/runs/RUN/. Omit it for the published run.")
+
+
+def results_dir(run=None):
+    return RESULTS / "runs" / run if run else RESULTS
+
+
+def prompt(name, run=None):
+    """A prompt file for this run: prompts/runs/RUN/<name> when the run overrides it, else prompts/<name>."""
+    own = PROMPTS / "runs" / run / name if run else None
+    return (own if own and own.exists() else PROMPTS / name).read_text()
+
+
 def posts():
     """Every public video: id, upload date (UTC), views, caption."""
     rows = {}

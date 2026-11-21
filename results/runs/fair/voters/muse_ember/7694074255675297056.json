@@ -1,0 +1,42 @@
+{
+ "id": "7694074255675297056",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "mixed",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "Men turn a blind eye to rapists and cover for them",
+  "evidence_seconds": 182,
+  "reason": "He offers alternative explanations to rebut claim men generally know and cover for rapists"
+ },
+ "usage": {
+  "completion_tokens": 2725,
+  "prompt_tokens": 4105,
+  "total_tokens": 6830,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 2589,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 2804,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.001503816,
+   "upstream_inference_prompt_cost": 0.000141316,
+   "upstream_inference_completions_cost": 0.0013625
+  }
+ }
+}

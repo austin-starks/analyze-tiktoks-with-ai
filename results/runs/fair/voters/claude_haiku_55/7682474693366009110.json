@@ -1,0 +1,42 @@
+{
+ "id": "7682474693366009110",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "mixed",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "Mothers commit 55% of parental child homicides, 72% of infant killings, and 97% of killings within 24 hours",
+  "reason": "Tests a statistic about both sexes' homicide shares; data show mothers ahead in some sets, fathers in others, varying by child age",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "completion_tokens": 613,
+  "prompt_tokens": 6184,
+  "total_tokens": 6797,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 476,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0009249,
+   "upstream_inference_prompt_cost": 0.0006184,
+   "upstream_inference_completions_cost": 0.0003065
+  }
+ }
+}

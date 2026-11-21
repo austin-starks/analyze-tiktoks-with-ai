@@ -1,0 +1,78 @@
+{
+ "id": "7595972697180458243",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "Men are lonely today because women are financially independent and judge men's quality.",
+  "reason": "Rule 2 (men): opening clip blames men's quality for male loneliness; he pushes back, arguing dating apps and hypergamy disadvantage average men.",
+  "evidence_seconds": 31
+ },
+ "reviewers": [
+  {
+   "reviewer": 1,
+   "category": "women",
+   "close_second": "none",
+   "claim_answered": "Men are lonely because women are no longer financially dependent on them",
+   "reason": "Rejects blaming women’s financial independence for men’s loneliness, arguing technology is the deeper cause."
+  },
+  {
+   "reviewer": 2,
+   "category": "women",
+   "close_second": "mixed",
+   "claim_answered": "Men are lonely because women aren't financially dependent anymore",
+   "reason": "Pushes back on claim blaming women's financial independence for male loneliness; says technology and women's pickiness are the real causes."
+  },
+  {
+   "reviewer": 3,
+   "category": "men",
+   "close_second": "women",
+   "claim_answered": "Male loneliness is because women are no longer financially dependent on men",
+   "reason": "Pushes back on claim blaming men and downplaying men's disadvantage, arguing technology and selectivity make average men struggle"
+  },
+  {
+   "reviewer": 4,
+   "category": "women",
+   "close_second": "men",
+   "claim_answered": "Men are lonely today because women are no longer financially dependent on men",
+   "reason": "Rebuts a claim blaming women's independence for male loneliness, partly agreeing, though he also points to women's pickiness and hypergamy"
+  },
+  {
+   "reviewer": 5,
+   "category": "men",
+   "close_second": "misc",
+   "claim_answered": "Male loneliness exists because women are financially independent and men lack personal quality",
+   "reason": "Pushes back on the claim that modern male loneliness is caused by men lacking emotional quality."
+  }
+ ],
+ "usage": {
+  "completion_tokens": 3226,
+  "prompt_tokens": 3986,
+  "total_tokens": 7212,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 3133,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.030174,
+   "upstream_inference_prompt_cost": 0.005979,
+   "upstream_inference_completions_cost": 0.024195
+  }
+ }
+}

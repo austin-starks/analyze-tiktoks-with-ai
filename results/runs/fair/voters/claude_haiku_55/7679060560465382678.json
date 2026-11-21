@@ -1,0 +1,42 @@
+{
+ "id": "7679060560465382678",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Men choose 18-year-olds because they want younger, less experienced, financially dependent women who give them the upper hand",
+  "reason": "Rebuts a viral claim that runs men down via a Russian trend, showing it is a joke game women play more and that the psychological diagnosis lacks context",
+  "evidence_seconds": 22
+ },
+ "usage": {
+  "completion_tokens": 602,
+  "prompt_tokens": 5568,
+  "total_tokens": 6170,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 463,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0008578,
+   "upstream_inference_prompt_cost": 0.0005568,
+   "upstream_inference_completions_cost": 0.000301
+  }
+ }
+}

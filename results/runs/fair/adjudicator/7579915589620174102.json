@@ -1,0 +1,78 @@
+{
+ "id": "7579915589620174102",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "none",
+  "reason": "Mainly relationship and self-respect advice to men reacting to a therapy clip, without debunking a claim about men (misc rule).",
+  "evidence_seconds": 123
+ },
+ "reviewers": [
+  {
+   "reviewer": 1,
+   "category": "men",
+   "close_second": "misc",
+   "claim_answered": "Her husband is lazy, worthless, and does nothing",
+   "reason": "Pushes back against a specific man being demeaned and urges him to leave; the video also includes general relationship advice."
+  },
+  {
+   "reviewer": 2,
+   "category": "men",
+   "close_second": "none",
+   "claim_answered": "Her husband does nothing, is lazy, worthless, and deserves the insults",
+   "reason": "Pushes back on a wife's rant degrading her husband as lazy and worthless, and defends men against staying in such situations"
+  },
+  {
+   "reviewer": 3,
+   "category": "misc",
+   "close_second": "men",
+   "claim_answered": "none",
+   "reason": "Mainly relationship and self-improvement advice to leave a toxic partner; he answers no claim about men in general"
+  },
+  {
+   "reviewer": 4,
+   "category": "misc",
+   "close_second": "men",
+   "claim_answered": "none",
+   "reason": "Reacts to a viral therapy clip with relationship advice telling men to leave demeaning partners; no claim about men or women in general is rebutted."
+  },
+  {
+   "reviewer": 5,
+   "category": "misc",
+   "close_second": "men",
+   "claim_answered": "none",
+   "reason": "Relationship advice urging men to have self-respect and leave abusive partners rather than answering a factual claim."
+  }
+ ],
+ "usage": {
+  "completion_tokens": 2025,
+  "prompt_tokens": 3895,
+  "total_tokens": 5920,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 1940,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.02103,
+   "upstream_inference_prompt_cost": 0.0058425,
+   "upstream_inference_completions_cost": 0.0151875
+  }
+ }
+}

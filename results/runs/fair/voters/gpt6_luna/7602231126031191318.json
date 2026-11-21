@@ -1,0 +1,42 @@
+{
+ "id": "7602231126031191318",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "General self-improvement and channel guidance urging viewers to research dating questions and take responsibility; he answers no claim about either sex.",
+  "evidence_seconds": 125
+ },
+ "usage": {
+  "completion_tokens": 143,
+  "prompt_tokens": 3768,
+  "total_tokens": 3911,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 80,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 950,
+   "cached_tokens": 2815,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0002187,
+   "upstream_inference_prompt_cost": 0.0001472,
+   "upstream_inference_completions_cost": 7.15e-05
+  }
+ }
+}

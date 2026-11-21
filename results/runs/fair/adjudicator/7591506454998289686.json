@@ -1,0 +1,78 @@
+{
+ "id": "7591506454998289686",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "Viewer comment claiming he told men to explore while calling women who explore red flags",
+  "reason": "Mainly his own dating advice on gaining experience before commitment, prompted by a viewer comment, so misc applies.",
+  "evidence_seconds": 175
+ },
+ "reviewers": [
+  {
+   "reviewer": 1,
+   "category": "women",
+   "close_second": "none",
+   "claim_answered": "He says men should explore before commitment but women who do are red flags",
+   "reason": "Rejects the claim that women’s dating experience is a red flag and clarifies both sexes need experience."
+  },
+  {
+   "reviewer": 2,
+   "category": "misc",
+   "close_second": "mixed",
+   "claim_answered": "You tell men to explore but call women who explore red flags",
+   "reason": "Mainly his own dating advice clarifying experience for men and women; not primarily rebutting a claim that runs one sex down"
+  },
+  {
+   "reviewer": 3,
+   "category": "women",
+   "close_second": "mixed",
+   "claim_answered": "Girls who want to explore are red flags, unlike guys",
+   "reason": "Pushes back on claim that exploring women are red flags while men exploring is fine"
+  },
+  {
+   "reviewer": 4,
+   "category": "misc",
+   "close_second": "women",
+   "claim_answered": "He said women who want to explore before commitment are red flags",
+   "reason": "Mainly dating advice on experience before commitment; the critic's viewer comment is rebutted, but the core content is relationship guidance"
+  },
+  {
+   "reviewer": 5,
+   "category": "misc",
+   "close_second": "mixed",
+   "claim_answered": "Men should explore before settling down, but women who explore are red flags",
+   "reason": "Provides general dating advice on gaining experience before commitment, using a viewer's comment to clarify his own perspective."
+  }
+ ],
+ "usage": {
+  "completion_tokens": 2720,
+  "prompt_tokens": 4240,
+  "total_tokens": 6960,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 2626,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.02676,
+   "upstream_inference_prompt_cost": 0.00636,
+   "upstream_inference_completions_cost": 0.0204
+  }
+ }
+}

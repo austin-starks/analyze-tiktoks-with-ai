@@ -1,0 +1,42 @@
+{
+ "id": "7694074255675297056",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Every woman knows a rape survivor but no man knows a rapist, showing men turn a blind eye",
+  "reason": "Pushes back on a claim that men cover for rapists; gives alternative explanations for the knowledge gap instead of accepting the blame on men",
+  "evidence_seconds": 3
+ },
+ "usage": {
+  "completion_tokens": 424,
+  "prompt_tokens": 6140,
+  "total_tokens": 6564,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 292,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.000826,
+   "upstream_inference_prompt_cost": 0.000614,
+   "upstream_inference_completions_cost": 0.000212
+  }
+ }
+}

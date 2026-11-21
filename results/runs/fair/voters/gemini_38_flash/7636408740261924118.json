@@ -1,0 +1,42 @@
+{
+ "id": "7636408740261924118",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "debate",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Ilyas used the wrong maternal mortality statistics when comparing pregnancy risk to police officer mortality",
+  "reason": "Direct reply to another creator who posted a response video debunking Ilyas's earlier fact-check",
+  "evidence_seconds": 8
+ },
+ "usage": {
+  "completion_tokens": 632,
+  "prompt_tokens": 4490,
+  "total_tokens": 5122,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 541,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.011475,
+   "upstream_inference_prompt_cost": 0.006735,
+   "upstream_inference_completions_cost": 0.00474
+  }
+ }
+}

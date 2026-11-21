@@ -1,0 +1,42 @@
+{
+ "id": "7556512786587716886",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men today aren't real men because they can't change a tire or oil",
+  "reason": "Defends men against a claim that runs modern men down for lacking traditional manual labor skills",
+  "evidence_seconds": 23
+ },
+ "usage": {
+  "completion_tokens": 260,
+  "prompt_tokens": 3501,
+  "total_tokens": 3761,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 171,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 1585,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.00506175,
+   "upstream_inference_prompt_cost": 0.00311175,
+   "upstream_inference_completions_cost": 0.00195
+  }
+ }
+}

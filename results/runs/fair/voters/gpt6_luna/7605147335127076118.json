@@ -1,0 +1,42 @@
+{
+ "id": "7605147335127076118",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "This experience shows why men choose to stay single.",
+  "reason": "Rejects the implication that one bad relationship shows women are generally bad; the video also gives personal dating advice.",
+  "evidence_seconds": 492
+ },
+ "usage": {
+  "completion_tokens": 505,
+  "prompt_tokens": 6434,
+  "total_tokens": 6939,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 437,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 3616,
+   "cached_tokens": 2815,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.00073295,
+   "upstream_inference_prompt_cost": 0.00048045,
+   "upstream_inference_completions_cost": 0.0002525
+  }
+ }
+}

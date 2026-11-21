@@ -1,0 +1,78 @@
+{
+ "id": "7661962241939442976",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "category": "mixed",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "Homicide is the leading cause of workplace fatalities for women, while transportation incidents lead for men.",
+  "reason": "Rule 2: the claim covers both sexes' workplace fatalities without blaming either sex, though countering inflated female danger borders on men.",
+  "evidence_seconds": 11
+ },
+ "reviewers": [
+  {
+   "reviewer": 1,
+   "category": "mixed",
+   "close_second": "men",
+   "claim_answered": "Homicide is the leading cause of workplace fatalities for women, while transportation incidents lead for men",
+   "reason": "Challenges a sex-comparative claim and explains workplace fatality patterns and risks for both women and men."
+  },
+  {
+   "reviewer": 2,
+   "category": "mixed",
+   "close_second": "women",
+   "claim_answered": "Women's leading cause of workplace fatalities is homicide; men's is transportation",
+   "reason": "Fact-checks a claim comparing women's and men's workplace fatalities; answers both, though focus is on women"
+  },
+  {
+   "reviewer": 3,
+   "category": "mixed",
+   "close_second": "men",
+   "claim_answered": "Leading cause of workplace fatalities for women is homicide, for men transportation",
+   "reason": "Comparative claim about both sexes' workplace deaths; he fact-checks it without the claim blaming either sex"
+  },
+  {
+   "reviewer": 4,
+   "category": "women",
+   "close_second": "mixed",
+   "claim_answered": "The leading cause of workplace fatalities for women is homicide",
+   "reason": "Debunks a viral statistic that overstates women's workplace homicide risk, downplaying a claimed women's disadvantage using national data."
+  },
+  {
+   "reviewer": 5,
+   "category": "men",
+   "close_second": "mixed",
+   "claim_answered": "Homicide is the leading cause of workplace fatalities for women",
+   "reason": "Rebuts a misleading statistic that inflates female workplace danger while downplaying male workplace mortality disadvantages"
+  }
+ ],
+ "usage": {
+  "completion_tokens": 2178,
+  "prompt_tokens": 4125,
+  "total_tokens": 6303,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 2088,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0225225,
+   "upstream_inference_prompt_cost": 0.0061875,
+   "upstream_inference_completions_cost": 0.016335
+  }
+ }
+}

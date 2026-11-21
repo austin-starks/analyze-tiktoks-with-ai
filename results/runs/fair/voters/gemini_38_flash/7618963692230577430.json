@@ -1,0 +1,42 @@
+{
+ "id": "7618963692230577430",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men are not good at anything and do not support or respect women",
+  "reason": "He pushes back against a woman expressing misandry and blaming men, arguing most men respect and support women.",
+  "evidence_seconds": 69
+ },
+ "usage": {
+  "completion_tokens": 291,
+  "prompt_tokens": 3730,
+  "total_tokens": 4021,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 202,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 1590,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.005631,
+   "upstream_inference_prompt_cost": 0.0034485,
+   "upstream_inference_completions_cost": 0.0021825
+  }
+ }
+}

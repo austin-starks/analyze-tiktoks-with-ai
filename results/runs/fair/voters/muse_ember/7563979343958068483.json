@@ -1,0 +1,42 @@
+{
+ "id": "7563979343958068483",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "men",
+  "borderline": true,
+  "category": "misc",
+  "claim_answered": "none",
+  "evidence_seconds": 85,
+  "reason": "Mainly dating advice for men on first dates; pushing back on flower expectation is not defending men against a sexist claim"
+ },
+ "usage": {
+  "completion_tokens": 7042,
+  "prompt_tokens": 3387,
+  "total_tokens": 10429,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 6789,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0038597,
+   "upstream_inference_prompt_cost": 0.0003387,
+   "upstream_inference_completions_cost": 0.003521
+  }
+ }
+}

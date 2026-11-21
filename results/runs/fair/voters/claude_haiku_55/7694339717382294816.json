@@ -1,0 +1,42 @@
+{
+ "id": "7694339717382294816",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "politics",
+  "claim_answered": "You can't be anti-racist unless you're anti-capitalist",
+  "reason": "Critical-thinking exercise on an economic-ideology claim about racism; not about men or women, so not a sex category.",
+  "evidence_seconds": 72
+ },
+ "usage": {
+  "completion_tokens": 112,
+  "prompt_tokens": 6705,
+  "total_tokens": 6817,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 0,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0007265,
+   "upstream_inference_prompt_cost": 0.0006705,
+   "upstream_inference_completions_cost": 5.6e-05
+  }
+ }
+}

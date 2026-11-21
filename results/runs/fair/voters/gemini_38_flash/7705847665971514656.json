@@ -1,0 +1,42 @@
+{
+ "id": "7705847665971514656",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "debate",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Ilyas's fact-check was misleading and treated fatal crashes the same as fender benders",
+  "reason": "Direct reply to creator Brian Xu, who made a video responding to Ilyas's previous fact-check",
+  "evidence_seconds": 40
+ },
+ "usage": {
+  "completion_tokens": 530,
+  "prompt_tokens": 7082,
+  "total_tokens": 7612,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 434,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.014598,
+   "upstream_inference_prompt_cost": 0.010623,
+   "upstream_inference_completions_cost": 0.003975
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": "7575910606142819606",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "misc",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "Women should ignore men forever because men are energy vampires",
+  "evidence_seconds": 22,
+  "reason": "Pushes back on viral rant that men are energy vampires with nothing to offer"
+ },
+ "usage": {
+  "completion_tokens": 3412,
+  "prompt_tokens": 3828,
+  "total_tokens": 7240,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 3243,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0020888,
+   "upstream_inference_prompt_cost": 0.0003828,
+   "upstream_inference_completions_cost": 0.001706
+  }
+ }
+}

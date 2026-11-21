@@ -1,0 +1,42 @@
+{
+ "id": "7699417604787621153",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men are cowards for not intervening; they care more about predatory men's approval than women's safety",
+  "reason": "Rebuts a claim that runs men down as cowards and indifferent to women's safety; his main job is defending men's reasons for caution",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "completion_tokens": 1985,
+  "prompt_tokens": 6160,
+  "total_tokens": 8145,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 1895,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 2688,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.002852292,
+   "upstream_inference_prompt_cost": 0.001065792,
+   "upstream_inference_completions_cost": 0.0017865
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": "7577335530967420182",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Men have no excuse for not showing up; they should sack up and emotionally regulate themselves",
+  "reason": "Pushes back on a woman's claim that blames men for not showing up, arguing men carry similar burdens and that her venting is the problem",
+  "evidence_seconds": 22
+ },
+ "usage": {
+  "completion_tokens": 423,
+  "prompt_tokens": 5600,
+  "total_tokens": 6023,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 298,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0007715,
+   "upstream_inference_prompt_cost": 0.00056,
+   "upstream_inference_completions_cost": 0.0002115
+  }
+ }
+}

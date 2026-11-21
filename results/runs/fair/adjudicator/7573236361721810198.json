@@ -1,0 +1,78 @@
+{
+ "id": "7573236361721810198",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "category": "news",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "none",
+  "reason": "Rule 3: multi-part coverage of a viral celebrity story with no claim answered is news; dating-advice framing makes misc a reasonable alternate.",
+  "evidence_seconds": 0
+ },
+ "reviewers": [
+  {
+   "reviewer": 1,
+   "category": "men",
+   "close_second": "misc",
+   "claim_answered": "Akaash’s wife’s treatment of him is acceptable or justified",
+   "reason": "Frames her comments as disrespectful and argues Akaash deserves boundaries and respect; it also functions partly as dating advice."
+  },
+  {
+   "reviewer": 2,
+   "category": "news",
+   "close_second": "misc",
+   "claim_answered": "Her contribution to the marriage is just existing",
+   "reason": "Covers a viral celebrity story about Akaash Singh and his wife, mainly reporting and commenting; advice is secondary."
+  },
+  {
+   "reviewer": 3,
+   "category": "misc",
+   "close_second": "news",
+   "claim_answered": "none",
+   "reason": "Mainly dating advice for men using celebrity couple as cautionary example; answers no claim about men or women"
+  },
+  {
+   "reviewer": 4,
+   "category": "women",
+   "close_second": "news",
+   "claim_answered": "Akash Singh's wife is disrespectful and shows women's values make men need experience to spot bad partners",
+   "reason": "Runs one specific woman down with stereotypes and generalizes to women's values; no visible rebuttal, so it reads as an attack on women rather than a defense of men"
+  },
+  {
+   "reviewer": 5,
+   "category": "misc",
+   "close_second": "news",
+   "claim_answered": "none",
+   "reason": "Offers relationship advice for men using a viral celebrity situation without answering a specific claim."
+  }
+ ],
+ "usage": {
+  "completion_tokens": 2923,
+  "prompt_tokens": 3801,
+  "total_tokens": 6724,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 2823,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.027624,
+   "upstream_inference_prompt_cost": 0.0057015,
+   "upstream_inference_completions_cost": 0.0219225
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": "7635921182449061142",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "mixed",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "Being pregnant is more dangerous than being a police officer",
+  "reason": "Pushes back on a claim elevating women's risk over policing without running men down; exposure time makes policing deadlier.",
+  "evidence_seconds": 100
+ },
+ "usage": {
+  "completion_tokens": 6010,
+  "prompt_tokens": 4250,
+  "total_tokens": 10260,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 5920,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.05145,
+   "upstream_inference_prompt_cost": 0.006375,
+   "upstream_inference_completions_cost": 0.045075
+  }
+ }
+}

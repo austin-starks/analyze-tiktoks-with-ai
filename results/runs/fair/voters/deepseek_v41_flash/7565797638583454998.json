@@ -1,0 +1,42 @@
+{
+ "id": "7565797638583454998",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "A man doesn't have to buy me things, but I'll choose the one who wants to",
+  "reason": "Pushes back on a claim that men must spend to be chosen, defending men from a gold-digging mentality",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "completion_tokens": 3028,
+  "prompt_tokens": 3538,
+  "total_tokens": 6566,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 2944,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 2830,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.00193149,
+   "upstream_inference_prompt_cost": 0.00011469,
+   "upstream_inference_completions_cost": 0.0018168
+  }
+ }
+}

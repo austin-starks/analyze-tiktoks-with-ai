@@ -1,0 +1,42 @@
+{
+ "id": "7575541815697313046",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "A relationship only works if the man loves the woman more",
+  "reason": "Pushes back on an asymmetric relationship expectation placed on men, arguing for reciprocity and mutual effort.",
+  "evidence_seconds": 7
+ },
+ "usage": {
+  "completion_tokens": 1102,
+  "prompt_tokens": 3334,
+  "total_tokens": 4436,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 1019,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.013266,
+   "upstream_inference_prompt_cost": 0.005001,
+   "upstream_inference_completions_cost": 0.008265
+  }
+ }
+}

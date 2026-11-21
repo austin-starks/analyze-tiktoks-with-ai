@@ -1,0 +1,42 @@
+{
+ "id": "7579546575777713430",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "misc",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "Men sexualize and objectify women, then abandon them after sex",
+  "evidence_seconds": 54,
+  "reason": "Pushes back on her blaming men, arguing men's hesitation is understandable given her promiscuous past"
+ },
+ "usage": {
+  "completion_tokens": 4968,
+  "prompt_tokens": 3562,
+  "total_tokens": 8530,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 4750,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0028402,
+   "upstream_inference_prompt_cost": 0.0003562,
+   "upstream_inference_completions_cost": 0.002484
+  }
+ }
+}

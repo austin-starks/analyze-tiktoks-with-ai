@@ -1,0 +1,42 @@
+{
+ "id": "7563979343958068483",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Men should bring flowers on a first date to meet women's expectations or impress them",
+  "reason": "Pushes back on a dating expectation placed on men, though it is framed mainly as personal dating advice.",
+  "evidence_seconds": 47
+ },
+ "usage": {
+  "completion_tokens": 755,
+  "prompt_tokens": 3343,
+  "total_tokens": 4098,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 682,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 525,
+   "cached_tokens": 2815,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.000471575,
+   "upstream_inference_prompt_cost": 9.4075e-05,
+   "upstream_inference_completions_cost": 0.0003775
+  }
+ }
+}

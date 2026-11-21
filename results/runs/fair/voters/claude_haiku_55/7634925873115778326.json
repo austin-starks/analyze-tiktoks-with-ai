@@ -1,0 +1,42 @@
+{
+ "id": "7634925873115778326",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "politics",
+  "borderline": true,
+  "alternate_category": "news",
+  "claim_answered": "Yes-means-yes requires signed consent paperwork before intercourse, and it was already EU law",
+  "reason": "Explains an EU Parliament consent-law policy vote; policy is politics, though it is also an ongoing news story",
+  "evidence_seconds": 141
+ },
+ "usage": {
+  "completion_tokens": 448,
+  "prompt_tokens": 5806,
+  "total_tokens": 6254,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 327,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0008046,
+   "upstream_inference_prompt_cost": 0.0005806,
+   "upstream_inference_completions_cost": 0.000224
+  }
+ }
+}

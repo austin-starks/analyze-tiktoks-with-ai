@@ -1,0 +1,42 @@
+{
+ "id": "7568478200372808982",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "If he wanted to, he would — women should stop accepting the bare minimum from men",
+  "reason": "Pushes back on a viral standard framing men who do less as not caring; dating content, but main job is rebutting a claim against men",
+  "evidence_seconds": 23
+ },
+ "usage": {
+  "completion_tokens": 1243,
+  "prompt_tokens": 3431,
+  "total_tokens": 4674,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 1154,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 2688,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.000910528,
+   "upstream_inference_prompt_cost": 0.000164728,
+   "upstream_inference_completions_cost": 0.0007458
+  }
+ }
+}

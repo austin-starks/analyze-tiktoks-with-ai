@@ -1,0 +1,42 @@
+{
+ "id": "7604195293206154518",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Meeting a woman on dating apps or at clubs automatically makes her a red flag",
+  "reason": "Pushes back on the claim that women who use dating apps or go to clubs are undateable",
+  "evidence_seconds": 142
+ },
+ "usage": {
+  "completion_tokens": 835,
+  "prompt_tokens": 3979,
+  "total_tokens": 4814,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 744,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.012231,
+   "upstream_inference_prompt_cost": 0.0059685,
+   "upstream_inference_completions_cost": 0.0062625
+  }
+ }
+}

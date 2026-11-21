@@ -1,0 +1,42 @@
+{
+ "id": "7659048227206909216",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "debate",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Berlin rent freeze study is theoretical, too small, and skewed by the pandemic",
+  "reason": "Reply to creator Simple Black Theory who criticized his earlier video and source; this is Ilyas answering those arguments",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "completion_tokens": 122,
+  "prompt_tokens": 6845,
+  "total_tokens": 6967,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 0,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0007455,
+   "upstream_inference_prompt_cost": 0.0006845,
+   "upstream_inference_completions_cost": 6.1e-05
+  }
+ }
+}

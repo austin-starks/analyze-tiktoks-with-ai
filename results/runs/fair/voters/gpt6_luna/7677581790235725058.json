@@ -1,0 +1,42 @@
+{
+ "id": "7677581790235725058",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "news",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Lindsay Clancy’s reported male voice proves she was psychotic and not criminally responsible",
+  "reason": "Explains the competing expert conclusions and evidence in an ongoing trial without taking a side.",
+  "evidence_seconds": 157
+ },
+ "usage": {
+  "completion_tokens": 187,
+  "prompt_tokens": 3950,
+  "total_tokens": 4137,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 115,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 1132,
+   "cached_tokens": 2815,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.00026345,
+   "upstream_inference_prompt_cost": 0.00016995,
+   "upstream_inference_completions_cost": 9.35e-05
+  }
+ }
+}

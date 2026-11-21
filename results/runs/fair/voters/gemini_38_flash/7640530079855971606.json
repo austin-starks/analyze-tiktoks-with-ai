@@ -1,0 +1,42 @@
+{
+ "id": "7640530079855971606",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "More than one in three men have sexually assaulted a woman",
+  "reason": "Debunks an inaccurate statistic misrepresenting women's victimization rate to claim over a third of men commit sexual assault.",
+  "evidence_seconds": 24
+ },
+ "usage": {
+  "completion_tokens": 628,
+  "prompt_tokens": 4307,
+  "total_tokens": 4935,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 540,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0111705,
+   "upstream_inference_prompt_cost": 0.0064605,
+   "upstream_inference_completions_cost": 0.00471
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": "7662316712133397792",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Women are naturally destined to lead because the egg is the largest cell, and male domination is unnatural",
+  "reason": "Rebuts a claim that runs men down as forcing domination through laws and religion; concludes neither sex is destined to lead or submit",
+  "evidence_seconds": 19
+ },
+ "usage": {
+  "completion_tokens": 574,
+  "prompt_tokens": 5749,
+  "total_tokens": 6323,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 446,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0008619,
+   "upstream_inference_prompt_cost": 0.0005749,
+   "upstream_inference_completions_cost": 0.000287
+  }
+ }
+}

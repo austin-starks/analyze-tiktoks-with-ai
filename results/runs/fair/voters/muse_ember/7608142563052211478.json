@@ -1,0 +1,42 @@
+{
+ "id": "7608142563052211478",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "misc",
+  "claim_answered": "none",
+  "evidence_seconds": 231,
+  "reason": "Viewer DM relationship advice; he answers no claim about men or women"
+ },
+ "usage": {
+  "completion_tokens": 2405,
+  "prompt_tokens": 4308,
+  "total_tokens": 6713,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 2287,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0016333,
+   "upstream_inference_prompt_cost": 0.0004308,
+   "upstream_inference_completions_cost": 0.0012025
+  }
+ }
+}

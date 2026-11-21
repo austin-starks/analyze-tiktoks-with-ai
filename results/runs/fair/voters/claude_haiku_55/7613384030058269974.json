@@ -1,0 +1,42 @@
+{
+ "id": "7613384030058269974",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Women are more evolved; men are driven by urges and obsess over women",
+  "reason": "Rebuts a claim that runs men down as urge-driven, arguing women also obsess and men's proactivity has biological and market explanations",
+  "evidence_seconds": 58
+ },
+ "usage": {
+  "completion_tokens": 498,
+  "prompt_tokens": 6015,
+  "total_tokens": 6513,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 379,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0008505,
+   "upstream_inference_prompt_cost": 0.0006015,
+   "upstream_inference_completions_cost": 0.000249
+  }
+ }
+}

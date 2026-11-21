@@ -1,0 +1,42 @@
+{
+ "id": "7569904102776311062",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Modern relationships treat men giving up while women get their way as compromise or teamwork",
+  "reason": "Argues men are disadvantaged by one-sided relationship compromises and urges them to stand their ground; it also resembles dating advice.",
+  "evidence_seconds": 37
+ },
+ "usage": {
+  "completion_tokens": 686,
+  "prompt_tokens": 3268,
+  "total_tokens": 3954,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 610,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 450,
+   "cached_tokens": 2815,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0004277,
+   "upstream_inference_prompt_cost": 8.47e-05,
+   "upstream_inference_completions_cost": 0.000343
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": "7689871272074824993",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Mongol society was a matriarchy where women kept multiple husbands as slaves",
+  "reason": "Historical fact-check debunking a viral claim about ancient Mongolian society rather than an attack on a sex.",
+  "evidence_seconds": 115
+ },
+ "usage": {
+  "completion_tokens": 2570,
+  "prompt_tokens": 3940,
+  "total_tokens": 6510,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 2480,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 1715,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.02286975,
+   "upstream_inference_prompt_cost": 0.00359475,
+   "upstream_inference_completions_cost": 0.019275
+  }
+ }
+}

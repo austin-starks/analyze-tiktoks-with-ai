@@ -1,0 +1,42 @@
+{
+ "id": "7644131994145705238",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "One in five men have sexual feelings toward children and one in five have offended against a child",
+  "reason": "Debunks inflated viral statistic that paints one in five men as child predators; defends men against unfair exaggeration",
+  "evidence_seconds": 85
+ },
+ "usage": {
+  "completion_tokens": 767,
+  "prompt_tokens": 4422,
+  "total_tokens": 5189,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 687,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 2830,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.00070749,
+   "upstream_inference_prompt_cost": 0.00024729,
+   "upstream_inference_completions_cost": 0.0004602
+  }
+ }
+}

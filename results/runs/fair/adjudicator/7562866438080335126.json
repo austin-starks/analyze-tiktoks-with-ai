@@ -1,0 +1,78 @@
+{
+ "id": "7562866438080335126",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "none",
+  "reason": "Rule 3 and misc: reacts to an ungrateful girlfriend clip to give dating advice to men, answering no claim.",
+  "evidence_seconds": 75
+ },
+ "reviewers": [
+  {
+   "reviewer": 1,
+   "category": "men",
+   "close_second": "misc",
+   "claim_answered": "A man’s simple, inexpensive picnic is laughable and not a real picnic.",
+   "reason": "Defends the man from the woman’s mockery, though the video also functions as dating advice."
+  },
+  {
+   "reviewer": 2,
+   "category": "men",
+   "close_second": "misc",
+   "claim_answered": "The man's picnic was cheap and embarrassing, so she mocked him",
+   "reason": "Defends a specific man mocked for a heartfelt picnic; pushes back on attack on him, not a claim about women"
+  },
+  {
+   "reviewer": 3,
+   "category": "misc",
+   "close_second": "men",
+   "claim_answered": "none",
+   "reason": "Mainly dating advice for men about gratitude; defending the boyfriend is not rebutting a claim about men"
+  },
+  {
+   "reviewer": 4,
+   "category": "misc",
+   "close_second": "men",
+   "claim_answered": "none",
+   "reason": "Relationship advice rant about one girlfriend mocking a picnic; it answers no claim about men or women and is not a rebuttal."
+  },
+  {
+   "reviewer": 5,
+   "category": "misc",
+   "close_second": "men",
+   "claim_answered": "none",
+   "reason": "Dating and relationship advice for men reacting to a viral clip of an ungrateful partner."
+  }
+ ],
+ "usage": {
+  "completion_tokens": 2000,
+  "prompt_tokens": 3591,
+  "total_tokens": 5591,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 1919,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0203865,
+   "upstream_inference_prompt_cost": 0.0053865,
+   "upstream_inference_completions_cost": 0.015
+  }
+ }
+}

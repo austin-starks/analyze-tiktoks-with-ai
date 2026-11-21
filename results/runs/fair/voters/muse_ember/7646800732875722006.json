@@ -1,0 +1,42 @@
+{
+ "id": "7646800732875722006",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "men",
+  "claim_answered": "Leading cause of death for women aged 18 to 44 is men killing them",
+  "evidence_seconds": 8,
+  "reason": "Rebuts claim blaming men as leading cause of women's deaths, inflating women's disadvantage by blaming men"
+ },
+ "usage": {
+  "completion_tokens": 2885,
+  "prompt_tokens": 3946,
+  "total_tokens": 6831,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 2715,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0018371,
+   "upstream_inference_prompt_cost": 0.0003946,
+   "upstream_inference_completions_cost": 0.0014425
+  }
+ }
+}

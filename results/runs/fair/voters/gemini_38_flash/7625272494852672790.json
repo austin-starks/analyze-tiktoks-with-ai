@@ -1,0 +1,42 @@
+{
+ "id": "7625272494852672790",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Women earn 82 cents for every dollar a man earns",
+  "reason": "Rebuts the 82-cent headline figure that inflates women's disadvantage by showing controlled wage differences drop to low single digits.",
+  "evidence_seconds": 122
+ },
+ "usage": {
+  "completion_tokens": 2753,
+  "prompt_tokens": 3863,
+  "total_tokens": 6616,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 2657,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 1935,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.02382975,
+   "upstream_inference_prompt_cost": 0.00318225,
+   "upstream_inference_completions_cost": 0.0206475
+  }
+ }
+}

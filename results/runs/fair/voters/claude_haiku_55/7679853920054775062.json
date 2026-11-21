@@ -1,0 +1,42 @@
+{
+ "id": "7679853920054775062",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men are always the problem: even the Juliet statue cannot get peace from men",
+  "reason": "Rebuts a viral post that edits out women touching Juliet's statue to vilify men as disgusting; defends men.",
+  "evidence_seconds": 32
+ },
+ "usage": {
+  "completion_tokens": 535,
+  "prompt_tokens": 5802,
+  "total_tokens": 6337,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 425,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0008477,
+   "upstream_inference_prompt_cost": 0.0005802,
+   "upstream_inference_completions_cost": 0.0002675
+  }
+ }
+}

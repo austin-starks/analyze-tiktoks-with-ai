@@ -1,0 +1,42 @@
+{
+ "id": "7608533378714832150",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "A man bothered by his girlfriend posting revealing photos is insecure or possessive",
+  "reason": "Mainly answers a viewer’s relationship question, though his defense of the boundary could be read as pushing back on a negative label for men.",
+  "evidence_seconds": 148
+ },
+ "usage": {
+  "completion_tokens": 693,
+  "prompt_tokens": 4436,
+  "total_tokens": 5129,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 614,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 1618,
+   "cached_tokens": 2815,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0005772,
+   "upstream_inference_prompt_cost": 0.0002307,
+   "upstream_inference_completions_cost": 0.0003465
+  }
+ }
+}

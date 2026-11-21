@@ -1,0 +1,42 @@
+{
+ "id": "7554825463584001302",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Women cheat because men did not give attention, flowers, or text enough",
+  "reason": "Pushes back on the excuse that men are to blame for women's cheating; defends men from blame while criticizing disloyal women.",
+  "evidence_seconds": 15
+ },
+ "usage": {
+  "completion_tokens": 2400,
+  "prompt_tokens": 3281,
+  "total_tokens": 5681,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 2318,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 2688,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.002362092,
+   "upstream_inference_prompt_cost": 0.000202092,
+   "upstream_inference_completions_cost": 0.00216
+  }
+ }
+}

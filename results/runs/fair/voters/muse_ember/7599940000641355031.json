@@ -1,0 +1,42 @@
+{
+ "id": "7599940000641355031",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "mixed",
+  "claim_answered": "Who cheats emotionally more, men or women?",
+  "evidence_seconds": 135,
+  "reason": "Answers comparative question about both sexes, finding men cheat more physically and women more emotionally overall similar"
+ },
+ "usage": {
+  "completion_tokens": 3402,
+  "prompt_tokens": 3738,
+  "total_tokens": 7140,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 3239,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0020748,
+   "upstream_inference_prompt_cost": 0.0003738,
+   "upstream_inference_completions_cost": 0.001701
+  }
+ }
+}

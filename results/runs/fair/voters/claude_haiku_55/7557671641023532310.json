@@ -1,0 +1,42 @@
+{
+ "id": "7557671641023532310",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Women only want the top 15% of men, so average men are losers women rightly ignore",
+  "reason": "Pushes back on a claim that runs average men down and blames women for ignoring them, though he also scolds both sexes",
+  "evidence_seconds": 50
+ },
+ "usage": {
+  "completion_tokens": 631,
+  "prompt_tokens": 5444,
+  "total_tokens": 6075,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 515,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0008599,
+   "upstream_inference_prompt_cost": 0.0005444,
+   "upstream_inference_completions_cost": 0.0003155
+  }
+ }
+}

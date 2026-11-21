@@ -1,0 +1,42 @@
+{
+ "id": "7649754391565765890",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men at record labels force female pop stars to dress provocatively or be replaced",
+  "reason": "Rebuts claim blaming male label executives for forcing women into sexy outfits; argues market and women's choices drive it",
+  "evidence_seconds": 23
+ },
+ "usage": {
+  "completion_tokens": 2307,
+  "prompt_tokens": 4211,
+  "total_tokens": 6518,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 2228,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 2688,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.001704928,
+   "upstream_inference_prompt_cost": 0.000320728,
+   "upstream_inference_completions_cost": 0.0013842
+  }
+ }
+}

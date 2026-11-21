@@ -1,0 +1,42 @@
+{
+ "id": "7663131126491385121",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Black Pill: looks and genetics determine dating success; some men are born losers",
+  "reason": "Pushes back on fatalistic claim that runs men down as doomed by looks; defends men's potential to improve",
+  "evidence_seconds": 33
+ },
+ "usage": {
+  "completion_tokens": 1189,
+  "prompt_tokens": 4289,
+  "total_tokens": 5478,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 1109,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 2830,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.00094074,
+   "upstream_inference_prompt_cost": 0.00022734,
+   "upstream_inference_completions_cost": 0.0007134
+  }
+ }
+}

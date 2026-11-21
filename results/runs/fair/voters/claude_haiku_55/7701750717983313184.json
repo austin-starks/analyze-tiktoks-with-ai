@@ -1,0 +1,42 @@
+{
+ "id": "7701750717983313184",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "news",
+  "claim_answered": "News.com.au claims a Chinese all-female SWAT team beat American men, showing women outplaying men for a century",
+  "reason": "Rebuts a viral news framing that presents women's technique beating men's brute strength; main job is answering a claim that runs men down",
+  "evidence_seconds": 58
+ },
+ "usage": {
+  "completion_tokens": 856,
+  "prompt_tokens": 8061,
+  "total_tokens": 8917,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 727,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0012341,
+   "upstream_inference_prompt_cost": 0.0008061,
+   "upstream_inference_completions_cost": 0.000428
+  }
+ }
+}

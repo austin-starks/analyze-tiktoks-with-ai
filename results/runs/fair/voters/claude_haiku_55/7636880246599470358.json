@@ -1,0 +1,42 @@
+{
+ "id": "7636880246599470358",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "debate",
+  "borderline": true,
+  "alternate_category": "news",
+  "claim_answered": "Pregnant partners of police officers are more dangerous than officers, dying at nearly twice the rate.",
+  "reason": "Reply to a creator who debated him earlier, rebutting her second-part argument; the claim is about police-family DV statistics, not a sex-based attack.",
+  "evidence_seconds": 73
+ },
+ "usage": {
+  "completion_tokens": 844,
+  "prompt_tokens": 5987,
+  "total_tokens": 6831,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 713,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0010207,
+   "upstream_inference_prompt_cost": 0.0005987,
+   "upstream_inference_completions_cost": 0.000422
+  }
+ }
+}

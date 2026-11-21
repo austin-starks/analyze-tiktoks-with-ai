@@ -1,0 +1,42 @@
+{
+ "id": "7663131126491385121",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men's dating success is determined by immutable traits, so men who lack them should give up.",
+  "reason": "Rejects black-pill fatalism that portrays men as doomed to fail in dating because of their looks and genetics.",
+  "evidence_seconds": 33
+ },
+ "usage": {
+  "completion_tokens": 335,
+  "prompt_tokens": 4153,
+  "total_tokens": 4488,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 258,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 1335,
+   "cached_tokens": 2815,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.000362825,
+   "upstream_inference_prompt_cost": 0.000195325,
+   "upstream_inference_completions_cost": 0.0001675
+  }
+ }
+}

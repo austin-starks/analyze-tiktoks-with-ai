@@ -1,0 +1,42 @@
+{
+ "id": "7689195572342852896",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "news",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Converse intentionally used KKK and lynching imagery in its ad",
+  "reason": "Explains a viral advertising controversy and concludes the imagery was likely a marketing mistake, not deliberate racism.",
+  "evidence_seconds": 106
+ },
+ "usage": {
+  "completion_tokens": 193,
+  "prompt_tokens": 3928,
+  "total_tokens": 4121,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 123,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 1110,
+   "cached_tokens": 2815,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0002637,
+   "upstream_inference_prompt_cost": 0.0001672,
+   "upstream_inference_completions_cost": 9.65e-05
+  }
+ }
+}

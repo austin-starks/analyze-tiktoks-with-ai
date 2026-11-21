@@ -1,0 +1,42 @@
+{
+ "id": "7563178049114574102",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Men are not nice people and there is no such thing as being too mean to a man",
+  "reason": "Pushes back on a claim that runs men down as innately not nice; dating-advice framing but the main job is rebutting the anti-men claim",
+  "evidence_seconds": 6
+ },
+ "usage": {
+  "completion_tokens": 390,
+  "prompt_tokens": 5083,
+  "total_tokens": 5473,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 270,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0007033,
+   "upstream_inference_prompt_cost": 0.0005083,
+   "upstream_inference_completions_cost": 0.000195
+  }
+ }
+}

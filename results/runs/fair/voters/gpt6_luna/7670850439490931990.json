@@ -1,0 +1,42 @@
+{
+ "id": "7670850439490931990",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Black people commit more violent crimes per capita than white people",
+  "reason": "Fact-checks a claim about racial crime statistics and per-capita rates; it is not about sex, politics, or an ongoing news story",
+  "evidence_seconds": 165
+ },
+ "usage": {
+  "completion_tokens": 657,
+  "prompt_tokens": 4094,
+  "total_tokens": 4751,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 580,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 1276,
+   "cached_tokens": 2815,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.00051645,
+   "upstream_inference_prompt_cost": 0.00018795,
+   "upstream_inference_completions_cost": 0.0003285
+  }
+ }
+}

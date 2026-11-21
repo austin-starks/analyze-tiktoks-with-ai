@@ -1,0 +1,42 @@
+{
+ "id": "7629042195890310422",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Betrayed husband should work on his part to save marriage after wife's affair",
+  "reason": "Defends betrayed man against therapist advice that asks him to fix marriage after wife cheated; pushes back on unfair blame",
+  "evidence_seconds": 58
+ },
+ "usage": {
+  "completion_tokens": 2726,
+  "prompt_tokens": 3712,
+  "total_tokens": 6438,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 2644,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 2688,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.001856528,
+   "upstream_inference_prompt_cost": 0.000220928,
+   "upstream_inference_completions_cost": 0.0016356
+  }
+ }
+}

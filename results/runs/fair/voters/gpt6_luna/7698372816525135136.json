@@ -1,0 +1,42 @@
+{
+ "id": "7698372816525135136",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "mixed",
+  "borderline": true,
+  "alternate_category": "politics",
+  "claim_answered": "Aborting a child because of its sex is acceptable as an exercise of a woman's right to choose",
+  "reason": "Rejects sex-selective abortion equally whether the child is a boy or a girl; the abortion-rights framing could also suggest politics.",
+  "evidence_seconds": 179
+ },
+ "usage": {
+  "completion_tokens": 592,
+  "prompt_tokens": 4681,
+  "total_tokens": 5273,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 508,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 1863,
+   "cached_tokens": 2815,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.000557325,
+   "upstream_inference_prompt_cost": 0.000261325,
+   "upstream_inference_completions_cost": 0.000296
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": "7562084349441510678",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "men",
+  "borderline": true,
+  "category": "misc",
+  "claim_answered": "none",
+  "evidence_seconds": 73,
+  "reason": "Mainly dating advice for men to leave women with backup plans; he agrees with premise, not rebutting anti-men claim"
+ },
+ "usage": {
+  "completion_tokens": 6875,
+  "prompt_tokens": 3426,
+  "total_tokens": 10301,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 6606,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0037801,
+   "upstream_inference_prompt_cost": 0.0003426,
+   "upstream_inference_completions_cost": 0.0034375
+  }
+ }
+}

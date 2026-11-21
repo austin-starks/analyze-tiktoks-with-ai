@@ -1,0 +1,42 @@
+{
+ "id": "7704328708034661664",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "debate",
+  "claim_answered": "His response to GoodTrouble’s video was harassment and bullying",
+  "reason": "Mainly challenges TikTok’s disqualification and discusses his account restrictions, though he also answers GoodTrouble’s criticism.",
+  "evidence_seconds": 40
+ },
+ "usage": {
+  "completion_tokens": 585,
+  "prompt_tokens": 4312,
+  "total_tokens": 4897,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 511,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 1494,
+   "cached_tokens": 2815,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0005077,
+   "upstream_inference_prompt_cost": 0.0002152,
+   "upstream_inference_completions_cost": 0.0002925
+  }
+ }
+}

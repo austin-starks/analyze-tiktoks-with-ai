@@ -1,0 +1,42 @@
+{
+ "id": "7531779751954894102",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Gives general first-date advice about topics to avoid; it pushes back on no claim about men or women.",
+  "evidence_seconds": 45
+ },
+ "usage": {
+  "completion_tokens": 129,
+  "prompt_tokens": 3299,
+  "total_tokens": 3428,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 69,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 481,
+   "cached_tokens": 2815,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.000153075,
+   "upstream_inference_prompt_cost": 8.8575e-05,
+   "upstream_inference_completions_cost": 6.45e-05
+  }
+ }
+}

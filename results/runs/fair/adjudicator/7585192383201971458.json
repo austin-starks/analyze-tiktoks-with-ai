@@ -1,0 +1,78 @@
+{
+ "id": "7585192383201971458",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "A loyal partner will not cheat regardless of environment, so setting boundaries means you are insecure.",
+  "reason": "Rule 3: General dating and relationship advice on boundaries and cheating risk for both sexes, without defending either sex.",
+  "evidence_seconds": 119
+ },
+ "reviewers": [
+  {
+   "reviewer": 1,
+   "category": "mixed",
+   "close_second": "men",
+   "claim_answered": "A loyal partner will remain loyal regardless of circumstances, so setting boundaries is controlling.",
+   "reason": "Challenges a claim about fidelity and boundaries that he explicitly applies to both men and women; the girlfriend framing could suggest men."
+  },
+  {
+   "reviewer": 2,
+   "category": "men",
+   "close_second": "mixed",
+   "claim_answered": "If you don't let your girlfriend do whatever she wants, you are insecure and controlling",
+   "reason": "Rebuts the claim that men who set boundaries are insecure; argues boundaries are risk management, though he says it applies to both sexes"
+  },
+  {
+   "reviewer": 3,
+   "category": "mixed",
+   "close_second": "misc",
+   "claim_answered": "Loyal partners stay loyal regardless of environment; boundaries show insecurity",
+   "reason": "Answers a loyalty claim about both sexes, arguing environment matters for men and women alike"
+  },
+  {
+   "reviewer": 4,
+   "category": "misc",
+   "close_second": "mixed",
+   "claim_answered": "If she wants to cheat she will, and if she is loyal she stays loyal regardless of environment.",
+   "reason": "General relationship advice on cheating risk and boundaries; he explicitly says it applies to both men and women, so no sex is defended."
+  },
+  {
+   "reviewer": 5,
+   "category": "misc",
+   "close_second": "men",
+   "claim_answered": "If someone is loyal, they will not cheat regardless of environment, so boundaries are just insecurity",
+   "reason": "Provides general relationship advice on boundaries and cheating risks, answering a relationship belief applying to both sexes."
+  }
+ ],
+ "usage": {
+  "completion_tokens": 9128,
+  "prompt_tokens": 3633,
+  "total_tokens": 12761,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 9031,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0739095,
+   "upstream_inference_prompt_cost": 0.0054495,
+   "upstream_inference_completions_cost": 0.06846
+  }
+ }
+}

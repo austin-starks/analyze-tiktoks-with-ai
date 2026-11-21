@@ -1,0 +1,42 @@
+{
+ "id": "7702872695548955937",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Most men thought Alexia's speech was too long because men perceive women as dominating conversations",
+  "reason": "Pushes back on the claim that men unfairly resent women speaking and want to control conversations.",
+  "evidence_seconds": 55
+ },
+ "usage": {
+  "completion_tokens": 313,
+  "prompt_tokens": 6314,
+  "total_tokens": 6627,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 240,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 3496,
+   "cached_tokens": 2815,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.00062195,
+   "upstream_inference_prompt_cost": 0.00046545,
+   "upstream_inference_completions_cost": 0.0001565
+  }
+ }
+}

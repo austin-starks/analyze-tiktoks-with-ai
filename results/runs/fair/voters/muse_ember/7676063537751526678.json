@@ -1,0 +1,42 @@
+{
+ "id": "7676063537751526678",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "politics",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "Dean Withers committed rape and should be automatically believed",
+  "evidence_seconds": 174,
+  "reason": "Debunks rape accusation against specific man Dean Withers, citing no credible evidence and innocent until proven guilty"
+ },
+ "usage": {
+  "completion_tokens": 6118,
+  "prompt_tokens": 4051,
+  "total_tokens": 10169,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 5863,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 2804,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.003194916,
+   "upstream_inference_prompt_cost": 0.000135916,
+   "upstream_inference_completions_cost": 0.003059
+  }
+ }
+}

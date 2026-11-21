@@ -1,0 +1,78 @@
+{
+ "id": "7695737674514156833",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "Women give birth lying on their backs because King Louis XIV liked watching childbirth",
+  "reason": "Under misc, it fact-checks a medical history myth about childbirth positions rather than answering a claim attacking men or women.",
+  "evidence_seconds": 31
+ },
+ "reviewers": [
+  {
+   "reviewer": 1,
+   "category": "misc",
+   "close_second": "none",
+   "claim_answered": "King Louis XIV’s desire to watch childbirth caused women to give birth lying on their backs",
+   "reason": "Fact-checks a historical myth about childbirth practices, without answering a claim about men or women."
+  },
+  {
+   "reviewer": 2,
+   "category": "men",
+   "close_second": "misc",
+   "claim_answered": "Women give birth on their backs because King Louis XIV enjoyed watching childbirth",
+   "reason": "Debunks a false historical rumor accusing one specific man, Louis XIV, of a kink that changed childbirth; history fact-check could be misc"
+  },
+  {
+   "reviewer": 3,
+   "category": "men",
+   "close_second": "misc",
+   "claim_answered": "Women give birth lying down because King Louis XIV liked watching",
+   "reason": "Debunks claim a man's kink forced women to give birth lying down, blaming a man for women's disadvantage"
+  },
+  {
+   "reviewer": 4,
+   "category": "misc",
+   "close_second": "none",
+   "claim_answered": "Women give birth lying on their backs because King Louis XIV enjoyed watching childbirth",
+   "reason": "Historical fact-check about childbirth positions; answers no claim that runs men or women down or defends either sex"
+  },
+  {
+   "reviewer": 5,
+   "category": "misc",
+   "close_second": "men",
+   "claim_answered": "Women give birth lying down because King Louis XIV had a voyeuristic kink",
+   "reason": "Debunks a historical medical myth about childbirth positions rather than an attack on men or women as a group."
+  }
+ ],
+ "usage": {
+  "completion_tokens": 1402,
+  "prompt_tokens": 4084,
+  "total_tokens": 5486,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 1294,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.016641,
+   "upstream_inference_prompt_cost": 0.006126,
+   "upstream_inference_completions_cost": 0.010515
+  }
+ }
+}

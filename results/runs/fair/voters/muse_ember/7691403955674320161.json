@@ -1,0 +1,42 @@
+{
+ "id": "7691403955674320161",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "men",
+  "borderline": true,
+  "category": "news",
+  "claim_answered": "Seven Cornell fraternity men drugged and gang raped Jane Doe",
+  "evidence_seconds": 51,
+  "reason": "Neutral multi-part breakdown laying out lawsuit, texts and DA summary without taking accused men's side"
+ },
+ "usage": {
+  "completion_tokens": 2664,
+  "prompt_tokens": 4789,
+  "total_tokens": 7453,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 2514,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0018109,
+   "upstream_inference_prompt_cost": 0.0004789,
+   "upstream_inference_completions_cost": 0.001332
+  }
+ }
+}

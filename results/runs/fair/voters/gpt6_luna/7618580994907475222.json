@@ -1,0 +1,42 @@
+{
+ "id": "7618580994907475222",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "mixed",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "Why are women with many partners judged while men with many partners are praised?",
+  "reason": "Explains the double standard by comparing how difficult it is for men and women to get partners; it may also be read as defending men’s reputation.",
+  "evidence_seconds": 163
+ },
+ "usage": {
+  "completion_tokens": 598,
+  "prompt_tokens": 3946,
+  "total_tokens": 4544,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 516,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 1128,
+   "cached_tokens": 2815,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.00046845,
+   "upstream_inference_prompt_cost": 0.00016945,
+   "upstream_inference_completions_cost": 0.000299
+  }
+ }
+}

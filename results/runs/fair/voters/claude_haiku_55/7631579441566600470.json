@@ -1,0 +1,42 @@
+{
+ "id": "7631579441566600470",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "One in ten men is dangerous, so you should be wary of all men, like a box of Whoppers",
+  "reason": "Rebuts the Whopper analogy that treats all men as contaminated; it runs men down, though it is also dating advice",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "completion_tokens": 511,
+  "prompt_tokens": 5171,
+  "total_tokens": 5682,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 389,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0007726,
+   "upstream_inference_prompt_cost": 0.0005171,
+   "upstream_inference_completions_cost": 0.0002555
+  }
+ }
+}

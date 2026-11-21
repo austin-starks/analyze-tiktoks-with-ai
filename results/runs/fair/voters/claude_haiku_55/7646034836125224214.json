@@ -1,0 +1,42 @@
+{
+ "id": "7646034836125224214",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "women",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men over-sexualize dancing while women keep it modest, so men are to blame",
+  "reason": "Rebuts a claim blaming men for sexualized dancing, arguing women sexualize it more in heels and pole classes",
+  "evidence_seconds": 72
+ },
+ "usage": {
+  "completion_tokens": 117,
+  "prompt_tokens": 5166,
+  "total_tokens": 5283,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 0,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0005751,
+   "upstream_inference_prompt_cost": 0.0005166,
+   "upstream_inference_completions_cost": 5.85e-05
+  }
+ }
+}

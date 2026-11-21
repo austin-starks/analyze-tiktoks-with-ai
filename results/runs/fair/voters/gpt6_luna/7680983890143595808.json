@@ -1,0 +1,42 @@
+{
+ "id": "7680983890143595808",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "politics",
+  "borderline": true,
+  "alternate_category": "news",
+  "claim_answered": "none",
+  "reason": "Explains political identity as an influencer-marketing strategy; the discussion of a recently viral creator could also be news coverage.",
+  "evidence_seconds": 155
+ },
+ "usage": {
+  "completion_tokens": 673,
+  "prompt_tokens": 3928,
+  "total_tokens": 4601,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 610,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 1110,
+   "cached_tokens": 2815,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0005037,
+   "upstream_inference_prompt_cost": 0.0001672,
+   "upstream_inference_completions_cost": 0.0003365
+  }
+ }
+}

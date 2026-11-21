@@ -1,0 +1,42 @@
+{
+ "id": "7635243565450267926",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "A girlfriend who says she hates men and disrespects her boyfriend for being a man",
+  "reason": "Rejects a partner's claim that runs men down and sides with the man; otherwise general relationship advice",
+  "evidence_seconds": 79
+ },
+ "usage": {
+  "completion_tokens": 534,
+  "prompt_tokens": 5578,
+  "total_tokens": 6112,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 421,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0008248,
+   "upstream_inference_prompt_cost": 0.0005578,
+   "upstream_inference_completions_cost": 0.000267
+  }
+ }
+}

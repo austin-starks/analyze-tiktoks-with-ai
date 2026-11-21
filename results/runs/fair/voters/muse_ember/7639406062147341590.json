@@ -1,0 +1,42 @@
+{
+ "id": "7639406062147341590",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "debate",
+  "claim_answered": "All men doesn't mean all men, just take precautions",
+  "evidence_seconds": 17,
+  "reason": "Ilyas replies to Nick Powers, who made response videos to Ilyas's earlier video"
+ },
+ "usage": {
+  "completion_tokens": 1713,
+  "prompt_tokens": 4244,
+  "total_tokens": 5957,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 1606,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0012809,
+   "upstream_inference_prompt_cost": 0.0004244,
+   "upstream_inference_completions_cost": 0.0008565
+  }
+ }
+}

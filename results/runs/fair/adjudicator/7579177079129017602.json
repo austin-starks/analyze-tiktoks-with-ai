@@ -1,0 +1,78 @@
+{
+ "id": "7579177079129017602",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "none",
+  "reason": "Rule 3 (misc): reacts to a dating clip with a joke and gives gender-neutral dating advice, answering no claim against either sex.",
+  "evidence_seconds": 106
+ },
+ "reviewers": [
+  {
+   "reviewer": 1,
+   "category": "women",
+   "close_second": "misc",
+   "claim_answered": "Women always want more and reject an apparently suitable partner",
+   "reason": "Counters a stereotype that women are never satisfied by applying the advice to both sexes; could also be general dating advice."
+  },
+  {
+   "reviewer": 2,
+   "category": "misc",
+   "close_second": "mixed",
+   "claim_answered": "Women always want more / overthink good men",
+   "reason": "Mainly dating advice for both sexes; he tells jokes about women and men but answers no claim defending a sex"
+  },
+  {
+   "reviewer": 3,
+   "category": "men",
+   "close_second": "misc",
+   "claim_answered": "Good men who do bare minimum are not enough; women always want more",
+   "reason": "Defends men against dismissal as bare minimum by arguing women always want more"
+  },
+  {
+   "reviewer": 4,
+   "category": "misc",
+   "close_second": "women",
+   "claim_answered": "Women always want more, so a woman who finds no fault in a good man should still hesitate",
+   "reason": "Mostly general dating advice aimed at both sexes; the women-always-want-more joke is the frame, but he never really rebuts it"
+  },
+  {
+   "reviewer": 5,
+   "category": "misc",
+   "close_second": "men",
+   "claim_answered": "none",
+   "reason": "Provides general dating advice reacting to a clip rather than fact-checking an empirical claim or accusation."
+  }
+ ],
+ "usage": {
+  "completion_tokens": 2714,
+  "prompt_tokens": 3507,
+  "total_tokens": 6221,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 2627,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0256155,
+   "upstream_inference_prompt_cost": 0.0052605,
+   "upstream_inference_completions_cost": 0.020355
+  }
+ }
+}

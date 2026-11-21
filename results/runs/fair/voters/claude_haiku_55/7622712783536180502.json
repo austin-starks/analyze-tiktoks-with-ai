@@ -1,0 +1,42 @@
+{
+ "id": "7622712783536180502",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Dating is cooked in 2026, so people should give up and stay single",
+  "reason": "Motivational dating advice that answers no claim about one sex; it blames both men and women equally.",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "completion_tokens": 371,
+  "prompt_tokens": 5419,
+  "total_tokens": 5790,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 265,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0007274,
+   "upstream_inference_prompt_cost": 0.0005419,
+   "upstream_inference_completions_cost": 0.0001855
+  }
+ }
+}

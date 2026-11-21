@@ -1,0 +1,42 @@
+{
+ "id": "7640864678117117206",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Channel update about an account shadowban combined with answering a viewer question on how to debate.",
+  "evidence_seconds": 27
+ },
+ "usage": {
+  "completion_tokens": 581,
+  "prompt_tokens": 4259,
+  "total_tokens": 4840,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 508,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.010746,
+   "upstream_inference_prompt_cost": 0.0063885,
+   "upstream_inference_completions_cost": 0.0043575
+  }
+ }
+}

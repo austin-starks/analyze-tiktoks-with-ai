@@ -1,0 +1,42 @@
+{
+ "id": "7639732222035004694",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "1 in 7 men have attempted or completed rape, and most men have committed other forms of sexual coercion",
+  "reason": "Pushes back on claims portraying men generally as sexual predators; no clear evidence the professor was replying to Ilyas.",
+  "evidence_seconds": 116
+ },
+ "usage": {
+  "completion_tokens": 599,
+  "prompt_tokens": 3846,
+  "total_tokens": 4445,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 516,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 1028,
+   "cached_tokens": 2815,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.00045645,
+   "upstream_inference_prompt_cost": 0.00015695,
+   "upstream_inference_completions_cost": 0.0002995
+  }
+ }
+}

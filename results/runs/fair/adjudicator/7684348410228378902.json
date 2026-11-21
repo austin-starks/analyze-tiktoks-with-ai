@@ -1,0 +1,78 @@
+{
+ "id": "7684348410228378902",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "98% of new jobs went to women, pushing men out of the workforce and proving matriarchy has arrived.",
+  "reason": "Decision rule 2: rebuts a claim inflating men's disadvantage by blaming women's job gains and declaring a matriarchy, which works against women.",
+  "evidence_seconds": 254
+ },
+ "reviewers": [
+  {
+   "reviewer": 1,
+   "category": "men",
+   "close_second": "news",
+   "claim_answered": "98% of job growth went to women, men are being pushed out, and the matriarchy has arrived",
+   "reason": "Rejects a narrative that women’s job gains mean men are being shut out of the labor market; also analyzes a current jobs report."
+  },
+  {
+   "reviewer": 2,
+   "category": "women",
+   "close_second": "mixed",
+   "claim_answered": "98% of job growth went to women, so matriarchy has arrived and men are being pushed out",
+   "reason": "Debunks the claim that women's job gains mean matriarchy; shows women's share barely moved and men are not shut out."
+  },
+  {
+   "reviewer": 3,
+   "category": "men",
+   "close_second": "none",
+   "claim_answered": "Men are being pushed out of workforce as women take 98% of jobs",
+   "reason": "Pushes back on claim men are being pushed out and matriarchy arrived, showing men not shut out"
+  },
+  {
+   "reviewer": 4,
+   "category": "men",
+   "close_second": "politics",
+   "claim_answered": "Women got 98% of August job growth, so men are being pushed out of the workforce and a matriarchy has arrived",
+   "reason": "Rebuts a claim that men are being shut out of work by women, showing the stat is misleading and men's employment is not collapsing"
+  },
+  {
+   "reviewer": 5,
+   "category": "women",
+   "close_second": "mixed",
+   "claim_answered": "98% of job growth went to women, proving matriarchy has arrived and men are pushed out",
+   "reason": "Rebuts a sensational claim inflating men's disadvantage by blaming women's job gains and declaring a matriarchy"
+  }
+ ],
+ "usage": {
+  "completion_tokens": 4171,
+  "prompt_tokens": 5019,
+  "total_tokens": 9190,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 4070,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.038811,
+   "upstream_inference_prompt_cost": 0.0075285,
+   "upstream_inference_completions_cost": 0.0312825
+  }
+ }
+}

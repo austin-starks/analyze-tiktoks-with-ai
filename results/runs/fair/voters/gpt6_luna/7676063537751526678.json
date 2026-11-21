@@ -1,0 +1,42 @@
+{
+ "id": "7676063537751526678",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "news",
+  "claim_answered": "Dean Withers is guilty of the accusation, and people can treat it as established without credible evidence.",
+  "reason": "He says the accusation against a specific man is not established by credible evidence, while examining the surrounding political reactions.",
+  "evidence_seconds": 174
+ },
+ "usage": {
+  "completion_tokens": 682,
+  "prompt_tokens": 3990,
+  "total_tokens": 4672,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 604,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 1172,
+   "cached_tokens": 2815,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.00051595,
+   "upstream_inference_prompt_cost": 0.00017495,
+   "upstream_inference_completions_cost": 0.000341
+  }
+ }
+}

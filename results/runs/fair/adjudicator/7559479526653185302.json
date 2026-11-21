@@ -1,0 +1,78 @@
+{
+ "id": "7559479526653185302",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "none",
+  "reason": "Rule 3 and misc definition: his main job is giving dating and self-improvement advice, using the clip only as a hook.",
+  "evidence_seconds": 81
+ },
+ "reviewers": [
+  {
+   "reviewer": 1,
+   "category": "misc",
+   "close_second": "mixed",
+   "claim_answered": "Looks determine dating success completely, including whether men can overcome being short.",
+   "reason": "Mostly gives dating and self-improvement advice; he also counters the idea that appearance determines outcomes for both sexes."
+  },
+  {
+   "reviewer": 2,
+   "category": "men",
+   "close_second": "misc",
+   "claim_answered": "She doesn't want to be judged by her size but judges men by their height",
+   "reason": "Pushes back on a woman's double standard that unfairly judges men by height, then gives men dating advice"
+  },
+  {
+   "reviewer": 3,
+   "category": "misc",
+   "close_second": "men",
+   "claim_answered": "none",
+   "reason": "Mainly dating and self-improvement advice for men; double-standard hook is not main rebuttal job"
+  },
+  {
+   "reviewer": 4,
+   "category": "mixed",
+   "close_second": "misc",
+   "claim_answered": "A woman says she doesn't want to be judged on size, yet she judges men by height, which he calls a double standard",
+   "reason": "Answers a claim about both sexes judging each other on looks; the rest is dating advice for men"
+  },
+  {
+   "reviewer": 5,
+   "category": "misc",
+   "close_second": "men",
+   "claim_answered": "none",
+   "reason": "Mainly dating and self-improvement advice for men; uses a viral clip about height double standards as a springboard."
+  }
+ ],
+ "usage": {
+  "completion_tokens": 1845,
+  "prompt_tokens": 3479,
+  "total_tokens": 5324,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 1771,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.019056,
+   "upstream_inference_prompt_cost": 0.0052185,
+   "upstream_inference_completions_cost": 0.0138375
+  }
+ }
+}

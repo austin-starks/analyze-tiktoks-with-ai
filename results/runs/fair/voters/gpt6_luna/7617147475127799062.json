@@ -1,0 +1,42 @@
+{
+ "id": "7617147475127799062",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Women go on dates mainly to get free meals",
+  "reason": "Counters a stereotype that women use men for free food, though much of the video also gives general dating advice.",
+  "evidence_seconds": 175
+ },
+ "usage": {
+  "completion_tokens": 275,
+  "prompt_tokens": 3925,
+  "total_tokens": 4200,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 207,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 1107,
+   "cached_tokens": 2815,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.000304325,
+   "upstream_inference_prompt_cost": 0.000166825,
+   "upstream_inference_completions_cost": 0.0001375
+  }
+ }
+}

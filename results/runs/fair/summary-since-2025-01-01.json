@@ -1,0 +1,122 @@
+{
+ "since": "2025-01-01",
+ "videos": 464,
+ "views": 154819193,
+ "million_view_videos": 43,
+ "one_label": {
+  "men": {
+   "videos": 126,
+   "share": 27.2,
+   "views": 74486568,
+   "view_share": 48.1,
+   "million_view_videos": 21,
+   "rank": 2
+  },
+  "women": {
+   "videos": 21,
+   "share": 4.5,
+   "views": 5868384,
+   "view_share": 3.8,
+   "million_view_videos": 1,
+   "rank": 6
+  },
+  "mixed": {
+   "videos": 26,
+   "share": 5.6,
+   "views": 10966314,
+   "view_share": 7.1,
+   "million_view_videos": 2,
+   "rank": 3
+  },
+  "debate": {
+   "videos": 22,
+   "share": 4.7,
+   "views": 28717900,
+   "view_share": 18.5,
+   "million_view_videos": 12,
+   "rank": 5
+  },
+  "news": {
+   "videos": 13,
+   "share": 2.8,
+   "views": 6584428,
+   "view_share": 4.3,
+   "million_view_videos": 2,
+   "rank": 7
+  },
+  "politics": {
+   "videos": 23,
+   "share": 5.0,
+   "views": 8303200,
+   "view_share": 5.4,
+   "million_view_videos": 2,
+   "rank": 4
+  },
+  "misc": {
+   "videos": 233,
+   "share": 50.2,
+   "views": 19892399,
+   "view_share": 12.8,
+   "million_view_videos": 3,
+   "rank": 1
+  }
+ },
+ "multi_label_check": {
+  "men": {
+   "videos": 187,
+   "share": 40.3,
+   "views": 87686789,
+   "view_share": 56.6,
+   "million_view_videos": 24,
+   "rank": 2
+  },
+  "women": {
+   "videos": 35,
+   "share": 7.5,
+   "views": 10501197,
+   "view_share": 6.8,
+   "million_view_videos": 3,
+   "rank": 4
+  },
+  "mixed": {
+   "videos": 54,
+   "share": 11.6,
+   "views": 27047687,
+   "view_share": 17.5,
+   "million_view_videos": 6,
+   "rank": 3
+  },
+  "debate": {
+   "videos": 25,
+   "share": 5.4,
+   "views": 30079700,
+   "view_share": 19.4,
+   "million_view_videos": 12,
+   "rank": 7
+  },
+  "news": {
+   "videos": 29,
+   "share": 6.2,
+   "views": 18180078,
+   "view_share": 11.7,
+   "million_view_videos": 6,
+   "rank": 5
+  },
+  "politics": {
+   "videos": 29,
+   "share": 6.2,
+   "views": 10722500,
+   "view_share": 6.9,
+   "million_view_videos": 2,
+   "rank": 5
+  },
+  "misc": {
+   "videos": 292,
+   "share": 62.9,
+   "views": 29441766,
+   "view_share": 19.0,
+   "million_view_videos": 4,
+   "rank": 1
+  }
+ }
+}

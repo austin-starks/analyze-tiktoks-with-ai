@@ -1,0 +1,42 @@
+{
+ "id": "7653550060566793494",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "politics",
+  "claim_answered": "Racially insensitive questions or jokes without hostile intent are ignorance, not racism",
+  "reason": "Shares a personal perspective on racism; it is not about gender or an ongoing news story, though it could be viewed as political.",
+  "evidence_seconds": 77
+ },
+ "usage": {
+  "completion_tokens": 255,
+  "prompt_tokens": 4030,
+  "total_tokens": 4285,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 176,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 1212,
+   "cached_tokens": 2815,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.00030745,
+   "upstream_inference_prompt_cost": 0.00017995,
+   "upstream_inference_completions_cost": 0.0001275
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": "7694695354238766369",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "news",
+  "claim_answered": "Seven men got essays for gang rape; 975 of 1000 perpetrators walk free, showing system fails women",
+  "reason": "Rebuts a viral claim that men get away with sexual assault and that the system is sexist against women; debunks misleading statistic and case description",
+  "evidence_seconds": 35
+ },
+ "usage": {
+  "completion_tokens": 3371,
+  "prompt_tokens": 4850,
+  "total_tokens": 8221,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 3278,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 2816,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.002336148,
+   "upstream_inference_prompt_cost": 0.000313548,
+   "upstream_inference_completions_cost": 0.0020226
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": "7560257735502155030",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "none",
+  "reason": "Motivational and self-improvement advice for men using an anti-male clip as a metaphor rather than refuting it.",
+  "evidence_seconds": 48
+ },
+ "usage": {
+  "completion_tokens": 2116,
+  "prompt_tokens": 3341,
+  "total_tokens": 5457,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 2038,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0208815,
+   "upstream_inference_prompt_cost": 0.0050115,
+   "upstream_inference_completions_cost": 0.01587
+  }
+ }
+}

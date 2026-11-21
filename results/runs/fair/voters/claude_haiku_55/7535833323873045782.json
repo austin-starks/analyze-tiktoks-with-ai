@@ -1,0 +1,42 @@
+{
+ "id": "7535833323873045782",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "none",
+  "reason": "General first-date advice to the viewer; it answers no claim about men or women as a group.",
+  "evidence_seconds": 13
+ },
+ "usage": {
+  "completion_tokens": 81,
+  "prompt_tokens": 5262,
+  "total_tokens": 5343,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 0,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0005667,
+   "upstream_inference_prompt_cost": 0.0005262,
+   "upstream_inference_completions_cost": 4.05e-05
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": "7569729850152324374",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "misc",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "Beautiful, smart, successful women have hardest dating because men can't handle them",
+  "evidence_seconds": 37,
+  "reason": "Rebuts claim blaming insecure men who can't handle successful women for their dating problems"
+ },
+ "usage": {
+  "completion_tokens": 4957,
+  "prompt_tokens": 3787,
+  "total_tokens": 8744,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 4768,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0028572,
+   "upstream_inference_prompt_cost": 0.0003787,
+   "upstream_inference_completions_cost": 0.0024785
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": "7688819217860185376",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "misc",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "Father walking daughter down aisle transfers ownership of her to groom",
+  "evidence_seconds": 25,
+  "reason": "Rebuts claim inflating women's disadvantage by blaming fathers and grooms as owners"
+ },
+ "usage": {
+  "completion_tokens": 5996,
+  "prompt_tokens": 3955,
+  "total_tokens": 9951,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 5763,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0033935,
+   "upstream_inference_prompt_cost": 0.0003955,
+   "upstream_inference_completions_cost": 0.002998
+  }
+ }
+}

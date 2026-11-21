@@ -1,0 +1,42 @@
+{
+ "id": "7581382931969494294",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Men must get on their knees and bark to enter a woman's life",
+  "reason": "Pushes back on a viral claim demanding that men humiliate and degrade themselves to talk to her",
+  "evidence_seconds": 32
+ },
+ "usage": {
+  "completion_tokens": 820,
+  "prompt_tokens": 3462,
+  "total_tokens": 4282,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 731,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.011343,
+   "upstream_inference_prompt_cost": 0.005193,
+   "upstream_inference_completions_cost": 0.00615
+  }
+ }
+}

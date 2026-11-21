@@ -1,0 +1,42 @@
+{
+ "id": "7568768145624812822",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men laughing together must have done something bad, like hitting a woman",
+  "reason": "Pushes back against casual contempt and extreme negative assumptions directed at men having fun",
+  "evidence_seconds": 40
+ },
+ "usage": {
+  "completion_tokens": 266,
+  "prompt_tokens": 3777,
+  "total_tokens": 4043,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 183,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0076605,
+   "upstream_inference_prompt_cost": 0.0056655,
+   "upstream_inference_completions_cost": 0.001995
+  }
+ }
+}

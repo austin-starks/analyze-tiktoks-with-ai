@@ -1,0 +1,42 @@
+{
+ "id": "7532874203276659990",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "A woman coming over after a date usually means she is ready for sex",
+  "reason": "General dating advice about reading the situation; he is not rebutting a claim that attacks either sex.",
+  "evidence_seconds": 50
+ },
+ "usage": {
+  "completion_tokens": 285,
+  "prompt_tokens": 3260,
+  "total_tokens": 3545,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 214,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 442,
+   "cached_tokens": 2815,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0002262,
+   "upstream_inference_prompt_cost": 8.37e-05,
+   "upstream_inference_completions_cost": 0.0001425
+  }
+ }
+}

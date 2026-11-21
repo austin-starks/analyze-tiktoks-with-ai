@@ -1,0 +1,42 @@
+{
+ "id": "7629042195890310422",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "A therapist says a cheated-on husband should work on his part of the marriage rather than leave",
+  "reason": "Rebuts a therapist's relationship advice to one anonymous husband; no claim running men down, so it is general relationship advice, though it sympathizes with a man",
+  "evidence_seconds": 77
+ },
+ "usage": {
+  "completion_tokens": 482,
+  "prompt_tokens": 5585,
+  "total_tokens": 6067,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 349,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0007995,
+   "upstream_inference_prompt_cost": 0.0005585,
+   "upstream_inference_completions_cost": 0.000241
+  }
+ }
+}

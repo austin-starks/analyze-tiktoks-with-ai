@@ -1,0 +1,42 @@
+{
+ "id": "7687213798708628768",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "mixed",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Couples where the wife keeps her last name divorce about 50% more often and split about 30% earlier.",
+  "reason": "The claim concerns couples without blaming either sex; he tests the statistics and concludes the association is likely selection, not cause.",
+  "evidence_seconds": 19
+ },
+ "usage": {
+  "completion_tokens": 506,
+  "prompt_tokens": 6150,
+  "total_tokens": 6656,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 379,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.000868,
+   "upstream_inference_prompt_cost": 0.000615,
+   "upstream_inference_completions_cost": 0.000253
+  }
+ }
+}

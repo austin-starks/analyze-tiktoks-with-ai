@@ -1,0 +1,42 @@
+{
+ "id": "7625682582327528726",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "mixed",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "Gender pay gap is mainly due to sexism and discrimination against women",
+  "evidence_seconds": 14,
+  "reason": "Rebuts claim that pay gap is caused by sexism, which blames men for women's lower pay"
+ },
+ "usage": {
+  "completion_tokens": 4694,
+  "prompt_tokens": 3733,
+  "total_tokens": 8427,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 4482,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0027203,
+   "upstream_inference_prompt_cost": 0.0003733,
+   "upstream_inference_completions_cost": 0.002347
+  }
+ }
+}

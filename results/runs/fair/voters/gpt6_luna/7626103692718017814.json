@@ -1,0 +1,42 @@
+{
+ "id": "7626103692718017814",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "women",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Women are more dramatic and emotional than men",
+  "reason": "Nuances a stereotype that runs women down, concluding both sexes can overreact and the comparison depends on definitions.",
+  "evidence_seconds": 107
+ },
+ "usage": {
+  "completion_tokens": 402,
+  "prompt_tokens": 3569,
+  "total_tokens": 3971,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 335,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 751,
+   "cached_tokens": 2815,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.000323325,
+   "upstream_inference_prompt_cost": 0.000122325,
+   "upstream_inference_completions_cost": 0.000201
+  }
+ }
+}

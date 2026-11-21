@@ -1,0 +1,42 @@
+{
+ "id": "7657276894873685270",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "mixed",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "Less than 1% of reported rape allegations by women are false",
+  "evidence_seconds": 12,
+  "reason": "Rebuts woman's <1% claim that dismisses men's false-accusation claims and implies accused men lie"
+ },
+ "usage": {
+  "completion_tokens": 6976,
+  "prompt_tokens": 3961,
+  "total_tokens": 10937,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 6697,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 2804,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.003614916,
+   "upstream_inference_prompt_cost": 0.000126916,
+   "upstream_inference_completions_cost": 0.003488
+  }
+ }
+}

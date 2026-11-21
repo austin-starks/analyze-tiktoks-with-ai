@@ -1,0 +1,42 @@
+{
+ "id": "7694339717382294816",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "politics",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "You can't be anti-racist unless you're anti-capitalist",
+  "reason": "Critiques a political/economic claim about capitalism and anti-racism, not a claim about men or women",
+  "evidence_seconds": 0
+ },
+ "usage": {
+  "completion_tokens": 325,
+  "prompt_tokens": 4372,
+  "total_tokens": 4697,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 245,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 2688,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.000821892,
+   "upstream_inference_prompt_cost": 0.000529392,
+   "upstream_inference_completions_cost": 0.0002925
+  }
+ }
+}

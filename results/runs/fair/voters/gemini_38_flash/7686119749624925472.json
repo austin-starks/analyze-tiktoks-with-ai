@@ -1,0 +1,42 @@
+{
+ "id": "7686119749624925472",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "news",
+  "claim_answered": "Sydney Sweeney's revealing sports ad sets women's sports backwards and degrades women",
+  "reason": "Defends Sydney Sweeney against hypocritical attacks from critics and athletes who previously celebrated nude shoots.",
+  "evidence_seconds": 51
+ },
+ "usage": {
+  "completion_tokens": 379,
+  "prompt_tokens": 4228,
+  "total_tokens": 4607,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 291,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0091845,
+   "upstream_inference_prompt_cost": 0.006342,
+   "upstream_inference_completions_cost": 0.0028425
+  }
+ }
+}

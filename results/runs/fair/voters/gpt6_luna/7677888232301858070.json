@@ -1,0 +1,42 @@
+{
+ "id": "7677888232301858070",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "news",
+  "claim_answered": "Patrick killed his children and framed Lindsay, or caused her to kill them",
+  "reason": "Rejects unsupported accusations against a specific man; the video also reports on an ongoing criminal case.",
+  "evidence_seconds": 121
+ },
+ "usage": {
+  "completion_tokens": 222,
+  "prompt_tokens": 4001,
+  "total_tokens": 4223,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 152,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 3998,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.00015128,
+   "upstream_inference_prompt_cost": 4.028e-05,
+   "upstream_inference_completions_cost": 0.000111
+  }
+ }
+}

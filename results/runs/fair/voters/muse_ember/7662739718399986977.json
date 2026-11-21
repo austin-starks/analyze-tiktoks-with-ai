@@ -1,0 +1,42 @@
+{
+ "id": "7662739718399986977",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "misc",
+  "borderline": true,
+  "category": "mixed",
+  "claim_answered": "Women pine for Haaland for his energy, not his looks or status",
+  "evidence_seconds": 54,
+  "reason": "He mostly agrees but critiques logic; claim about attraction involves both sexes without blaming either"
+ },
+ "usage": {
+  "completion_tokens": 8266,
+  "prompt_tokens": 4081,
+  "total_tokens": 12347,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 7990,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 2804,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.004271916,
+   "upstream_inference_prompt_cost": 0.000138916,
+   "upstream_inference_completions_cost": 0.004133
+  }
+ }
+}

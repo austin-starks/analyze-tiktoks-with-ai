@@ -1,0 +1,42 @@
+{
+ "id": "7591506454998289686",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "misc",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "You tell men to explore but call women who explore red flags",
+  "reason": "Mainly his own dating advice clarifying experience for men and women; not primarily rebutting a claim that runs one sex down",
+  "evidence_seconds": 28
+ },
+ "usage": {
+  "completion_tokens": 8173,
+  "prompt_tokens": 4140,
+  "total_tokens": 12313,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 8094,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 2688,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.007815492,
+   "upstream_inference_prompt_cost": 0.000459792,
+   "upstream_inference_completions_cost": 0.0073557
+  }
+ }
+}

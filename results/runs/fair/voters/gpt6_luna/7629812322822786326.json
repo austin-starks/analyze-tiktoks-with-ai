@@ -1,0 +1,42 @@
+{
+ "id": "7629812322822786326",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "women",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Women cannot separate logic from emotion",
+  "reason": "Rejects a stereotype that portrays women as illogical, while also criticizing the speaker’s claims about men.",
+  "evidence_seconds": 170
+ },
+ "usage": {
+  "completion_tokens": 368,
+  "prompt_tokens": 3917,
+  "total_tokens": 4285,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 304,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 1099,
+   "cached_tokens": 2815,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.000349825,
+   "upstream_inference_prompt_cost": 0.000165825,
+   "upstream_inference_completions_cost": 0.000184
+  }
+ }
+}

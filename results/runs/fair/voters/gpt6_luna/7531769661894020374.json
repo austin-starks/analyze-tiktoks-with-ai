@@ -1,0 +1,42 @@
+{
+ "id": "7531769661894020374",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "misc",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "none",
+  "reason": "Gives general first-date conversation advice and answers no claim about men or women.",
+  "evidence_seconds": 50
+ },
+ "usage": {
+  "completion_tokens": 138,
+  "prompt_tokens": 3280,
+  "total_tokens": 3418,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 84,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 462,
+   "cached_tokens": 2815,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0001552,
+   "upstream_inference_prompt_cost": 8.62e-05,
+   "upstream_inference_completions_cost": 6.9e-05
+  }
+ }
+}

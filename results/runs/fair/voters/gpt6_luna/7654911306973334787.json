@@ -1,0 +1,42 @@
+{
+ "id": "7654911306973334787",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "debate",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Men have lower custody rates because they don't fight for custody, and fathers usually win when they do.",
+  "reason": "He replies to a creator's pushback on his earlier video, addressing her arguments about custody.",
+  "evidence_seconds": 7
+ },
+ "usage": {
+  "completion_tokens": 304,
+  "prompt_tokens": 4261,
+  "total_tokens": 4565,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 228,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 1443,
+   "cached_tokens": 2815,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.000360825,
+   "upstream_inference_prompt_cost": 0.000208825,
+   "upstream_inference_completions_cost": 0.000152
+  }
+ }
+}

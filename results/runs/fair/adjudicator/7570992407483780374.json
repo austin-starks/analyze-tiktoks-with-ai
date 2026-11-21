@@ -1,0 +1,78 @@
+{
+ "id": "7570992407483780374",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "category": "mixed",
+  "borderline": true,
+  "alternate_category": "men",
+  "claim_answered": "Women who hate men end up with the best men",
+  "reason": "Under Rule 2, the claim covers both sexes' dating outcomes without running men down, so it is mixed rather than men.",
+  "evidence_seconds": 18
+ },
+ "reviewers": [
+  {
+   "reviewer": 1,
+   "category": "men",
+   "close_second": "none",
+   "claim_answered": "Women who hate men still end up with the best men",
+   "reason": "Rejects the claim by arguing it demeans men as spineless doormats and that self-respecting men avoid such relationships."
+  },
+  {
+   "reviewer": 2,
+   "category": "mixed",
+   "close_second": "men",
+   "claim_answered": "Women who hate men end up with the best men",
+   "reason": "He answers a claim about both sexes: man-hating women and the men they attract; he rejects it and contrasts real men with doormats."
+  },
+  {
+   "reviewer": 3,
+   "category": "mixed",
+   "close_second": "men",
+   "claim_answered": "Women who hate men end up with the best men",
+   "reason": "Claim favors man-hating women without explicitly running men down; he fact-checks both sexes' dating outcome"
+  },
+  {
+   "reviewer": 4,
+   "category": "men",
+   "close_second": "misc",
+   "claim_answered": "Women who hate men end up with the best men and boyfriends",
+   "reason": "Rebuts a flattering claim about women by casting the men involved as doormats; mainly dating commentary otherwise."
+  },
+  {
+   "reviewer": 5,
+   "category": "men",
+   "close_second": "misc",
+   "claim_answered": "Women who hate men end up with the best men",
+   "reason": "Rebuts the claim that the best men tolerate women who despise them, defending high-value men's standards and self-respect."
+  }
+ ],
+ "usage": {
+  "completion_tokens": 3318,
+  "prompt_tokens": 3270,
+  "total_tokens": 6588,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 3212,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.02979,
+   "upstream_inference_prompt_cost": 0.004905,
+   "upstream_inference_completions_cost": 0.024885
+  }
+ }
+}

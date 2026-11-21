@@ -1,0 +1,42 @@
+{
+ "id": "7627864437105495318",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "women",
+  "borderline": true,
+  "category": "mixed",
+  "claim_answered": "Women wanting communication is secure attachment, men rebrand avoidance as independence",
+  "evidence_seconds": 142,
+  "reason": "He rejects both the needy-women stereotype and her women-secure men-broken framing, saying both patterns can be healthy or unhealthy"
+ },
+ "usage": {
+  "completion_tokens": 6959,
+  "prompt_tokens": 3935,
+  "total_tokens": 10894,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 6683,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.003873,
+   "upstream_inference_prompt_cost": 0.0003935,
+   "upstream_inference_completions_cost": 0.0034795
+  }
+ }
+}

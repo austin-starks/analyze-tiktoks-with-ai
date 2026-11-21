@@ -1,0 +1,42 @@
+{
+ "id": "7554342730105670934",
+ "voter": "claude_haiku_55",
+ "model": "anthropic/claude-haiku-5.5",
+ "served_by": "anthropic/claude-haiku-5.5",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "Women call a man who cooks, cleans and communicates extraordinary, which is a manipulation that puts men down",
+  "reason": "Rebuts a claim that treats ordinary male behavior as extraordinary and runs men's standards down, and defends men against it",
+  "evidence_seconds": 46
+ },
+ "usage": {
+  "completion_tokens": 394,
+  "prompt_tokens": 5194,
+  "total_tokens": 5588,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 264,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0007164,
+   "upstream_inference_prompt_cost": 0.0005194,
+   "upstream_inference_completions_cost": 0.000197
+  }
+ }
+}

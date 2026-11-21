@@ -1,0 +1,42 @@
+{
+ "id": "7554342730105670934",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "mixed",
+  "claim_answered": "An extraordinary man is just an average woman",
+  "reason": "Pushes back on a talking point that devalues men by framing basic adulthood as an extraordinary male standard",
+  "evidence_seconds": 46
+ },
+ "usage": {
+  "completion_tokens": 628,
+  "prompt_tokens": 3400,
+  "total_tokens": 4028,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 545,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.00981,
+   "upstream_inference_prompt_cost": 0.0051,
+   "upstream_inference_completions_cost": 0.00471
+  }
+ }
+}

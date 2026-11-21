@@ -1,0 +1,42 @@
+{
+ "id": "7654911306973334787",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "men",
+  "borderline": true,
+  "category": "debate",
+  "claim_answered": "Men get less custody because they don't fight for it and usually win when they do",
+  "evidence_seconds": 7,
+  "reason": "Reply to a creator's stitch responding to his earlier video, fact-checking her custody claims"
+ },
+ "usage": {
+  "completion_tokens": 3035,
+  "prompt_tokens": 4313,
+  "total_tokens": 7348,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 2875,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0019488,
+   "upstream_inference_prompt_cost": 0.0004313,
+   "upstream_inference_completions_cost": 0.0015175
+  }
+ }
+}

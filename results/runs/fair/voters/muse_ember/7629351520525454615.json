@@ -1,0 +1,42 @@
+{
+ "id": "7629351520525454615",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "none",
+  "borderline": false,
+  "category": "men",
+  "claim_answered": "80% of organ donors are women and 80% of recipients are men",
+  "evidence_seconds": 19,
+  "reason": "Fact-checks viral claim implying men are selfish hypocrites who take organs but won't donate"
+ },
+ "usage": {
+  "completion_tokens": 4023,
+  "prompt_tokens": 3572,
+  "total_tokens": 7595,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 3840,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0023687,
+   "upstream_inference_prompt_cost": 0.0003572,
+   "upstream_inference_completions_cost": 0.0020115
+  }
+ }
+}

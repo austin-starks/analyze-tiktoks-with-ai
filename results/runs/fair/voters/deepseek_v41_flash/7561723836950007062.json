@@ -1,0 +1,42 @@
+{
+ "id": "7561723836950007062",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "men",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Wife dismisses husband's exhaustion, tells him his mother will love having him",
+  "reason": "Pushes back on a woman's dismissive reply to her husband, defending the man's need for empathy and rest",
+  "evidence_seconds": 62
+ },
+ "usage": {
+  "completion_tokens": 3226,
+  "prompt_tokens": 3518,
+  "total_tokens": 6744,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 3145,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 2828,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.002047584,
+   "upstream_inference_prompt_cost": 0.000111984,
+   "upstream_inference_completions_cost": 0.0019356
+  }
+ }
+}

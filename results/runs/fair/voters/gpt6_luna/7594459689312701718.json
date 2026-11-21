@@ -1,0 +1,42 @@
+{
+ "id": "7594459689312701718",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "mixed",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "Everyone deserves a one-time cheat; someone who cheated once may not cheat again",
+  "reason": "Counters the one-time-cheat claim and says the same logic applies to men and women; it could also be read as dating advice.",
+  "evidence_seconds": 23
+ },
+ "usage": {
+  "completion_tokens": 877,
+  "prompt_tokens": 3561,
+  "total_tokens": 4438,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 798,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 743,
+   "cached_tokens": 2815,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.000559825,
+   "upstream_inference_prompt_cost": 0.000121325,
+   "upstream_inference_completions_cost": 0.0004385
+  }
+ }
+}

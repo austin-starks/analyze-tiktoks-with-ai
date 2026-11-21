@@ -1,0 +1,42 @@
+{
+ "id": "7658603369824603414",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "debate",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "A real New York rent freeze disproves his simplified argument that rent controls often do more harm than good",
+  "reason": "Replies to SimpleBlackTheory, who responded to his earlier rent-control videos; he clarifies their scope and addresses the disagreement.",
+  "evidence_seconds": 146
+ },
+ "usage": {
+  "completion_tokens": 251,
+  "prompt_tokens": 4676,
+  "total_tokens": 4927,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 168,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 1858,
+   "cached_tokens": 2815,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0003862,
+   "upstream_inference_prompt_cost": 0.0002607,
+   "upstream_inference_completions_cost": 0.0001255
+  }
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "id": "7595166544020163862",
+ "voter": "gpt6_luna",
+ "model": "openai/gpt-6-luna",
+ "served_by": "openai/gpt-6-luna",
+ "label": {
+  "category": "men",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "Men should rescue and heal a woman whose past relationships were toxic",
+  "reason": "Pushes back on the expectation that men must save her, while also making negative generalizations about women.",
+  "evidence_seconds": 80
+ },
+ "usage": {
+  "completion_tokens": 696,
+  "prompt_tokens": 3604,
+  "total_tokens": 4300,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 626,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 786,
+   "cached_tokens": 2815,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0004747,
+   "upstream_inference_prompt_cost": 0.0001267,
+   "upstream_inference_completions_cost": 0.000348
+  }
+ }
+}

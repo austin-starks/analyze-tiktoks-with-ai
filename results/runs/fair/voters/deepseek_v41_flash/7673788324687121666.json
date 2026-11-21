@@ -1,0 +1,42 @@
+{
+ "id": "7673788324687121666",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "debate",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Hypergamy is not real; no evidence women are hypergamous",
+  "reason": "His reply to Public Offender, who responded to his earlier evidence video and shifted definitions",
+  "evidence_seconds": 7
+ },
+ "usage": {
+  "completion_tokens": 600,
+  "prompt_tokens": 6045,
+  "total_tokens": 6645,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 526,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 2688,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.001047528,
+   "upstream_inference_prompt_cost": 0.000687528,
+   "upstream_inference_completions_cost": 0.00036
+  }
+ }
+}

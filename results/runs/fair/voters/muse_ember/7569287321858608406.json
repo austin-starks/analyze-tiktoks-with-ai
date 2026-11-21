@@ -1,0 +1,42 @@
+{
+ "id": "7569287321858608406",
+ "voter": "muse_ember",
+ "model": "meta/muse-ember",
+ "served_by": "meta/muse-ember",
+ "label": {
+  "alternate_category": "misc",
+  "borderline": true,
+  "category": "men",
+  "claim_answered": "Husband cooking, cleaning, paying bills is only bare minimum",
+  "evidence_seconds": 57,
+  "reason": "Defends husband against wife calling his cooking, cleaning and bill-paying bare minimum; pushes back on unfair expectations for men"
+ },
+ "usage": {
+  "completion_tokens": 5960,
+  "prompt_tokens": 3533,
+  "total_tokens": 9493,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 5720,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0033333,
+   "upstream_inference_prompt_cost": 0.0003533,
+   "upstream_inference_completions_cost": 0.00298
+  }
+ }
+}

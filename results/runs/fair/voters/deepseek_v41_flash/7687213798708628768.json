@@ -1,0 +1,42 @@
+{
+ "id": "7687213798708628768",
+ "voter": "deepseek_v41_flash",
+ "model": "deepseek/deepseek-v4.1-flash",
+ "served_by": "deepseek/deepseek-v4.1-flash",
+ "label": {
+  "category": "mixed",
+  "borderline": true,
+  "alternate_category": "women",
+  "claim_answered": "Couples who do not share a last name divorce 50% more often and 30% earlier.",
+  "reason": "Fact-checks a couple-level statistical claim without blaming either sex; the claim is about couples and last-name sharing.",
+  "evidence_seconds": 14
+ },
+ "usage": {
+  "completion_tokens": 3112,
+  "prompt_tokens": 4055,
+  "total_tokens": 7167,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 3028,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 2688,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.003235092,
+   "upstream_inference_prompt_cost": 0.000434292,
+   "upstream_inference_completions_cost": 0.0028008
+  }
+ }
+}

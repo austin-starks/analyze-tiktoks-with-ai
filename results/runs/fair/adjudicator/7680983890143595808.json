@@ -1,0 +1,78 @@
+{
+ "id": "7680983890143595808",
+ "model": "google/gemini-4-hydrogen",
+ "served_by": "google/gemini-4-hydrogen",
+ "label": {
+  "category": "politics",
+  "borderline": true,
+  "alternate_category": "misc",
+  "claim_answered": "none",
+  "reason": "Rule 3: answers no sex-based claim; analyzes political identity, left-right creators, and voter demographics as a monetization strategy, so politics applies.",
+  "evidence_seconds": 137
+ },
+ "reviewers": [
+  {
+   "reviewer": 1,
+   "category": "politics",
+   "close_second": "news",
+   "claim_answered": "none",
+   "reason": "Explains political identity as an influencer-marketing strategy; the discussion of a recently viral creator could also be news coverage."
+  },
+  {
+   "reviewer": 2,
+   "category": "misc",
+   "close_second": "news",
+   "claim_answered": "none",
+   "reason": "Explains an influencer marketing trend (political thirst trapping); answers no claim about men or women"
+  },
+  {
+   "reviewer": 3,
+   "category": "politics",
+   "close_second": "misc",
+   "claim_answered": "Political thirst trapping is an effective new way to monetize politics",
+   "reason": "No claim attacking men or women; main subject is conservative and liberal political creators monetizing politics"
+  },
+  {
+   "reviewer": 4,
+   "category": "news",
+   "close_second": "misc",
+   "claim_answered": "OnlyFans creators like Savanna Cannon combine sexualized content with political commentary as a marketing strategy",
+   "reason": "Mainly explains a viral creator story and trend, not a claim about men or women; trend commentary could also fall under misc."
+  },
+  {
+   "reviewer": 5,
+   "category": "politics",
+   "close_second": "misc",
+   "claim_answered": "none",
+   "reason": "Analyzes the trend of political thirst trapping and monetizing political identity across conservative and liberal audiences without answering a claim."
+  }
+ ],
+ "usage": {
+  "completion_tokens": 2391,
+  "prompt_tokens": 3946,
+  "total_tokens": 6337,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 2301,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.0238515,
+   "upstream_inference_prompt_cost": 0.005919,
+   "upstream_inference_completions_cost": 0.0179325
+  }
+ }
+}

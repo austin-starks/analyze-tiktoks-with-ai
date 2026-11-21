@@ -1,0 +1,42 @@
+{
+ "id": "7688424607333764385",
+ "voter": "gemini_38_flash",
+ "model": "google/gemini-3.8-flash",
+ "served_by": "google/gemini-3.8-flash",
+ "label": {
+  "category": "women",
+  "borderline": false,
+  "alternate_category": "none",
+  "claim_answered": "Women lack empathy and empathy is an exclusively masculine capacity",
+  "reason": "Debunks a claim running women down by showing evidence that women are capable of empathy.",
+  "evidence_seconds": 153
+ },
+ "usage": {
+  "completion_tokens": 586,
+  "prompt_tokens": 4316,
+  "total_tokens": 4902,
+  "completion_tokens_details": {
+   "accepted_prediction_tokens": null,
+   "audio_tokens": 0,
+   "reasoning_tokens": 504,
+   "rejected_prediction_tokens": null,
+   "text_tokens": null,
+   "image_tokens": 0
+  },
+  "prompt_tokens_details": {
+   "audio_tokens": 0,
+   "cache_write_tokens": 0,
+   "cached_tokens": 0,
+   "image_tokens": null,
+   "text_tokens": null,
+   "video_tokens": 0
+  },
+  "cost": 0,
+  "is_byok": true,
+  "cost_details": {
+   "upstream_inference_cost": 0.010869,
+   "upstream_inference_prompt_cost": 0.006474,
+   "upstream_inference_completions_cost": 0.004395
+  }
+ }
+}
